@@ -1,0 +1,26 @@
+{
+  "requiredParts": [
+    "frame",
+    "fork",
+    "tire"
+  ],
+  "optionalParts": [
+    "brake",
+    "chainwheel",
+    "freewhile",
+    "handlebar",
+    "pedal",
+    "rearderailleur",
+    "saddle",
+    "seatpost",
+    "shiftlever",
+    "shock"
+  ],
+  "requiredModes": [
+    "price_score"
+  ],
+  "optionalModes": [
+    "quality_score",
+    "value_score"
+  ]
+}

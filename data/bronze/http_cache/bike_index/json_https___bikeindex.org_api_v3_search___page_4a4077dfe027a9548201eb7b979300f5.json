@@ -1,0 +1,763 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1663534800,
+      "description": "Red, black and white 2012 Pinarello KOBH 60.1 with Campagnolo cranks and drivetrain and brand new 2022 Shimano Ultegra electronic shifting.",
+      "frame_colors": [
+        "Red",
+        "White",
+        "Black"
+      ],
+      "frame_model": "KOBH 60.1",
+      "id": 1402474,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/638482/large_IMG_5070.JPG",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1AX5400710058",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.27
+      ],
+      "stolen_location": "Oakland, CA 94612, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/638482/small_IMG_5070.JPG",
+      "title": "2012 Pinarello KOBH 60.1",
+      "url": "https://bikeindex.org/bikes/1402474",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663509600,
+      "description": "2021 Pinarello Gan 105. Black bar tape with red dots. Stages 105 Powermeter for the left crank. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Gan",
+      "id": 1401823,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/638060/large_359AFD0D-EFCD-45D4-8228-DF716C3DD574.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9CT5400920050",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.89,
+        -76.95
+      ],
+      "stolen_location": "Washington, DC 20019, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/638060/small_359AFD0D-EFCD-45D4-8228-DF716C3DD574.jpeg",
+      "title": "2021 Pinarello Gan",
+      "url": "https://bikeindex.org/bikes/1401823",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663445147,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 1401425,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.01,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302, US",
+      "thumb": null,
+      "title": "Pinarello",
+      "url": "https://bikeindex.org/bikes/1401425",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663376400,
+      "description": "Carbon fiber road bike",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Due 24HM12K",
+      "id": 1398825,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/636128/large_20220914_042626.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "3AG4400250116",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.28,
+        -120.66
+      ],
+      "stolen_location": "San Luis Obispo, CA 93401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/636128/small_20220914_042626.jpg",
+      "title": "2015 Pinarello Due 24HM12K",
+      "url": "https://bikeindex.org/bikes/1398825",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663164000,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Paris",
+      "id": 1398901,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/636219/large_FBA4CC0A-BE13-4AAE-A0F6-E2F96CB17725.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1PI5150520280",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.8,
+        -73.95
+      ],
+      "stolen_location": "New York, NY 10026, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/636219/small_FBA4CC0A-BE13-4AAE-A0F6-E2F96CB17725.jpeg",
+      "title": "2021 Pinarello Paris",
+      "url": "https://bikeindex.org/bikes/1398901",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1662069600,
+      "description": "Test ride bike stolen from Union Cycle in Attleboro on 09/01/22. Fake ID and Fake Credit Card.\r\nThe bike had a uncut steere tube and was not DI2.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "53 cm Prince Disc Shimano Ulterga mechanical",
+      "id": 1391498,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/631428/large_20220902_043056.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2P15300582886",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.93,
+        -71.3
+      ],
+      "stolen_location": "Attleboro, MA 02703, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/631428/small_20220902_043056.jpg",
+      "title": "2022 Pinarello 53 cm Prince Disc Shimano Ulterga mec...",
+      "url": "https://bikeindex.org/bikes/1391498",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1660489200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Grevil Disc",
+      "id": 1277348,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/559957/large_IMG_0208.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9EE5300040219",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.01,
+        -75.26
+      ],
+      "stolen_location": "Narberth, PA 19072, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/559957/small_IMG_0208.jpeg",
+      "title": "2022 Pinarello Grevil Disc",
+      "url": "https://bikeindex.org/bikes/1277348",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1660309200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Dyodo",
+      "id": 1371661,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9EA4650160172",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.76,
+        -111.89
+      ],
+      "stolen_location": "Salt Lake City, UT, US",
+      "thumb": null,
+      "title": "2022 Pinarello Dyodo",
+      "url": "https://bikeindex.org/bikes/1371661",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1657561756,
+      "description": "",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Dogma F12",
+      "id": 1342182,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/604524/large_Screen_Shot_2022-07-10_at_14.33.58.png",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "48-22071D-007",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.57,
+        -73.55
+      ],
+      "stolen_location": "Montreal, H1V 1A1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/604524/small_Screen_Shot_2022-07-10_at_14.33.58.png",
+      "title": "2021 Pinarello Dogma F12",
+      "url": "https://bikeindex.org/bikes/1342182",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Carbon fiber serial could be ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "F10",
+      "id": 1335182,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Denver, CO 80222, United States",
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Pinarello F10",
+      "url": "https://bikeindex.org/bikes/1335182",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776142800,
+      "description": "Gan Rim 105",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Gan Rim 105",
+      "id": 1322760,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8CTS950080017",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.4,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02140, US",
+      "thumb": null,
+      "title": "2021 Pinarello Gan Rim 105",
+      "url": "https://bikeindex.org/bikes/1322760",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1652990400,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Dogma",
+      "id": 1297015,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8DO5500710038",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.34,
+        -122.7
+      ],
+      "stolen_location": "Rohnert Park, CA 94928, US",
+      "thumb": null,
+      "title": "2010 Pinarello Dogma",
+      "url": "https://bikeindex.org/bikes/1297015",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1649260800,
+      "description": "ONE OF THE SEATSTAYS HAS BEEN PROFESSIONALLY REPAIRED AND IS VERY APPARENT",
+      "frame_colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "frame_model": "paris",
+      "id": 1272006,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/558474/large_2A10D2F9-35DC-40C1-A54B-C7C52DDA83E3.png",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.46
+      ],
+      "stolen_location": "San Francisco, CA 94143, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/558474/small_2A10D2F9-35DC-40C1-A54B-C7C52DDA83E3.png",
+      "title": "2007 Pinarello paris",
+      "url": "https://bikeindex.org/bikes/1272006",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1642075200,
+      "description": "Pinarello Gan S, bright red, perfect shape.\r\nEven the tires say Pinarello (unusual)",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Gan S",
+      "id": 1208892,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/509016/large_Pinarellopic.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "6CU5600160918",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.48
+      ],
+      "stolen_location": "San Francisco, CA 94122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/509016/small_Pinarellopic.jpeg",
+      "title": "2017 Pinarello Gan S",
+      "url": "https://bikeindex.org/bikes/1208892",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1640935260,
+      "description": null,
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Prince",
+      "id": 1094958,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/450773/large_IMG_6563.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9DX4250400214",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.76,
+        -116.34
+      ],
+      "stolen_location": "Palm Desert, CA 92211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/450773/small_IMG_6563.jpg",
+      "title": "2020 Pinarello Prince",
+      "url": "https://bikeindex.org/bikes/1094958",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1640934000,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Dogma F12",
+      "id": 1204945,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/506501/large_Dogma.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "6AA5400120031",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.76,
+        -116.34
+      ],
+      "stolen_location": "Palm Desert, CA 92211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/506501/small_Dogma.jpg",
+      "title": "2021 Pinarello Dogma F12",
+      "url": "https://bikeindex.org/bikes/1204945",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1640071719,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Dogma",
+      "id": 1201535,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8D15400000511",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.7,
+        -105.04
+      ],
+      "stolen_location": "Denver, CO 80219, US",
+      "thumb": null,
+      "title": "2018 Pinarello Dogma",
+      "url": "https://bikeindex.org/bikes/1201535",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1639238400,
+      "description": "",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "Pina gan 41852",
+      "id": 999844,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/396124/large_16122481227185224749950780435176.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "6CU515220174",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.81,
+        -118.19
+      ],
+      "stolen_location": "Long Beach, CA 90806, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/396124/small_16122481227185224749950780435176.jpg",
+      "title": "2017 Pinarello Pina gan 41852",
+      "url": "https://bikeindex.org/bikes/999844",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1636045200,
+      "description": "Santa Cruz Tallboy. Black Frame with logo (letters) and line stickers in orange",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Tallboy",
+      "id": 1184735,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/495907/large_ADC4193A-4D7E-415C-B41E-220F8F31DC3F.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN G0012DM00599",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.95,
+        -105.17
+      ],
+      "stolen_location": "Superior, CO 80027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/495907/small_ADC4193A-4D7E-415C-B41E-220F8F31DC3F.jpeg",
+      "title": "Santa Cruz Tallboy",
+      "url": "https://bikeindex.org/bikes/1184735",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1636038000,
+      "description": "Elite Custom Race Matte Black Carbon Frame, with red. 51,5 cm. Pinarello Dogma F8, 2018 with Kogel Ceramic Bottom Bracket Bearing GXP ITA 24 Shimano. CX Bar Tape Black Zipp. ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Dogma F8",
+      "id": 1184658,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/495904/large_4BA892D2-E452-4943-914E-6563E730F451.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.95,
+        -105.17
+      ],
+      "stolen_location": "Superior, CO 80027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/495904/small_4BA892D2-E452-4943-914E-6563E730F451.jpeg",
+      "title": "2018 Pinarello Dogma F8",
+      "url": "https://bikeindex.org/bikes/1184658",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635213600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "dogma xc 29er",
+      "id": 1181017,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.02,
+        -89.43
+      ],
+      "stolen_location": "Madison, WI 53711, US",
+      "thumb": null,
+      "title": "Pinarello dogma xc 29er",
+      "url": "https://bikeindex.org/bikes/1181017",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635169857,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Prince FX disc",
+      "id": 1180257,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9DS5750390147",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.67,
+        -111.89
+      ],
+      "stolen_location": "Murray, UT, US",
+      "thumb": null,
+      "title": "2019 Pinarello Prince FX disc",
+      "url": "https://bikeindex.org/bikes/1180257",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1631700000,
+      "description": "My bike is exposed carbon (black) with white lettering and accents. Recently changed the stock black brake lines to white break lines. Also has new-ish Continental 4 Season tires.",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Razha K",
+      "id": 1158020,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/480369/large_IMG_6052.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "4BZ5500770286",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.79,
+        -117.23
+      ],
+      "stolen_location": "San Diego, CA 92109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/480369/small_IMG_6052.jpg",
+      "title": "2014 Pinarello Razha K",
+      "url": "https://bikeindex.org/bikes/1158020",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1630382400,
+      "description": "1982 Rebuilt Pinarello steel frame into a fixed gear bike. Blue with light blue pedals and white tape on bars",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Steel",
+      "id": 1135353,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/475119/large_IMG_2557.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/475119/small_IMG_2557.jpeg",
+      "title": "1982 Pinarello Steel",
+      "url": "https://bikeindex.org/bikes/1135353",
+      "year": 1982,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1629320400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 1125479,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "4BZ5700570066",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.68,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80210, US",
+      "thumb": null,
+      "title": "2014 Pinarello",
+      "url": "https://bikeindex.org/bikes/1125479",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

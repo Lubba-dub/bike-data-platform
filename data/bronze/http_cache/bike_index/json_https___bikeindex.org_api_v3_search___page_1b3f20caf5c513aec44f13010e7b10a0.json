@@ -1,0 +1,760 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1750271400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Alpenchallenge 01 three",
+      "id": 2830373,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934750/large_BMC.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7L39J0252",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.93,
+        -77.03
+      ],
+      "stolen_location": "Washington, DC 20010, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934750/small_BMC.jpg",
+      "title": "2019 BMC Alpenchallenge 01 three",
+      "url": "https://bikeindex.org/bikes/2830373",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749373200,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "URS FOUR",
+      "id": 2817321,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/926243/large_IMG_0666.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0R19H1369",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.39,
+        -122.14
+      ],
+      "stolen_location": "Los Altos, CA 94022, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/926243/small_IMG_0666.jpg",
+      "title": "2020 BMC URS FOUR",
+      "url": "https://bikeindex.org/bikes/2817321",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749332700,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "URS AL TWO",
+      "id": 2816168,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/925355/large_IMG_7754.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/925355/small_IMG_7754.jpeg",
+      "title": "2025 BMC URS AL TWO",
+      "url": "https://bikeindex.org/bikes/2816168",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749198600,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "CrossMachine CXA01",
+      "id": 2819325,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GR56D0036",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.5,
+        -119.82
+      ],
+      "stolen_location": "Reno, NV 89509, US",
+      "thumb": null,
+      "title": "2017 BMC CrossMachine CXA01",
+      "url": "https://bikeindex.org/bikes/2819325",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747713600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": "BMC 257",
+      "id": 2805459,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/918707/large_458faf07-9b0c-487f-a894-20d986648b69_1800x1800.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A12J0428",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.5,
+        -122.21
+      ],
+      "stolen_location": "Redwood City, CA 94063, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/918707/small_458faf07-9b0c-487f-a894-20d986648b69_1800x1800.png",
+      "title": "BMC BMC 257",
+      "url": "https://bikeindex.org/bikes/2805459",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746468000,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Roadmachine 01 Two",
+      "id": 2805401,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/919059/large_Bike-1.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8R67A3044",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.39,
+        -111.85
+      ],
+      "stolen_location": "Lehi, UT 84043, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/919059/small_Bike-1.png",
+      "title": "2018 BMC Roadmachine 01 Two",
+      "url": "https://bikeindex.org/bikes/2805401",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746208800,
+      "description": "BMC Alpenchallenge with a gates drive, no chain.  It has a Selle SMP Gel saddle and dedicated SPD pedals - no platform",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Alpenchallenge",
+      "id": 2794724,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/911907/large_CNeuendorf_BMC_Alpenchallenge_City_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -123.0
+      ],
+      "stolen_location": "Salem, OR 97301, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/911907/small_CNeuendorf_BMC_Alpenchallenge_City_Bike.jpg",
+      "title": "2014 BMC Alpenchallenge",
+      "url": "https://bikeindex.org/bikes/2794724",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747753200,
+      "description": "",
+      "frame_colors": [
+        "White",
+        "Blue"
+      ],
+      "frame_model": "Pro machine slc01",
+      "id": 2791097,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/918452/large_Screenshot_20250520_110100_buycycle.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0908PM2590624",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/918452/small_Screenshot_20250520_110100_buycycle.jpg",
+      "title": "2011 BMC Pro machine slc01",
+      "url": "https://bikeindex.org/bikes/2791097",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744914915,
+      "description": null,
+      "frame_colors": [
+        "Teal",
+        "Black"
+      ],
+      "frame_model": "Twostroke",
+      "id": 2782293,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1M20L4199",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.96,
+        -82.93
+      ],
+      "stolen_location": "Columbus, OH 43209, US",
+      "thumb": null,
+      "title": "2022 BMC Twostroke",
+      "url": "https://bikeindex.org/bikes/2782293",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742990400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "speedfox 02",
+      "id": 2769850,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/900058/large_20210929_130358.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "5M24K2101",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.14,
+        5.72
+      ],
+      "stolen_location": "Echirolles, 38130, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/900058/small_20210929_130358.jpg",
+      "title": "2015 BMC speedfox 02",
+      "url": "https://bikeindex.org/bikes/2769850",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742550451,
+      "description": null,
+      "frame_colors": [
+        "Red",
+        "White"
+      ],
+      "frame_model": "Roadracer SL01",
+      "id": 2767729,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.2,
+        6.14
+      ],
+      "stolen_location": "Geneva, 1200, CH",
+      "thumb": null,
+      "title": "2013 BMC Roadracer SL01",
+      "url": "https://bikeindex.org/bikes/2767729",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2767427,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Minneapolis, MN 55404, United States",
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "BMC",
+      "url": "https://bikeindex.org/bikes/2767427",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742025600,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Alpenchallenge XL",
+      "id": 2773320,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7L28D0119",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": null,
+      "title": "2019 BMC Alpenchallenge XL",
+      "url": "https://bikeindex.org/bikes/2773320",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741572000,
+      "description": null,
+      "frame_colors": [
+        "Red",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Superstroke 01",
+      "id": 2763926,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896444/large_IMG_1560_copy.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.48,
+        -122.33
+      ],
+      "stolen_location": "Burlingotn, WA 98233, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896444/small_IMG_1560_copy.jpeg",
+      "title": "2011 BMC Superstroke 01",
+      "url": "https://bikeindex.org/bikes/2763926",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741251600,
+      "description": "Brakes: SHIMANO MT200 /BR-U300 hydraulic disc / Rotors: 180 mm F / R\r\n\r\nDrivetrain: SHIMANO Deore 1 x 11 speed / Crank: FSA Vero Pro / 11-42T cassette\r\n\r\nExtras: Fenders / Kickstand\r\n\r\nFork: 257 Premium Aluminum / Fender Mounts / 12 x 100 mm Thru-Axle\r\n\r\nFrame: 257 Premium Aluminum / 12 x 142 mm Thru-Axle\r\n\r\nTires: 700c X 37 mm",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": "Urban Challenge 257 AL Four ST",
+      "id": 2762308,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/895493/large_Screenshot_2025-03-07_at_9.51.53_AM.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UCALS-SS-22-A13C0164",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.57
+      ],
+      "stolen_location": "Edmonton, T5R 0M1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/895493/small_Screenshot_2025-03-07_at_9.51.53_AM.png",
+      "title": "2023 BMC Urban Challenge 257 AL Four ST",
+      "url": "https://bikeindex.org/bikes/2762308",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1740160800,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Roadmachine FIVE",
+      "id": 2758094,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892792/large_bikefence.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "24-R24E0365",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.02
+      ],
+      "stolen_location": "Sunnyvale, CA 94089, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892792/small_bikefence.jpg",
+      "title": "2024 BMC Roadmachine FIVE",
+      "url": "https://bikeindex.org/bikes/2758094",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1780574400,
+      "description": "Twostroke AL ONE NX Eagle Small",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Twostroke AL ONE NX Eagle Small",
+      "id": 2756834,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TS-AL-SS-21-M23E7589",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T5H 2Z8, CA",
+      "thumb": null,
+      "title": "BMC Twostroke AL ONE NX Eagle Small",
+      "url": "https://bikeindex.org/bikes/2756834",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739070000,
+      "description": "Big beautiful road bike, AlpenChallenge, has a front wheel guard but not a back wheel guard",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "BMC",
+      "id": 2755153,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890545/large_IMG_0150.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Shimano",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1504210",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.25,
+        -97.77
+      ],
+      "stolen_location": "Austin, TX 78704, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890545/small_IMG_0150.jpeg",
+      "title": "Shimano BMC",
+      "url": "https://bikeindex.org/bikes/2755153",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749164400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "1s04210",
+      "id": 2755020,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1S04210",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.52,
+        -122.32
+      ],
+      "stolen_location": "Redding, CA 96002, US",
+      "thumb": null,
+      "title": "2025 BMC 1s04210",
+      "url": "https://bikeindex.org/bikes/2755020",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738929600,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "macantoto",
+      "id": 2754613,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890169/large_PAVICON_MACANTOTO_FA.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "778869",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -6.13,
+        106.81
+      ],
+      "stolen_location": "Jakarta Utara, 11110, ID",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890169/small_PAVICON_MACANTOTO_FA.png",
+      "title": "2025 BMC macantoto",
+      "url": "https://bikeindex.org/bikes/2754613",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738846800,
+      "description": "SRAM Force groupset, Fizik saddle with scuff mark on left side",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Teammachine SLR One",
+      "id": 2754815,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890338/large_IMG_8075.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1R21H6054",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.82,
+        145.0
+      ],
+      "stolen_location": "Richmond, 3121, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890338/small_IMG_8075.jpeg",
+      "title": "2022 BMC Teammachine SLR One",
+      "url": "https://bikeindex.org/bikes/2754815",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738706400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Team Machine",
+      "id": 2754211,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889850/large_65124771980__05A8EA62-A699-475D-BEB4-D07D6AF2D326.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EN14781",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.11,
+        -118.36
+      ],
+      "stolen_location": "West Hollywood, CA 90046, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889850/small_65124771980__05A8EA62-A699-475D-BEB4-D07D6AF2D326.jpeg",
+      "title": "2018 BMC Team Machine",
+      "url": "https://bikeindex.org/bikes/2754211",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736824500,
+      "description": "",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "URS 01 Three",
+      "id": 2747556,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U.R.S.-LL 2R42E0647",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.83,
+        -122.26
+      ],
+      "stolen_location": "Oakland, CA 94609, US",
+      "thumb": null,
+      "title": "BMC URS 01 Three",
+      "url": "https://bikeindex.org/bikes/2747556",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735675200,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Alpenchallenge Sport One",
+      "id": 2537937,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/881804/large_Screenshot_2024-12-31_at_12.06.47_PM.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9E28H1427",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/881804/small_Screenshot_2024-12-31_at_12.06.47_PM.png",
+      "title": "2018 BMC Alpenchallenge Sport One",
+      "url": "https://bikeindex.org/bikes/2537937",
+      "year": 2018,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733007600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "ALPENCHALLENGE AL TWO",
+      "id": 2762875,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/895810/large_photo_5077908708889046849_y.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BM30001534",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        19.46,
+        -99.16
+      ],
+      "stolen_location": "Azcapotzalco, 02860, MX",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/895810/small_photo_5077908708889046849_y.jpg",
+      "title": "2022 BMC ALPENCHALLENGE AL TWO",
+      "url": "https://bikeindex.org/bikes/2762875",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

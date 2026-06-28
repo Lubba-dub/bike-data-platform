@@ -1,0 +1,5102 @@
+[
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\001e9706460d1833.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\001e9706460d1833.jpeg",
+      "file_name": "001e9706460d1833.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\00236d61be064b05.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\00236d61be064b05.jpg",
+      "file_name": "00236d61be064b05.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\00a63c983524dcd3.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\00a63c983524dcd3.jpeg",
+      "file_name": "00a63c983524dcd3.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\019a77020d8ea493.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\019a77020d8ea493.jpeg",
+      "file_name": "019a77020d8ea493.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\01e0ef8d2d987d21.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\01e0ef8d2d987d21.jpg",
+      "file_name": "01e0ef8d2d987d21.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\01fca5c3b7bd6cfd.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\01fca5c3b7bd6cfd.jpg",
+      "file_name": "01fca5c3b7bd6cfd.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\02050aab9e955c52.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\02050aab9e955c52.jpg",
+      "file_name": "02050aab9e955c52.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\02f612baf3b07af0.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\02f612baf3b07af0.png",
+      "file_name": "02f612baf3b07af0.png",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\039d568aa7c7dc6e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\039d568aa7c7dc6e.jpg",
+      "file_name": "039d568aa7c7dc6e.jpg",
+      "source": "images",
+      "width": 988,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0578533893bb01e6.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0578533893bb01e6.jpeg",
+      "file_name": "0578533893bb01e6.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 800,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\067f7e61f00b2289.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\067f7e61f00b2289.jpg",
+      "file_name": "067f7e61f00b2289.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0684e206843a1491.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0684e206843a1491.jpg",
+      "file_name": "0684e206843a1491.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\09c7b5f13114037f.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\09c7b5f13114037f.jpeg",
+      "file_name": "09c7b5f13114037f.jpeg",
+      "source": "images",
+      "width": 1098,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0aa57a53665c6413.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0aa57a53665c6413.jpeg",
+      "file_name": "0aa57a53665c6413.jpeg",
+      "source": "images",
+      "width": 764,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0bfad3b35d0afd0b.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0bfad3b35d0afd0b.jpg",
+      "file_name": "0bfad3b35d0afd0b.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 800,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0d92eb134be6ed05.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0d92eb134be6ed05.jpg",
+      "file_name": "0d92eb134be6ed05.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0d9345337f94144b.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0d9345337f94144b.jpg",
+      "file_name": "0d9345337f94144b.jpg",
+      "source": "images",
+      "width": 1152,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0eb348585ba69411.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0eb348585ba69411.jpeg",
+      "file_name": "0eb348585ba69411.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 898,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0f28fb8a8c58d926.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\0f28fb8a8c58d926.jpeg",
+      "file_name": "0f28fb8a8c58d926.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 879,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\10cb8959e01bcebe.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\10cb8959e01bcebe.jpg",
+      "file_name": "10cb8959e01bcebe.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\128774d11c6f9d58.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\128774d11c6f9d58.jpg",
+      "file_name": "128774d11c6f9d58.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\12ab4dacf7cd4433.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\12ab4dacf7cd4433.jpeg",
+      "file_name": "12ab4dacf7cd4433.jpeg",
+      "source": "images",
+      "width": 1166,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\140ad90d182a72b6.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\140ad90d182a72b6.jpg",
+      "file_name": "140ad90d182a72b6.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1411a50437137d8d.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1411a50437137d8d.jpg",
+      "file_name": "1411a50437137d8d.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\14e949ef3a2b2d5e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\14e949ef3a2b2d5e.jpg",
+      "file_name": "14e949ef3a2b2d5e.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\14feb5b9be911188.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\14feb5b9be911188.jpeg",
+      "file_name": "14feb5b9be911188.jpeg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1675f86b82b3ae3f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1675f86b82b3ae3f.jpg",
+      "file_name": "1675f86b82b3ae3f.jpg",
+      "source": "images",
+      "width": 420,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\179a1012081859f0.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\179a1012081859f0.jpg",
+      "file_name": "179a1012081859f0.jpg",
+      "source": "images",
+      "width": 425,
+      "height": 283,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\18302977e4d94aea.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\18302977e4d94aea.jpg",
+      "file_name": "18302977e4d94aea.jpg",
+      "source": "images",
+      "width": 1172,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1872eb6816ed15c8.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1872eb6816ed15c8.jpg",
+      "file_name": "1872eb6816ed15c8.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\191e17df37047d8e.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\191e17df37047d8e.png",
+      "file_name": "191e17df37047d8e.png",
+      "source": "images",
+      "width": 1200,
+      "height": 755,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1aa2a1d26718ac9a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1aa2a1d26718ac9a.jpg",
+      "file_name": "1aa2a1d26718ac9a.jpg",
+      "source": "images",
+      "width": 902,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1bfff533e7d0cd24.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1bfff533e7d0cd24.png",
+      "file_name": "1bfff533e7d0cd24.png",
+      "source": "images",
+      "width": 1200,
+      "height": 774,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1f2bfe30a9df3e9a.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1f2bfe30a9df3e9a.png",
+      "file_name": "1f2bfe30a9df3e9a.png",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1f7c76b56605f699.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1f7c76b56605f699.jpeg",
+      "file_name": "1f7c76b56605f699.jpeg",
+      "source": "images",
+      "width": 898,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1fc1efab8a6de1d5.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\1fc1efab8a6de1d5.jpg",
+      "file_name": "1fc1efab8a6de1d5.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\200a03ff0405540b.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\200a03ff0405540b.png",
+      "file_name": "200a03ff0405540b.png",
+      "source": "images",
+      "width": 1194,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\218a7848f3565eab.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\218a7848f3565eab.jpg",
+      "file_name": "218a7848f3565eab.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\21b19cfbafc2e0f2.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\21b19cfbafc2e0f2.png",
+      "file_name": "21b19cfbafc2e0f2.png",
+      "source": "images",
+      "width": 1200,
+      "height": 829,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\21e0bd65e2290299.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\21e0bd65e2290299.jpg",
+      "file_name": "21e0bd65e2290299.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 674,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\22b74595a8b032de.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\22b74595a8b032de.png",
+      "file_name": "22b74595a8b032de.png",
+      "source": "images",
+      "width": 1200,
+      "height": 677,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\22eab0c1bab1d5be.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\22eab0c1bab1d5be.jpg",
+      "file_name": "22eab0c1bab1d5be.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\244f199ec97330ce.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\244f199ec97330ce.jpeg",
+      "file_name": "244f199ec97330ce.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\254ab977c17c66f9.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\254ab977c17c66f9.png",
+      "file_name": "254ab977c17c66f9.png",
+      "source": "images",
+      "width": 976,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\25c1dd456f8a3c27.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\25c1dd456f8a3c27.jpg",
+      "file_name": "25c1dd456f8a3c27.jpg",
+      "source": "images",
+      "width": 425,
+      "height": 266,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\25fd75e814458069.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\25fd75e814458069.jpg",
+      "file_name": "25fd75e814458069.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2631e53ade948dcb.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2631e53ade948dcb.png",
+      "file_name": "2631e53ade948dcb.png",
+      "source": "images",
+      "width": 981,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\27f9cd5910b8f2a9.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\27f9cd5910b8f2a9.jpg",
+      "file_name": "27f9cd5910b8f2a9.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 868,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\286a3574968da17c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\286a3574968da17c.jpg",
+      "file_name": "286a3574968da17c.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2a345f2d3ca39946.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2a345f2d3ca39946.jpeg",
+      "file_name": "2a345f2d3ca39946.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2ae54bf057a21e20.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2ae54bf057a21e20.jpg",
+      "file_name": "2ae54bf057a21e20.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 795,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2b5ec1c556746156.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2b5ec1c556746156.jpg",
+      "file_name": "2b5ec1c556746156.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2cef0ad6fde1ff34.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2cef0ad6fde1ff34.jpeg",
+      "file_name": "2cef0ad6fde1ff34.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2d7ebfe8fd534634.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2d7ebfe8fd534634.png",
+      "file_name": "2d7ebfe8fd534634.png",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2f91162ace9173e4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\2f91162ace9173e4.jpg",
+      "file_name": "2f91162ace9173e4.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3152769b55e90dd9.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3152769b55e90dd9.jpg",
+      "file_name": "3152769b55e90dd9.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3185ea7d874b0daa.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3185ea7d874b0daa.jpg",
+      "file_name": "3185ea7d874b0daa.jpg",
+      "source": "images",
+      "width": 1199,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3377e12db85abdce.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3377e12db85abdce.jpeg",
+      "file_name": "3377e12db85abdce.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\347cf87cd317efcd.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\347cf87cd317efcd.jpg",
+      "file_name": "347cf87cd317efcd.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 754,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\348b0ece7683e5a2.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\348b0ece7683e5a2.jpg",
+      "file_name": "348b0ece7683e5a2.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 554,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\34c537c360af1543.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\34c537c360af1543.jpg",
+      "file_name": "34c537c360af1543.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\34f79277d208f5a1.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\34f79277d208f5a1.jpg",
+      "file_name": "34f79277d208f5a1.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\354555b4ca74917e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\354555b4ca74917e.jpg",
+      "file_name": "354555b4ca74917e.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 855,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\36443dada642ffb5.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\36443dada642ffb5.jpg",
+      "file_name": "36443dada642ffb5.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\384ceeb153cb4c26.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\384ceeb153cb4c26.jpg",
+      "file_name": "384ceeb153cb4c26.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\394cf00d7650c69d.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\394cf00d7650c69d.jpg",
+      "file_name": "394cf00d7650c69d.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\39883ad643843965.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\39883ad643843965.jpg",
+      "file_name": "39883ad643843965.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3a9d84b9842f33d6.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3a9d84b9842f33d6.jpg",
+      "file_name": "3a9d84b9842f33d6.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 667,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3b80d15ca7cfc5e4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\3b80d15ca7cfc5e4.jpg",
+      "file_name": "3b80d15ca7cfc5e4.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4005a3495787eae4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4005a3495787eae4.jpg",
+      "file_name": "4005a3495787eae4.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\40cd3cef5e3a31d5.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\40cd3cef5e3a31d5.jpg",
+      "file_name": "40cd3cef5e3a31d5.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\40d612233a7f2358.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\40d612233a7f2358.jpg",
+      "file_name": "40d612233a7f2358.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 811,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\42317cc158c8e474.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\42317cc158c8e474.jpg",
+      "file_name": "42317cc158c8e474.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\43f360289de68e64.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\43f360289de68e64.jpeg",
+      "file_name": "43f360289de68e64.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\45bc6a082e80dd9f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\45bc6a082e80dd9f.jpg",
+      "file_name": "45bc6a082e80dd9f.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\465154b404c27aaf.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\465154b404c27aaf.jpeg",
+      "file_name": "465154b404c27aaf.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\46b1db59bbb51b2b.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\46b1db59bbb51b2b.jpeg",
+      "file_name": "46b1db59bbb51b2b.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 641,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4766d7cc526dcd7c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4766d7cc526dcd7c.jpg",
+      "file_name": "4766d7cc526dcd7c.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 628,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\477b9ff2f70ef518.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\477b9ff2f70ef518.jpeg",
+      "file_name": "477b9ff2f70ef518.jpeg",
+      "source": "images",
+      "width": 1199,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\485e4d5274644c56.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\485e4d5274644c56.jpg",
+      "file_name": "485e4d5274644c56.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\49724e5b0d119c40.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\49724e5b0d119c40.jpg",
+      "file_name": "49724e5b0d119c40.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4a18f560d15b6790.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4a18f560d15b6790.jpg",
+      "file_name": "4a18f560d15b6790.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 800,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4ae793ca45f6fcc1.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4ae793ca45f6fcc1.jpeg",
+      "file_name": "4ae793ca45f6fcc1.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 682,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4da34d1c3623900f.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4da34d1c3623900f.png",
+      "file_name": "4da34d1c3623900f.png",
+      "source": "images",
+      "width": 1200,
+      "height": 758,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4de961ab16c85f0b.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4de961ab16c85f0b.jpeg",
+      "file_name": "4de961ab16c85f0b.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4ea4bd3db669ce2f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4ea4bd3db669ce2f.jpg",
+      "file_name": "4ea4bd3db669ce2f.jpg",
+      "source": "images",
+      "width": 963,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4f4dbacebb57a286.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\4f4dbacebb57a286.jpg",
+      "file_name": "4f4dbacebb57a286.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5033096893be8e8b.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5033096893be8e8b.jpeg",
+      "file_name": "5033096893be8e8b.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\521b1f9544497492.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\521b1f9544497492.jpeg",
+      "file_name": "521b1f9544497492.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\527bcd6667d9e2a4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\527bcd6667d9e2a4.jpg",
+      "file_name": "527bcd6667d9e2a4.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\538350efd48467ff.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\538350efd48467ff.jpeg",
+      "file_name": "538350efd48467ff.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\541a422b0a495bf7.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\541a422b0a495bf7.jpg",
+      "file_name": "541a422b0a495bf7.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\565cde04efb190d2.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\565cde04efb190d2.jpg",
+      "file_name": "565cde04efb190d2.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\583c6824018d854e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\583c6824018d854e.jpg",
+      "file_name": "583c6824018d854e.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5a928c4f4c5ebd05.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5a928c4f4c5ebd05.jpeg",
+      "file_name": "5a928c4f4c5ebd05.jpeg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5b218c858f4a6003.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5b218c858f4a6003.jpg",
+      "file_name": "5b218c858f4a6003.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5b4f67e8233bcad4.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5b4f67e8233bcad4.jpeg",
+      "file_name": "5b4f67e8233bcad4.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 882,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c1d91e4e6b6239b.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c1d91e4e6b6239b.jpeg",
+      "file_name": "5c1d91e4e6b6239b.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c28f846c4b975da.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c28f846c4b975da.jpg",
+      "file_name": "5c28f846c4b975da.jpg",
+      "source": "images",
+      "width": 1022,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c3c172d55a52989.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c3c172d55a52989.jpeg",
+      "file_name": "5c3c172d55a52989.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c9b7cfe646200d1.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5c9b7cfe646200d1.jpg",
+      "file_name": "5c9b7cfe646200d1.jpg",
+      "source": "images",
+      "width": 426,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5d19900e9ba72175.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5d19900e9ba72175.jpg",
+      "file_name": "5d19900e9ba72175.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 691,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5d8d92c451c97d88.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5d8d92c451c97d88.jpg",
+      "file_name": "5d8d92c451c97d88.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5d9e67a8e52eab00.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5d9e67a8e52eab00.jpg",
+      "file_name": "5d9e67a8e52eab00.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5eba636ec02c032f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\5eba636ec02c032f.jpg",
+      "file_name": "5eba636ec02c032f.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\605b32f8965a7a72.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\605b32f8965a7a72.png",
+      "file_name": "605b32f8965a7a72.png",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\62edc01cfb76f674.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\62edc01cfb76f674.png",
+      "file_name": "62edc01cfb76f674.png",
+      "source": "images",
+      "width": 1200,
+      "height": 869,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\64204a4b13b2906a.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\64204a4b13b2906a.jpeg",
+      "file_name": "64204a4b13b2906a.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 868,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6465bbc2ff271889.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6465bbc2ff271889.jpeg",
+      "file_name": "6465bbc2ff271889.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\64fb7fcc37ddbb69.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\64fb7fcc37ddbb69.jpg",
+      "file_name": "64fb7fcc37ddbb69.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\659799cb7ab0a6f2.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\659799cb7ab0a6f2.jpg",
+      "file_name": "659799cb7ab0a6f2.jpg",
+      "source": "images",
+      "width": 507,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\663eb6d0ee8adf3f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\663eb6d0ee8adf3f.jpg",
+      "file_name": "663eb6d0ee8adf3f.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\680bd65dd75e4bed.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\680bd65dd75e4bed.jpeg",
+      "file_name": "680bd65dd75e4bed.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 554,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\69f08d42938e5163.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\69f08d42938e5163.jpg",
+      "file_name": "69f08d42938e5163.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6b22d6ce059238c7.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6b22d6ce059238c7.jpg",
+      "file_name": "6b22d6ce059238c7.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6bdcc689c2e64d79.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6bdcc689c2e64d79.png",
+      "file_name": "6bdcc689c2e64d79.png",
+      "source": "images",
+      "width": 1200,
+      "height": 683,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6c2610a6b212c624.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6c2610a6b212c624.jpg",
+      "file_name": "6c2610a6b212c624.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 837,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6c29c0e955177f7c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6c29c0e955177f7c.jpg",
+      "file_name": "6c29c0e955177f7c.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 701,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6c785172aa3d009f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6c785172aa3d009f.jpg",
+      "file_name": "6c785172aa3d009f.jpg",
+      "source": "images",
+      "width": 1129,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6ccf57596fac9dc2.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6ccf57596fac9dc2.jpg",
+      "file_name": "6ccf57596fac9dc2.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6f0607d6237d83a7.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6f0607d6237d83a7.jpg",
+      "file_name": "6f0607d6237d83a7.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 803,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6ffb4162b83a7e7a.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\6ffb4162b83a7e7a.png",
+      "file_name": "6ffb4162b83a7e7a.png",
+      "source": "images",
+      "width": 1200,
+      "height": 554,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7086740f66e67c8b.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7086740f66e67c8b.png",
+      "file_name": "7086740f66e67c8b.png",
+      "source": "images",
+      "width": 416,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\72028afee2be0b52.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\72028afee2be0b52.jpg",
+      "file_name": "72028afee2be0b52.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 845,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7336f25f4aacc203.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7336f25f4aacc203.jpg",
+      "file_name": "7336f25f4aacc203.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\734ca0dc5ce62cad.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\734ca0dc5ce62cad.jpg",
+      "file_name": "734ca0dc5ce62cad.jpg",
+      "source": "images",
+      "width": 944,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\73675aa50f66a9bb.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\73675aa50f66a9bb.jpeg",
+      "file_name": "73675aa50f66a9bb.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\73dc3e74075ac18f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\73dc3e74075ac18f.jpg",
+      "file_name": "73dc3e74075ac18f.jpg",
+      "source": "images",
+      "width": 672,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\74e33c8ca9efb6f1.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\74e33c8ca9efb6f1.jpg",
+      "file_name": "74e33c8ca9efb6f1.jpg",
+      "source": "images",
+      "width": 782,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\75986cf8b775b7d5.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\75986cf8b775b7d5.jpg",
+      "file_name": "75986cf8b775b7d5.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\75d7a15b9adf14d3.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\75d7a15b9adf14d3.jpeg",
+      "file_name": "75d7a15b9adf14d3.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 729,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\77ae3fad55238a27.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\77ae3fad55238a27.jpg",
+      "file_name": "77ae3fad55238a27.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\77c2f71627207aec.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\77c2f71627207aec.jpg",
+      "file_name": "77c2f71627207aec.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\780352dff4d06eb3.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\780352dff4d06eb3.jpg",
+      "file_name": "780352dff4d06eb3.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\79767c8b5fe65c08.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\79767c8b5fe65c08.jpeg",
+      "file_name": "79767c8b5fe65c08.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 699,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7977107e5dc2426f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7977107e5dc2426f.jpg",
+      "file_name": "7977107e5dc2426f.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\79817aef9a5c42f6.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\79817aef9a5c42f6.jpg",
+      "file_name": "79817aef9a5c42f6.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7992b624c9b53f87.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7992b624c9b53f87.jpeg",
+      "file_name": "7992b624c9b53f87.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7a8423acd1209a62.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7a8423acd1209a62.jpeg",
+      "file_name": "7a8423acd1209a62.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7c0f264859d73f66.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7c0f264859d73f66.jpeg",
+      "file_name": "7c0f264859d73f66.jpeg",
+      "source": "images",
+      "width": 964,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7d0bdf0250e73a8a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7d0bdf0250e73a8a.jpg",
+      "file_name": "7d0bdf0250e73a8a.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7df9c6247fb9ad4a.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7df9c6247fb9ad4a.jpeg",
+      "file_name": "7df9c6247fb9ad4a.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7f3dccec9d608595.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\7f3dccec9d608595.jpg",
+      "file_name": "7f3dccec9d608595.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\811e4fc9009be3ef.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\811e4fc9009be3ef.jpeg",
+      "file_name": "811e4fc9009be3ef.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\82fedf67adc031f4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\82fedf67adc031f4.jpg",
+      "file_name": "82fedf67adc031f4.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\85d728ba35dcf4c4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\85d728ba35dcf4c4.jpg",
+      "file_name": "85d728ba35dcf4c4.jpg",
+      "source": "images",
+      "width": 1190,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\884e2e5205ec1139.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\884e2e5205ec1139.jpg",
+      "file_name": "884e2e5205ec1139.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 666,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8b5e5aae7ca98734.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8b5e5aae7ca98734.png",
+      "file_name": "8b5e5aae7ca98734.png",
+      "source": "images",
+      "width": 1117,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8b8384693f82d282.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8b8384693f82d282.png",
+      "file_name": "8b8384693f82d282.png",
+      "source": "images",
+      "width": 535,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8b9c530f9ce7dfdd.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8b9c530f9ce7dfdd.jpg",
+      "file_name": "8b9c530f9ce7dfdd.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8c2381642959e2b3.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8c2381642959e2b3.jpg",
+      "file_name": "8c2381642959e2b3.jpg",
+      "source": "images",
+      "width": 1199,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8ce3578b4956d80c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8ce3578b4956d80c.jpg",
+      "file_name": "8ce3578b4956d80c.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8cfe09413b2fd74e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8cfe09413b2fd74e.jpg",
+      "file_name": "8cfe09413b2fd74e.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 695,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8dca78735b6022e6.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8dca78735b6022e6.jpg",
+      "file_name": "8dca78735b6022e6.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 800,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8ef7be9455897686.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\8ef7be9455897686.jpg",
+      "file_name": "8ef7be9455897686.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 736,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9172aeff0c5b5358.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9172aeff0c5b5358.png",
+      "file_name": "9172aeff0c5b5358.png",
+      "source": "images",
+      "width": 1200,
+      "height": 716,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\91ac3fd9b27f2ed2.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\91ac3fd9b27f2ed2.jpg",
+      "file_name": "91ac3fd9b27f2ed2.jpg",
+      "source": "images",
+      "width": 674,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\91bb965ba1b60bd0.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\91bb965ba1b60bd0.jpg",
+      "file_name": "91bb965ba1b60bd0.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\92f7ae9d215f5dcf.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\92f7ae9d215f5dcf.jpg",
+      "file_name": "92f7ae9d215f5dcf.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\94169212d5dbec27.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\94169212d5dbec27.jpg",
+      "file_name": "94169212d5dbec27.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\941c585afa8dd24f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\941c585afa8dd24f.jpg",
+      "file_name": "941c585afa8dd24f.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\95b359549f9f5d27.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\95b359549f9f5d27.jpg",
+      "file_name": "95b359549f9f5d27.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\95d39e09a4d32c35.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\95d39e09a4d32c35.jpg",
+      "file_name": "95d39e09a4d32c35.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 583,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\96d9d6964ba6442d.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\96d9d6964ba6442d.jpeg",
+      "file_name": "96d9d6964ba6442d.jpeg",
+      "source": "images",
+      "width": 494,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\97e2c4897991d6a1.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\97e2c4897991d6a1.jpeg",
+      "file_name": "97e2c4897991d6a1.jpeg",
+      "source": "images",
+      "width": 1199,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\982fbd4d697cd660.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\982fbd4d697cd660.jpeg",
+      "file_name": "982fbd4d697cd660.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 827,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9867d3481fde260f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9867d3481fde260f.jpg",
+      "file_name": "9867d3481fde260f.jpg",
+      "source": "images",
+      "width": 1029,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\99f490d4112fe346.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\99f490d4112fe346.jpeg",
+      "file_name": "99f490d4112fe346.jpeg",
+      "source": "images",
+      "width": 552,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9a462a1c90e71fb4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9a462a1c90e71fb4.jpg",
+      "file_name": "9a462a1c90e71fb4.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9cfc164c37b326ec.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\9cfc164c37b326ec.jpg",
+      "file_name": "9cfc164c37b326ec.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a109322c5637a80a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a109322c5637a80a.jpg",
+      "file_name": "a109322c5637a80a.jpg",
+      "source": "images",
+      "width": 405,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a12c23c27fbed372.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a12c23c27fbed372.jpg",
+      "file_name": "a12c23c27fbed372.jpg",
+      "source": "images",
+      "width": 662,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a36c4c4bdf896149.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a36c4c4bdf896149.jpg",
+      "file_name": "a36c4c4bdf896149.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 670,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a44e26aebe66e918.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a44e26aebe66e918.jpg",
+      "file_name": "a44e26aebe66e918.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 753,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a652d042b2f1862a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a652d042b2f1862a.jpg",
+      "file_name": "a652d042b2f1862a.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a67b09a6c0c650c5.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a67b09a6c0c650c5.jpeg",
+      "file_name": "a67b09a6c0c650c5.jpeg",
+      "source": "images",
+      "width": 678,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a71ff3faa8e6f975.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a71ff3faa8e6f975.jpeg",
+      "file_name": "a71ff3faa8e6f975.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a746b2825e21f7ce.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a746b2825e21f7ce.jpg",
+      "file_name": "a746b2825e21f7ce.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a7910f6dd3a6e922.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a7910f6dd3a6e922.jpg",
+      "file_name": "a7910f6dd3a6e922.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a79f910224ae050d.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a79f910224ae050d.jpeg",
+      "file_name": "a79f910224ae050d.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a85b0b32354c117e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\a85b0b32354c117e.jpg",
+      "file_name": "a85b0b32354c117e.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ab9fceb0f5c56293.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ab9fceb0f5c56293.jpeg",
+      "file_name": "ab9fceb0f5c56293.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 863,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\af6ea9c42a6cc19a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\af6ea9c42a6cc19a.jpg",
+      "file_name": "af6ea9c42a6cc19a.jpg",
+      "source": "images",
+      "width": 416,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\afc2ea37cce0693b.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\afc2ea37cce0693b.jpeg",
+      "file_name": "afc2ea37cce0693b.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\afc505ec276515be.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\afc505ec276515be.jpg",
+      "file_name": "afc505ec276515be.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\affe4695a43a616b.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\affe4695a43a616b.jpg",
+      "file_name": "affe4695a43a616b.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 686,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b08c2b3d35e634bd.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b08c2b3d35e634bd.jpg",
+      "file_name": "b08c2b3d35e634bd.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b15d80001e35c398.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b15d80001e35c398.jpg",
+      "file_name": "b15d80001e35c398.jpg",
+      "source": "images",
+      "width": 671,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b24309c484a86a27.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b24309c484a86a27.png",
+      "file_name": "b24309c484a86a27.png",
+      "source": "images",
+      "width": 890,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b301b5534e75ecdc.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b301b5534e75ecdc.jpeg",
+      "file_name": "b301b5534e75ecdc.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b4a6fdedc4ab6f09.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b4a6fdedc4ab6f09.jpg",
+      "file_name": "b4a6fdedc4ab6f09.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 795,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b4e44df62050a423.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b4e44df62050a423.jpg",
+      "file_name": "b4e44df62050a423.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b5cf4cfbb67db944.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b5cf4cfbb67db944.jpg",
+      "file_name": "b5cf4cfbb67db944.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b62a08c9b1efbc03.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b62a08c9b1efbc03.jpeg",
+      "file_name": "b62a08c9b1efbc03.jpeg",
+      "source": "images",
+      "width": 1188,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b74f454bc166e934.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b74f454bc166e934.jpg",
+      "file_name": "b74f454bc166e934.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b784a04b8455776a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b784a04b8455776a.jpg",
+      "file_name": "b784a04b8455776a.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b856c470f1c7c49c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b856c470f1c7c49c.jpg",
+      "file_name": "b856c470f1c7c49c.jpg",
+      "source": "images",
+      "width": 749,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b9f10fdc31101bb1.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\b9f10fdc31101bb1.jpeg",
+      "file_name": "b9f10fdc31101bb1.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ba3e8c14260679b4.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ba3e8c14260679b4.jpeg",
+      "file_name": "ba3e8c14260679b4.jpeg",
+      "source": "images",
+      "width": 416,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ba3f5051b3a2821a.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ba3f5051b3a2821a.png",
+      "file_name": "ba3f5051b3a2821a.png",
+      "source": "images",
+      "width": 1200,
+      "height": 796,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ba9f94bc0ba3ba38.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ba9f94bc0ba3ba38.jpeg",
+      "file_name": "ba9f94bc0ba3ba38.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bb8562935d5086f3.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bb8562935d5086f3.png",
+      "file_name": "bb8562935d5086f3.png",
+      "source": "images",
+      "width": 1200,
+      "height": 804,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bc0dd6a8613cd962.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bc0dd6a8613cd962.jpg",
+      "file_name": "bc0dd6a8613cd962.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bc6b9ff32c93bc7e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bc6b9ff32c93bc7e.jpg",
+      "file_name": "bc6b9ff32c93bc7e.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bdfe0620a69d0e82.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bdfe0620a69d0e82.jpg",
+      "file_name": "bdfe0620a69d0e82.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\be36e67bd5e14415.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\be36e67bd5e14415.jpg",
+      "file_name": "be36e67bd5e14415.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\be90b5c2f7957750.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\be90b5c2f7957750.jpg",
+      "file_name": "be90b5c2f7957750.jpg",
+      "source": "images",
+      "width": 861,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bebae0b4ff688ccf.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bebae0b4ff688ccf.jpg",
+      "file_name": "bebae0b4ff688ccf.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 766,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bf5dbb8adea2a040.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\bf5dbb8adea2a040.jpg",
+      "file_name": "bf5dbb8adea2a040.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c1a11abb1dd5470a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c1a11abb1dd5470a.jpg",
+      "file_name": "c1a11abb1dd5470a.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c1a8b4b07dc94c26.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c1a8b4b07dc94c26.png",
+      "file_name": "c1a8b4b07dc94c26.png",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c1cced1f4a0d20aa.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c1cced1f4a0d20aa.jpeg",
+      "file_name": "c1cced1f4a0d20aa.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c238ba1b75ad01d1.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c238ba1b75ad01d1.jpg",
+      "file_name": "c238ba1b75ad01d1.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c2d3504c0a0e394a.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c2d3504c0a0e394a.png",
+      "file_name": "c2d3504c0a0e394a.png",
+      "source": "images",
+      "width": 673,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c309370e0290cd98.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c309370e0290cd98.jpg",
+      "file_name": "c309370e0290cd98.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 769,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c3e35e57e2683736.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c3e35e57e2683736.jpeg",
+      "file_name": "c3e35e57e2683736.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c45c9ea3ac6a9779.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c45c9ea3ac6a9779.jpg",
+      "file_name": "c45c9ea3ac6a9779.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 754,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c4d958feb5a20a5a.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c4d958feb5a20a5a.jpeg",
+      "file_name": "c4d958feb5a20a5a.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c511b27f18f1dba4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c511b27f18f1dba4.jpg",
+      "file_name": "c511b27f18f1dba4.jpg",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c55e5727604f66dc.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c55e5727604f66dc.jpeg",
+      "file_name": "c55e5727604f66dc.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 848,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c738d9dcb484a703.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c738d9dcb484a703.jpg",
+      "file_name": "c738d9dcb484a703.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 806,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c757550bc8187155.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c757550bc8187155.jpeg",
+      "file_name": "c757550bc8187155.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c7f302b8b65b1d95.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c7f302b8b65b1d95.jpg",
+      "file_name": "c7f302b8b65b1d95.jpg",
+      "source": "images",
+      "width": 398,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c8f0de33a467b765.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c8f0de33a467b765.jpg",
+      "file_name": "c8f0de33a467b765.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 845,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c92df1b06fc4ae12.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\c92df1b06fc4ae12.jpg",
+      "file_name": "c92df1b06fc4ae12.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ca0acb006239b1e0.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ca0acb006239b1e0.jpg",
+      "file_name": "ca0acb006239b1e0.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 898,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ca6270ae0a8544b8.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ca6270ae0a8544b8.png",
+      "file_name": "ca6270ae0a8544b8.png",
+      "source": "images",
+      "width": 1200,
+      "height": 874,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\caa2287fbd7152a4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\caa2287fbd7152a4.jpg",
+      "file_name": "caa2287fbd7152a4.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 725,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cadb27a6aa85efb1.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cadb27a6aa85efb1.png",
+      "file_name": "cadb27a6aa85efb1.png",
+      "source": "images",
+      "width": 416,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cb6a37bb6bfeec6b.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cb6a37bb6bfeec6b.jpeg",
+      "file_name": "cb6a37bb6bfeec6b.jpeg",
+      "source": "images",
+      "width": 1186,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cd23aa6f4453b84b.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cd23aa6f4453b84b.png",
+      "file_name": "cd23aa6f4453b84b.png",
+      "source": "images",
+      "width": 1187,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ce3b56b0061611fd.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ce3b56b0061611fd.jpg",
+      "file_name": "ce3b56b0061611fd.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 729,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cef845197eeee015.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cef845197eeee015.jpeg",
+      "file_name": "cef845197eeee015.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cf21741de9ec5966.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\cf21741de9ec5966.jpg",
+      "file_name": "cf21741de9ec5966.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 709,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d07e5819e8d41003.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d07e5819e8d41003.jpg",
+      "file_name": "d07e5819e8d41003.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 889,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d0a88d68d64aa13c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d0a88d68d64aa13c.jpg",
+      "file_name": "d0a88d68d64aa13c.jpg",
+      "source": "images",
+      "width": 802,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d13a59791bef6fec.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d13a59791bef6fec.jpg",
+      "file_name": "d13a59791bef6fec.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 790,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d3f5b7bdf86b728a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d3f5b7bdf86b728a.jpg",
+      "file_name": "d3f5b7bdf86b728a.jpg",
+      "source": "images",
+      "width": 1013,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d45a47f731f60420.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d45a47f731f60420.jpeg",
+      "file_name": "d45a47f731f60420.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d4a2da4368a840f1.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d4a2da4368a840f1.jpeg",
+      "file_name": "d4a2da4368a840f1.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d4a69be39d765af1.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d4a69be39d765af1.jpeg",
+      "file_name": "d4a69be39d765af1.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d6df466ba2684a4d.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d6df466ba2684a4d.jpg",
+      "file_name": "d6df466ba2684a4d.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d74bcbf8d34088b9.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d74bcbf8d34088b9.jpeg",
+      "file_name": "d74bcbf8d34088b9.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 867,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d7e8d746d115c567.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d7e8d746d115c567.jpg",
+      "file_name": "d7e8d746d115c567.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d9460f6c45bca376.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d9460f6c45bca376.jpg",
+      "file_name": "d9460f6c45bca376.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d96aed054b335b44.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\d96aed054b335b44.jpg",
+      "file_name": "d96aed054b335b44.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\da275270353debe3.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\da275270353debe3.jpeg",
+      "file_name": "da275270353debe3.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dacae8000b1ec743.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dacae8000b1ec743.jpg",
+      "file_name": "dacae8000b1ec743.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 568,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dbd9a015493815d1.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dbd9a015493815d1.png",
+      "file_name": "dbd9a015493815d1.png",
+      "source": "images",
+      "width": 1200,
+      "height": 652,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dd2dfd74ea5baeb6.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dd2dfd74ea5baeb6.jpg",
+      "file_name": "dd2dfd74ea5baeb6.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dd606cfa9c3d6f94.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dd606cfa9c3d6f94.jpeg",
+      "file_name": "dd606cfa9c3d6f94.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 693,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dd97bb0fa74a6b15.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dd97bb0fa74a6b15.jpg",
+      "file_name": "dd97bb0fa74a6b15.jpg",
+      "source": "images",
+      "width": 900,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ddc3fa0349a2ce6d.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ddc3fa0349a2ce6d.jpg",
+      "file_name": "ddc3fa0349a2ce6d.jpg",
+      "source": "images",
+      "width": 576,
+      "height": 374,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dde01e4df5a9075e.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dde01e4df5a9075e.jpeg",
+      "file_name": "dde01e4df5a9075e.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dedd9b319d949691.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dedd9b319d949691.jpeg",
+      "file_name": "dedd9b319d949691.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\df69e62ea412f27f.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\df69e62ea412f27f.jpg",
+      "file_name": "df69e62ea412f27f.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dfcc47eedf83326a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\dfcc47eedf83326a.jpg",
+      "file_name": "dfcc47eedf83326a.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e05bf555ee6742e7.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e05bf555ee6742e7.jpeg",
+      "file_name": "e05bf555ee6742e7.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 855,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e0677bcc72188769.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e0677bcc72188769.jpg",
+      "file_name": "e0677bcc72188769.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e0b36b7aebaaca53.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e0b36b7aebaaca53.png",
+      "file_name": "e0b36b7aebaaca53.png",
+      "source": "images",
+      "width": 1200,
+      "height": 715,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e24fc1ae9edb5e3c.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e24fc1ae9edb5e3c.jpg",
+      "file_name": "e24fc1ae9edb5e3c.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e3dc8db312c118fc.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e3dc8db312c118fc.jpg",
+      "file_name": "e3dc8db312c118fc.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e49f6649a776d233.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e49f6649a776d233.jpg",
+      "file_name": "e49f6649a776d233.jpg",
+      "source": "images",
+      "width": 1036,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e4cd2961487df4da.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e4cd2961487df4da.jpeg",
+      "file_name": "e4cd2961487df4da.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e6200b4d51ceed33.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e6200b4d51ceed33.jpg",
+      "file_name": "e6200b4d51ceed33.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 675,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e6d2884385d90ef9.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e6d2884385d90ef9.jpeg",
+      "file_name": "e6d2884385d90ef9.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 700,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e758ee5e7853505f.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e758ee5e7853505f.jpeg",
+      "file_name": "e758ee5e7853505f.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e779de0c042cddb1.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e779de0c042cddb1.jpg",
+      "file_name": "e779de0c042cddb1.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e790ed8806cf0859.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\e790ed8806cf0859.jpg",
+      "file_name": "e790ed8806cf0859.jpg",
+      "source": "images",
+      "width": 1184,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\eb53823c5aaccc05.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\eb53823c5aaccc05.png",
+      "file_name": "eb53823c5aaccc05.png",
+      "source": "images",
+      "width": 1200,
+      "height": 708,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ed449c53d6496973.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ed449c53d6496973.jpg",
+      "file_name": "ed449c53d6496973.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ed7babcd9f10d6b2.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ed7babcd9f10d6b2.jpg",
+      "file_name": "ed7babcd9f10d6b2.jpg",
+      "source": "images",
+      "width": 897,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ee4c623ef21479ce.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ee4c623ef21479ce.jpeg",
+      "file_name": "ee4c623ef21479ce.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ee74f65d897a9e7a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ee74f65d897a9e7a.jpg",
+      "file_name": "ee74f65d897a9e7a.jpg",
+      "source": "images",
+      "width": 1068,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ee882d16de170df7.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ee882d16de170df7.jpg",
+      "file_name": "ee882d16de170df7.jpg",
+      "source": "images",
+      "width": 406,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ef7ce2c0afce0355.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ef7ce2c0afce0355.jpg",
+      "file_name": "ef7ce2c0afce0355.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ef9e090fca2f01f7.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ef9e090fca2f01f7.jpg",
+      "file_name": "ef9e090fca2f01f7.jpg",
+      "source": "images",
+      "width": 887,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\efd1f20d9922867c.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\efd1f20d9922867c.jpeg",
+      "file_name": "efd1f20d9922867c.jpeg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\efdf514933cf7180.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\efdf514933cf7180.jpg",
+      "file_name": "efdf514933cf7180.jpg",
+      "source": "images",
+      "width": 913,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f248c99cd643c392.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f248c99cd643c392.jpg",
+      "file_name": "f248c99cd643c392.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f281925e5f1dfcc4.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f281925e5f1dfcc4.jpeg",
+      "file_name": "f281925e5f1dfcc4.jpeg",
+      "source": "images",
+      "width": 426,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f4e34a3cab6cedeb.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f4e34a3cab6cedeb.jpg",
+      "file_name": "f4e34a3cab6cedeb.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f4f014176a0e4d59.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f4f014176a0e4d59.png",
+      "file_name": "f4f014176a0e4d59.png",
+      "source": "images",
+      "width": 506,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f58965a75ab7ac66.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f58965a75ab7ac66.png",
+      "file_name": "f58965a75ab7ac66.png",
+      "source": "images",
+      "width": 1200,
+      "height": 744,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f5a825690b7ad5a1.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f5a825690b7ad5a1.jpg",
+      "file_name": "f5a825690b7ad5a1.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f6e0f4af8ee8712e.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f6e0f4af8ee8712e.jpg",
+      "file_name": "f6e0f4af8ee8712e.jpg",
+      "source": "images",
+      "width": 827,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f6e82fe149501d2b.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f6e82fe149501d2b.jpg",
+      "file_name": "f6e82fe149501d2b.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f743519dc8483f07.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f743519dc8483f07.png",
+      "file_name": "f743519dc8483f07.png",
+      "source": "images",
+      "width": 1200,
+      "height": 870,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f7e021126447850a.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\f7e021126447850a.jpg",
+      "file_name": "f7e021126447850a.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fb4572675f9569b4.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fb4572675f9569b4.jpg",
+      "file_name": "fb4572675f9569b4.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fba80afbbbc07c31.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fba80afbbbc07c31.jpeg",
+      "file_name": "fba80afbbbc07c31.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fc86c9764976dd41.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fc86c9764976dd41.jpg",
+      "file_name": "fc86c9764976dd41.jpg",
+      "source": "images",
+      "width": 455,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fcf50bf11a266645.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fcf50bf11a266645.jpeg",
+      "file_name": "fcf50bf11a266645.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fd983881634fd1d9.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fd983881634fd1d9.png",
+      "file_name": "fd983881634fd1d9.png",
+      "source": "images",
+      "width": 1200,
+      "height": 754,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fdb422d935a2e14c.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fdb422d935a2e14c.jpeg",
+      "file_name": "fdb422d935a2e14c.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fe06d9eb1d4414bc.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fe06d9eb1d4414bc.jpg",
+      "file_name": "fe06d9eb1d4414bc.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fe1eb0b864df19bc.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fe1eb0b864df19bc.jpg",
+      "file_name": "fe1eb0b864df19bc.jpg",
+      "source": "images",
+      "width": 675,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fe401ec0f2283881.jpg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\fe401ec0f2283881.jpg",
+      "file_name": "fe401ec0f2283881.jpg",
+      "source": "images",
+      "width": 1200,
+      "height": 836,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ff802dc46db25f69.png"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ff802dc46db25f69.png",
+      "file_name": "ff802dc46db25f69.png",
+      "source": "images",
+      "width": 779,
+      "height": 900,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  },
+  {
+    "data": {
+      "image": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ff82f1d6bf3ea86f.jpeg"
+    },
+    "meta": {
+      "image_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\images\\bike_index\\ff82f1d6bf3ea86f.jpeg",
+      "file_name": "ff82f1d6bf3ea86f.jpeg",
+      "source": "images",
+      "width": 1200,
+      "height": 715,
+      "annotate": 1,
+      "quality_status": "pending",
+      "view_label": "",
+      "occlusion": "",
+      "notes": ""
+    }
+  }
+]

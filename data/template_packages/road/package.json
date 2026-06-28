@@ -1,0 +1,29 @@
+{
+  "name": "@bike-templates/road-template",
+  "version": "1.0.0",
+  "templateType": "road",
+  "title": "公路车模板",
+  "description": "更适合公路、耐力、砾石与折叠车型的细长几何结构。",
+  "engineVersion": ">=1.0.0",
+  "accent": "#356dce",
+  "supportedParts": [
+    "brake",
+    "chainwheel",
+    "crank",
+    "fork",
+    "frame",
+    "freewhile",
+    "handlebar",
+    "pedal",
+    "rearderailleur",
+    "saddle",
+    "seatpost",
+    "shiftlever",
+    "tire"
+  ],
+  "supportedModes": [
+    "price_score",
+    "quality_score",
+    "value_score"
+  ]
+}

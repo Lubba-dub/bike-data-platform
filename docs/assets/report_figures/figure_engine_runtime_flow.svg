@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="100%" height="100%" fill="#f8fbff"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5a7eb5"/></marker></defs>
+<text x="60" y="70" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">?4 bike-template-engine ??????</text>
+<rect x="120" y="180" rx="22" ry="22" width="220" height="120" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="144" y="218" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">???</text>
+<text x="144" y="254" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">package.json</text>
+<text x="144" y="282" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">mapping.json</text>
+<text x="144" y="310" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">theme.json</text>
+<text x="144" y="338" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">template.svg</text>
+<rect x="410" y="180" rx="22" ry="22" width="220" height="120" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="434" y="218" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">?? payload</text>
+<text x="434" y="254" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">bikeId / bikeName / parts</text>
+<text x="434" y="282" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">metrics / evidence / templateType</text>
+<rect x="700" y="180" rx="22" ry="22" width="260" height="120" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="724" y="218" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">render state</text>
+<text x="724" y="254" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?????</text>
+<text x="724" y="282" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">templateCoverage</text>
+<text x="724" y="310" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">mapped / missing ??</text>
+<rect x="1030" y="180" rx="22" ry="22" width="260" height="120" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="1054" y="218" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">???????</text>
+<text x="1054" y="254" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">index.html</text>
+<text x="1054" y="282" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">???? / ???? / ????</text>
+<rect x="280" y="430" rx="22" ry="22" width="300" height="160" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="304" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">template studio</text>
+<text x="304" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?? partKey -&gt; svg id</text>
+<text x="304" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">???????</text>
+<text x="304" y="560" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">??????</text>
+<rect x="700" y="430" rx="22" ry="22" width="300" height="160" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="724" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">dataset mapper</text>
+<text x="724" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?? JSON + ??</text>
+<text x="724" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">????? payload</text>
+<text x="724" y="560" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">? engine ????</text>
+<line x1="340" y1="240" x2="410" y2="240" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="630" y1="240" x2="700" y2="240" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="960" y1="240" x2="1030" y2="240" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="470" y1="300" x2="430" y2="430" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="830" y1="300" x2="850" y2="430" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+</svg>

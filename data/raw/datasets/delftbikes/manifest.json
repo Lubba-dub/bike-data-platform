@@ -1,0 +1,12 @@
+{
+  "dataset_name": "delftbikes",
+  "source_url": "https://data.4tu.nl/articles/dataset/DelftBikes_data_underlying_the_publication_Hallucination_In_Object_Detection-A_Study_In_Visual_Part_Verification/14866116",
+  "status": "metadata_downloaded",
+  "download_links": [
+    "https://data.4tu.nl/file/c3d7e922-5777-4968-946e-e18c5fe99402/1be7f00c-77e8-45d9-812c-b0f03ed8c738",
+    "https://data.4tu.nl/file/c3d7e922-5777-4968-946e-e18c5fe99402/9dde11c3-1a89-4b9e-8b6d-cee3d2645c84",
+    "https://data.4tu.nl/file/c3d7e922-5777-4968-946e-e18c5fe99402/c779b046-4383-412d-9059-3f3a38aede0b",
+    "https://data.4tu.nl/v3/datasets/c3d7e922-5777-4968-946e-e18c5fe99402/versions/2/ro-crate-metadata.json"
+  ],
+  "downloaded_at": "2026-05-21T08:16:55.180308+00:00"
+}

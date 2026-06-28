@@ -1,0 +1,769 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1409464800,
+      "description": "Omg I am devastated ... It took me through my first triathlon this year ... I feel it has been kidnapped :( ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "S2 51cm",
+      "id": 31109,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/13008/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.99,
+        -79.46
+      ],
+      "stolen_location": "Aurora, L4G 1A7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/13008/small_image.jpg",
+      "title": "2011 Cervélo S2 51cm",
+      "url": "https://bikeindex.org/bikes/31109",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1407650400,
+      "description": "Bike has some blue triathlon stickers on it along with Shimano clipless pedals.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 29773,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/11677/large_bike1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Randor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.71,
+        -73.96
+      ],
+      "stolen_location": "Brooklyn, NY 11211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/11677/small_bike1.jpg",
+      "title": "Randor",
+      "url": "https://bikeindex.org/bikes/29773",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1399442400,
+      "description": "NARRATIVEWHITE TREK road frame with \"1400 BONDED ALUMINUM TREK\" written in light blue with light purple shading on bicycle was in back of truck completely enclosed and under truck topper. Thief left the back window hatch to the topper up and tailgate down and did not take brand new pressure washer next to it. Because truck glass is dark tented they had to really peer into the back of truck topper bed windows to see bike lying flat or know it was there from watching. Theft occurred overnight wed may 8,2014.The white bike frame has the shifters on the downtube (older style). It has light blue tape on the curved down racing handle bars tape AND on the triathlon front bars to match the TREK 1400 bonded aluminum written on light blue decals. The LIGHT BLUE MATCHING michelin Kromion tires on Aurora matrix rims 150 c-11 700c are decaled too and have 36 holes. Shimano 105 derailer & componets also have FH-1055 labels. The fork has label \"epoxy bonded alumimum alloy\" on one side of the fork and the other side of the fork has decal with no writing because I accidently cleaned writing off just one side of the fork with acetone. Easton E9 program 600 series alloy is labeled. 51 inch seat tube vertical and 52 inch top tube horizontal. Black leather Italian seat with long front & white measuring tapes decal on edges of seat for perfect adjustments. Back touring black rack. Triatholan bars have neon yellow on front tips in plastic. brand new hyperglide HG 30 7 speed 11x28 back cog cassette 11-13-15-18-21-24-28 teeth barely ridden. Weights 23.6 pounds without tribars and back bag containing 2 spare tires, yellow lever to change tire, and two air cartridges to fill tire. Petals clipless and flat for normal shoes other side of petal. Brand new non-shimano chain.Dozens of pictures as had bike 20 years since college.  ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "1400",
+      "id": 8372,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.56
+      ],
+      "stolen_location": "Portland, OR 97216, US",
+      "thumb": null,
+      "title": "1994 Trek 1400",
+      "url": "https://bikeindex.org/bikes/8372",
+      "year": 1994,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1398751200,
+      "description": "58cm Triathlon bike with aerobars and clipless road pedals and a small seat bag. My matte black Giro Savant helmet was with the bike as well.  ",
+      "frame_colors": [
+        "Red",
+        "Orange",
+        "Black"
+      ],
+      "frame_model": "Aloha 2.0",
+      "id": 7753,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3196/large_kfaqa3n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97232, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3196/small_kfaqa3n.jpg",
+      "title": "2013 Fuji Aloha 2.0",
+      "url": "https://bikeindex.org/bikes/7753",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1387778400,
+      "description": "It was an awesome bike. Chromoly, original components, pinhead locks on wheels. had a white tape from my first triathlon ",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Allez",
+      "id": 2194,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1718/large_Alex_Quintanilla_Specialized_Allez.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.27
+      ],
+      "stolen_location": "Oakland, CA 94612, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1718/small_Alex_Quintanilla_Specialized_Allez.jpg",
+      "title": "1991 Specialized Allez",
+      "url": "https://bikeindex.org/bikes/2194",
+      "year": 1991,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1382767200,
+      "description": "MALE road bike w/ drop down handle and triathlon bars. Scratched at bars from previous falls.Bike was locked up and parked near the Ferry building at the bike racks, near that Amtrak station. After lunch, upon returning to the bike rack, the cord for the lock was cut and the bike was stolen.  ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Lightning 1500",
+      "id": 23204,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8132/large_1382903270.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dawes Cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8132/small_1382903270.jpg",
+      "title": "2013 Dawes Cycles Lightning 1500",
+      "url": "https://bikeindex.org/bikes/23204",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1381989600,
+      "description": "Car was broken into and triathlon bike stolen. Has a power meter and Zipp Vuka Bull aerobar setup.  ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "B12",
+      "id": 18591,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F107D2016",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.78,
+        -95.42
+      ],
+      "stolen_location": "Houston, TX 77007, US",
+      "thumb": null,
+      "title": "2011 Felt B12",
+      "url": "https://bikeindex.org/bikes/18591",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1380952800,
+      "description": "This was a fairly lightly-used 1995-96 model road bike designed for possible triathlon use. Top Shimano components. Older Shimano bindings. White bar tape. I miss it.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Trionfo",
+      "id": 30911,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "REI",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F5120837",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.79,
+        -117.23
+      ],
+      "stolen_location": "San Diego, CA 92109, US",
+      "thumb": null,
+      "title": "1995 REI Trionfo",
+      "url": "https://bikeindex.org/bikes/30911",
+      "year": 1995,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1379829600,
+      "description": "broke into my passenger window on a red 2005 mercedes c230 and stole my 2011 cervelo p1 triathlon bike with the below listed accessories on 9/22/13 between 540 and 840am.  was going to the 2013 portland triathlon.  Accessories on bike include: conti 700x18-25 48mm LIGHT 72g presta tube, torhans aero 30 bottle, torhans aero 30 mounting bracket \"reverse\", speedplay Zero chrome-moly red clipped pedals, timbuk2 bike seat bag medium gunmetal with following components: park tool TL-1 tire levers, genuine innovations 16g threaded CO2 cartridge, genuine innovations air chuck elite inflator; new swiss stop BXP flash brake pads, conti 700x25 Grand Prix 4000S Black tires, Shimano Ultegra 6701-10 speed chain  ",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "P1 Traithlon",
+      "id": 20621,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7252/large_1379886678.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2S09E0241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7252/small_1379886678.jpg",
+      "title": "2011 Cervélo P1 Traithlon",
+      "url": "https://bikeindex.org/bikes/20621",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1379138400,
+      "description": "Trek crossover blue and silver with a 301 triathlon tag on the bike.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 17642,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -117.4
+      ],
+      "stolen_location": "Spokane, WA 99258, US",
+      "thumb": null,
+      "title": "Trek",
+      "url": "https://bikeindex.org/bikes/17642",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1376632800,
+      "description": "Argon 18 Triathlon bike with a Zipp disc on the rear and a Zipp 808 on the front.  This bike stands out!!!  ",
+      "frame_colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "frame_model": "E-80",
+      "id": 17280,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Argon 18",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.92
+      ],
+      "stolen_location": "Stapleton, CO 80220, US",
+      "thumb": null,
+      "title": "2010 Argon 18 E-80",
+      "url": "https://bikeindex.org/bikes/17280",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1372831200,
+      "description": "2011 Cervelo P2 triathlon bike, red bar tape, red classic keo look pedals, double bottle gorilla holder saddle mounted  ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "P2",
+      "id": 21647,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7612/large_1372896436.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2C11L50269",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.01,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60626, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7612/small_1372896436.jpg",
+      "title": "2011 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/21647",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1368079200,
+      "description": "It is a Scott CR1 Team bike (blue and black). It is a 52 cm size. I switched out the cockpit with a Oval Design triathlon setup. I also have a white Rivet seat on the bike.  ",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "CR1 Team",
+      "id": 11296,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4300/large_1399914039.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4300/small_1399914039.jpg",
+      "title": "SCOTT CR1 Team",
+      "url": "https://bikeindex.org/bikes/11296",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1362808800,
+      "description": "2012 black and white Quintana Roo Kilo triathlon bike with white bars and white seat; has Sram Red crank  ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Kilo",
+      "id": 14142,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5150/large_18161.jpg",
+      "location_found": null,
+      "manufacturer_name": "Quintana Roo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F1208M1966",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.9,
+        -77.05
+      ],
+      "stolen_location": "Washington, DC 20037, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5150/small_18161.jpg",
+      "title": "2012 Quintana Roo Kilo",
+      "url": "https://bikeindex.org/bikes/14142",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1361340000,
+      "description": "Bike was stolen from inside my house. Description is above, it is a time trial bike for triathlon. Very rare and was one of the last few in the U.S.   Alpha Red Aluminum, KVF (Kammtail Virtual Foil) tube design, SC Speed Box & Bento Box compatible",
+      "frame_colors": [
+        "White",
+        "Teal"
+      ],
+      "frame_model": "speed concept 2.5",
+      "id": 14082,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5129/large_1362535406.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "322G0053F",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.28,
+        -120.66
+      ],
+      "stolen_location": "San Luis Obispo, CA 93405, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5129/small_1362535406.jpg",
+      "title": "2011 Trek speed concept 2.5",
+      "url": "https://bikeindex.org/bikes/14082",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1361080800,
+      "description": "bike was repainted but not professionally so it feels rough to the touch.It's a triathlon bike. Rear tire is an 'Continental anti-puncture' tire.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "S25",
+      "id": 14010,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.79,
+        -117.93
+      ],
+      "stolen_location": "Garden Grove, CA 92840, US",
+      "thumb": null,
+      "title": "2004 Felt S25",
+      "url": "https://bikeindex.org/bikes/14010",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1359266400,
+      "description": "The stolen bike is a blue and silver ~2003 Del Sol LXi. The bike had a paper triathlon number of 919 still on the bike. The bike is now missing the front wheel.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "LXi",
+      "id": 13682,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Del Sol",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": null,
+      "title": "Del Sol LXi",
+      "url": "https://bikeindex.org/bikes/13682",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1356156000,
+      "description": "My bike was peacefully waiting in our back yard of a condo building at Lunt and Wolcott, Chicago's North side, for the next triathlon season. My wife came back home Saturday morning to let me know that the bike was stolen from the bike rack at the bottom floor and the chain and lock were left on the floor. The heavy gauge chain was cut off and the criminal most likely rode my bike home to celebrate his Christmas with a new stolen gift. I am outraged, but I am sure I will find my bike, I am positive, please let me know guys if you see it.  ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Wellington",
+      "id": 20200,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7121/large_1357161974.jpg",
+      "location_found": null,
+      "manufacturer_name": "Windsor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.01,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60626, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7121/small_1357161974.jpg",
+      "title": "2010 Windsor Wellington",
+      "url": "https://bikeindex.org/bikes/20200",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1354946400,
+      "description": "Bike was stolen from an apartment parking garage.  It was locked to a bike rack.Distinguishing Features:Gray, Black and White Cervelo P2C triathlon bikeQRoo forkSingle speed - has no gearsWhite Specialized seat",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "P2C",
+      "id": 14281,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5200/large_1355208568.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.05,
+        -118.38
+      ],
+      "stolen_location": "Los Angeles, CA 90035, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5200/small_1355208568.jpg",
+      "title": "Cervélo P2C",
+      "url": "https://bikeindex.org/bikes/14281",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1343714400,
+      "description": "56 cm Glossy Black, Red and White 2011 Motobecane Nemesis Pro triathlon bike. The left shifter is slightly canted to the inside and the right brake is slightly canted to the inside as well. Superficial damage on seat post between 180-200 marks, Shimano 105 PD-5700 road pedals added along with bike computer attachment wrapped around right brake cable.  Shimano pedals are set to about 1/4 tension (loose). It has a very slight squeak with full weight.  The back tire is a Continental 4000 with a red stripe on the riding surface and the front tire is a Continental UltraSport worn down.  Right brake cable is slightly shorter than left brake cable and right shifter has scuff.  Left side's wrap is slightly loose and both aerobars have friction tape on the last inch or so of the wrap.  The Wrap is slightly worn.  The seat is adjusted to as far back as possible and the aerobars as far forward as possible. It has a cat's eye Velo 7 magnet attached to the front rim.  you can see a similar bike here. http://www.bikesdirect.com/products/motobecane/nemesis_pro_xi.htm  ",
+      "frame_colors": [
+        "Black",
+        "White",
+        "Red"
+      ],
+      "frame_model": "Nemesis (Pro)",
+      "id": 25307,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8780/large_1343837697.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IAS0061305",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.44,
+        -111.94
+      ],
+      "stolen_location": "Tempe, AZ 85281, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8780/small_1343837697.jpg",
+      "title": "2011 Motobecane Nemesis (Pro)",
+      "url": "https://bikeindex.org/bikes/25307",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1340344800,
+      "description": "Bike had a single waterbottle holder on the seat tube, a rear vuelta corsa wheel and a front shimano R500 wheel.  there is a Kansas City Triathlon sticker on the top tube number 1224.  ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Synapse",
+      "id": 24674,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8575/large_1340677227.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XM62342",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.88,
+        -87.64
+      ],
+      "stolen_location": "Chicago, IL 60606, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8575/small_1340677227.jpg",
+      "title": "2010 Cannondale Synapse",
+      "url": "https://bikeindex.org/bikes/24674",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1325397600,
+      "description": "I just recently (May) made changes because after 12 years there were a number of things to repair, fix and replace. I had the triathlon bars removed, and new black and blue handlebar tape, new gear shifters and cables, bike computer, women's seat. Frame and rims are the same. Clipless pedals. I'll come back to add more.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "unsure",
+      "id": 24426,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8502/large_1343750034.jpg",
+      "location_found": null,
+      "manufacturer_name": "Koga-Miyata",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.32
+      ],
+      "stolen_location": "Seattle, WA 98102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8502/small_1343750034.jpg",
+      "title": "2000 Koga-Miyata unsure",
+      "url": "https://bikeindex.org/bikes/24426",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1316152800,
+      "description": "50cm Fuji road bike, silver. Partial sticker on crossbar from triathlon race. Stolen from outside an apartment, cable lock cut.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Ace",
+      "id": 23281,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1F5606105",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.02,
+        -118.39
+      ],
+      "stolen_location": "Culver City, CA 90232, US",
+      "thumb": null,
+      "title": "Fuji Ace",
+      "url": "https://bikeindex.org/bikes/23281",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1306908000,
+      "description": "Silver Specialized Dolce Vita 8-speed bike with baby blue details. Sold as an \"entry level triathlon bike.\" Handlebars were re-wrapped with baby blue wrapping and tri-bars had been removed.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Dolce Vita",
+      "id": 14337,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5217/large_1307140227.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P5FV2004",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -118.5
+      ],
+      "stolen_location": "Santa Monica, CA 90401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5217/small_1307140227.jpg",
+      "title": "2007 Specialized Dolce Vita",
+      "url": "https://bikeindex.org/bikes/14337",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1297404000,
+      "description": "blue scattante R-560 with blue tires, white bar tape. ultegra shifters, 105 drivetrain with FSA gossamer crank. Selle Italia saddle. Small dent on head tube, deep dime sized scrape on left side of carbon fork.NOTE: I am currently at school and do not have the serial number on me. However, I do have it at home, so by the time people contact me, I WILL HAVE IT!  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "R-560",
+      "id": 17488,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Scattante",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.88,
+        -117.24
+      ],
+      "stolen_location": "La Jolla, CA 92092, US",
+      "thumb": null,
+      "title": "2009 Scattante R-560",
+      "url": "https://bikeindex.org/bikes/17488",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

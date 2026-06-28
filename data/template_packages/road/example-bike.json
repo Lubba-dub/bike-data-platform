@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0.0",
+  "bikeId": "brompton-a-line",
+  "bikeName": "A Line",
+  "brand": "brompton",
+  "bikeType": "folding",
+  "templateType": "road",
+  "views": {
+    "front": "https://dam.brompton.com/filestore/8/3/0/1_8b4352fc032b952/1038_79d08c3348d63f3.jpg",
+    "side": "https://dam.brompton.com/filestore/7/3/0/1_cb6b247e6ef8bc1/1037_19b140289f4567a.jpg",
+    "rear": "https://dam.brompton.com/filestore/3/5/6/1_50e6e42117cfc96/1653_22642bc83c8ed7e.jpg"
+  },
+  "availableModes": [
+    "price_score",
+    "quality_score",
+    "value_score"
+  ],
+  "defaultMode": "price_score",
+  "parts": [
+    {
+      "partKey": "tyre",
+      "displayName": "Tyre",
+      "templateLabels": [
+        "tire"
+      ],
+      "componentName": "Schwalbe Kojak",
+      "brandHint": "Schwalbe",
+      "sourceType": "observed",
+      "evidence": {
+        "offersCount": 4,
+        "reviewsCount": 0,
+        "confidence": 0.7,
+        "coverage": "medium"
+      },
+      "metrics": {
+        "price_score": 20.99,
+        "quality_score": 0.8210526315789474,
+        "value_score": 0.34218000000000004
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "Tyres",
+        "slot": "tyre"
+      }
+    }
+  ],
+  "summary": {
+    "partsCount": 1,
+    "mappedPartsCount": 1,
+    "templateCoverage": 1.0,
+    "evidenceScore": 4.0,
+    "hasPhoto": true
+  },
+  "meta": {
+    "source": "website_bikes_api",
+    "description": "Brompton A Line. The essential Brompton. The ride, the compact fold, the easy-to-store. Shop now. Free Delivery.",
+    "officialUrl": "https://global.brompton.com/a-line"
+  }
+}

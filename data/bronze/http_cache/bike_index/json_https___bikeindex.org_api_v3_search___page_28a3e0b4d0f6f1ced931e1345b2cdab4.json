@@ -1,0 +1,761 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1764140400,
+      "description": "My Santa Cruz Chameleon has upgraded Deity handle bars, Atlas Race Face cobalt blue pedals, SRAM 3 piece crank, 34 rhythm Fox shocks front, 27.5 in MAXX tubeless tires, WTB 27.5 in rims. It's a real color like the san jose sharks color, black rims, black crank and handle bars, it also has splash back protector on the front rim",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Santa Cruz chameleon",
+      "id": 3237213,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/988933/large_17648352340548976566745419917419.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CA81203817",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.8
+      ],
+      "stolen_location": "Beaverton, OR 97005, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/988933/small_17648352340548976566745419917419.jpg",
+      "title": "2021 Santa Cruz Santa Cruz chameleon",
+      "url": "https://bikeindex.org/bikes/3237213",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763862037,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Heckler",
+      "id": 3230216,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HEC21632210O",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.59,
+        -105.14
+      ],
+      "stolen_location": "Fort Collins, CO 80521, US",
+      "thumb": null,
+      "title": "2023 Santa Cruz Heckler",
+      "url": "https://bikeindex.org/bikes/3230216",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763828820,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Nomad C6",
+      "id": 3230829,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987339/large_IMG_0450.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22F4P1NM6MDC0076",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        54.8,
+        11.91
+      ],
+      "stolen_location": "Nykøbing Falster, 4800, DK",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987339/small_IMG_0450.jpeg",
+      "title": "2024 Santa Cruz Nomad C6",
+      "url": "https://bikeindex.org/bikes/3230829",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763805600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Hightower LT CC",
+      "id": 3230070,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986887/large_IMG_8001.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.71,
+        -104.96
+      ],
+      "stolen_location": "Denver, CO 80209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986887/small_IMG_8001.JPEG",
+      "title": "2018 Santa Cruz Hightower LT CC",
+      "url": "https://bikeindex.org/bikes/3230070",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763449200,
+      "description": "Bright green with blue valve stems and a blue top cap. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Blur C",
+      "id": 3228868,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986051/large_IMG_20251004_110526.png",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U22L4P1BL4SMC0023",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.28
+      ],
+      "stolen_location": "Minneapolis, MN 55409, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986051/small_IMG_20251004_110526.png",
+      "title": "2024 Santa Cruz Blur C",
+      "url": "https://bikeindex.org/bikes/3228868",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763449200,
+      "description": "Stock bike with new Wolftooth grips that match the purple lettering on the downtube.",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Purple"
+      ],
+      "frame_model": "Chameleon",
+      "id": 3228963,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986133/large_IMG_20240721_205108.HEIC_compressed.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.28
+      ],
+      "stolen_location": "Minneapolis, MN 55409, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986133/small_IMG_20240721_205108.HEIC_compressed.JPEG",
+      "title": "2022 Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/3228963",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763430970,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Chameleon",
+      "id": 3228719,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A20H4P1CH2XLAL0804",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2T 4L6, CA",
+      "thumb": null,
+      "title": "2021 Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/3228719",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763089200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Tallboy",
+      "id": 3227128,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22G2P1TB5LGC0087",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.74,
+        -111.99
+      ],
+      "stolen_location": "Salt Lake City, UT 84104, US",
+      "thumb": null,
+      "title": "2023 Santa Cruz Tallboy",
+      "url": "https://bikeindex.org/bikes/3227128",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762965079,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Hightower",
+      "id": 3226639,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984833/large_Screenshot_20251111-164532.png",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U24K5P1HT4LGCC0332",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.2,
+        -76.68
+      ],
+      "stolen_location": "Catonsville, MD 21090, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984833/small_Screenshot_20251111-164532.png",
+      "title": "2025 Santa Cruz Hightower",
+      "url": "https://bikeindex.org/bikes/3226639",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762941600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "5010",
+      "id": 3226661,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984856/large_2017-santa-cruz-5010-c-s-33177_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS1604P-1189C",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984856/small_2017-santa-cruz-5010-c-s-33177_1.jpg",
+      "title": "2017 Santa Cruz 5010",
+      "url": "https://bikeindex.org/bikes/3226661",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762200000,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Tallboy LTC",
+      "id": 3223725,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982777/large_IMG_8569.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.23,
+        -110.95
+      ],
+      "stolen_location": "Tucson, AZ 85721, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982777/small_IMG_8569.jpeg",
+      "title": "2012 Santa Cruz Tallboy LTC",
+      "url": "https://bikeindex.org/bikes/3223725",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762005882,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Heckler C",
+      "id": 3222612,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982137/large_IMG_2547.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S21HP1HK9LGC0276",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.94,
+        -117.21
+      ],
+      "stolen_location": "San Diego, CA 92130, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982137/small_IMG_2547.jpeg",
+      "title": "2022 Santa Cruz Heckler C",
+      "url": "https://bikeindex.org/bikes/3222612",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761897600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Megatower",
+      "id": 3222682,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985153/large_IMG_8975.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22E4P1MG22XC0068",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985153/small_IMG_8975.jpeg",
+      "title": "2022 Santa Cruz Megatower",
+      "url": "https://bikeindex.org/bikes/3222682",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761199200,
+      "description": "",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Bronson",
+      "id": 3219177,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979537/large_IMG_4983.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U24G3P1BR5LGC0247",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -117.15
+      ],
+      "stolen_location": "Spokane Valley, WA 99016, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979537/small_IMG_4983.jpeg",
+      "title": "2025 Santa Cruz Bronson",
+      "url": "https://bikeindex.org/bikes/3219177",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761166800,
+      "description": "Green/Purple Santa Cruz Chameleon with the 29\" wheel configuration, with a Bafang mid-drive motor installed. The thieves may have removed the motor and battery. There is unique damage on the underside of the frame from the torque of the motor.",
+      "frame_colors": [
+        "Green",
+        "Purple"
+      ],
+      "frame_model": "Chameleon",
+      "id": 3220609,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/980745/large_IMG_20200713_084052.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AZ180100057",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -121.88
+      ],
+      "stolen_location": "San Jose, CA 95112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/980745/small_IMG_20200713_084052.jpg",
+      "title": "2018 Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/3220609",
+      "year": 2018,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761163200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "5010 C",
+      "id": 3218791,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.77,
+        -105.01
+      ],
+      "stolen_location": "Denver, CO 80211, US",
+      "thumb": null,
+      "title": "2015 Santa Cruz 5010 C",
+      "url": "https://bikeindex.org/bikes/3218791",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761007276,
+      "description": "Grey/Orange Santa Cruz tall boy C with race face wheels and race face handlebar, orange hand grips, Fox 34 fork, and tons of orange accessories added throughout the bike.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": "Tallboy C",
+      "id": 3218023,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/978821/large_IMG_0387.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.05,
+        -84.51
+      ],
+      "stolen_location": "Lexington, KY 40508, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/978821/small_IMG_0387.jpeg",
+      "title": "2021 Santa Cruz Tallboy C",
+      "url": "https://bikeindex.org/bikes/3218023",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760225763,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Hightower",
+      "id": 3213184,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976062/large_IMG_3187.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "58-26311-455-2-902-262901",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.41,
+        -119.85
+      ],
+      "stolen_location": "Santa Barbara, CA 93106, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976062/small_IMG_3187.jpeg",
+      "title": "2025 Santa Cruz Hightower",
+      "url": "https://bikeindex.org/bikes/3213184",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760176800,
+      "description": "Khaki Santa Cruz Hightower C with Carbon reserve wheels, black i9 hydra hubs, XO1 drivetrain, orange i9 stem, black fox forks with logos deleted, blue quad lock mount on the handlebars. ",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Orange",
+        "Black"
+      ],
+      "frame_model": "Hightower C",
+      "id": 3213140,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976011/large_SantaCruz-01.png",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS1810R-12589LC",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -104.87
+      ],
+      "stolen_location": "Denver, CO 80238, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976011/small_SantaCruz-01.png",
+      "title": "2020 Santa Cruz Hightower C",
+      "url": "https://bikeindex.org/bikes/3213140",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759860248,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "V10",
+      "id": 3207576,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974716/large_1000068269.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S23K4P1VX8MDCC0020",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.65,
+        -105.19
+      ],
+      "stolen_location": "Morrison, CO 80465, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974716/small_1000068269.jpg",
+      "title": "2024 Santa Cruz V10",
+      "url": "https://bikeindex.org/bikes/3207576",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759812765,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Nomad 6",
+      "id": 3207390,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974566/large_IMG_5013.png",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8000136732",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.73,
+        9.56
+      ],
+      "stolen_location": "Lenzerheide, 7078, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974566/small_IMG_5013.png",
+      "title": "2025 Santa Cruz Nomad 6",
+      "url": "https://bikeindex.org/bikes/3207390",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758988800,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Bronson C",
+      "id": 3202350,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971364/large_IMG_6168.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98154, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971364/small_IMG_6168.jpeg",
+      "title": "2021 Santa Cruz Bronson C",
+      "url": "https://bikeindex.org/bikes/3202350",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758895200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Megatower",
+      "id": 3201838,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971034/large_magatower.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P 4K7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971034/small_magatower.jpg",
+      "title": "2019 Santa Cruz Megatower",
+      "url": "https://bikeindex.org/bikes/3201838",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758848400,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3202124,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971244/large_IMG_9421.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS1903P1XLCC0008",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.4,
+        -104.79
+      ],
+      "stolen_location": "Greeley, CO 80634, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971244/small_IMG_9421.jpeg",
+      "title": "Santa Cruz",
+      "url": "https://bikeindex.org/bikes/3202124",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758812400,
+      "description": "",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "SC 20 TALLBOY 4.0 C S-KIT XXL",
+      "id": 3201055,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970728/large_thumbnail_20230315_105425.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SC228821448L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.14
+      ],
+      "stolen_location": "Calgary, T3E 3G9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970728/small_thumbnail_20230315_105425.jpg",
+      "title": "2020 Santa Cruz SC 20 TALLBOY 4.0 C S-KIT XXL",
+      "url": "https://bikeindex.org/bikes/3201055",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

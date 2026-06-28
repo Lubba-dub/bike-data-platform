@@ -1,0 +1,760 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1778526000,
+      "description": "Red and blue DBR X2 mountain bike with bright pink grips and pedals. Trek sticker above the DBR on the right side of frame. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "X2",
+      "id": 3386361,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1027846/large_IMG_4529.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        61.2,
+        -149.74
+      ],
+      "stolen_location": "Anchorage, AK 99504, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1027846/small_IMG_4529.jpeg",
+      "title": "Diamondback X2",
+      "url": "https://bikeindex.org/bikes/3386361",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778106600,
+      "description": "Supercycle ALUMINUM 6061 SERIES Medalist (the handlebar was replaced with a regular mountain bike handle bar)",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Medalist",
+      "id": 3383271,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026163/large_20260506_073051.jpg",
+      "location_found": null,
+      "manufacturer_name": "Supercycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.12,
+        -114.21
+      ],
+      "stolen_location": "Calgary, T3G 2T3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026163/small_20260506_073051.jpg",
+      "title": "Supercycle Medalist",
+      "url": "https://bikeindex.org/bikes/3383271",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778090400,
+      "description": "Very new full suspension mountain bike with 6\" of travel. Mechanical Shimano SLX shifting, bright orange Fox suspension components",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Stumpjumper 15 Alloy Fox Coil",
+      "id": 3382982,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025934/large_Stumpjumper.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC023015296V",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.9,
+        -93.23
+      ],
+      "stolen_location": "Minneapolis, MN 55417, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025934/small_Stumpjumper.jpg",
+      "title": "2025 Specialized Stumpjumper 15 Alloy Fox Coil",
+      "url": "https://bikeindex.org/bikes/3382982",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775761200,
+      "description": "Stolen Trek Marlin 5 – very distinctive color and setup, not a stock build.\r\n\r\nFrame color: Volt Blue → Miami Green fade (bright, high-visibility gradient that really stands out)\r\nRear pannier rack/bag attached\r\nHybrid clip-in pedals (clip-in + flat combo)\r\nHandlebar-mounted phone holder\r\nCenter/top tube bag mounted just behind the stem\r\nFront and rear lights installed\r\nBell + horn on handlebars\r\nSide-view mirrors on BOTH sides (uncommon and highly noticeable)\r\n\r\nThis bike is extremely recognizable due to the bright blue-to-green fade and the number of accessories. It looks more like a commuter/touring setup than a typical mountain bike.\r\n\r\nIf you see anything matching this description, even partially, please reach out.",
+      "frame_colors": [
+        "Green",
+        "Blue"
+      ],
+      "frame_model": "Marlin 5 - Gen 2",
+      "id": 3361847,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015770/large_WhatsApp_Image_2.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 021 JV 0443T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.43,
+        -121.95
+      ],
+      "stolen_location": "San Jose, CA 95134, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015770/small_WhatsApp_Image_2.jpeg",
+      "title": "2024 Trek Marlin 5 - Gen 2",
+      "url": "https://bikeindex.org/bikes/3361847",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775750400,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Meta TR",
+      "id": 3361778,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015698/large_IMG_5767.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Commencal Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -105.22
+      ],
+      "stolen_location": "Golden, CO 80401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015698/small_IMG_5767.jpeg",
+      "title": "2022 Commencal Bikes Meta TR",
+      "url": "https://bikeindex.org/bikes/3361778",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771454100,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Marlin 7 Gen 3",
+      "id": 3340261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1003909/large_IMG_8146.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU028 XC 0520 X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.42,
+        -111.95
+      ],
+      "stolen_location": "Tempe, AZ 85281, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1003909/small_IMG_8146.jpg",
+      "title": "2025 Trek Marlin 7 Gen 3",
+      "url": "https://bikeindex.org/bikes/3340261",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771171200,
+      "description": "2021 GT 27.5 Avanche Sport Mountain bike, color: Gunmetal",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "27.5 Avalanche Sport Mountain XS",
+      "id": 3339048,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1003021/large_2021_GT_Avalanche_Sport_Mountain_XS_Gunmetal_color.jpg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM22G504053",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -118.43
+      ],
+      "stolen_location": "Los Angeles, CA 90066, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1003021/small_2021_GT_Avalanche_Sport_Mountain_XS_Gunmetal_color.jpg",
+      "title": "2021 GT Bicycles 27.5 Avalanche Sport Mountain XS",
+      "url": "https://bikeindex.org/bikes/3339048",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1769544900,
+      "description": "It's a blue mountain bike I used for getting around town to different events and what not. One thing that stands out about bike is that I recently installed a camera holder for my new camera. I was about to start documenting some of my bike rides. I had just installed it today and bike was stolen. It also has a water bottle holder. The bottom section of the water bottle holder is wrapped around with tape.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "BAMC031bl-26",
+      "id": 3317400,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/999300/large_71WwMLjYYIL._AC_SL1500_.jpg",
+      "location_found": null,
+      "manufacturer_name": "HH HILAND",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.93,
+        -90.07
+      ],
+      "stolen_location": "New Orleans, LA 70130, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/999300/small_71WwMLjYYIL._AC_SL1500_.jpg",
+      "title": "2025 HH HILAND BAMC031bl-26",
+      "url": "https://bikeindex.org/bikes/3317400",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767988800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Mountain",
+      "id": 3285928,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.48,
+        -73.21
+      ],
+      "stolen_location": "Burlington, VT 05401, US",
+      "thumb": null,
+      "title": "2026 Specialized Mountain",
+      "url": "https://bikeindex.org/bikes/3285928",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766541600,
+      "description": "Matte black with gold/orange lettering on the side. Gravel bike. SL 6 Disc in 58cm.\r\nNote: photo is not exact - lettering is more gold/bronze",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Domane",
+      "id": 3336471,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1001035/large_Karen_s_bike.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU184QU0097N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2T 1S2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1001035/small_Karen_s_bike.png",
+      "title": "2019 Trek Domane",
+      "url": "https://bikeindex.org/bikes/3336471",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762563600,
+      "description": "It is my son's commuter bike. It is a 29 frame. Black and bright orange. The seat and the handle bars are a reddish color as it has been changed to meet my son's needs. The frame is \"Meyer Lemon\" but it looks more orange than yellow.",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "DRT 1.1 Mountain Bike",
+      "id": 3226044,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K24002400",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.06
+      ],
+      "stolen_location": "Mountain View, CA 94043, US",
+      "thumb": null,
+      "title": "2025 REI Co-op DRT 1.1 Mountain Bike",
+      "url": "https://bikeindex.org/bikes/3226044",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761721200,
+      "description": "Blue huffy rock creek mountain bike 26 M 18 speed rc full terrain 26 wheel size ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Rock creek",
+      "id": 3217113,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Huffy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNHBT23L32320",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.13,
+        -121.27
+      ],
+      "stolen_location": "Lodi, CA 95242, US",
+      "thumb": null,
+      "title": "2023 Huffy Rock creek",
+      "url": "https://bikeindex.org/bikes/3217113",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760299200,
+      "description": "Orange Ibis Ripmo AF, size medium. Green DMR pedals. OneUp multitool stem insert. Side loading water bottle cage. Front tire made by Kenda, rear tire made by Delium. ",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Ripmo AF",
+      "id": 3214282,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976771/large_IMG_6276.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ibis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AFDNM0093",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976771/small_IMG_6276.jpeg",
+      "title": "2020 Ibis Ripmo AF",
+      "url": "https://bikeindex.org/bikes/3214282",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758157200,
+      "description": "mountain bike grayish blue and pink ",
+      "frame_colors": [
+        "Blue",
+        "Pink"
+      ],
+      "frame_model": "foray",
+      "id": 3187781,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965367/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM16 002805",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80310, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965367/small_image.jpg",
+      "title": "2014 Cannondale foray",
+      "url": "https://bikeindex.org/bikes/3187781",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757689442,
+      "description": "avy blue body with black handle bars and trim. The pedals have been replaced with mountain bike pedals. The picture shows the bike with a front fender, I have since removed that so there is only a back fender. There is also a hitch on the side designed to pull a trailer. There was a gray MIK trunk bag attached with 2 bike locks, keys to the bike lock, bag and battery.  It was purchased at The Garage Bikes and Brews - their sticker in on the frame.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "2022",
+      "id": 3187606,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965222/large_Screenshot_2025-09-12_100656.png",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EAGE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.86,
+        -92.63
+      ],
+      "stolen_location": "River Falls, WI 54022, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965222/small_Screenshot_2025-09-12_100656.png",
+      "title": "2021 Giant 2022",
+      "url": "https://bikeindex.org/bikes/3187606",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756857600,
+      "description": "It looks like a little boys bike. it's a black mountain bike with Huffy written in blue and green on the side, and blue and green diagonal stripes on the body. The break cables are black and green.",
+      "frame_colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 1384609,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961257/large_IMG_7360.jpg",
+      "location_found": null,
+      "manufacturer_name": "Huffy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "5634928021A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.99,
+        -76.98
+      ],
+      "stolen_location": "Langley Park, MD 20783, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961257/small_IMG_7360.jpg",
+      "title": "Huffy",
+      "url": "https://bikeindex.org/bikes/1384609",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756588860,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Fathom 29",
+      "id": 3179159,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962497/large_camphoto_1254324197.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KCFK16374",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -113.99
+      ],
+      "stolen_location": "Calgary Alberta, T1Y 6E8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962497/small_camphoto_1254324197.jpeg",
+      "title": "2021 Giant Fathom 29",
+      "url": "https://bikeindex.org/bikes/3179159",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755874800,
+      "description": "My bike is a 2019 Marin San Quentin 1, and it looks like new. It is bright gloss green and black and has the brand name Marin written in green block letters on the side of the frame. It also has a rear splash guard, a metal bottle cage on the frame, and it has a small scratch on the rear part of the bike frame, near where it connects to the rear wheel.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "San Quentin 1",
+      "id": 3064701,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955724/large_2019_Marin_San_Quentin_1_27.5_Hardtail_Mountain_Bike_Gloss_Green.png",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.89,
+        -87.64
+      ],
+      "stolen_location": "Chicago, IL 60654, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955724/small_2019_Marin_San_Quentin_1_27.5_Hardtail_Mountain_Bike_Gloss_Green.png",
+      "title": "2019 Marin Bikes San Quentin 1",
+      "url": "https://bikeindex.org/bikes/3064701",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755921600,
+      "description": "Basic blue mountain bike, stickers on frame, rear rack with metal wire bin and side saddlebag.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Recreation",
+      "id": 3007194,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955932/large_IMG_4857.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Recreation",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GS2109 23352",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955932/small_IMG_4857.jpeg",
+      "title": "2021 Recreation Recreation",
+      "url": "https://bikeindex.org/bikes/3007194",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "This is a nice BMX bike.I found it on the side of my house.Shoved into the oleanders.I put fliers on the light poles in the neighborhood..No one has come forward.I would like to return it to its owner.I us s to race BMX.This is street Park bike.I mountain bike now..I am sure that there is a sad kid who wants his bike back.I Hope this works.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "DownTown",
+      "id": 2847399,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Mesa, AZ 85215, United States",
+      "manufacturer_name": "Haro",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "2020 Haro DownTown",
+      "url": "https://bikeindex.org/bikes/2847399",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752919200,
+      "description": "Black with orange decals on frame and SID fork.  I REMOVED THE DROPPER POST.  It is a black carbon Whiskey Parts Co. seatpost.  2 water bottle cages meant to be removed by a left-handed rider, not right-handed.  Selle Italia SLR Boost Superflow Saddle with Ti rails.  SRAM GX cabled components, not AXS.  Deore XTR pedals.  Lezyne tire plug tool is the handlebar plug in either the left or right side, I can't remember which.  Maxxis Aspen tires, 29\" x 2.25\".  Rear tire needs more sealant or to be replaced as it loses air quickly.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Blur Carbon S",
+      "id": 2848420,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942173/large_Santa_Cruz_Blur_S_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S21D2P1BL4LGC0032",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.66,
+        -111.84
+      ],
+      "stolen_location": "Holladay, UT 84117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942173/small_Santa_Cruz_Blur_S_2.jpg",
+      "title": "2021 Santa Cruz Blur Carbon S",
+      "url": "https://bikeindex.org/bikes/2848420",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752822000,
+      "description": "Dual Sport 1  TREK Mountain Bike without shocks. Its is very dark highland green, composite frame. A yellow stripe going around the seat side edge.  I have receipts of Dealer Purchase & repairs.",
+      "frame_colors": [
+        "Green",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Dual Sport 1 Mountain Bike Color Dark Olive Green",
+      "id": 3352534,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1010255/large_IMG-20260215-WA0000.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU033XC0095U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.5,
+        -111.92
+      ],
+      "stolen_location": "Scottsdale, AZ 85251, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1010255/small_IMG-20260215-WA0000.jpg",
+      "title": "2024 Trek Dual Sport 1 Mountain Bike Color Dark...",
+      "url": "https://bikeindex.org/bikes/3352534",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752354000,
+      "description": "It has a rear view mirror on the left handle bar and a cell phone holder on the right hand side along with a tail light on the back of the seat",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "E-ride mountain",
+      "id": 2836993,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938608/large_IMG_2935.jpg",
+      "location_found": null,
+      "manufacturer_name": "Hyper",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KK21K04461",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.6,
+        -113.4
+      ],
+      "stolen_location": "Edmonton, T5Y 3B5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938608/small_IMG_2935.jpg",
+      "title": "2024 Hyper E-ride mountain",
+      "url": "https://bikeindex.org/bikes/2836993",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751799600,
+      "description": "Brief description: Full suspension bike, 26” wheels, white with distinctive Purple brake handles, purple disc brake callipers, purple brake discs and golden wheel hubs. Marin “Bear” logo on front of bike and bar end caps.\r\n\r\nComponents: \r\nForks: \t\tFox Float 120 RL\r\nRear shock:\tFox RP3 - Kashima coated\r\nHandlebars:\tBrandX\r\nSeat Post: \tBrandX dropper post\r\nBrakes: \tHope Tech E4 Callipers (in purple) with Tech 2 brake levers (in purple)\r\nDisc rotors:\tHope 180mm front, 160mm rear (in purple)\r\nWheel hub:\tHope Evo 2 (in gold)\r\nWheel rims: \t26” Mavic XC717 Disc\r\nTires:\r\n\t\t- front: Shwalbe Hans Dampf\r\n\t\t- rear: Specialized (?) \r\nGears:\t\tShimano XT groupset:\r\n\t\t- rear derailleur and cogs: Shimano XT\r\n\t\t- Cranks: Shimano XT (silver)\r\n\t\t- front shifter (right hand handlebar): Shimano XT\r\n\t\t- RaceFace narrow-wide 1x 32t front cog (on crank arm)\r\nAccessories: Black Crud Guard (mountain bike mud guard) on main down tube attached with black rubber bands, small bits of green/yellow tape in places. Green ‘Hope’ sticker on lower part of swing arm by rear gears. Black neoprene/velcro chain protector on lower part of swing arm - right hand side only.\r\nThe bike had significant upgrades from the stock purchase, notably the braking system was added as an upgrade, as were the wheels, dropper seat post, handlebar and front cog. \r\n",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Mount Vision",
+      "id": 2834340,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936945/large_IMG_1994.JPG",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F228BA4003",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.35,
+        -1.39
+      ],
+      "stolen_location": "Newbury, RG20 9XJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936945/small_IMG_1994.JPG",
+      "title": "2008 Marin Bikes Mount Vision",
+      "url": "https://bikeindex.org/bikes/2834340",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751173200,
+      "description": "This Specialized Allez Elite nicknamed \"Silver Steed\" has purple tape on the handlebars, strappy bike clips on the pedals, a small black bag under the seat & paint chips on the frame. It is very old, but I've kept it well maintained & it still rides like a dream. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Allez Elite",
+      "id": 2830939,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/935089/large_TrixiBeekerBikes.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.75,
+        -84.36
+      ],
+      "stolen_location": "Haslett, MI 48840, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/935089/small_TrixiBeekerBikes.jpg",
+      "title": "1990 Specialized Allez Elite",
+      "url": "https://bikeindex.org/bikes/2830939",
+      "year": 1990,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1723258800,
+      "description": "Just bought from Canadian Tire, rode twice, stolen from my backyard in south edmonton near century park. It has no extras, coloured olive/sand mix, tires are 100% stread. I did drop it once on it's side and the raleigh sticker and some other spots on the side of the frame have slight scratches.",
+      "frame_colors": [
+        "Green",
+        "White"
+      ],
+      "frame_model": "Ridge Hardtail Green/Sand 27.5 Disc Brakes",
+      "id": 2670321,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/840714/large_raleigh-ridge-hardtail-mountain-bike-27-5-in-0abc7cfa-41a4-467a-9fcf-122d2928be50-jpgrendition.jpg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.46,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T6J 4N6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/840714/small_raleigh-ridge-hardtail-mountain-bike-27-5-in-0abc7cfa-41a4-467a-9fcf-122d2928be50-jpgrendition.jpg",
+      "title": "2024 Raleigh Ridge Hardtail Green/Sand 27.5 Disc B...",
+      "url": "https://bikeindex.org/bikes/2670321",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722139200,
+      "description": "Marlin 4 Hardtail Mountain Bike Medium",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 4 Hardtail Mountain Bike Medium",
+      "id": 1257894,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU261C7058S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -114.47
+      ],
+      "stolen_location": "Wabamun, T0E 2K0, CA",
+      "thumb": null,
+      "title": "2022 Trek Marlin 4 Hardtail Mountain Bike Medium",
+      "url": "https://bikeindex.org/bikes/1257894",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758916800,
+      "description": "Hardtail Fezzari, peak nights sticker on left side. And an x etched below the handlebars ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Lone Peak",
+      "id": 2653872,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/832032/large_85B7AD7B-22E6-4600-A527-38CF78745BAB.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Fezzari",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FBCL170317460",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.23,
+        -111.67
+      ],
+      "stolen_location": "Provo, UT 84604, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/832032/small_85B7AD7B-22E6-4600-A527-38CF78745BAB.jpeg",
+      "title": "2020 Fezzari Lone Peak",
+      "url": "https://bikeindex.org/bikes/2653872",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720249200,
+      "description": "2020 Specialized Fuze Comp 29 Dove Grey size medium Hardtail mountain bike. Had a black cylindraical handlebar bag as well as a another small black frame bag below the seat. Green pedals. Two small fenders, one for each tire. Selle San Marco Seat. Front tire has a slow leak in the tube, back tire is tubeless",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Fuse Comp",
+      "id": 2648910,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/829053/large_IMG_1411.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC018076507R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.56,
+        -123.26
+      ],
+      "stolen_location": "Corvallis, OR 97333, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/829053/small_IMG_1411.jpeg",
+      "title": "2020 Specialized Fuse Comp",
+      "url": "https://bikeindex.org/bikes/2648910",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719343800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Hardtail",
+      "id": 2640549,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/823611/large_40669b9d-cf04-446c-9fe6-da8cb945205b__1_.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU146JV5989T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T5G 3A6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/823611/small_40669b9d-cf04-446c-9fe6-da8cb945205b__1_.jpeg",
+      "title": "2022 Trek Hardtail",
+      "url": "https://bikeindex.org/bikes/2640549",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1718751600,
+      "description": "My bike is a mountain bike made of up aluminium hardtail and is phantom Green in colour.  It has 29 inch wheels. It is built on ALUXX aluminium frame with suspension fork.\r\n\r\nMore: https://ivanhoecycles.com.au/products/giant-talon-2-27-5-2022-xs-phantom-green",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 2636411,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/820519/large_IMG_2530.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KBHK26991",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.68,
+        144.93
+      ],
+      "stolen_location": "Broadmeadows, 3047, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/820519/small_IMG_2530.jpg",
+      "title": "2022 Giant",
+      "url": "https://bikeindex.org/bikes/2636411",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1718398800,
+      "description": "Radioactive Red 2023 Trek Marlin 5 Gen 2 Hardtail Mountain Bike\r\n- Rear Kickstand\r\n- Front Stem Extender\r\n- Bottle Cage\r\n- Covert Bell",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 2628667,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/818551/large_1000008299.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU069JC0708T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.52
+      ],
+      "stolen_location": "Edmonton, T5G 0G3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/818551/small_1000008299.jpg",
+      "title": "2023 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/2628667",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1718053200,
+      "description": "Marlin 5 Hardtail Mountain Bike Medium Radioactive",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Marlin 5 Hardtail Mountain Bike Medium Radioactive",
+      "id": 1375775,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/829777/large_IMG_2192.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU038JC0231T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T5K 1J7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/829777/small_IMG_2192.jpeg",
+      "title": "2023 Trek Marlin 5 Hardtail Mountain Bike Mediu...",
+      "url": "https://bikeindex.org/bikes/1375775",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1717470000,
+      "description": "Navy blue 2013 Santa cruz Chameleon hardtail bike.\r\nFox shock.\r\nHand pump bracket install on lower frame. NO PUMP as i have it\r\n\r\nSTOLEN on June 3-5 2024 from garage @ 3304-118st NW Edmonton Alberta Canada\r\nA few straches and stuff on top of frame. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2628655,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/818549/large_20240608_033104000_iOS.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GB12M265",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.47,
+        -113.54
+      ],
+      "stolen_location": "Edmonton, T6J 3J6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/818549/small_20240608_033104000_iOS.jpg",
+      "title": "2013 Santa Cruz",
+      "url": "https://bikeindex.org/bikes/2628655",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716958800,
+      "description": "Youth bike. Grey with teal decals. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Storm 4 hardtail mountian bike",
+      "id": 1279695,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1DE1I38495",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.42,
+        -113.46
+      ],
+      "stolen_location": "Edmonton, T6X 0A5, CA",
+      "thumb": null,
+      "title": "2022 Norco Bikes Storm 4 hardtail mountian bike",
+      "url": "https://bikeindex.org/bikes/1279695",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716451200,
+      "description": null,
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Hardtail",
+      "id": 1530267,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Northrock",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CCHFQ468",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.7,
+        -113.23
+      ],
+      "stolen_location": "Fort Saskatchewan, T8L 4H4, CA",
+      "thumb": null,
+      "title": "2022 Northrock Hardtail",
+      "url": "https://bikeindex.org/bikes/1530267",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1715662800,
+      "description": "red kona fire mountain hardtail mtb, ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Fire Mountain",
+      "id": 1388331,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN21051113",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": null,
+      "title": "2022 Kona Fire Mountain",
+      "url": "https://bikeindex.org/bikes/1388331",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1715220000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 5 (Gen 3) Hardtail Mountain Bike 2024 Matte Dnister Black Large",
+      "id": 2600003,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU348XC6009U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.53
+      ],
+      "stolen_location": "Edmonton, T6G 2S4, CA",
+      "thumb": null,
+      "title": "2024 Trek Marlin 5 (Gen 3) Hardtail Mountain Bi...",
+      "url": "https://bikeindex.org/bikes/2600003",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1717430400,
+      "description": "24 speed hardtail mountain bike with 27.5\" tires front and rear. Black decals on teal colored aluminum frame ",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "LANAI",
+      "id": 2596238,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/803733/large_17149372884713661081093738305977.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LANAI2751802",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/803733/small_17149372884713661081093738305977.jpg",
+      "title": "Kona LANAI",
+      "url": "https://bikeindex.org/bikes/2596238",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714827600,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Hardtail",
+      "id": 2612049,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/810949/large_1000010149.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1211024515",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.53
+      ],
+      "stolen_location": "Edmonton, T5K 0K4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/810949/small_1000010149.jpg",
+      "title": "Diamondback Hardtail",
+      "url": "https://bikeindex.org/bikes/2612049",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714428000,
+      "description": null,
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Aluminum frame, hardtail.",
+      "id": 2592707,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/801654/large_IMG_6279.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DONT HAVE.",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        56.76,
+        -111.45
+      ],
+      "stolen_location": "Fort Mcmurray, T9K 0W8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/801654/small_IMG_6279.jpeg",
+      "title": "2022 GT Bicycles Aluminum frame, hardtail.",
+      "url": "https://bikeindex.org/bikes/2592707",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748332800,
+      "description": "Rockhopper Sport 29 Hardtail Mountain Bike Satin Slate/Cool Large",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Rockhopper Sport 29 Hardtail Mountain Bike Satin Slate/Cool Large",
+      "id": 2591771,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/920948/large_IMG_2055.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC02610659IT",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.44,
+        -113.58
+      ],
+      "stolen_location": "Edmonton, T6R 0K9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/920948/small_IMG_2055.jpeg",
+      "title": "2024 Specialized Rockhopper Sport 29 Hardtail Mountain...",
+      "url": "https://bikeindex.org/bikes/2591771",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729087200,
+      "description": "Actual color is Mint.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Aim Pro MTB Hardtail",
+      "id": 2590663,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW22920RGLU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.61,
+        12.33
+      ],
+      "stolen_location": "Rathenow, 14712, DE",
+      "thumb": null,
+      "title": "2023 Cube Aim Pro MTB Hardtail",
+      "url": "https://bikeindex.org/bikes/2590663",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1713798000,
+      "description": "",
+      "frame_colors": [
+        "Red",
+        "Yellow or Gold",
+        "White"
+      ],
+      "frame_model": "Privateer Mountain Bike Hardtail",
+      "id": 1676138,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/755041/large_00b0b_fVDAoY0quM2_0jm0cU_1200x900.jpg",
+      "location_found": null,
+      "manufacturer_name": "Bontrager",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BS 6102:1 (WTU 011168 F 0050 2 3 - 1289)",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.88,
+        -117.24
+      ],
+      "stolen_location": "La Jolla, CA 92092, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/755041/small_00b0b_fVDAoY0quM2_0jm0cU_1200x900.jpg",
+      "title": "1998 Bontrager Privateer Mountain Bike Hardtail",
+      "url": "https://bikeindex.org/bikes/1676138",
+      "year": 1998,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728075600,
+      "description": "Marlin 5 (Gen 2) Hardtail Mountain Bike X-Small Volt to Miami Fade",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Marlin 5 (Gen 2) Hardtail Mountain Bike X-Small Volt to Miami Fade",
+      "id": 2588008,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/802286/large_IMG_3990.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU164JC0417U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T6E3Z, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/802286/small_IMG_3990.jpeg",
+      "title": "2023 Trek Marlin 5 (Gen 2) Hardtail Mountain Bi...",
+      "url": "https://bikeindex.org/bikes/2588008",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1713402000,
+      "description": "It is dark grey with Maxxis tires. It says BMC on down tube and Blast on the top tube.  There is a sticker on the front suspension fork that says XCM30 SR Suntour. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Hardtail",
+      "id": 1278159,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/560505/large_Ben_bike_April_2022_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G50160M02",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.31
+      ],
+      "stolen_location": "Sherwood Park, Alberta, T8H 2G4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/560505/small_Ben_bike_April_2022_2.jpg",
+      "title": "2022 BMC Hardtail",
+      "url": "https://bikeindex.org/bikes/1278159",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1713392680,
+      "description": "Marlin 5 Hardtail Mountain Bike XX-Small Volt to Miami Fade",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Marlin 5 Hardtail Mountain Bike XX-Small Volt to Miami Fade",
+      "id": 1059854,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU354JC0676R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": null,
+      "title": "2022 Trek Marlin 5 Hardtail Mountain Bike XX-Sm...",
+      "url": "https://bikeindex.org/bikes/1059854",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1715475600,
+      "description": "Talon 3 29 Trail Hardtail Mountain Bike Amber Glow Medium",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Talon 3 29 Trail Hardtail Mountain Bike Amber Glow Medium",
+      "id": 2586054,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/805945/large_20240416_143658.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K9HK21448",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.57,
+        -113.47
+      ],
+      "stolen_location": "Edmonton, T5B 3E4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/805945/small_20240416_143658.jpg",
+      "title": "2024 Giant Talon 3 29 Trail Hardtail Mountain Bi...",
+      "url": "https://bikeindex.org/bikes/2586054",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1712970000,
+      "description": "Front shock , front suspension and hard tail back end",
+      "frame_colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "frame_model": "Hardtail",
+      "id": 2582707,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/795269/large_IMG_0252.jpeg",
+      "location_found": null,
+      "manufacturer_name": "CCM",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L1C1180481",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.68
+      ],
+      "stolen_location": "Edmonton, T5T 5X8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/795269/small_IMG_0252.jpeg",
+      "title": "CCM Hardtail",
+      "url": "https://bikeindex.org/bikes/2582707",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1712382600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Green"
+      ],
+      "frame_model": "Titanium hardtail mountain bike Custom",
+      "id": 2601818,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/805868/large_IMG_3530.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brodie",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T6E 2S7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/805868/small_IMG_3530.jpeg",
+      "title": "2012 Brodie Titanium hardtail mountain bike Custom",
+      "url": "https://bikeindex.org/bikes/2601818",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

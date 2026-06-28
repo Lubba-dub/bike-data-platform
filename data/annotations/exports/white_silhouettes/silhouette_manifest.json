@@ -1,0 +1,104 @@
+[
+  {
+    "input_path": "data\\raw\\images\\bike_index\\00236d61be064b05.jpg",
+    "mask_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\00236d61be064b05_mask.png",
+    "silhouette_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\00236d61be064b05_silhouette.png",
+    "silhouette_rgba_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\00236d61be064b05_silhouette_rgba.png",
+    "size": [
+      1200,
+      900
+    ],
+    "mask_bbox": [
+      0,
+      0,
+      1200,
+      900
+    ],
+    "foreground_pixels": 1070291
+  },
+  {
+    "input_path": "data\\raw\\images\\bike_index\\01e0ef8d2d987d21.jpg",
+    "mask_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\01e0ef8d2d987d21_mask.png",
+    "silhouette_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\01e0ef8d2d987d21_silhouette.png",
+    "silhouette_rgba_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\01e0ef8d2d987d21_silhouette_rgba.png",
+    "size": [
+      675,
+      900
+    ],
+    "mask_bbox": [
+      0,
+      0,
+      675,
+      900
+    ],
+    "foreground_pixels": 591945
+  },
+  {
+    "input_path": "data\\raw\\images\\bike_index\\01fca5c3b7bd6cfd.jpg",
+    "mask_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\01fca5c3b7bd6cfd_mask.png",
+    "silhouette_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\01fca5c3b7bd6cfd_silhouette.png",
+    "silhouette_rgba_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\01fca5c3b7bd6cfd_silhouette_rgba.png",
+    "size": [
+      675,
+      900
+    ],
+    "mask_bbox": [
+      0,
+      0,
+      675,
+      900
+    ],
+    "foreground_pixels": 557150
+  },
+  {
+    "input_path": "data\\raw\\images\\bike_index\\02050aab9e955c52.jpg",
+    "mask_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\02050aab9e955c52_mask.png",
+    "silhouette_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\02050aab9e955c52_silhouette.png",
+    "silhouette_rgba_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\02050aab9e955c52_silhouette_rgba.png",
+    "size": [
+      675,
+      900
+    ],
+    "mask_bbox": [
+      0,
+      0,
+      675,
+      900
+    ],
+    "foreground_pixels": 607500
+  },
+  {
+    "input_path": "data\\raw\\images\\bike_index\\039d568aa7c7dc6e.jpg",
+    "mask_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\039d568aa7c7dc6e_mask.png",
+    "silhouette_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\039d568aa7c7dc6e_silhouette.png",
+    "silhouette_rgba_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\039d568aa7c7dc6e_silhouette_rgba.png",
+    "size": [
+      988,
+      900
+    ],
+    "mask_bbox": [
+      0,
+      0,
+      988,
+      900
+    ],
+    "foreground_pixels": 889200
+  },
+  {
+    "input_path": "data\\raw\\images\\bike_index\\067f7e61f00b2289.jpg",
+    "mask_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\067f7e61f00b2289_mask.png",
+    "silhouette_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\067f7e61f00b2289_silhouette.png",
+    "silhouette_rgba_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\annotations\\exports\\white_silhouettes\\067f7e61f00b2289_silhouette_rgba.png",
+    "size": [
+      1200,
+      900
+    ],
+    "mask_bbox": [
+      0,
+      0,
+      1200,
+      900
+    ],
+    "foreground_pixels": 1080000
+  }
+]

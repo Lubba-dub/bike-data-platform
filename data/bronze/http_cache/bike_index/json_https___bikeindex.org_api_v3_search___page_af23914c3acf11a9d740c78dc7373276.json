@@ -1,0 +1,763 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1762456362,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Diamant",
+      "id": 3224526,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW31817RGMU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.34,
+        12.34
+      ],
+      "stolen_location": "Leipzig, 04177, DE",
+      "thumb": null,
+      "title": "2023 Cube Diamant",
+      "url": "https://bikeindex.org/bikes/3224526",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762041600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Stereo Race 160",
+      "id": 3226347,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW21175PSGV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.35,
+        -1.43
+      ],
+      "stolen_location": "Sheffield, S12 2TS, GB",
+      "thumb": null,
+      "title": "2024 Cube Stereo Race 160",
+      "url": "https://bikeindex.org/bikes/3226347",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761501600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Purple"
+      ],
+      "frame_model": "Hyde Race",
+      "id": 3220436,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW28675PSMV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.07,
+        4.3
+      ],
+      "stolen_location": "Den Haag, 2526 HZ, NL",
+      "thumb": null,
+      "title": "2024 Cube Hyde Race",
+      "url": "https://bikeindex.org/bikes/3220436",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761271528,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Cube",
+      "id": 3219309,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW90820PSET",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        48.52,
+        9.0
+      ],
+      "stolen_location": "Tübingen, 72070, DE",
+      "thumb": null,
+      "title": "2025 Cube Cube",
+      "url": "https://bikeindex.org/bikes/3219309",
+      "year": 2025,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760975757,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "stereo hybrid 160 hpc race",
+      "id": 3217810,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW12705MCFS",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.06
+      ],
+      "stolen_location": "Calgary, T2G 2R5, CA",
+      "thumb": null,
+      "title": "Cube stereo hybrid 160 hpc race",
+      "url": "https://bikeindex.org/bikes/3217810",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760739933,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3216660,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW20973TVGT",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.16
+      ],
+      "stolen_location": "Calgary, T3E 4K1, CA",
+      "thumb": null,
+      "title": "2022 Cube",
+      "url": "https://bikeindex.org/bikes/3216660",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760413488,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Stereo Hybrid 140 HPC Pro 750",
+      "id": 3214040,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW64610LSMU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.16,
+        8.49
+      ],
+      "stolen_location": "Bad Soden, 65812, DE",
+      "thumb": null,
+      "title": "2023 Cube Stereo Hybrid 140 HPC Pro 750",
+      "url": "https://bikeindex.org/bikes/3214040",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760230800,
+      "description": "",
+      "frame_colors": [
+        "Green",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Attain SLX",
+      "id": 3213834,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976435/large_IMG_6516.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "46226645W0W10467XSMW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.21,
+        6.12
+      ],
+      "stolen_location": "Geneve, 1203, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976435/small_IMG_6516.jpeg",
+      "title": "2025 Cube Attain SLX",
+      "url": "https://bikeindex.org/bikes/3213834",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760016720,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3212503,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P-WOW20737PSEW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.46,
+        13.48
+      ],
+      "stolen_location": "Berlin, 12437, DE",
+      "thumb": null,
+      "title": "2024 Cube",
+      "url": "https://bikeindex.org/bikes/3212503",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "",
+      "frame_colors": [
+        "Teal",
+        "Red",
+        "Black"
+      ],
+      "frame_model": "acid",
+      "id": 3208461,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975279/large_IMG_20251009_072425_959.jpg",
+      "location_found": "Edmonton, Canada",
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975279/small_IMG_20251009_072425_959.jpg",
+      "title": "2018 Cube acid",
+      "url": "https://bikeindex.org/bikes/3208461",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759881600,
+      "description": "Rose blush bike, in great condition, black sticker with CUBE logo, and Access EAZ decal. At the time of theft bike had two side mirrors mounted in the handlebars,  seat with rear LED's, and a seat mounted rack.   ",
+      "frame_colors": [
+        "Pink",
+        "Silver, gray or bare metal",
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "Women's Access EAZ",
+      "id": 3207743,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974869/large_CUBE_bike_1.png",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW79489AVFS",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, AB, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974869/small_CUBE_bike_1.png",
+      "title": "2022 Cube Women's Access EAZ",
+      "url": "https://bikeindex.org/bikes/3207743",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759615440,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Supreme",
+      "id": 3208450,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW30214XSGV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.08,
+        17.05
+      ],
+      "stolen_location": "Kittsee, 2421, AT",
+      "thumb": null,
+      "title": "2024 Cube Supreme",
+      "url": "https://bikeindex.org/bikes/3208450",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759511952,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Stereo Hybrid 160 HPC SLX",
+      "id": 3205627,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973487/large_cube2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW14637PSDU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.53,
+        7.59
+      ],
+      "stolen_location": "Basel, 4059, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973487/small_cube2.jpg",
+      "title": "2023 Cube Stereo Hybrid 160 HPC SLX",
+      "url": "https://bikeindex.org/bikes/3205627",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759510800,
+      "description": "Almost new, less than 500km. couple scratches on the fork and bar ends from falling on a trail. Bosch gen 4 motor and powertube.\r\n\r\nHad a cub integrated light. ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Stereo Hybrid 160 HPC SLX",
+      "id": 3205629,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973494/large_cube1copy.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW14637PSDU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.56,
+        7.58
+      ],
+      "stolen_location": "Basel, 4031, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973494/small_cube1copy.jpg",
+      "title": "2023 Cube Stereo Hybrid 160 HPC SLX",
+      "url": "https://bikeindex.org/bikes/3205629",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759370400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "large",
+      "id": 3204867,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW2705MCFS",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.08
+      ],
+      "stolen_location": "Calgary, T2S 2J, CA",
+      "thumb": null,
+      "title": "2021 Cube large",
+      "url": "https://bikeindex.org/bikes/3204867",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759359600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "P-WOW50811PVNW",
+      "id": 3205367,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "#0001VNED",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.01,
+        15.4
+      ],
+      "stolen_location": "Graz, 8054, AT",
+      "thumb": null,
+      "title": "2025 Cube P-WOW50811PVNW",
+      "url": "https://bikeindex.org/bikes/3205367",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759359600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "P-WOW50691PVNW",
+      "id": 3205370,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "#0001UX7U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.01,
+        15.4
+      ],
+      "stolen_location": "Graz, 8054, AT",
+      "thumb": null,
+      "title": "2025 Cube P-WOW50691PVNW",
+      "url": "https://bikeindex.org/bikes/3205370",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760976000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Stereo race",
+      "id": 3203706,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW12705MCFS",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.06
+      ],
+      "stolen_location": "Calgary, T2G 2R5, CA",
+      "thumb": null,
+      "title": "Cube Stereo race",
+      "url": "https://bikeindex.org/bikes/3203706",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758848400,
+      "description": "Diamond frame",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Kathmandu One 500",
+      "id": 1258899,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW31811PSBT",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P 4K8, CA",
+      "thumb": null,
+      "title": "2022 Cube Kathmandu One 500",
+      "url": "https://bikeindex.org/bikes/1258899",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758700800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reaction Hybrid performance",
+      "id": 3201882,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971069/large_IMG_4780.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW70196PSGU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        58.73,
+        5.66
+      ],
+      "stolen_location": "Bryne, 4344, NO",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971069/small_IMG_4780.jpeg",
+      "title": "2023 Cube Reaction Hybrid performance",
+      "url": "https://bikeindex.org/bikes/3201882",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758604354,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reaction Hybrid Performance",
+      "id": 3199592,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/969784/large_IMG20250216220705.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "46510-465-WOW42990PSEW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        59.38,
+        17.98
+      ],
+      "stolen_location": "Solna, 17062, SE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/969784/small_IMG20250216220705.jpg",
+      "title": "2024 Cube Reaction Hybrid Performance",
+      "url": "https://bikeindex.org/bikes/3199592",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758369600,
+      "description": "",
+      "frame_colors": [
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Reaction Pro",
+      "id": 3198314,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/969048/large_Screenshot_2025-09-20_at_10.07.51_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2N 0B2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/969048/small_Screenshot_2025-09-20_at_10.07.51_AM.png",
+      "title": "2013 Cube Reaction Pro",
+      "url": "https://bikeindex.org/bikes/3198314",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758369600,
+      "description": "Was stolen along with a 2013 Cube Reaction hardtail",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Sight A3",
+      "id": 3197720,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968702/large_Screenshot_2025-09-20_at_10.00.55_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0CC0J50088",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2N 0B2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968702/small_Screenshot_2025-09-20_at_10.00.55_AM.png",
+      "title": "2020 Norco Bikes Sight A3",
+      "url": "https://bikeindex.org/bikes/3197720",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758290400,
+      "description": "Bike had drop post seat, pannier racks and kick stand ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": "Access exc",
+      "id": 3197004,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968196/large_IMG_3453.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW16079PSMP",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.91,
+        -113.95
+      ],
+      "stolen_location": "Calgary, T2Z 0L9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968196/small_IMG_3453.jpeg",
+      "title": "2019 Cube Access exc",
+      "url": "https://bikeindex.org/bikes/3197004",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758290400,
+      "description": "Also has drop seat post, pannier racks and kick stand. ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Green"
+      ],
+      "frame_model": "Reaction eagle",
+      "id": 3197006,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968194/large_IMG_3454.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW53166PSGP",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.91,
+        -113.95
+      ],
+      "stolen_location": "Calgary, T2Z 0L9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968194/small_IMG_3454.jpeg",
+      "title": "2019 Cube Reaction eagle",
+      "url": "https://bikeindex.org/bikes/3197006",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

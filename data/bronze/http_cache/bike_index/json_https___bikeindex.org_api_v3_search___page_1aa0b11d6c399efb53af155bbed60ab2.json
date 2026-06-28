@@ -1,0 +1,761 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1754773200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "6700",
+      "id": 752317,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WL1719402",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.04,
+        -87.9
+      ],
+      "stolen_location": "Milwaukee, WI 53202, US",
+      "thumb": null,
+      "title": "Trek 6700",
+      "url": "https://bikeindex.org/bikes/752317",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751760000,
+      "description": "Black Cervelo with red highlights. Vision triathlon aero bars.  Red handlebar tape. Double bottle cage in the rear. I never took a picture of the serial number at the bottom unfortunately. ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "P2",
+      "id": 2833550,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936460/large_IMG_8738.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936460/small_IMG_8738.jpeg",
+      "title": "2011 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/2833550",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751335200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ASR 5",
+      "id": 2830379,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934757/large_75114945802__8ECF87FF-FC83-418C-AC27-89AC5D77A946.jpg",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.68,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80210, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934757/small_75114945802__8ECF87FF-FC83-418C-AC27-89AC5D77A946.jpg",
+      "title": "2010 Yeti ASR 5",
+      "url": "https://bikeindex.org/bikes/2830379",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751331600,
+      "description": "Black Focus Mares Cyclocross Bike. DT Swiss Wheels. Disc Brakes. Pink, Blue, and White Decals. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mares CX 0.0",
+      "id": 2830342,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934719/large_75114945802__8ECF87FF-FC83-418C-AC27-89AC5D77A946.jpg",
+      "location_found": null,
+      "manufacturer_name": "Focus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GF5E1006001",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.68,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80210, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934719/small_75114945802__8ECF87FF-FC83-418C-AC27-89AC5D77A946.jpg",
+      "title": "2015 Focus Mares CX 0.0",
+      "url": "https://bikeindex.org/bikes/2830342",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747954800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Orbea Ordu Triathlon",
+      "id": 2824846,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/931361/large_thumbnail_3C6A62E1-810F-4492-BA88-64EEF2A5DACF.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNMAT5HOC005",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -104.87
+      ],
+      "stolen_location": "Denver, CO 80238, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/931361/small_thumbnail_3C6A62E1-810F-4492-BA88-64EEF2A5DACF.jpg",
+      "title": "2012 Orbea Orbea Ordu Triathlon",
+      "url": "https://bikeindex.org/bikes/2824846",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739181600,
+      "description": "Triathlon bike. SRAM Force eTap AXS Quarq 2x. Kona derailleur cover. ",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Speed Concept SLR 7",
+      "id": 2755532,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890823/large_1000017067.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU081T0012V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.59,
+        -121.41
+      ],
+      "stolen_location": "Sacramento, CA 95825, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890823/small_1000017067.jpg",
+      "title": "2024 Trek Speed Concept SLR 7",
+      "url": "https://bikeindex.org/bikes/2755532",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722819600,
+      "description": "red and black triathlon bike with HED wheels",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "P3C",
+      "id": 2667519,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/838878/large_71296019981__3EDD2CF2-B522-4A54-ABC2-BFEAEE64460E_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.02,
+        -122.8
+      ],
+      "stolen_location": "Lacey, WA 98503, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/838878/small_71296019981__3EDD2CF2-B522-4A54-ABC2-BFEAEE64460E_Original.jpeg",
+      "title": "2008 Cervélo P3C",
+      "url": "https://bikeindex.org/bikes/2667519",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722585600,
+      "description": "Had a triathlon sticker with 408 on the center of the frame.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "FX 2 DISC M RD",
+      "id": 2665465,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/837737/large_Screenshot_2024-08-02_at_9.11.17_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU063XC3170T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.65,
+        -73.79
+      ],
+      "stolen_location": "Albany, NY 12208, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/837737/small_Screenshot_2024-08-02_at_9.11.17_AM.png",
+      "title": "Trek FX 2 DISC M RD",
+      "url": "https://bikeindex.org/bikes/2665465",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721931861,
+      "description": "This is a lightweight aluminum frame triathlon bike with aerobars that was stolen out of my garage. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Cron'Alu",
+      "id": 2660961,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/834718/large_Triathlon_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Guru",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.74,
+        -105.03
+      ],
+      "stolen_location": "Denver, CO 80204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/834718/small_Triathlon_bike.jpg",
+      "title": "Guru Cron'Alu",
+      "url": "https://bikeindex.org/bikes/2660961",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721595600,
+      "description": "Light Blue, triathlon TT bike",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "IA 16",
+      "id": 2662976,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/835908/large_IMG_6341_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F98ID0475",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -123.0
+      ],
+      "stolen_location": "Salem, OR 97301, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/835908/small_IMG_6341_Original.jpeg",
+      "title": "2019 Felt IA 16",
+      "url": "https://bikeindex.org/bikes/2662976",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714197600,
+      "description": "Triathlon (Time Trial) Bike\r\nBlack with Red Accents\r\nPowertap Chainring Power meter",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "S-32",
+      "id": 2591964,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/801181/large_Felt_S-32_-_Copy.jpg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F1410C5915",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/801181/small_Felt_S-32_-_Copy.jpg",
+      "title": "Felt S-32",
+      "url": "https://bikeindex.org/bikes/2591964",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761163200,
+      "description": "Tanuki Small",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Tanuki Small",
+      "id": 2580325,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979223/large_Tanuki_Green.PNG",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN22093263",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.53,
+        -113.5
+      ],
+      "stolen_location": "Edmonton, T6E 2V3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979223/small_Tanuki_Green.PNG",
+      "title": "Kona Tanuki Small",
+      "url": "https://bikeindex.org/bikes/2580325",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1710313200,
+      "description": "Trek Emonda SL5 with lots of quirky changes. At the time of theft, bike was equipped with an ISM triathlon saddle, flat mountain bike pedals, 32mm Specialized gravel tires, shorter than spec stem (90mm), damage around the headset spacer (paint defect), inward-rotated brake levers, and a non-stock rear thru axle made for mounting panniers. Also, it had clipped on pannier mounting brackets on the rear chainstays, a waxed chain, and freshly redone bar tape. In short, it’s not even close to stock and should be easy to identify.",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Emonda SL5",
+      "id": 2573095,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/790325/large_IMG_4393.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU029XT0001S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -76.98
+      ],
+      "stolen_location": "Washington, DC 20002, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/790325/small_IMG_4393.jpeg",
+      "title": "2021 Trek Emonda SL5",
+      "url": "https://bikeindex.org/bikes/2573095",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1705165200,
+      "description": "Black Specialized Shiv Triathlon Bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Shiv Pro Race",
+      "id": 2555752,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/777326/large_Black_Specialized_Shiv_Bike.JPG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604129535I",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.26,
+        -97.71
+      ],
+      "stolen_location": "Austin, TX 78702, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/777326/small_Black_Specialized_Shiv_Bike.JPG",
+      "title": "2015 Specialized Shiv Pro Race",
+      "url": "https://bikeindex.org/bikes/2555752",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1702252800,
+      "description": "Pink pedals, milk crate on back, drop down handle bars with break/shift levers, triathlon bike ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "11500R",
+      "id": 2538681,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/771074/large_1000005916.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBD222L0119T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.67,
+        -79.4
+      ],
+      "stolen_location": "Toronto, M5R 0A3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/771074/small_1000005916.jpg",
+      "title": "2022 Fuji 11500R",
+      "url": "https://bikeindex.org/bikes/2538681",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688920800,
+      "description": "This grey Cervelo P2 Triathlon Bike - 51 inch.  Bike seat is fraying apart",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "P2",
+      "id": 1552574,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/720444/large_Bike_photo.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/720444/small_Bike_photo.jpg",
+      "title": "2006 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/1552574",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1686873600,
+      "description": "It's a triathlon bike, it has electronic shifting, it has a custom made tool box and the charger of the shifting is located differently than originally.",
+      "frame_colors": [
+        "Green",
+        "Black",
+        "White"
+      ],
+      "frame_model": "P3 Ultegra",
+      "id": 1540256,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/712096/large_WhatsApp_Image_2023-06-11_at_09.29.32.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP3D18E00143",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.66,
+        -98.58
+      ],
+      "stolen_location": "San Antonio, TX 78257, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/712096/small_WhatsApp_Image_2023-06-11_at_09.29.32.jpg",
+      "title": "2018 Cervélo P3 Ultegra",
+      "url": "https://bikeindex.org/bikes/1540256",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1686067200,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Veloce 100 SRAM - Triathlon bike",
+      "id": 1533460,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/707511/large_images.jpg",
+      "location_found": null,
+      "manufacturer_name": "Velo Vie",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.92,
+        -90.11
+      ],
+      "stolen_location": "New Orleans, LA 70115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/707511/small_images.jpg",
+      "title": "Velo Vie Veloce 100 SRAM - Triathlon bike",
+      "url": "https://bikeindex.org/bikes/1533460",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1685757600,
+      "description": "Cervelo P3 Triathlon Bike with ENV SES 7.8 aero rims and Shimano DurAce electronic shifting",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "P3",
+      "id": 1535389,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/708955/large_P3-1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP3L 13C00099",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.71,
+        -117.77
+      ],
+      "stolen_location": "Irvine, CA 92620, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/708955/small_P3-1.jpg",
+      "title": "2015 Cervélo P3",
+      "url": "https://bikeindex.org/bikes/1535389",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722888000,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Triathlon",
+      "id": 1507880,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/740813/large_EEA19B8E-326B-42BB-A0F6-311FC58F60DF.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Peugeot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Y001 16064",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.8,
+        -95.42
+      ],
+      "stolen_location": "Houston, TX 77008, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/740813/small_EEA19B8E-326B-42BB-A0F6-311FC58F60DF.jpeg",
+      "title": "1990 Peugeot Triathlon",
+      "url": "https://bikeindex.org/bikes/1507880",
+      "year": 1990,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1674514162,
+      "description": "Cervelo P2 Triathlon Bike",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "P2",
+      "id": 1456839,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2C11J50189",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2012 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/1456839",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1672462800,
+      "description": "This was the first bike I purchased. I'm a runner who was hoping to try a triathlon, so I bought a road bike.\r\n\r\nUnfortunately the bike got stolen from my garage.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 1691370,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/763032/large_IMG_9343.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU143C3985P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        27.94,
+        -82.52
+      ],
+      "stolen_location": "Tampa, FL 33609, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/763032/small_IMG_9343.jpg",
+      "title": "2019 Trek",
+      "url": "https://bikeindex.org/bikes/1691370",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1671879600,
+      "description": "Black and white triathlon bike",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "576 Aero",
+      "id": 1209911,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/664786/large_Look_576_-_profile.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L2101C9CT3",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.84,
+        -122.24
+      ],
+      "stolen_location": "Oakland, CA 94618, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/664786/small_Look_576_-_profile.jpeg",
+      "title": "2011 Other 576 Aero",
+      "url": "https://bikeindex.org/bikes/1209911",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1667470800,
+      "description": "Light grey with white \"SPECIALIZED\" and \"Sequoia\" text outlined with a thin black outline. When it was stolen, it had a white wire water bottle holder, black phone mount on the middle of the handlebars, and a 116 Trinona triathlon sticker under the seat.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Sequoia",
+      "id": 1443677,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/661018/large_IMG_3980.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P4IY34388",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/661018/small_IMG_3980.jpeg",
+      "title": "Specialized Sequoia",
+      "url": "https://bikeindex.org/bikes/1443677",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1666468800,
+      "description": "Triathlon bike black, yellow and blue. 60mm wheels Yellow bottle holders ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "IA-14",
+      "id": 1411415,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/650699/large_1._Bike_Fekt_IA-14.jpg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F703D0632",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.19
+      ],
+      "stolen_location": "Calgary, T3H 5C7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/650699/small_1._Bike_Fekt_IA-14.jpg",
+      "title": "2016 Felt IA-14",
+      "url": "https://bikeindex.org/bikes/1411415",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

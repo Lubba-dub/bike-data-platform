@@ -1,0 +1,751 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1767648959,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Pink"
+      ],
+      "frame_model": "Bridge club",
+      "id": 3255961,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302-5663, US",
+      "thumb": null,
+      "title": "2021 Surly Bridge club",
+      "url": "https://bikeindex.org/bikes/3255961",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767560400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3285991,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M21095169",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.18,
+        -85.71
+      ],
+      "stolen_location": "Louisville, KY 40213, US",
+      "thumb": null,
+      "title": "Surly",
+      "url": "https://bikeindex.org/bikes/3285991",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767435600,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Purple"
+      ],
+      "frame_model": "Light bee X",
+      "id": 3255442,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HU3S1YWB2P0010633",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": null,
+      "title": "2023 Surly Light bee X",
+      "url": "https://bikeindex.org/bikes/3255442",
+      "year": 2023,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767222000,
+      "description": "Surly Long Haul Trucker, 100% Surly 4130 CroMoly steel. Main triangle double-butted. TIG-welded",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Long Haul Trucker",
+      "id": 3344383,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/9860/lht_sv_930x390.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B20392007",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/9860/small_lht_sv_930x390.jpg",
+      "title": "2012 Surly Long Haul Trucker",
+      "url": "https://bikeindex.org/bikes/3344383",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766627354,
+      "description": "Custom build Kona a scab\r\nSurly Front fork\r\nSurly Sunrise bars\r\nSturmy Archer drum brake hubs\r\nInternal gear hub\r\nXTR cranks \r\nFUNN pedals\r\nPurple specialized p.series stem\r\nGrey housing\r\nTan color grips\r\nKS dropper post\r\nCannondale saddle \r\n\r\nCurrently has specialized studded tire on it for winter",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Scab",
+      "id": 3253068,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/992791/large_1000004711.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.08
+      ],
+      "stolen_location": "Calgary, T2R 1H9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/992791/small_1000004711.jpg",
+      "title": "2001 Kona Scab",
+      "url": "https://bikeindex.org/bikes/3253068",
+      "year": 2001,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "On found property at Seattle Police Evidence Unit.  If owner, contact SPDEvidenceUnit@seattle.gov or 206-684-8730.  SPD #2025-261157.  --A/Sgt Christopher Shier, SPD.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Straggler",
+      "id": 3250609,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Seattle, WA 98117, United States",
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Surly Straggler",
+      "url": "https://bikeindex.org/bikes/3250609",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765899591,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Straggler",
+      "id": 3250608,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M18110806",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 9817, US",
+      "thumb": null,
+      "title": "Surly Straggler",
+      "url": "https://bikeindex.org/bikes/3250608",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765037700,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cross-Check",
+      "id": 3237855,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M20103010",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.41
+      ],
+      "stolen_location": "San Fransisco, CA 94133, US",
+      "thumb": null,
+      "title": "Surly Cross-Check",
+      "url": "https://bikeindex.org/bikes/3237855",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763669608,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Karate Monkey Front Suspension Bike - , Steel, Lost at SeaBlue, Medium",
+      "id": 3229546,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M24052233",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.83,
+        -122.26
+      ],
+      "stolen_location": "Oakland, CA 94609, US",
+      "thumb": null,
+      "title": "2025 Surly Karate Monkey Front Suspension Bike -...",
+      "url": "https://bikeindex.org/bikes/3229546",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763665200,
+      "description": "Green surly ogre, brown and black camo bar tape. Tan bar bag, gravel wide tires with tan walls.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Ogre",
+      "id": 3229821,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986768/large_surlyogre.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.05,
+        -123.09
+      ],
+      "stolen_location": "Eugene, OR 97405-1504, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986768/small_surlyogre.jpg",
+      "title": "2016 Surly Ogre",
+      "url": "https://bikeindex.org/bikes/3229821",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763449200,
+      "description": "Yellow cable housing, yellow rim strips, yellow lettering.",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Pugsley",
+      "id": 3229070,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986217/large_IMG_2692.JPG_compressed.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.28
+      ],
+      "stolen_location": "Minneapolis, MN 55409, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986217/small_IMG_2692.JPG_compressed.JPEG",
+      "title": "2013 Surly Pugsley",
+      "url": "https://bikeindex.org/bikes/3229070",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763280000,
+      "description": "Black Surly Disc Trucker. Rear rack. At time it was stolen front wheel was not original, front wheel had a white stripe on it. Don't have serial. When stolen it had surf board bars off to the right side of the bike.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3228470,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985758/large_1000058207.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.81,
+        -117.92
+      ],
+      "stolen_location": "Anaheim, CA 92802, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985758/small_1000058207.jpg",
+      "title": "2019 Surly",
+      "url": "https://bikeindex.org/bikes/3228470",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763280000,
+      "description": "Green bike frame with yellow bottle holder. Black wheels, seat, and handle bar. Disc breaks.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3228492,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985766/large_1000058207.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU318XC0103T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.81,
+        -117.92
+      ],
+      "stolen_location": "Anaheim, CA 92802, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985766/small_1000058207.jpg",
+      "title": "2024 Trek",
+      "url": "https://bikeindex.org/bikes/3228492",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763250011,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Bridge club",
+      "id": 3228077,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M23084972",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -33.9,
+        151.18
+      ],
+      "stolen_location": "Newtown, 2042, AU",
+      "thumb": null,
+      "title": "2025 Surly Bridge club",
+      "url": "https://bikeindex.org/bikes/3228077",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762623655,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Surly Preamble drop bar",
+      "id": 3225201,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983926/large_IMG_0076.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CA21111216",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.97,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983926/small_IMG_0076.jpeg",
+      "title": "2025 Surly Surly Preamble drop bar",
+      "url": "https://bikeindex.org/bikes/3225201",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762394400,
+      "description": "Top tube with stickers affixed to it: \"Cadence Records and Coffee\" \"Save the Boundary Waters\" amongst others. Also had a cloth cup holder attached to right handlebar",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Preamble",
+      "id": 3224438,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CA21111787",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": null,
+      "title": "2023 Surly Preamble",
+      "url": "https://bikeindex.org/bikes/3224438",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762077600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Midnight Special",
+      "id": 3222970,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982358/large_IMG_5815.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M21023632",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.02,
+        -93.3
+      ],
+      "stolen_location": "Minneapolis, MN 55412, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982358/small_IMG_5815.jpeg",
+      "title": "2022 Surly Midnight Special",
+      "url": "https://bikeindex.org/bikes/3222970",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761980400,
+      "description": "",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Bridge club",
+      "id": 3222626,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982151/large_IMG_5931.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M28082605",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.74,
+        -104.99
+      ],
+      "stolen_location": "Denver, CO 80247, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982151/small_IMG_5931.jpeg",
+      "title": "Surly Bridge club",
+      "url": "https://bikeindex.org/bikes/3222626",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761930000,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Cross-Check",
+      "id": 2818309,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982033/large_IMG_6660.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M16102027",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.25
+      ],
+      "stolen_location": "Minneapolis, MN 55407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982033/small_IMG_6660.jpeg",
+      "title": "Surly Cross-Check",
+      "url": "https://bikeindex.org/bikes/2818309",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761771691,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Straggler",
+      "id": 3221696,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981512/large_IMG_9763.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M17110414",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981512/small_IMG_9763.jpeg",
+      "title": "2020 Surly Straggler",
+      "url": "https://bikeindex.org/bikes/3221696",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761343200,
+      "description": "My bike is matte black, without any Surly decales on it. It has several scratches on the top tube and the seat has a sizeable rip at it's front tip. The bike has a black back rack, Portland Industry rain fenders on the front and back, and two water bottle holders in the triangle (one is a standard REI holder and the other is an adjustable holder). The bike also had black Swift Industries front bag carrying a rain jacket, extra tubes, a pump and my bike tools.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Straggler",
+      "id": 3219726,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979932/large_HNI_0031_Original.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M16025001",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.26
+      ],
+      "stolen_location": "Minneapolis, MN 55415, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979932/small_HNI_0031_Original.jpg",
+      "title": "Surly Straggler",
+      "url": "https://bikeindex.org/bikes/3219726",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760598000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Ogre",
+      "id": 837679,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/455286/large_surly_ogre.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M19101975",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.53
+      ],
+      "stolen_location": "Edmonton, T5H 3N9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/455286/small_surly_ogre.jpg",
+      "title": "2020 Surly Ogre",
+      "url": "https://bikeindex.org/bikes/837679",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760364000,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Cross-Check",
+      "id": 1091774,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976358/large_cross_check.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M12060403",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976358/small_cross_check.jpg",
+      "title": "2015 Surly Cross-Check",
+      "url": "https://bikeindex.org/bikes/1091774",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760346000,
+      "description": "Midnight Special Bike - 650b, Steel, Black, Brooks saddle, silver toe clips, angry catfish bicycle shop sticker",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Midnight Special Bike - 650b, Steel, Black,",
+      "id": 649387,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976550/large_Screen_Shot_2025-10-13_at_6.36.29_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M19043870",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976550/small_Screen_Shot_2025-10-13_at_6.36.29_PM.png",
+      "title": "Surly Midnight Special Bike - 650b, Steel, ...",
+      "url": "https://bikeindex.org/bikes/649387",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 3206551,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Portland, OR, United States",
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Surly",
+      "url": "https://bikeindex.org/bikes/3206551",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

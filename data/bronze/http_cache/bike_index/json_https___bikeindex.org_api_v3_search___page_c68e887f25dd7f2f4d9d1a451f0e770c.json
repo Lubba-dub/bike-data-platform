@@ -1,0 +1,756 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1739379600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CTI commuter Step over E bike",
+      "id": 2755829,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/891087/large_IMG_0812.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GOTRAX",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GTSCTI2305WHI0101",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.48,
+        -73.21
+      ],
+      "stolen_location": "Burlington, VT 05401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/891087/small_IMG_0812.jpeg",
+      "title": "2024 GOTRAX CTI commuter Step over E bike",
+      "url": "https://bikeindex.org/bikes/2755829",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739120400,
+      "description": "Blue (Glacier), bell mounted upside down on right side of handlebars",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Level.2 Commuter",
+      "id": 2755216,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890603/large_PXL_20250202_201008734.jpg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LL4F1425",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.78,
+        -84.35
+      ],
+      "stolen_location": "Atlanta, GA 30306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890603/small_PXL_20250202_201008734.jpg",
+      "title": "2025 Aventón Level.2 Commuter",
+      "url": "https://bikeindex.org/bikes/2755216",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738882800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Super commuter + 7",
+      "id": 2754814,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890339/large_IMG_2415.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SWTU053G1437N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -105.05
+      ],
+      "stolen_location": "Denver, CO 80212, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890339/small_IMG_2415.jpeg",
+      "title": "2019 Trek Super commuter + 7",
+      "url": "https://bikeindex.org/bikes/2754814",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738800000,
+      "description": "Lightweight commuter e-bike with 350W rear hub motor and 7-speed drivetrain.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Soltera 2.5",
+      "id": 2754945,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890453/large_Screenshot_from_2025-02-08_11-13-48.png",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SR410068",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.87,
+        -122.26
+      ],
+      "stolen_location": "Berkeley, CA 94720, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890453/small_Screenshot_from_2025-02-08_11-13-48.png",
+      "title": "2024 Aventón Soltera 2.5",
+      "url": "https://bikeindex.org/bikes/2754945",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738760400,
+      "description": "Commuter aluminium road bike; overall very good state, just a very few scratches on the paint of the frame. I've changed the flat handlebar for a raiser one.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "dew deluxe",
+      "id": 2754075,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889946/large_20230505_160025.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN22041831",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.84,
+        4.35
+      ],
+      "stolen_location": "Brussels, 1000, BE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889946/small_20230505_160025.jpg",
+      "title": "2022 Kona dew deluxe",
+      "url": "https://bikeindex.org/bikes/2754075",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737979200,
+      "description": "RadCity 5 Plus Electric Commuter Bike - Step-Thru in Charcoal, with a bike light, two LED displays, rear rack and tail light.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RadCity 5 Plus Electric Commuter Bike - Step-Thru",
+      "id": 1350837,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/613948/large_3377EBED-4F88-46A8-A65A-9C946C0F690E.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CU5H21B2428",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.27
+      ],
+      "stolen_location": "Oakland, CA 94612, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/613948/small_3377EBED-4F88-46A8-A65A-9C946C0F690E.jpeg",
+      "title": "2021 Rad Power Bikes RadCity 5 Plus Electric Commuter Bike...",
+      "url": "https://bikeindex.org/bikes/1350837",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736730000,
+      "description": "Has hexagonal reflective stickers on the front fork, has a bike link sticker on the seat tube. Has added on front and rear fenders. Shifter plastic is cracked but working.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Commuter 3",
+      "id": 362817,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/884665/large_2024-04-18_12.02.15.jpg",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UUXK33722",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.28
+      ],
+      "stolen_location": "Alameda, CA 94501, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/884665/small_2024-04-18_12.02.15.jpg",
+      "title": "Jamis Commuter 3",
+      "url": "https://bikeindex.org/bikes/362817",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774108800,
+      "description": "Beasley 27.5 Urban Commuter Bike X-Large",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Beasley 27.5 Urban Commuter Bike X-Large",
+      "id": 2746069,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Haro",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GHA21H54015",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T6E 2E5, CA",
+      "thumb": null,
+      "title": "2024 Haro Beasley 27.5 Urban Commuter Bike X-Large",
+      "url": "https://bikeindex.org/bikes/2746069",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735948800,
+      "description": "Has the addition of side mirrors and schwalbe replacement tires ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City 5 Plus Electric Commuter Bike",
+      "id": 2745406,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/883424/large_inbound1186894618874113810.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CH5D22B1420",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.76,
+        -122.49
+      ],
+      "stolen_location": "Bellingham, WA 98225, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/883424/small_inbound1186894618874113810.jpg",
+      "title": "2024 Rad Power Bikes Rad City 5 Plus Electric Commuter Bike",
+      "url": "https://bikeindex.org/bikes/2745406",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733623200,
+      "description": "I came outside this morning 12/7/24 to find my prized commuter had disappeared from my backyard. Near City Park and Mountain. Likely stolen in the night. It was a barn find that I rebuilt and added many non-stock parts parts to, and I haven't seen seen anything similar to it around town. Unfortunately I did not write down the serial number, but I will be filing reports with Bike Index and the city.\r\n\r\n~1994 Red Specialized Crossroads in XL/Large with White Decals\r\n\r\nUPANBIKE butterfly bars Wrapped in Red (Most Distinctive)\r\nBlack Avid Speed Dial Brake Levers\r\nKoski V-Brake front/ Avid Single Digit Rear Calipers\r\nNo-name 3x8 Speed Shifters\r\nShimano Deore LX Rear Derailleur\r\nVintage Shimano Exage? Front Derailleur\r\nPuroma Red Pedals\r\nBlack Easton Front Wheel - Specialized Sawtooth Tire\r\nDura-Ace Hub With Mavic Rim Rear Wheel - Goodyear Transit Speed Tire\r\nSilver Sunrace 11-40t Cassette on the Rear Wheel (Big Gear on back wheel)\r\nBontrager Seat\r\n\r\nOther Stuff:\r\n\r\nFaded Brown REI Flash Pannier on left side\r\nJim Blackburn Bottle Cage and JBlackburn Rear Rack\r\nAdjustable Bottle Cage on seat tube\r\nRockBros Tubetop Bag and Frame Bag\r\nPolar Colorado Water Bottle\r\nRed Phone Mount\r\nBlitzu Bike Light (Paint Heavily Faded)\r\nOnGuard U Lock (Unlocked)",
+      "frame_colors": [
+        "Red",
+        "White"
+      ],
+      "frame_model": "Crossroads",
+      "id": 2735992,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/878232/large_IMG_4516.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.59,
+        -105.14
+      ],
+      "stolen_location": "Fort Collins, CO 80521, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/878232/small_IMG_4516.JPEG",
+      "title": "1994 Specialized Crossroads",
+      "url": "https://bikeindex.org/bikes/2735992",
+      "year": 1994,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733479200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RadCity Electric Commuter Bike - 16\"",
+      "id": 2735629,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/878067/large_IMG_0580.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.4
+      ],
+      "stolen_location": "Los Angeles, CA 90034, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/878067/small_IMG_0580.jpeg",
+      "title": "2017 Rad Power Bikes RadCity Electric Commuter Bike - 16\"",
+      "url": "https://bikeindex.org/bikes/2735629",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733371200,
+      "description": "Mountain bike now the commuter",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 925747,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/334938/large_1A2357E6-22DB-4370-B333-D11ACD3BCB83.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bridgestone",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M3BA057XX",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.4,
+        -122.75
+      ],
+      "stolen_location": "Santa Rosa, CA 95407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/334938/small_1A2357E6-22DB-4370-B333-D11ACD3BCB83.jpeg",
+      "title": "Bridgestone",
+      "url": "https://bikeindex.org/bikes/925747",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732755600,
+      "description": "Gray commuter electric bicycle with black wheels and brown leather seat and hand grips. Brand: Ride1Up. Model: 500 Series.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "500 Series",
+      "id": 2731555,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876640/large_Ride1Up_500_Series_Electric_Bicycle.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ1210100221",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876640/small_Ride1Up_500_Series_Electric_Bicycle.jpg",
+      "title": "2021 Ride1Up 500 Series",
+      "url": "https://bikeindex.org/bikes/2731555",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732701600,
+      "description": "Commuter bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 1167808,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/485634/large_IMG_8843_copy.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC602286014M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/485634/small_IMG_8843_copy.jpg",
+      "title": "2018 Specialized",
+      "url": "https://bikeindex.org/bikes/1167808",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732237200,
+      "description": "Level.2 Step-Through Commuter Ebike, the color is white (officially called \"polar\"). It has a black metal basket on the back, and a red bell and a phone holder in the front (but who knows what the thieves might detach). The display is scratched and covered with transparent tape. The bike has about 3,000 miles and I've been driving it for >220 hours (according to the display as far as I remember). I added reflectors to the spokes.\r\n\r\nThe bike trailer (also stolen along with the bike) is Burley Honey Bee and can also be turned into a stroller. It's red, also has reflectors on the spikes, and the tires are Schwalbe Marathon Plus. Inside in the front, the bottom was ripped and fixed with black roof tape from the outside bottom, with a little whole down in the middle.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Step-through",
+      "id": 2731304,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LL3E0979",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        35.71,
+        -105.84
+      ],
+      "stolen_location": "Santa Fe, NM 87501, US",
+      "thumb": null,
+      "title": "2023 Aventón Step-through",
+      "url": "https://bikeindex.org/bikes/2731304",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732103040,
+      "description": "Non-functional e-bike that looks more like a commuter bike. It pedals but it is hard to get moving.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Roadster v2 Gravel",
+      "id": 2729319,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/875409/large_IMG_5346.png",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ2220209246",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.56,
+        -121.5
+      ],
+      "stolen_location": "Sacramento, CA 95818, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/875409/small_IMG_5346.png",
+      "title": "2022 Ride1Up Roadster v2 Gravel",
+      "url": "https://bikeindex.org/bikes/2729319",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730628000,
+      "description": "electric commuter bike -- 750 watt detachable battery",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City Step-Thru 3",
+      "id": 1070153,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/440257/large_RadCity_Step-Thru_3_-_Electric_City_Bike_Rad_Power_Bikes.png",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CU3A21F4684",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.14,
+        -117.32
+      ],
+      "stolen_location": "Carlsbad, CA 92008, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/440257/small_RadCity_Step-Thru_3_-_Electric_City_Bike_Rad_Power_Bikes.png",
+      "title": "2021 Rad Power Bikes Rad City Step-Thru 3",
+      "url": "https://bikeindex.org/bikes/1070153",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749630780,
+      "description": "Marlin 5 is a trail-worthy daily rider that's perfectly suited for everyday adventures, on and off the trail. A suspension fork, 2x8 drivetrain, and mounts for a rack and kickstand make it an ideal choice for new trail riders or anyone looking for a comfortable, stable commuter with the ruggedness of a real mountain bike.",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Green"
+      ],
+      "frame_model": "Marlin 5 GEN 2",
+      "id": 2722594,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/871390/large_DomaneAL2-24-41587-A-Primary.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU245JC0860T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.95,
+        -122.02
+      ],
+      "stolen_location": "Concord, CA 94518, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/871390/small_DomaneAL2-24-41587-A-Primary.jpg",
+      "title": "2023 Trek Marlin 5 GEN 2",
+      "url": "https://bikeindex.org/bikes/2722594",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738299600,
+      "description": "Red XL Bianchi Road Bike. Used for races and now is a commuter bike with a rear bike. Shimano pedals",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Via Nirone Sora Compact",
+      "id": 2720544,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/870015/large_IMG_5167.JPG",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBK727379J",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.68,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/870015/small_IMG_5167.JPG",
+      "title": "2015 Bianchi Via Nirone Sora Compact",
+      "url": "https://bikeindex.org/bikes/2720544",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730056907,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Level.2 Commuter Electric Bike",
+      "id": 2720470,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/869965/large_aventon-level-2-supplied-ebike-cnnu.jpg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.65,
+        -122.54
+      ],
+      "stolen_location": "Bainbridge Island, WA 98110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/869965/small_aventon-level-2-supplied-ebike-cnnu.jpg",
+      "title": "2023 Aventón Level.2 Commuter Electric Bike",
+      "url": "https://bikeindex.org/bikes/2720470",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776424943,
+      "description": "bought this bike on amazon in 2023",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "folding commuter bike",
+      "id": 2716744,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/867595/large_20241018_171306.jpg",
+      "location_found": null,
+      "manufacturer_name": "unknown amazon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JC02541",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/867595/small_20241018_171306.jpg",
+      "title": "unknown amazon folding commuter bike",
+      "url": "https://bikeindex.org/bikes/2716744",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728972000,
+      "description": "Either 2023 or 2024 model. Glacier blue color. It had a water bottle holder, one saddlebag on it, cell phone holder, bell attached. \r\n\r\nThe photo with 3bikes show my bike on the front left of the picture. The other photo is my husband’s bike which is exactly the same except mine is a step through. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Level 2 Step-through commuter",
+      "id": 2716441,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/867552/large_Resized_20241018_123055.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LL4A1583",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.57
+      ],
+      "stolen_location": "Edmonton, T5R 0N9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/867552/small_Resized_20241018_123055.jpeg",
+      "title": "Aventón Level 2 Step-through commuter",
+      "url": "https://bikeindex.org/bikes/2716441",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1779394500,
+      "description": "Foldable Belt Drive Commuter eBike\r\nXP Lite 2.0 JW Black eBike\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 2712826,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD24GE3575",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.87,
+        -118.06
+      ],
+      "stolen_location": "Cerritos, CA 90703, US",
+      "thumb": null,
+      "title": "2024 Lectric eBikes",
+      "url": "https://bikeindex.org/bikes/2712826",
+      "year": 2024,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728486000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RadCity Electric Commuter Bike Version 4 × 1",
+      "id": 2712992,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "143057873",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.85,
+        -84.36
+      ],
+      "stolen_location": "Atlanta, GA 30326, US",
+      "thumb": null,
+      "title": "2021 Rad Power Bikes RadCity Electric Commuter Bike Versio...",
+      "url": "https://bikeindex.org/bikes/2712992",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728309600,
+      "description": "It's just a normal city commuter bike with the ancient pedal power. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Yorkville",
+      "id": 2710669,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/863690/large_20241005_052835.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B21NCX8I150",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/863690/small_20241005_052835.jpg",
+      "title": "2019 Norco Bikes Yorkville",
+      "url": "https://bikeindex.org/bikes/2710669",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

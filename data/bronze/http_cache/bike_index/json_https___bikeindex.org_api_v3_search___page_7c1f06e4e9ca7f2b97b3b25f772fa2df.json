@@ -1,0 +1,362 @@
+{
+  "bikes": [
+    {
+      "date_stolen": null,
+      "description": "A man left the bike on our side yard!",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2794927,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Denver, CO 80233, United States",
+      "manufacturer_name": "Hardrocx",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Hardrocx",
+      "url": "https://bikeindex.org/bikes/2794927",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722524400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Enduro Elite",
+      "id": 2664935,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/837479/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC614084102N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.14
+      ],
+      "stolen_location": "Calgary, T3E 2X2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/837479/small_bike.jpg",
+      "title": "2018 Specialized Enduro Elite",
+      "url": "https://bikeindex.org/bikes/2664935",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1695684600,
+      "description": "Dark Blue, full-sus, fox fork and shock, right handle rubber is wearing off",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Enduro Expert FSR",
+      "id": 1670040,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/751793/large_IMG_8355.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.7,
+        -117.45
+      ],
+      "stolen_location": "Spokane, WA 99205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/751793/small_IMG_8355.jpg",
+      "title": "Specialized Enduro Expert FSR",
+      "url": "https://bikeindex.org/bikes/1670040",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1664834400,
+      "description": "Black Unbranded Enduro Ebike made by Light Carbon with Bafang Motor. It has Shimano Deore components with Rockshock Pike fork and Rockshox super Deluxe rear shock. DT swiss wheels. It has a charging port that comes out just above where the Battery is on the under side of the downtube. It has a PNW dropper seatpost. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "LCES004",
+      "id": 1410204,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/644306/large_Ebike.jpg",
+      "location_found": null,
+      "manufacturer_name": "LightCarbon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.93,
+        -104.88
+      ],
+      "stolen_location": "Colorado Springs, CO 80919, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/644306/small_Ebike.jpg",
+      "title": "2021 LightCarbon LCES004",
+      "url": "https://bikeindex.org/bikes/1410204",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1649657700,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Enduro",
+      "id": 1267609,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/555985/large_6857E9D5-3968-4D40-A8A9-A011F81DD686.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004225538P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.97,
+        -122.03
+      ],
+      "stolen_location": "Santa Cruz, CA 95060, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/555985/small_6857E9D5-3968-4D40-A8A9-A011F81DD686.jpeg",
+      "title": "2019 Specialized Enduro",
+      "url": "https://bikeindex.org/bikes/1267609",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1649656800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Enduro",
+      "id": 1266737,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/555407/large_65ED8547-0E24-4FA6-900F-CEA0027ADE30.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.97,
+        -122.03
+      ],
+      "stolen_location": "Santa Cruz, CA 95060, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/555407/small_65ED8547-0E24-4FA6-900F-CEA0027ADE30.jpeg",
+      "title": "2019 Specialized Enduro",
+      "url": "https://bikeindex.org/bikes/1266737",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1640120400,
+      "description": "Frame: 2021 Commencal Meta TR 29 (size: Medium) in \"High Polished\"\r\n\r\nFork: Fox 36 GRIP 2 Performance Elite 160mm travel (I installed an aftermarket axle that requires a 6mm allen to remove)\r\n\r\nRear Shock: Rockshox Super Deluxe Ultimate Air\r\n\r\nHeadset: Cane Creek 40 Series\r\n\r\nStem: ANVL Swage 40mm Length\r\n\r\nBars: Chromag OSX 35\r\n\r\nGrips: ODI Elite Flow Lock-On\r\n\r\nBrakes: TRP DH-R Evo\r\n\r\nRotors: TRP R1 203mm (2.3mm width)\r\n\r\nShifter: SRAM X01 12-speed\r\n\r\nDerailleur: SRAM X01 12-speed\r\n\r\nCrankset: SRAM X01 Eagle DUB Boost (Carbon)\r\n\r\nChainring: SRAM Eagle 32 Tooth\r\n\r\nChain: SRAM GX 12-speed\r\n\r\nCassette: SRAM X01 Eagle 12-speed\r\n\r\nBottom Bracket: SRAM DUB BB92\r\n\r\nFront Rim: Stans Flow MK3\r\n\r\nRear Rim: RaceFace Turbine R \r\n\r\nFront Hub: Stans NEO\r\n\r\nRear Hub: RaceFace Vault\r\n\r\nFront Tire: 29x2.4\" Maxxis Minion DHF \r\n\r\nRear Tire: 29x2.3\" Maxxis Minion DHF \r\n\r\nSeatpost: PNW Components Loam Dropper 170mm \r\nTravel, 34.9mm diameter\r\n\r\nDropper Post Lever: Fox Transfer in black\r\n\r\nSaddle: ANVL Forge Ti\r\n\r\nBottle Cage: Specialized Zee (right side style)\r\n\r\nSeat Clamp: Ride Alpha 38.5mm dia. in Black\r\n",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Meta TR",
+      "id": 1201733,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/504896/large_20211116_090754.jpg",
+      "location_found": null,
+      "manufacturer_name": "Commencal Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.21
+      ],
+      "stolen_location": "Boulder, CO 80303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/504896/small_20211116_090754.jpg",
+      "title": "2021 Commencal Bikes Meta TR",
+      "url": "https://bikeindex.org/bikes/1201733",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1606693800,
+      "description": "- Carbon C frame\r\n- Full InvisiFrame wrap kit, noticeable paint wear from heel rub on the left side chainstay\r\n- Fox 36 Factory 160mm fork, a few scratches on the right side lower leg\r\n- Fox DHX2 coil shock, 650# spring\r\n- Fox Transfer 150mm seatpost\r\n- Enve DH handlebar and stem, a few scuffs along the front side of the bar\r\n- TRP DH-R EVO brakes, 203mm rotors\r\n- SRAM GX Eagle derailleur\r\n- SRAM X01 Eagle shifter\r\n- SRAM Stylo 175mm cranks\r\n- DT Swiss EX511 wheels\r\n- Industry Nine Torch hubs\r\n- Michelin Wild Enduro tires front/rear",
+      "frame_colors": [
+        "Teal",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Bronson",
+      "id": 954205,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/369968/large_IMG_1108.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS1805P-12439C",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.26,
+        -121.9
+      ],
+      "stolen_location": "San Jose, CA 95118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/369968/small_IMG_1108.jpg",
+      "title": "2019 Santa Cruz Bronson",
+      "url": "https://bikeindex.org/bikes/954205",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1590393600,
+      "description": "M5 aluminum, 29\" geometry, tapered headtube, PF30 BB, ISCG '05 mount, internal Command Post BlackLite routing, 142+ dropouts, sealed cartridge bearing pivots, replaceable derailleur hanger, removable Taco Blade, 155mm travel",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Enduro Comp 29",
+      "id": 745445,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/253088/large_Screenshot_20200525-155103_Photos.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC6010312881",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -105.02
+      ],
+      "stolen_location": "Denver, CO 80211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/253088/small_Screenshot_20200525-155103_Photos.jpg",
+      "title": "2014 Specialized Enduro Comp 29",
+      "url": "https://bikeindex.org/bikes/745445",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1559024100,
+      "description": "Hey all, just got my $3500 ebike stolen by a guy who said he wanted to buy it. He said he wouldn't buy it unless he tried it. God I hate myself right now. If anyone sees it posted to sell, let me know. Here's some pictures of the bike and his fake ID. \r\n\r\nHe is a late 30's early 40's 6'3-6'5\" caucasian male with light blue/green eyes. His hair is long and slicked back and has facial hair identical to the photo provided. No visible tattoos. He wore a long sleeve green jacket with tan pants.\r\n\r\nPrior to the sheriffs arrival to my location, they were responding to a call to a nearby street for 2 men loading a bike into a u-haul attached to a red Cadillac and the callers said the whole situation seemed very suspicious. Unfortunately they did not make it in time. The sheriffs think that was my bike or the thieves were stealing multiple bikes in the area.\r\n\r\nWe met up at Yes Plaza in Rowland Heights because the plaza is well lit and the majority of the restaurants were still open during that time. The location was also in front of a Los Angeles County Sheriff service station (it turns out its only operated by volunteers and open during specific hours).\r\n\r\nHe approached me from a direction I wasn't looking at and said his girlfriend dropped him off and that she was getting gas for the truck. Initially I refused his request to demo my bike and I went around the parking lot a few times to show him that the bike is functioning. I should've stuck with my gut or at least held all his possessions as a deposit. In hindsight the thief seemed pushy and I believe he was trying to distract me from looking too closely at his ID.\r\n\r\nI should've known better but one thing that really threw me off is when he said \"I can't buy this unless I try it\" I thought it was a fair point as it's a pretty expensive 2nd hand purchase. Theft wasn't on my mind as much as liability. What if he hit someone or a car? Or dropped the bike? Taking off with the bike was on the lower end of the list of my worries at the time.\r\n\r\nThere was no way for me to catch the thief as the bike reaches up to 50 mph on flat ground when the speed limiter is off.\r\n\r\nI don't expect I'll be getting my bike back but I hope this guy gets what he deserves. \r\n\r\n\r\nThe following are defining specs of the electric bike\r\nEBIKE1 in reflective tape on the side of the frame\r\nFox 40 forks\r\nBlack 100amp controller\r\n72v 30ah battery \r\n80/100 - 21 Motorcycle tubes\r\n26\" Schwalbe big apple road tires\r\nEnduro stealth bomber frame /vector frame \r\n6 speed Shimano cassette w/ derailleur \r\nBlue under glow lightning\r\nScratch on right side due to loose BB that follows the curve of the pedal path\r\n\r\nReward for info leading to arrest or return of the bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 615918,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/160361/large_54519762_826125247740681_5588970075324416000_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "EEB Frame/Vector/Stealth Bomber B52, Ebike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.98,
+        -117.89
+      ],
+      "stolen_location": "Rowland Heights, CA 91748, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/160361/small_54519762_826125247740681_5588970075324416000_n.jpg",
+      "title": "2019 EEB Frame/Vector/Stealth Bomber B52, Ebike",
+      "url": "https://bikeindex.org/bikes/615918",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1486533600,
+      "description": "2016 Evil Bike:\r\n-Model: Insurgent\r\n-Serial: U162W10140 \r\n-Color: Matte Black\r\n-Size: XL\r\n-Suspension: Fox 36 \r\n-Components: Shimano XT\r\n-Wheels: Industry Nine Enduro 30.5\r\n-Seat: Brown leather",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Insurgent",
+      "id": 110212,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/77503/large_IMG_7839.JPG",
+      "location_found": null,
+      "manufacturer_name": "Evil",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U162W10140",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.48
+      ],
+      "stolen_location": "San Francisco, CA 94122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/77503/small_IMG_7839.JPG",
+      "title": "2016 Evil Insurgent",
+      "url": "https://bikeindex.org/bikes/110212",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1137996000,
+      "description": "Scott AT-4 (C shaped) handlebars w/ grabons  -non-stock stem-  Xtr shifters w/ remote <> My Name (Blake Howe) in colored decals on both sides of the top tube - one side may be worn -- fenders - rear rack - Cate-eye enduro cyclocomputer - full set of bike tools  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "H 700 m",
+      "id": 5630,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H700 JB B 21116 H300 16 5 5135",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": null,
+      "title": "1998 Cannondale H 700 m",
+      "url": "https://bikeindex.org/bikes/5630",
+      "year": 1998,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

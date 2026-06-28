@@ -1,0 +1,761 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1757732400,
+      "description": "- Fox 36 Rhythm, GRIP Damper, 160mm Travel\r\n- Fox Float DPX2, Performance Series, 230x65mm\r\n- SRAM GX Eagle 1×12 w/Descendent 6K 32t Crankset & 10-50t Cassette\r\n\r\nReview of the bike (bike with my setup & frame color etc.):\r\nhttps://flowmountainbike.com/tests/longterm-review-2019-canyon-spectral-al-6-0/\r\n\r\nBrand new tires in tubeless setup: Maxxis Minion DHR II WT TR DD 2x120TPI 3C Terra 27.5 x 2.40\r\n\r\nSmall damage on the frame just above the rear dumper.\r\n\r\nGarmin computer holder on the handlebar.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 3189668,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966351/large_IMG_20210724_174114_047.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M05301B19C0206-5",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.34,
+        5.07
+      ],
+      "stolen_location": "Les Bastides / Les Rouges / Martigue, 13500, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966351/small_IMG_20210724_174114_047.jpg",
+      "title": "2019 Canyon bicycles",
+      "url": "https://bikeindex.org/bikes/3189668",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757422800,
+      "description": "Blue accents. Specialized handle bars and stem, oldie vans lock on grips, roval Wheelset,gx crank xx1 derailure x01 chain xx1 shifter  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Chameleon",
+      "id": 3201545,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970905/large_IMG_1154.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.92,
+        -122.31
+      ],
+      "stolen_location": "El Cerrito, CA 94530, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970905/small_IMG_1154.jpeg",
+      "title": "2024 Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/3201545",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757397600,
+      "description": "- Size 58 -\r\nCarbon Frame - Monocoque Construction 40 ton Carbon Fiber UD Finish PF30 Bottom Bracket Tapered Headtube\r\nInternal Cable Routing Caliper Brake Mount Fork - Whisky No. 7 Carbon Road 45mm Offset\r\nTapered Carbon Steerer (28.6133) Caliper Brake Mount Matte Black UD Finish\r\nColor - Matte Black - Gunmetal\r\nShifters SRAM Force\r\nF. Derailleur - SRAM Rival 34.9mm\r\nR. Derailleur - SRAM Force\r\nCrank - SRAM Force\r\nCassette - SRAM 1050 12-25\r\nSaddle - Specialized Henge\r\nSeatpost- Ritchey Pro Handlebar - Ritchey Pro\r\nStem - Ritchey Pro\r\nHeadset - FSA No. 44\r\nBrakeset - SRAM Rival\r\nWheelset - Mavic Ksyrium SL-S\r\nTires - Specialzed Turbo S-Works 26c ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ratchet",
+      "id": 3187682,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965283/large_unnamed__1_.png",
+      "location_found": null,
+      "manufacturer_name": "Foundry Cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965283/small_unnamed__1_.png",
+      "title": "2013 Foundry Cycles Ratchet",
+      "url": "https://bikeindex.org/bikes/3187682",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757368800,
+      "description": "1 Year old SB140 XL Frame in Raw Carbon Black.  This bike has SRAM X0 EAGLE AXS TRANSMISSION, AXS Pod Controller, Deity 55mm riser Bars, Turq grips and Race Face Flat Pedals.  The Bike is clean one small scratch on frame.   A small \"Smith\" Decal on bike as well.  Continental Kryptotal Enduro Tires front and Back.\r\nIt was stolen without the Sram Battery and Charger for the Shifter.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SB140 29 LR TE3",
+      "id": 3185263,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "3FLFD610011",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.89,
+        -105.76
+      ],
+      "stolen_location": "Winter Park, CO 80482, US",
+      "thumb": null,
+      "title": "2024 Yeti SB140 29 LR TE3",
+      "url": "https://bikeindex.org/bikes/3185263",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757340000,
+      "description": "This is actually a customized handbike for a full time manual wheelchair athlete. The full carbon frame has decals that read “Carbon Master” in green and white. The bike has one training (clincher) wheel in the front, size 26’ (may still have a label on the wheel that says “Kara”). It has two small 20’ rear wheels. The bike has an SRM power adapter in the cranks and SRAM electronic shifting. Braking is v-brake style, one that is attached to the hand cranks and an emergency break underneath the fork. The handbike also has a thin black pad in the bucket (the part you lay on). The back of the bucket where your head would rest has a large hole in the frame to carry water etc. \r\n",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Handbike-recumbent",
+      "id": 3186071,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964275/large_9EA326A9-9A62-4395-95AB-24CA52C9FDEC.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Carbon Master-handbike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T3C 3S6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964275/small_9EA326A9-9A62-4395-95AB-24CA52C9FDEC.jpeg",
+      "title": "2021 Carbon Master-handbike Handbike-recumbent",
+      "url": "https://bikeindex.org/bikes/3186071",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757264400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Super Professional",
+      "id": 3202101,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971205/large_IMG_3972.JPG",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M21011945 AL",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971205/small_IMG_3972.JPG",
+      "title": "2022 All City Super Professional",
+      "url": "https://bikeindex.org/bikes/3202101",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757169000,
+      "description": null,
+      "frame_colors": [
+        "Orange",
+        "Blue",
+        "White"
+      ],
+      "frame_model": "UnReStricted 01 Three Large",
+      "id": 3184114,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962924/large_IMG_0148.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "URS-LL2R41J0056",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.57,
+        7.75
+      ],
+      "stolen_location": "Strasbourg, 6890, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962924/small_IMG_0148.jpg",
+      "title": "2022 BMC UnReStricted 01 Three Large",
+      "url": "https://bikeindex.org/bikes/3184114",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757098800,
+      "description": "Grey Motobecane Mulekick with Green Lettering\r\n\r\n1x11 SRAM Force groupset\r\nDT Swiss R500 wheels\r\n700x32 GP5000 tires\r\n",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mulekick",
+      "id": 3183113,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962355/large_491461268_986832130251505_658011660595898786_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962355/small_491461268_986832130251505_658011660595898786_n.jpg",
+      "title": "Motobecane Mulekick",
+      "url": "https://bikeindex.org/bikes/3183113",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756983600,
+      "description": "Routt CRD with Eagle cassette, AXS Force shifters, SRAM powermeter spider, Time ATAC pedals, SMP saddle, Bontrager Paradigm Pro 30 carbon wheels",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Routt CRD",
+      "id": 3182513,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962003/large_PXL_20250216_215946286.jpg",
+      "location_found": null,
+      "manufacturer_name": "Moots Cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "T5405",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.26,
+        -97.71
+      ],
+      "stolen_location": "Austin, TX 78702, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962003/small_PXL_20250216_215946286.jpg",
+      "title": "2023 Moots Cycles Routt CRD",
+      "url": "https://bikeindex.org/bikes/3182513",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756857600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Top Fuel",
+      "id": 3180973,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961212/large_IMG_2344.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU123CT0049U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.49,
+        -103.86
+      ],
+      "stolen_location": "Spearfish, SD 57783, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961212/small_IMG_2344.jpeg",
+      "title": "2024 Trek Top Fuel",
+      "url": "https://bikeindex.org/bikes/3180973",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756756800,
+      "description": "Green Composite pedals, light grey bike, SRAM Code brakes ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "High Tower",
+      "id": 3179921,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960551/large_IMG_4026.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A20G3P1HT2XLAL0486",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.47
+      ],
+      "stolen_location": "San Francisco, CA 94129, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960551/small_IMG_4026.jpg",
+      "title": "2021 Santa Cruz High Tower",
+      "url": "https://bikeindex.org/bikes/3179921",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756648800,
+      "description": "Beautiful gravel ride.  SRAM APX components.  ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Frame Specialized Diverge FACT 9r carbon, SWAT™ Door integration, Future Shock suspension, threaded BB, internal routing, 12x142mm thru-axle, flat-mount disc Seat Binder Specialized Alloy, 30.8mm",
+      "id": 3181008,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961246/large_IMG_1359.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.68,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80210, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961246/small_IMG_1359.jpeg",
+      "title": "2024 Specialized Frame Specialized Diverge FACT 9r car...",
+      "url": "https://bikeindex.org/bikes/3181008",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756567800,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Green"
+      ],
+      "frame_model": "Checkpoint SL7",
+      "id": 3178507,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959780/large_IMG_0161.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU114XT0096S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.74,
+        -122.37
+      ],
+      "stolen_location": "Seattle, WA 98177, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959780/small_IMG_0161.jpeg",
+      "title": "2022 Trek Checkpoint SL7",
+      "url": "https://bikeindex.org/bikes/3178507",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756515600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Rascal",
+      "id": 3076078,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959708/large_IMG_5157.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Revel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WHO2XXK04 FT0112(40) FT-02 L-UD(C1/)",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.68,
+        -105.16
+      ],
+      "stolen_location": "Lakewood, CO 80228, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959708/small_IMG_5157.jpeg",
+      "title": "2022 Revel Rascal",
+      "url": "https://bikeindex.org/bikes/3076078",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756486800,
+      "description": "",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "One-Twenty 9.600",
+      "id": 3179689,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960345/large_207d11b9-7eea-4b1c-9478-98c16178d6cb.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC1177873R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.04,
+        11.96
+      ],
+      "stolen_location": "Grafing Bei München, 85567, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960345/small_207d11b9-7eea-4b1c-9478-98c16178d6cb.jpg",
+      "title": "2020 Merida Bikes One-Twenty 9.600",
+      "url": "https://bikeindex.org/bikes/3179689",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756353600,
+      "description": "Start with a painstakingly engineered Premium A1 Aluminum frame, add modern geometry with efficiency and confident capability in mind, and you’ve got a solid foundation for our best Rockhopper yet. Combine that with a list of components that will simply blow this Rockhopper away: RockShox Judy SoloAir fork, Shimano MT-200 hydraulic brakes, tubeless-ready wheels, SRAM Eagle 1x12 drivetrain. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "ROCKHOPPER EXPERT 27.5 OAKGRNMET/METWHTSIL",
+      "id": 3071003,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958714/large_IMG_9051.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC026057946T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        19.41,
+        -99.18
+      ],
+      "stolen_location": "Cdmx, 06170, MX",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958714/small_IMG_9051.jpeg",
+      "title": "2024 Specialized ROCKHOPPER EXPERT 27.5 OAKGRNMET/METW...",
+      "url": "https://bikeindex.org/bikes/3071003",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756288800,
+      "description": "Flat grey color 2019 Santa Cruz Bronson. It has an upgraded set of brakes: SRAM Code RSCs with purple hardware",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Bronson C",
+      "id": 3189502,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966761/large_IMG_6734.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS1807P13087LC",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.96
+      ],
+      "stolen_location": "Denver, CO 80206, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966761/small_IMG_6734.jpeg",
+      "title": "2019 Santa Cruz Bronson C",
+      "url": "https://bikeindex.org/bikes/3189502",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755799200,
+      "description": "\r\n2022 YT Tues Core 1\r\nSize M\r\n27.5 inch wheels\r\n\r\nSpecs :\r\nKashima Fox Float x2 (200mm of travel)\r\nSuntour rux 38 boost front fork red spray painted no sticker\r\nSRAM gx derailleur and shifter\r\nRaceface cranks, front chainring, pedals, bars, stem and grips\r\nSRAM code front and rear breaks\r\nMaxxis minion dhr II and assegai tires\r\nDt Swiss 541 rear rims , e13 front wheel \r\nFrame is fully 3M protected hand crafted\r\n\r\nJust today in facebook it shows up and sold today may 02, 2026\r\n\r\nThe frame is white powder coated.  There is no serial number due to powder coating",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Yt tues comp",
+      "id": 3252571,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024310/large_IMG_8256.png",
+      "location_found": null,
+      "manufacturer_name": "YT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.06
+      ],
+      "stolen_location": "Calgary, T2G 1S6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024310/small_IMG_8256.png",
+      "title": "2021 YT Yt tues comp",
+      "url": "https://bikeindex.org/bikes/3252571",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755738000,
+      "description": "Blue Bike with white industries G25A wheels/Specialized pathfinder tires, and a white industries black crank 1x12 Sram Rival groupo",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Midnite Special",
+      "id": 3066789,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/956759/large_IMG_0637.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/956759/small_IMG_0637.jpeg",
+      "title": "2018 Surly Midnite Special",
+      "url": "https://bikeindex.org/bikes/3066789",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755421200,
+      "description": "2022 commencal meta ht (medium) \r\nRockshox Lyrik 160\r\nBontrager line comp 30 rapid drive 108 mixed wheel set\r\nWheels mfg single speed (purple)\r\nSurley tensioner \r\nShimano xt brakes 203/180\r\nDecendant carbon cranks\r\nOne up v2 dropper and leaver\r\nWolf tooth seat post clamp\r\nWtb Silverado saddle \r\nEnve carbon bars and stem\r\nOne up threaded top cap (purple)\r\nAnvl tilt chromoly pedal (purple) \r\nDeity Supra crush grips\r\nSpecialized butcher grid front/slaughter grid rear 2.6” width\r\nSRAM xx1 chain",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Meta HT",
+      "id": 3063778,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955270/large_IMG_1241.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Commencal Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -117.41
+      ],
+      "stolen_location": "Spokane, WA 99203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955270/small_IMG_1241.jpeg",
+      "title": "2022 Commencal Bikes Meta HT",
+      "url": "https://bikeindex.org/bikes/3063778",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755129600,
+      "description": "Top of the line in 2017, Turq carbon frame, Swiss DT1 carbon wheels, Sram Eagle XX1 components. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "SB5",
+      "id": 2930693,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/951741/large_BikePic1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7ESFD610013",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.53,
+        -121.94
+      ],
+      "stolen_location": "Preston, WA 98050, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/951741/small_BikePic1.jpg",
+      "title": "2017 Yeti SB5",
+      "url": "https://bikeindex.org/bikes/2930693",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755075600,
+      "description": "Red Pinarello Dogma F8 with SRAM Red, Zipp 303 wheels, and PRO handlebars",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "F8 Dogma",
+      "id": 2934831,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/952001/large_IMG_6192.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/952001/small_IMG_6192.jpeg",
+      "title": "2015 Pinarello F8 Dogma",
+      "url": "https://bikeindex.org/bikes/2934831",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754982000,
+      "description": "SRAM XL1 drivetrain, Rock Shox Boxxer ultimate dual crown fork. DT Swiss custom wheelset",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Red"
+      ],
+      "frame_model": "M29 Elite",
+      "id": 2934997,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/952202/large_AD_4nXfTexUxy830b9FKA60_dym5_Aezfeii3ylMZrg6C9Ai9vU6X5CcMje6EZqhnr4N4nHwCYcatnc_X6NtbI__qpG2QADy_LkZJs3uhHfxN1kofphSFF1STQcys0j3ijBYTxHk1kMBPA.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Intense",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "VN19H01552",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -105.22
+      ],
+      "stolen_location": "Golden, CO 80403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/952202/small_AD_4nXfTexUxy830b9FKA60_dym5_Aezfeii3ylMZrg6C9Ai9vU6X5CcMje6EZqhnr4N4nHwCYcatnc_X6NtbI__qpG2QADy_LkZJs3uhHfxN1kofphSFF1STQcys0j3ijBYTxHk1kMBPA.jpeg",
+      "title": "2020 Intense M29 Elite",
+      "url": "https://bikeindex.org/bikes/2934997",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754622000,
+      "description": "Fat bike with full carbon parts, wheels and SRAM GX drivetrain. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Farley 9.8",
+      "id": 2879318,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948932/large_IMG_5790.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU116XD0162P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.53,
+        -122.03
+      ],
+      "stolen_location": "Issaquah, WA 98027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948932/small_IMG_5790.jpeg",
+      "title": "2020 Trek Farley 9.8",
+      "url": "https://bikeindex.org/bikes/2879318",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754323200,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "SB LR SRAM",
+      "id": 2866381,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7ESFD510017",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -105.25
+      ],
+      "stolen_location": "Boulder, CO 80305, US",
+      "thumb": null,
+      "title": "2018 Yeti SB LR SRAM",
+      "url": "https://bikeindex.org/bikes/2866381",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

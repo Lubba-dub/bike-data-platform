@@ -1,0 +1,759 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1752004800,
+      "description": "Bright blue road bike, had black seat and black bar tape, black and red Specialized saddle bag.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Six Carbon 5",
+      "id": 2836831,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938477/large_20250706_180723.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -75.18
+      ],
+      "stolen_location": "Philadelphia, PA 19121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938477/small_20250706_180723.jpg",
+      "title": "2009 Cannondale Six Carbon 5",
+      "url": "https://bikeindex.org/bikes/2836831",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750626000,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Revenio 2.0",
+      "id": 2825934,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/931947/large_Raleigh_Revenio_2.0_2013.png",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U10K19527",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.08,
+        -118.26
+      ],
+      "stolen_location": "Los Angeles, CA 90026, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/931947/small_Raleigh_Revenio_2.0_2013.png",
+      "title": "2012 Raleigh Revenio 2.0",
+      "url": "https://bikeindex.org/bikes/2825934",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745213199,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Alpe D' Huez Road Bike Aluminum / Carbon",
+      "id": 2784596,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/907855/large_Bike_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "LeMond",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/907855/small_Bike_1.jpg",
+      "title": "2008 LeMond Alpe D' Huez Road Bike Aluminum / Carbon",
+      "url": "https://bikeindex.org/bikes/2784596",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758387600,
+      "description": "road bike, upgraded with FSA K-wing carbon bars, and HED Jet 5 wheelset",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fastback Pro",
+      "id": 2773837,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968709/large_schwinn_fastback_pro.jpg",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IDT04H10542",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.06
+      ],
+      "stolen_location": "Mountain View, CA 94043, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968709/small_schwinn_fastback_pro.jpg",
+      "title": "2006 Schwinn Fastback Pro",
+      "url": "https://bikeindex.org/bikes/2773837",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742335200,
+      "description": "Canyon Grizl, purple and black, with a electronic dropper seat post ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Grizl",
+      "id": 2766833,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898203/large_IMG_3885-1.JPG",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R08301AD20M0231",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.1,
+        -121.02
+      ],
+      "stolen_location": "Santa Nella, CA 95322, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898203/small_IMG_3885-1.JPG",
+      "title": "2022 Canyon bicycles Grizl",
+      "url": "https://bikeindex.org/bikes/2766833",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741813200,
+      "description": "",
+      "frame_colors": [
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "Evo",
+      "id": 2766687,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898096/large_1B50D0A0-B118-42AC-BEE1-92594C6FF8E8_1_105_c.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KA83236",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.06,
+        -87.69
+      ],
+      "stolen_location": "Evanston, IL 60201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898096/small_1B50D0A0-B118-42AC-BEE1-92594C6FF8E8_1_105_c.jpeg",
+      "title": "2024 Cannondale Evo",
+      "url": "https://bikeindex.org/bikes/2766687",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739487600,
+      "description": "Blue carbon fiber road bike with disk brakes",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Endurace CF SL Disc 8.0",
+      "id": 2756860,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/891863/large_IMG_8261.JPG",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R05401H19A0527",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.57,
+        -122.37
+      ],
+      "stolen_location": "Burlingame, CA 94010, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/891863/small_IMG_8261.JPG",
+      "title": "2019 Canyon bicycles Endurace CF SL Disc 8.0",
+      "url": "https://bikeindex.org/bikes/2756860",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739358000,
+      "description": "Specialized S-Works Tarmac Ultralight Road Bike - 2018, 58cm with custom Hunt carbon wheelset w/carbon spokes",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "S-Works Tarmac Ultralight",
+      "id": 1225638,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/529032/large_BRD25762_PH2_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604275660N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.5
+      ],
+      "stolen_location": "San Francisco, CA 94121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/529032/small_BRD25762_PH2_02.jpg",
+      "title": "2018 Specialized S-Works Tarmac Ultralight",
+      "url": "https://bikeindex.org/bikes/1225638",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738814400,
+      "description": "Year: 2016\r\nModel: Roubaix Sport\r\nColor: Black with red trim\r\nMaterial: carbon\r\nSize: 56 cm\r\nSpecific Customizations:\r\n- Wheelset: American Classic Aero 3\r\n- Tires: Pirelli PZero Road Race 28c\r\n- Pedals: Favero Assioma Duo Power Meter\r\n- Saddle: Specialized Power Expert 155mm",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Roubaix Sport",
+      "id": 2754287,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889901/large_IMG_0454.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC615015189K",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889901/small_IMG_0454.jpg",
+      "title": "2016 Specialized Roubaix Sport",
+      "url": "https://bikeindex.org/bikes/2754287",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738756800,
+      "description": "Bare aluminum frame, carbon fork Forté road bike. Proably 2000's or 2010's.\r\nWith handlebar bag and frame bag",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "SL-1",
+      "id": 1510748,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889762/large_IMG_6730.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Forté",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U21 180228",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.5
+      ],
+      "stolen_location": "San Francisco, CA 94121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889762/small_IMG_6730.JPEG",
+      "title": "Forté SL-1",
+      "url": "https://bikeindex.org/bikes/1510748",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738353600,
+      "description": "Giant Defy Advanced 1 Road Bike - 2018, Large",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Defy Advanced 1",
+      "id": 1249855,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/546983/large_BRD28243_PH1_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G617Z3648",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/546983/small_BRD28243_PH1_02.jpg",
+      "title": "2018 Giant Defy Advanced 1",
+      "url": "https://bikeindex.org/bikes/1249855",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737763200,
+      "description": "New Intense gravel Bike, \r\nSilver fenders, road tires, regular pedals, no straps ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Medium",
+      "id": 2751090,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/887183/large_PXL_20250125_035245234.MP.jpg",
+      "location_found": null,
+      "manufacturer_name": "Intense",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1186CM2308FB0122",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/887183/small_PXL_20250125_035245234.MP.jpg",
+      "title": "2024 Intense Medium",
+      "url": "https://bikeindex.org/bikes/2751090",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737442800,
+      "description": "*seat has small tear on top\r\n\r\nFrame -\tKHS New Disc, Full MSD Carbon Monocoque w/Replaceable Derailleur Hanger, 1-1/8-1.5 Taper, Flat Mount\r\nFork -\tKHS Performance Disc, w/Alloy Steerer, 1.5\" Taper, w/Alloy Dropout, Flat Mount\r\nHeadset -\tFSA Integrated Sealed ACB, 1-1/8\"~1.5\", Alloy Cap\r\nRims -\tWeinmann Aquila 21, Disc Double Wall\r\nHubs - (F/R)\tFormula RX26 Alloy Disc, Cassette, QR\r\nTires  -\tKenda Kadence, 700x28C, 60TPI Folding\r\nSpokes -\t14g Stainless Black, 24x28\r\nDerailleur, Front- Shimano Tiagra FD-4700\r\nDerailleur, Rear -\tShimano Tiagra RD-4700GS\r\nShifters -\tShimano Tiagra ST-4700\r\nChain -\tKMC X10 W/MissingLink\r\nCrankset -\tFSA Omega Compact, 2pc Forged w/Outboard Bearing, 50/34, XS:165, S-M:170, ML:172.5, XL:175\r\nBB -\tFSA Mega EXO, Outboard Cartridge Bearing\r\nCassette -\tShimano CS-HG500, 11-32T, 10-Speed\r\nPedals -\tblack flat pedals\r\nSeatpost -\tQ2 Carbon, 27.2x350mm\r\nSaddle -\tKHS Performance Road\r\nHandlebar -\tFSA Omega Compact, 31.8mm, XS:40cm, S-ML:42cm, L-XL:44cm\r\nStem -\tAlloy 3D Forged, Threadless 4 Bolt, 31.8mm, XS: 80mm, S: 90mm, M-ML: 100mm, L-XL: 110mm\r\nHandlebar Tape -\tCushion Tape\r\nBrake Levers - \tShimano Tiagra ST-4700\r\nBrakes -\tShimano RS305, Flat Mount Road Mechanical Disc Brake w/160mm Rotors Wave 12\r\nColor -\tMatte Black (with red stripe and grey KHS logo)",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Flite 700",
+      "id": 2750505,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/886920/large_Screenshot_2025-01-23_at_11.21.59_AM.png",
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/886920/small_Screenshot_2025-01-23_at_11.21.59_AM.png",
+      "title": "KHS Bicycles Flite 700",
+      "url": "https://bikeindex.org/bikes/2750505",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735558200,
+      "description": "Custom 2015 Condor Super Acciaio Road Bike.\r\n\r\nSize. 58cm Standard Geometry.\r\nColor. Standard 2015 Black, white panel with black condor on down tube and white panel with London on seat tube. Head badge on head tube.\r\nDecal set. All red and grey decals removed as part of custom build.\r\nWheels. Zonda Black\r\nGroupset. Athena \r\nSaddle. Arione R5 \r\nSeat post. Strada carbon ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Super Acciaio",
+      "id": 2746639,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/884316/large_IMG_0617.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Condor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "12/15/7033",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.75,
+        -118.13
+      ],
+      "stolen_location": "Long Beach, CA 90803, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/884316/small_IMG_0617.jpeg",
+      "title": "2015 Condor Super Acciaio",
+      "url": "https://bikeindex.org/bikes/2746639",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735336800,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Carbon Frameset Road Bike Disc Brake Di2 Group 700C Bicycle Frame Internal Cable",
+      "id": 2742227,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/881007/large_IMG_4033.jpeg",
+      "location_found": null,
+      "manufacturer_name": "TFSA",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "354702086572",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.08,
+        -89.37
+      ],
+      "stolen_location": "Madison, WI 53703, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/881007/small_IMG_4033.jpeg",
+      "title": "2023 TFSA Carbon Frameset Road Bike Disc Brake ...",
+      "url": "https://bikeindex.org/bikes/2742227",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733148000,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "road bike, carbon frame",
+      "id": 920921,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877280/large_focus_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Focus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G411F18F0262",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.21
+      ],
+      "stolen_location": "Boulder, CO 80303-4433, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877280/small_focus_bike.jpg",
+      "title": "2015 Focus road bike, carbon frame",
+      "url": "https://bikeindex.org/bikes/920921",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732611600,
+      "description": "2024 Specialized Roubaix Comp \"dune white\" 52cm road bike.  Roval carbon wheel set added.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Roubaix",
+      "id": 2730935,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876361/large_specialized_roubaix_.JPG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004086644U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.82,
+        -104.85
+      ],
+      "stolen_location": "Colorado Springs, CO 80905, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876361/small_specialized_roubaix_.JPG",
+      "title": "2024 Specialized Roubaix",
+      "url": "https://bikeindex.org/bikes/2730935",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730624400,
+      "description": "Giant defy  carbon road bike with tubeless tires. Shimano dual-type pedals",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Defy M",
+      "id": 2723582,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/872010/large_Screenshot_2024-11-04_220405.png",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GA18Z0912",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/872010/small_Screenshot_2024-11-04_220405.png",
+      "title": "2019 Giant Defy M",
+      "url": "https://bikeindex.org/bikes/2723582",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729843200,
+      "description": "Cervelo R2 Road Bike - 2019, 54cm",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "R2",
+      "id": 1228647,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/535126/large_BRD27127_PH1_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR2E18E00352",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/535126/small_BRD27127_PH1_02.jpg",
+      "title": "2019 Cervélo R2",
+      "url": "https://bikeindex.org/bikes/1228647",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Good condition road bike green in color black trim disc brakes g one around tires",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Road bike",
+      "id": 2717025,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Calgary, Canada",
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Cube Road bike",
+      "url": "https://bikeindex.org/bikes/2717025",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728234000,
+      "description": "BMC Roadmachine 01 FOUR Road Bike - 2021, 54cm",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roadmachine",
+      "id": 1690981,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/762571/large_BRD33699_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RM01540R20E8396",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.01,
+        -73.91
+      ],
+      "stolen_location": "Palisades, NY 10964, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/762571/small_BRD33699_PH_2.jpg",
+      "title": "2021 BMC Roadmachine",
+      "url": "https://bikeindex.org/bikes/1690981",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728234000,
+      "description": "Black BMC Road Machine. Red/Orange BMC logo. Matte Black frame. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roadmachine 01 Four",
+      "id": 2711699,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/864453/large_BRD33699_PH_1_3000x2000.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0R02OE8396",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.01,
+        -73.91
+      ],
+      "stolen_location": "Palisades, NY 10964, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/864453/small_BRD33699_PH_1_3000x2000.jpg",
+      "title": "2021 BMC Roadmachine 01 Four",
+      "url": "https://bikeindex.org/bikes/2711699",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728183600,
+      "description": "Black and Yellow Road Bike size: 62 cm, 27\" wheels, carbon frame, black and yellow hypersonic tires, yellow brake and shifting cables",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Carbon ZX Series 2300",
+      "id": 2930489,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.9,
+        -93.23
+      ],
+      "stolen_location": "Minneapolis, MN 55417-1205, US",
+      "thumb": null,
+      "title": "Trek Carbon ZX Series 2300",
+      "url": "https://bikeindex.org/bikes/2930489",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728115200,
+      "description": "Light green, almost teal, with red pin striping, two water bottle cages",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "road bike",
+      "id": 2716917,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBE604230791L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.27
+      ],
+      "stolen_location": "Oakland, CA 94319, US",
+      "thumb": null,
+      "title": "2016 Specialized road bike",
+      "url": "https://bikeindex.org/bikes/2716917",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727643600,
+      "description": "Specialized Roubaix Expert UDi2 Road Bike - 2020, 56cm",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roubaix Expert UDi2",
+      "id": 862873,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/323064/large_BRD18287_PH1_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604247277P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.9,
+        -96.79
+      ],
+      "stolen_location": "Dallas, TX 75230, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/323064/small_BRD18287_PH1_02.jpg",
+      "title": "2020 Specialized Roubaix Expert UDi2",
+      "url": "https://bikeindex.org/bikes/862873",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

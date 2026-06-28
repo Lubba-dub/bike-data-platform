@@ -1,0 +1,37 @@
+{
+  "project_name": "bicycle-parts-instance-segmentation",
+  "recommended_primary_classes": [
+    "frame",
+    "front_wheel",
+    "rear_wheel",
+    "fork",
+    "handlebar",
+    "saddle",
+    "seatpost",
+    "crankset",
+    "chain",
+    "cassette",
+    "rear_derailleur",
+    "front_derailleur",
+    "brake_front",
+    "brake_rear",
+    "pedal"
+  ],
+  "recommended_stage1_classes": [
+    "frame",
+    "front_wheel",
+    "rear_wheel",
+    "fork",
+    "handlebar",
+    "saddle",
+    "drivetrain",
+    "brake"
+  ],
+  "annotation_rules": {
+    "view_constraint": "优先标注整车基本完整、接近侧视图的图像",
+    "occlusion": "严重遮挡时可跳过图像或只标清晰部件",
+    "mask_boundary": "沿可见外轮廓精确描边，不要为了闭合而穿过背景",
+    "small_parts": "像链条、前拨等小部件在早期阶段可并入 drivetrain，后续再细分",
+    "consistency": "同一批标注尽量由同一人或统一规范审校"
+  }
+}

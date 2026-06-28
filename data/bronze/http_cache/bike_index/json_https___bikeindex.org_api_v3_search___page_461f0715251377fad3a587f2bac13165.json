@@ -1,0 +1,757 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1726722000,
+      "description": "Road bike sparkly green (Oasis), di2, custom carbon wheels \"Light Bicycle\" brand, S-works handlebar",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Caledonia",
+      "id": 1397365,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/860360/large_Caledonia.png",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1394821A125",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.02
+      ],
+      "stolen_location": "Calgary, T2G 5R4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/860360/small_Caledonia.png",
+      "title": "2022 Cervélo Caledonia",
+      "url": "https://bikeindex.org/bikes/1397365",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726621200,
+      "description": "Specialized Roubaix road bike. Dark blue with orange stripes and white bars. SRAM Rival drive train but crankset is Shimano 105. Disc brakes. Carbon. ",
+      "frame_colors": [
+        "Blue",
+        "Orange"
+      ],
+      "frame_model": "Roubaix",
+      "id": 1003388,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/397668/large_IMG_20200621_155802619.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC615022812K",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/397668/small_IMG_20200621_155802619.jpg",
+      "title": "2015 Specialized Roubaix",
+      "url": "https://bikeindex.org/bikes/1003388",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726146000,
+      "description": "White Guerciotti Road bike with Blue and black decals. Handlebar tape is multi colored, front wheel Mavic, back wheel Shimano, Shimano Ultegra Brakes and Shifters.",
+      "frame_colors": [
+        "White",
+        "Blue"
+      ],
+      "frame_model": "Team Replica Medium",
+      "id": 1047138,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/855648/large_IMG_9702.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Guerciotti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R10551010L10",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.94,
+        -77.1
+      ],
+      "stolen_location": "Washington, DC 20016, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/855648/small_IMG_9702.jpeg",
+      "title": "2010 Guerciotti Team Replica Medium",
+      "url": "https://bikeindex.org/bikes/1047138",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724900768,
+      "description": "Road bike. Electric shifting, disc brakes. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roubaix",
+      "id": 2685302,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2019 Specialized Roubaix",
+      "url": "https://bikeindex.org/bikes/2685302",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724103187,
+      "description": "Cervélo R5 Ultegra 6800 Road Bike - 2016, 56cm",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "R5",
+      "id": 2617308,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/812217/large_BRD34963_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR5D15A00028",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/812217/small_BRD34963_PH_2.jpg",
+      "title": "2016 Cervélo R5",
+      "url": "https://bikeindex.org/bikes/2617308",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723572000,
+      "description": "Neon green and black carbon road bike. Has a green bike computer.",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Zw3",
+      "id": 2672790,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/841989/large_IMG_8905.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.95,
+        -75.17
+      ],
+      "stolen_location": "Philadelphia, PA 19103-4455, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/841989/small_IMG_8905.jpeg",
+      "title": "2014 Felt Zw3",
+      "url": "https://bikeindex.org/bikes/2672790",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766088000,
+      "description": "Trek Madone SLR 9 Project One Road Bike - 2021, 58cm",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Madone SLR Project One",
+      "id": 2672636,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/841873/large_BRD35557_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU112T0008R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.4,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02140, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/841873/small_BRD35557_PH_2.jpg",
+      "title": "2021 Trek Madone SLR Project One",
+      "url": "https://bikeindex.org/bikes/2672636",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723294800,
+      "description": "Giant TCR Advanced Road Bike - 2014, Large",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "TCR Advanced",
+      "id": 1305528,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/894947/large_IMG_574AC937D904-1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GB2F126",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -86.05
+      ],
+      "stolen_location": "Indianapolis, IN 46219, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/894947/small_IMG_574AC937D904-1.jpeg",
+      "title": "2014 Giant TCR Advanced",
+      "url": "https://bikeindex.org/bikes/1305528",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722790800,
+      "description": "Custom built titanium frame\r\n\r\nRed Chris King headset, Easton EC70 AX Carbon Road Handlebar.\r\n\r\nSRAM XX1 Carbon Crankset 175mm\r\n\r\n29er MTB tires on DT Swiss R460 Rims and velocity hubs. \r\n\r\nSRAM Rival 1x11 drivetrain with 38T Wolf Tooth Chainring and SRAM GX 1150 Cassette 11 Speed 10-42T \r\n\r\nPrologo Saddle, vintage grey handlebar bag, Rockbros top tube bag, generic rear rack, and, for what it's worth, an Abus Bordo 6500 folding lock mounted to seat tube.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Titanium Gravel Bike",
+      "id": 2666860,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/838497/large_IMG_1939.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Custom Ti Frame",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTL14071023",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/838497/small_IMG_1939.jpeg",
+      "title": "Custom Ti Frame Titanium Gravel Bike",
+      "url": "https://bikeindex.org/bikes/2666860",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722650400,
+      "description": "Chalk colour with vivid orange fork.  Size 48cm frame. Wheels upgraded to FFWD F6D FCC DT350 Tubeless Carbon Clincher Disc Road Wheelset. Stolen in France (Poitiers).",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "SuperSix EVO 3",
+      "id": 2677243,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/844470/large_IMG_1791.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KA65613",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.58,
+        0.34
+      ],
+      "stolen_location": "Poitiers, 86000, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/844470/small_IMG_1791.jpg",
+      "title": "2024 Cannondale SuperSix EVO 3",
+      "url": "https://bikeindex.org/bikes/2677243",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722639600,
+      "description": "Distinctive hydroformed (squarish) tubes. Carbon fork and seat stays. Honey-colored Selle anatomica saddle (cut-out), Campy Eurus wheels and components. The headtube \"badge\" is a sicker. There was a red rubber light on black \"De Rosa\" seatpost. Black carbon fork and black carbon chain and seat stay and black accents, De Rosa name on downtube is silver inside black. Downtube lettering is White Look pedals. I think its about a 58 cm",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Merak",
+      "id": 2665804,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/837987/large_DeRosa_Merak.jpg",
+      "location_found": null,
+      "manufacturer_name": "De Rosa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.03,
+        -122.03
+      ],
+      "stolen_location": "Concord, CA 94520, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/837987/small_DeRosa_Merak.jpg",
+      "title": "2007 De Rosa Merak",
+      "url": "https://bikeindex.org/bikes/2665804",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721919600,
+      "description": "Black Cervelo Aspero with gold accents. I have made a few unique changes to this bike. The front chain ring is now a 44T chain ring instead of the the stock 40T chain ring. The bar tape is brown and the current tires on the bike are Vittoria Corsa 700x32 tires making it look more like a road bike than a gravel bike currently. Stolen from NOPA neighborhood in San Francisco ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aspero",
+      "id": 2664443,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/837104/large_IMG_1275.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ASP265872728",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/837104/small_IMG_1275.jpeg",
+      "title": "2021 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/2664443",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721030400,
+      "description": "Excellent condition. Black under seat bag, Black Garneau aero top tube bag.",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "SL01 Road Racer",
+      "id": 2688402,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/852175/large_20140817_120723.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HRCI1D0009",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.37,
+        -124.21
+      ],
+      "stolen_location": "Coos Bay, OR 97420, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/852175/small_20140817_120723.jpg",
+      "title": "2012 BMC SL01 Road Racer",
+      "url": "https://bikeindex.org/bikes/2688402",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720728000,
+      "description": "Scott Foil Road Bike. Very distinctive Grey, Black and Orange frame. Had orange half grips, black seat. From Australia, have not seen this frame color in US very often. ",
+      "frame_colors": [
+        "Black",
+        "Orange",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Foil 30",
+      "id": 2659645,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/833898/large_IMG_5082.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.09,
+        -118.33
+      ],
+      "stolen_location": "West Hollywood, CA 90038, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/833898/small_IMG_5082.jpg",
+      "title": "2017 SCOTT Foil 30",
+      "url": "https://bikeindex.org/bikes/2659645",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720697400,
+      "description": "Very Fast...Italian Road Bike. It has 28cc tires on it. Ultegra Components. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Cento 1 Air",
+      "id": 2663008,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/835913/large_Willier_Cento_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Wilier",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.64,
+        -122.37
+      ],
+      "stolen_location": "Seattle, WA 98119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/835913/small_Willier_Cento_1.jpg",
+      "title": "2016 Wilier Cento 1 Air",
+      "url": "https://bikeindex.org/bikes/2663008",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719000000,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Road bike",
+      "id": 1656101,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/744711/large_16941445965517995403698769516723.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WL3492110",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.25,
+        -122.44
+      ],
+      "stolen_location": "Tacoma, WA 98402, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/744711/small_16941445965517995403698769516723.jpg",
+      "title": "2019 Trek Road bike",
+      "url": "https://bikeindex.org/bikes/1656101",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1718496000,
+      "description": "Synapse Carbon 2 LE; ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Synapse Carbon 2 LE Smoke Black 48 ka36351",
+      "id": 2635469,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.08,
+        -118.54
+      ],
+      "stolen_location": "Pacific Palasades, CA 90272, US",
+      "thumb": null,
+      "title": "2023 Cannondale Synapse Carbon 2 LE Smoke Black 48 ka...",
+      "url": "https://bikeindex.org/bikes/2635469",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1717934400,
+      "description": "Canyon Grizl, full Sram Rival ETap, Garmin Varia front/back lights, DT Swiss Wheels, Jack front rack, Road Runner Bags top top and rear bag, Patagonia roll top front bag. The bike was very new",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Grizl",
+      "id": 2628016,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/818276/large_IMG_9640.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09501AJ22M0436",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -118.47
+      ],
+      "stolen_location": "Santa Monica, CA 90405, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/818276/small_IMG_9640.jpg",
+      "title": "2023 Canyon bicycles Grizl",
+      "url": "https://bikeindex.org/bikes/2628016",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1717912800,
+      "description": "Time NXR Instinct Road Bike - 2012, Medium",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "NXR Instinct",
+      "id": 1310727,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/579619/large_BRD24994_PH2_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Time",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EN147811497M24",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.15
+      ],
+      "stolen_location": "Oakland, CA 94619, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/579619/small_BRD24994_PH2_02.jpg",
+      "title": "2012 Time NXR Instinct",
+      "url": "https://bikeindex.org/bikes/1310727",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716883200,
+      "description": "It’s custom designed with Ritchey Pro, Enve black rims ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Large 56cm",
+      "id": 1267656,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/556004/large_252921F3-F0F7-415E-B14C-1F19354055F7.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "STR10D45612040074X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.29,
+        -121.89
+      ],
+      "stolen_location": "San Jose, CA 95125, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/556004/small_252921F3-F0F7-415E-B14C-1F19354055F7.jpeg",
+      "title": "2021 SCOTT Large 56cm",
+      "url": "https://bikeindex.org/bikes/1267656",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1715997600,
+      "description": "Road bike frame with straight handle bars, 700cm wheels, 32mm tires, disc brakes, single front derailer",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "FX Sport Carbon 4",
+      "id": 2622864,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/815667/large_IMG_8293.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU247XD0028R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.11
+      ],
+      "stolen_location": "Calgary, T2N 3L5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/815667/small_IMG_8293.jpeg",
+      "title": "2022 Trek FX Sport Carbon 4",
+      "url": "https://bikeindex.org/bikes/2622864",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714802400,
+      "description": "2018 Fuji SL 3.1 Road Bike 56cm Carbon Shimano Ultegra R8000 11 Speed Oval",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "SL 3.1",
+      "id": 695152,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/222986/large_BRD15772_MJ_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBD214L04130",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.59,
+        -117.33
+      ],
+      "stolen_location": "Spokane, WA 99223, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/222986/small_BRD15772_MJ_02.jpg",
+      "title": "2018 Fuji SL 3.1",
+      "url": "https://bikeindex.org/bikes/695152",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714671000,
+      "description": "Black Trek 1 Series 1.2 Road Bike. Two bicycle cages. SPD pedals. CAT Cyclometer mounted on handle bars.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Trek 1 Series 1.2",
+      "id": 2594517,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/803008/large_2023_07_Aaron_Trek_Bike_at_Bear_Lake_Park.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU122C1672J",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.98
+      ],
+      "stolen_location": "Denver, CO 80203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/803008/small_2023_07_Aaron_Trek_Bike_at_Bear_Lake_Park.jpg",
+      "title": "2015 Trek Trek 1 Series 1.2",
+      "url": "https://bikeindex.org/bikes/2594517",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1713927600,
+      "description": "2019 Cannondale SuperSix EVO Road Bike Frameset 60cm Carbon BB30. FSA Cranks. Sram Force 22 groupset. Zipp handlebar. Blue bar tape. Front wheel: Bontrager. Rear wheel: HED.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SuperSix Evo",
+      "id": 703921,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/799796/large_PXL_20240420_204218219.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB03283",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.39,
+        -71.09
+      ],
+      "stolen_location": "Somerville, MA 02145, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/799796/small_PXL_20240420_204218219.jpg",
+      "title": "2019 Cannondale SuperSix Evo",
+      "url": "https://bikeindex.org/bikes/703921",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1713200400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Carbon road bike",
+      "id": 2585449,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/797046/large_E238D28C-A676-4494-B5D8-ED19532EAE93.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Shimano",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UNSURE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.59,
+        -74.07
+      ],
+      "stolen_location": "Staten Island, NY 10305, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/797046/small_E238D28C-A676-4494-B5D8-ED19532EAE93.jpeg",
+      "title": "2020 Shimano Carbon road bike",
+      "url": "https://bikeindex.org/bikes/2585449",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

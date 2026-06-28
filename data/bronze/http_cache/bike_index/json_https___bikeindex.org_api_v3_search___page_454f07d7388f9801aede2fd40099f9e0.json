@@ -1,0 +1,768 @@
+{
+  "bikes": [
+    {
+      "date_stolen": null,
+      "description": "The 2011 Stumpjumper FSR Comp typically includes:Frame: M5 manipulated alloy with approximately 140mm of travel and sealed cartridge bearing pivots.Suspension:Rear Shock: Custom Fox Triad II with a 3-position switch (Lockout, Open, and ProPedal).Fork: RockShox Revelation RL with 140mm travel and a Motion Control damper.Drivetrain: A 10-speed setup often featuring a mix of SRAM X.7 and X.9 components.Brakes: Custom Avid Elixir R SL hydraulic disc brakes.Wheels: Custom DT Swiss X420SL rims.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Stumpjumper FSRxc Comp",
+      "id": 3394046,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1030502/large_595.jpg",
+      "location_found": "Houston, TX 77018, United States",
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1030502/small_595.jpg",
+      "title": "2011 Specialized Stumpjumper FSRxc Comp",
+      "url": "https://bikeindex.org/bikes/3394046",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778922000,
+      "description": "Bubblegum pink Scor 4060 Enduro MTB. SRAM GX build. RS Lyric fork, RS Superdelux shock. Fried Chicken drumstick sticker on down tube.",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Scor 4060 STC GX",
+      "id": 3393987,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "22-M12L2294",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        42.38,
+        -122.21
+      ],
+      "stolen_location": "Lake Of The Woods, OR 97601, US",
+      "thumb": null,
+      "title": "2023 BMC Scor 4060 STC GX",
+      "url": "https://bikeindex.org/bikes/3393987",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778659200,
+      "description": "MISSING We Are One Arrival size XL\r\nHas Liquid Death logo sticker on head tube\r\nSilver Eewing Crankset\r\nX01 Shifter, XX1 Cassette\r\nIndustry Nine Carbon 315C Rear Wheel\r\nOneUp Carbon bars and dropper post\r\nSRAM Code RSC Brakes\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "The Arrival",
+      "id": 3387574,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1028702/large_IMG_6178.jpeg",
+      "location_found": null,
+      "manufacturer_name": "We Are One",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FO 0032",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -105.22
+      ],
+      "stolen_location": "Golden, CO 80401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1028702/small_IMG_6178.jpeg",
+      "title": "2022 We Are One The Arrival",
+      "url": "https://bikeindex.org/bikes/3387574",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778169600,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "F15X",
+      "id": 3383608,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026329/large_IMG_5988.jpg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98154, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026329/small_IMG_5988.jpg",
+      "title": "2009 Felt F15X",
+      "url": "https://bikeindex.org/bikes/3383608",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777928400,
+      "description": "Ride wrapped with matte protection",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Spire",
+      "id": 3382320,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025511/large_IMG_1061.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Transition Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TBC4505427",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.45,
+        -122.28
+      ],
+      "stolen_location": "Sea Tac, WA 98188, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025511/small_IMG_1061.jpeg",
+      "title": "2022 Transition Bikes Spire",
+      "url": "https://bikeindex.org/bikes/3382320",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777795200,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Diverge Expert Carbon SRAM Rival eTAP AXS",
+      "id": 3381136,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.94,
+        -105.18
+      ],
+      "stolen_location": "Louisville, CO 80027, US",
+      "thumb": null,
+      "title": "2022 Specialized Diverge Expert Carbon SRAM Rival eTAP...",
+      "url": "https://bikeindex.org/bikes/3381136",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777510800,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Stumpjumper Expert",
+      "id": 3378995,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023677/large_IMG_1867.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604341568N",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        32.81,
+        -117.13
+      ],
+      "stolen_location": "San Diego, CA 92123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023677/small_IMG_1867.jpeg",
+      "title": "2019 Specialized Stumpjumper Expert",
+      "url": "https://bikeindex.org/bikes/3378995",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777068000,
+      "description": "",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Diverge 4 Sport Alloy",
+      "id": 3378953,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023397/large_IMG_20260410_091532_790.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC030010191X",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.43,
+        -121.95
+      ],
+      "stolen_location": "San Jose, CA 95134, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023397/small_IMG_20260410_091532_790.jpg",
+      "title": "2025 Specialized Diverge 4 Sport Alloy",
+      "url": "https://bikeindex.org/bikes/3378953",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776726000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Spark RC SL",
+      "id": 3373111,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019693/large_IMG_5793.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "STM29D20M23050022N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        10.22
+      ],
+      "stolen_location": "Brescia, 25121, IT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019693/small_IMG_5793.jpeg",
+      "title": "2023 SCOTT Spark RC SL",
+      "url": "https://bikeindex.org/bikes/3373111",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776661200,
+      "description": "A black Willier SLR filante with HED wheels, dark grey decals. Should have some white electrical tape on it, assioma power pedals, sram force. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Filante SLR",
+      "id": 3373481,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020014/large_IMG_7102.JPG",
+      "location_found": null,
+      "manufacturer_name": "Wilier",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WT23D62802",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.21
+      ],
+      "stolen_location": "Boulder, CO 80303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020014/small_IMG_7102.JPG",
+      "title": "2024 Wilier Filante SLR",
+      "url": "https://bikeindex.org/bikes/3373481",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776573183,
+      "description": "color of the bike is blue with SRAM AXS etap groupset, DT swiss wheelset.it has a bike bag(from cykit)",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "VsRU",
+      "id": 3372104,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025497/large_Messenger_creation_6C154FAD-2E46-4162-AF21-66072CFB779D.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "#136C062764701001 C8 DAR2020 M",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.83,
+        -117.91
+      ],
+      "stolen_location": "Anaheim, CA 92805, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025497/small_Messenger_creation_6C154FAD-2E46-4162-AF21-66072CFB779D.jpeg",
+      "title": "2022 Dare VsRU",
+      "url": "https://bikeindex.org/bikes/3372104",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776571200,
+      "description": "Bike is color blue with DT swiss wheelset and SRAM Axs etap Rival groupset",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "VsRU",
+      "id": 3372106,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018841/large_WhatsApp_Image_2026-04-18_at_21.49.07.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "136C062764701001",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.84,
+        -117.91
+      ],
+      "stolen_location": "Anaheim, CA 92805-6703, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018841/small_WhatsApp_Image_2026-04-18_at_21.49.07.jpeg",
+      "title": "2022 Dare VsRU",
+      "url": "https://bikeindex.org/bikes/3372106",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776312000,
+      "description": "Composite Gravel comp race bike. SRAM GX XPLR wireless drive train. Disc brake lauf suspension fork.",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Seigla",
+      "id": 3373354,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019923/large_1000004679.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lauf",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FRAME - LF242935 FORK - F124JH0063 BARS - S124GH0066",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.09
+      ],
+      "stolen_location": "Saint Paul, MN 55106-1722, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019923/small_1000004679.jpg",
+      "title": "2025 Lauf Seigla",
+      "url": "https://bikeindex.org/bikes/3373354",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775494800,
+      "description": "Very stand-outish combination of black and white, reads \"SIX\" in bold letters on top tube and other spots. Handlebar tape is black with white details, also very distinct. Brakes say SRAM FORCE and derailleur says 105 on the side of it. ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Super Six",
+      "id": 3360429,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014726/large_IMG_5686.JPG",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WM30025",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.04,
+        -123.05
+      ],
+      "stolen_location": "Eugene, OR 97403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014726/small_IMG_5686.JPG",
+      "title": "2026 Cannondale Super Six",
+      "url": "https://bikeindex.org/bikes/3360429",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775397600,
+      "description": "1x Sram Force with 56T passquest chainring and Reynolds Ar60 wheels",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RZ7",
+      "id": 3359823,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014414/large_Photo_of_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Parlee",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS 1907 P-10298L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.9,
+        -87.68
+      ],
+      "stolen_location": "Chicago, IL 60622, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014414/small_Photo_of_bike.jpg",
+      "title": "Parlee RZ7",
+      "url": "https://bikeindex.org/bikes/3359823",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774047600,
+      "description": "Rockshox Pike Select, Fox Float rear shock, race face wheels, minion DHR II tirers front (29) and rear (27.5), burgtec handlebar and stem, juliana grips and saddle, SRAM NX and descendent cranks, burgtec flat MK5 pedals",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Furtado 5CR",
+      "id": 3353070,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1010619/large_IMG_2164.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Juliana Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22H2P1FT5SMC0092",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1010619/small_IMG_2164.jpeg",
+      "title": "2023 Juliana Bicycles Furtado 5CR",
+      "url": "https://bikeindex.org/bikes/3353070",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773990000,
+      "description": "Nx Sram shifting ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Xcaliber 7",
+      "id": 3352734,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1010384/large_1000261593.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU330C2491P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.14
+      ],
+      "stolen_location": "Bellevue, WA 98007, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1010384/small_1000261593.jpg",
+      "title": "2020 Trek Xcaliber 7",
+      "url": "https://bikeindex.org/bikes/3352734",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774908000,
+      "description": "White, Disc Brakes, Sram Gx Gear, ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Circa 1923",
+      "id": 3351168,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1012956/large_1000000551.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L140708440",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.54,
+        -122.46
+      ],
+      "stolen_location": "Redding, CA 96001, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1012956/small_1000000551.jpg",
+      "title": "Motobecane Circa 1923",
+      "url": "https://bikeindex.org/bikes/3351168",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773417600,
+      "description": "It’s an USA Nation Champ Addition Bike. Has a bald eagle on it. Zipp wheels. SRAM decalls on all components. THE COWBOY is written down the seat tube. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Sworks tarmac",
+      "id": 3350204,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1008885/large_IMG_9876.png",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.31,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78751, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1008885/small_IMG_9876.png",
+      "title": "2026 Specialized Sworks tarmac",
+      "url": "https://bikeindex.org/bikes/3350204",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773203557,
+      "description": "Enve Mog in gray with SRAM XXSL transmission drivetrain. Stolen from corner of Waller and Steiner in the Lower Haight in San Francisco.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mog",
+      "id": 3348812,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1007962/large_Enve_Mog.jpeg",
+      "location_found": null,
+      "manufacturer_name": "ENVE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1007962/small_Enve_Mog.jpeg",
+      "title": "2023 ENVE Mog",
+      "url": "https://bikeindex.org/bikes/3348812",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771632000,
+      "description": "Gravel bike used for commuting. Has bike bags on it (panniers with bags). \r\n\r\nNot the stock model, below are a list of upgrades to help identify: \r\n\r\n-Rims: Enve XC, with 45mm schwalbe tires and fenders\r\n-Blue growtec equal brakes\r\n-Dark brown brooks saddle \r\n-Carbon fork with black widefoot cargo mounts\r\n-ZIPP handle bars, blue bar tape\r\n-black cargo rack with 2 black ortlieb panniers (attached when stolen)\r\n-SRAM GX derailleur, SRAM apex crackset\r\n-bikepump+water bottle cage attached to water bottle space\r\n-Sticker on upper bar that says \"Carinito\" ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Vaya",
+      "id": 3340368,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1004007/large_IMG_1957.jpg",
+      "location_found": null,
+      "manufacturer_name": "Salsa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1004007/small_IMG_1957.jpg",
+      "title": "2014 Salsa Vaya",
+      "url": "https://bikeindex.org/bikes/3340368",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771461381,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ASR-C",
+      "id": 3339869,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1003638/large_IMG_6330.jpg",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.02,
+        -93.3
+      ],
+      "stolen_location": "Minneapolis, MN 55412, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1003638/small_IMG_6330.jpg",
+      "title": "2016 Yeti ASR-C",
+      "url": "https://bikeindex.org/bikes/3339869",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768845600,
+      "description": "1 of 2 in Canada, this paint job was only given to team athletes.",
+      "frame_colors": [
+        "Purple",
+        "Black"
+      ],
+      "frame_model": "Sensor",
+      "id": 3313909,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/998535/large_IMG_1046.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.49,
+        -123.42
+      ],
+      "stolen_location": "Victoria, V9E 2C1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/998535/small_IMG_1046.jpeg",
+      "title": "2023 GT Bicycles Sensor",
+      "url": "https://bikeindex.org/bikes/3313909",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768658400,
+      "description": "Specialized FACT 10r carbon, disc-specific, 1-3/8\" lower bearing, OSBB.  SRAM electronic Shifting.   Garmin 1050 edge.  Garmin Varia 515TL. Magicshine hori1300 front light.   Flo G700 carbon wheelset.   ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CruX Expert Red Disc",
+      "id": 3287652,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/997365/large_IMG_2300.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC6040031141",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.12
+      ],
+      "stolen_location": "Redmond, WA 98052, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/997365/small_IMG_2300.jpeg",
+      "title": "2014 Specialized CruX Expert Red Disc",
+      "url": "https://bikeindex.org/bikes/3287652",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768126207,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SESSION 8 DH Sram 7S 29'' Black",
+      "id": 3285862,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/996078/large_TREK_SESSION_ANO_02.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU060G0026T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.61,
+        7.75
+      ],
+      "stolen_location": "Bischheim, F-67800, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/996078/small_TREK_SESSION_ANO_02.jpeg",
+      "title": "2025 Trek SESSION 8 DH Sram 7S 29'' Black",
+      "url": "https://bikeindex.org/bikes/3285862",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

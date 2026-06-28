@@ -1,0 +1,758 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1779619153,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Fenix disc 105",
+      "id": 3402588,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "10022533",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        50.85,
+        5.69
+      ],
+      "stolen_location": "Maastricht, 6211 CL, NL",
+      "thumb": null,
+      "title": "2024 Ridley Fenix disc 105",
+      "url": "https://bikeindex.org/bikes/3402588",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1779619153,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Fenix disc 105",
+      "id": 3402589,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "10022533",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        50.85,
+        5.69
+      ],
+      "stolen_location": "Maastricht, 6211 CL, NL",
+      "thumb": null,
+      "title": "2024 Ridley Fenix disc 105",
+      "url": "https://bikeindex.org/bikes/3402589",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778882400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Pakaway",
+      "id": 3392967,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1029866/large_Screenshot_2026-05-16_160436.png",
+      "location_found": null,
+      "manufacturer_name": "Momentum",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K5LK10657",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2N 1V5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1029866/small_Screenshot_2026-05-16_160436.png",
+      "title": "2026 Momentum Pakaway",
+      "url": "https://bikeindex.org/bikes/3392967",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772398800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fenix disc",
+      "id": 3347965,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1007147/large_IMG_6868.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "10033045",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        3.73
+      ],
+      "stolen_location": "Gent, 9000, BE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1007147/small_IMG_6868.jpeg",
+      "title": "2023 Ridley Fenix disc",
+      "url": "https://bikeindex.org/bikes/3347965",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767949200,
+      "description": "White frame\r\nTeal handle bar tape\r\nClipless pedals with flats",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": null,
+      "id": 3261926,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/995728/large_IMG_2693.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.23,
+        -80.8
+      ],
+      "stolen_location": "Charlotte, NC 28205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/995728/small_IMG_2693.jpeg",
+      "title": "2017 Ridley",
+      "url": "https://bikeindex.org/bikes/3261926",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762255895,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "X-Night SL",
+      "id": 3223697,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982745/large_WhatsApp_Image_2025-11-04_at_12.08.49.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "446409",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.11,
+        14.38
+      ],
+      "stolen_location": "Praha, 16000, CZ",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982745/small_WhatsApp_Image_2025-11-04_at_12.08.49.jpeg",
+      "title": "2018 Ridley X-Night SL",
+      "url": "https://bikeindex.org/bikes/3223697",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758308400,
+      "description": "Originally my cx race bike, converted into all around daily commuter, gravel bike and winter training bike. Recently added an Enve fork and disc braking on the front. It was awesome. This bike gets lots of compliments and has lots of admirers (including bike thiefs obviously). They cut the lock and stole from right in front of the Seattle Art Museum last Friday (9/19).",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "X-Fire (50cm)",
+      "id": 3200034,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970047/large_20140312_215607.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970047/small_20140312_215607.jpg",
+      "title": "2012 Ridley X-Fire (50cm)",
+      "url": "https://bikeindex.org/bikes/3200034",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755270000,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Grifn",
+      "id": 3007004,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/953125/large_IMG_4154.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "20009124",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        55.95,
+        12.51
+      ],
+      "stolen_location": "Humlebæk, 3050, DK",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/953125/small_IMG_4154.jpeg",
+      "title": "2024 Ridley Grifn",
+      "url": "https://bikeindex.org/bikes/3007004",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754334000,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Fenix Slic Di2 105",
+      "id": 2878996,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948668/large_mmexport1754628569878.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "20015481",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.35,
+        -71.06
+      ],
+      "stolen_location": "Boston, MA 02111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948668/small_mmexport1754628569878.jpg",
+      "title": "2024 Ridley Fenix Slic Di2 105",
+      "url": "https://bikeindex.org/bikes/2878996",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747162800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "X-Trail A60",
+      "id": 2801384,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "576944",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P 4K7, CA",
+      "thumb": null,
+      "title": "2016 Ridley X-Trail A60",
+      "url": "https://bikeindex.org/bikes/2801384",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744438585,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 2778877,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/904592/large_IMG_4823.png",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.09,
+        -115.35
+      ],
+      "stolen_location": "Canmore, T1W 3G1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/904592/small_IMG_4823.png",
+      "title": "2022 Ridley",
+      "url": "https://bikeindex.org/bikes/2778877",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744322400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XTrail",
+      "id": 2778047,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/904214/large_1000012597.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.38,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02138, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/904214/small_1000012597.jpg",
+      "title": "2019 Ridley XTrail",
+      "url": "https://bikeindex.org/bikes/2778047",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728277200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Ridley Helium X Ultegra",
+      "id": 2711563,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "592372",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.5
+      ],
+      "stolen_location": "San Francisco, CA 94116, US",
+      "thumb": null,
+      "title": "2018 Ridley Ridley Helium X Ultegra",
+      "url": "https://bikeindex.org/bikes/2711563",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728126000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Xbow",
+      "id": 2710709,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/863926/large_ridley.PNG",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "14MRDL",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.56
+      ],
+      "stolen_location": "Edmonton, T5N 1E2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/863926/small_ridley.PNG",
+      "title": "2014 Ridley Xbow",
+      "url": "https://bikeindex.org/bikes/2710709",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741539600,
+      "description": "Electrified with a battery under the back rack.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Boda Boda",
+      "id": 2685819,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896160/large_IMG_5938.jpg",
+      "location_found": null,
+      "manufacturer_name": "Yuba",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ACA12E007385",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.97,
+        -122.5
+      ],
+      "stolen_location": "San Rafael, CA 94901, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896160/small_IMG_5938.jpg",
+      "title": "Yuba Boda Boda",
+      "url": "https://bikeindex.org/bikes/2685819",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724227200,
+      "description": "Stjålet i Roskilde!!!!",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Xride",
+      "id": 2708748,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/862448/large_217179876_10158257950317036_3870321760609483185_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WRC719582P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        55.64,
+        12.12
+      ],
+      "stolen_location": "Roskilde, 4000, DK",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/862448/small_217179876_10158257950317036_3870321760609483185_n.jpg",
+      "title": "2020 Ridley Xride",
+      "url": "https://bikeindex.org/bikes/2708748",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724007600,
+      "description": "Carbon GX Spire",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Spire GX",
+      "id": 2676250,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/844067/large_spire.jpg",
+      "location_found": null,
+      "manufacturer_name": "Transition Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TBC4508099",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.01,
+        -114.17
+      ],
+      "stolen_location": "Calgary, T3H 3C8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/844067/small_spire.jpg",
+      "title": "2023 Transition Bikes Spire GX",
+      "url": "https://bikeindex.org/bikes/2676250",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723971600,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Levo Carbon Pro E-Bike",
+      "id": 2676194,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/844001/large_levo.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC0040807265",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.01,
+        -114.17
+      ],
+      "stolen_location": "Calgary, T3H 3C8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/844001/small_levo.jpg",
+      "title": "2023 Specialized Levo Carbon Pro E-Bike",
+      "url": "https://bikeindex.org/bikes/2676194",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723971600,
+      "description": "Size Medium",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Fuel EXE 9.8 E-Bike",
+      "id": 2676202,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/844000/large_fuel.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU024CT3068T",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.17
+      ],
+      "stolen_location": "Calgary, T3H 1R5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/844000/small_fuel.jpg",
+      "title": "2023 Trek Fuel EXE 9.8 E-Bike",
+      "url": "https://bikeindex.org/bikes/2676202",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723971600,
+      "description": "Hardtail E-bike",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Powerfly 4 E-Bike",
+      "id": 2676236,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/844033/large_powerfly.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU43212G1160",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.01,
+        -114.17
+      ],
+      "stolen_location": "Calgary, T3H 3C8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/844033/small_powerfly.jpg",
+      "title": "2023 Trek Powerfly 4 E-Bike",
+      "url": "https://bikeindex.org/bikes/2676236",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723122000,
+      "description": " 58 cm ridley cycle class X fire 2 x 11 speed SRAM rival brakes FSA crank Stella Italia seat ",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "XFire",
+      "id": 709601,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/232940/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "383024",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.56,
+        -112.06
+      ],
+      "stolen_location": "Phoenix, AZ 85020, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/232940/small_image.jpg",
+      "title": "2016 Ridley XFire",
+      "url": "https://bikeindex.org/bikes/709601",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722813501,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Pink"
+      ],
+      "frame_model": "liz",
+      "id": 1352825,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "729570",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": null,
+      "title": "Ridley liz",
+      "url": "https://bikeindex.org/bikes/1352825",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 2601319,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Calgary, T3E, Canada",
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Ridley",
+      "url": "https://bikeindex.org/bikes/2601319",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723881600,
+      "description": "Dark blue\r\nXTR pedals\r\nSpecialized Romin saddle\r\nDeadgoat sticker covering a chip in the paint on the top tube.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Fuel EX-e",
+      "id": 2587402,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/798333/large_Screen_Shot_2024-04-19_at_2.36.05_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "08T25608122",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.01,
+        -114.17
+      ],
+      "stolen_location": "Calgary, T3H 3C8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/798333/small_Screen_Shot_2024-04-19_at_2.36.05_PM.png",
+      "title": "2023 Trek Fuel EX-e",
+      "url": "https://bikeindex.org/bikes/2587402",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1699819200,
+      "description": "Black gravel bike, toe basket pedals",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 1694475,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/765441/large_20230813_142628.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "444856",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/765441/small_20230813_142628.jpg",
+      "title": "Ridley",
+      "url": "https://bikeindex.org/bikes/1694475",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

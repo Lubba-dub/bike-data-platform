@@ -1,0 +1,751 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1758013200,
+      "description": "Trek with aerobars, orange handlebar tape, 2x ultegra, Empire levers, white DT Swiss RR21 wheels, rear wheel has a white hub, Pannier rack, there is a red reflection sticker on the rear angle tubes, black flat pedals, gatorskin tires (front 28mm, rear 26mm)",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "1500",
+      "id": 3190806,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966961/large_Trek_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966961/small_Trek_Bike.jpg",
+      "title": "2006 Trek 1500",
+      "url": "https://bikeindex.org/bikes/3190806",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758013200,
+      "description": "Blue, orange, light teal carbon fiber cyclocross/gravel bike, aerobars with black handlebar tape, 38mm front tire, 33mm rear tire (they stole bike off bike stand with rear wheel off, they did not take with them the thru axle but the rear wheel itself)",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "threshold",
+      "id": 3190838,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966972/large_Norco_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966972/small_Norco_Bike.jpg",
+      "title": "2018 Norco Bikes threshold",
+      "url": "https://bikeindex.org/bikes/3190838",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757991021,
+      "description": "Bike camping and touring set up, HED Belgium Plus rims, 28 holes, DTSwiss 350 hubs.  Packs and frame bags were removed",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Touring Apex 1 SE, special edition",
+      "id": 3190126,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966682/large_1000045008.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HA16695",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966682/small_1000045008.jpeg",
+      "title": "2018 Cannondale Touring Apex 1 SE, special edition",
+      "url": "https://bikeindex.org/bikes/3190126",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757978830,
+      "description": "Gomme Pirelli DH Race 2.50, para motore carbonio, pedali Shimano Xt Trail Spd, dischi freno Galfer 203mm interamente pellicolata",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Turbo Levo Expert S4",
+      "id": 3190000,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004409166S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.14,
+        12.25
+      ],
+      "stolen_location": "Cesena, 47521, IT",
+      "thumb": null,
+      "title": "2022 Specialized Turbo Levo Expert S4",
+      "url": "https://bikeindex.org/bikes/3190000",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757868576,
+      "description": "It's a team edition Merida Reacto 6000 with Vision SC 55 carbon wheels and shimano 105 di2",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Reacto 6000",
+      "id": 3189067,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC090033415V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "IN",
+      "thumb": null,
+      "title": "2025 Merida Bikes Reacto 6000",
+      "url": "https://bikeindex.org/bikes/3189067",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757836800,
+      "description": "OCLV 120 Carbon light frame. Blue with a mix of black. Wheels are Bontrager race with 650c x 25 tires, Shimano Ulterga rear derailleur 9 spd, Shimano 105 front derailleur, shimano 105 brakes, Vision carbon aero bars, bontrager carbon seat post, shimano flight deck shifters, and bontrager sealed bottom bracket and cranks, and Cane Creek headset.\r\nCarved initials CF on front right frame. Inside wheel holder and back above tire. Also carved a smiley face and star inside the rear frame that holds the tire. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "5000",
+      "id": 393051,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/117963/large_s-l1600.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WL3258329",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.47
+      ],
+      "stolen_location": "San Francisco, CA 94129, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/117963/small_s-l1600.jpg",
+      "title": "2005 Trek 5000",
+      "url": "https://bikeindex.org/bikes/393051",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757793600,
+      "description": "A 26″ aluminum frame hardtail crosscountry bike with modest components and shimano rim brakes.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Napa",
+      "id": 3189191,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966040/large_IMG_6644.png",
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.2,
+        -88.45
+      ],
+      "stolen_location": "Menasha, WI 54952, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966040/small_IMG_6644.png",
+      "title": "2002 Gary Fisher Napa",
+      "url": "https://bikeindex.org/bikes/3189191",
+      "year": 2002,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757631600,
+      "description": "Grey metallic color (mate metallic gunmetal). Bike has mud protection installed front and back. under seat there is a bag that can extend by rolling out and another bag is installed in the front on the frame to carry mobile phone and provide some additional storage. There is a small analog bell installed. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "X-Caliber 8",
+      "id": 3201002,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970653/large_E2DDEA67-F573-466D-9516-60C7F18CC845.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU258C1516M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.84,
+        4.35
+      ],
+      "stolen_location": "Brussels, 1000, BE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970653/small_E2DDEA67-F573-466D-9516-60C7F18CC845.JPG",
+      "title": "2018 Trek X-Caliber 8",
+      "url": "https://bikeindex.org/bikes/3201002",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757577600,
+      "description": "Mechanical disc brakes, Shimano 105 components. 2x11, Black and white original colors with new orange peel stickers and orange accents for water bottle holder, and valve caps",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "CAADX",
+      "id": 1537582,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966751/large_1000018503.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F150505200",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.21,
+        -122.23
+      ],
+      "stolen_location": "Sumner, WA 98390, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966751/small_1000018503.jpg",
+      "title": "2016 Cannondale CAADX",
+      "url": "https://bikeindex.org/bikes/1537582",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757469600,
+      "description": "The GT Transeo 4.0 is a hybrid bike designed for riders who want something versatile — comfortable for commuting and fitness rides, but also capable of handling light trails and gravel. Here are the main details about it:\r\nOverview\r\nCategory: Hybrid / Fitness / Commuter\r\nBrand: GT Bicycles \r\nFrame: Aluminum (lightweight, durable, upright geometry)\r\nFork: Equipped with a front suspension fork with a lockout option for efficient road riding\r\nWheels: 700c wheels (like a road bike, but wider tires for stability and comfort)\r\nSpeeds/Drivetrain: Typically a 3x8 (24-speed) Shimano or microSHIFT drivetrain\r\nBrakes: Mechanical disc brakes (reliable stopping power in all weather, but not hydraulic)\r\nTires: 700x40c (good balance of speed and shock absorption)\r\nOther features: Rack and fender mounts, blue MEC carrying panniers.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Transeo 4.0",
+      "id": 3186042,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964219/large_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM14M540336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.05
+      ],
+      "stolen_location": "Calgary, T2E 7W2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964219/small_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "title": "GT Bicycles Transeo 4.0",
+      "url": "https://bikeindex.org/bikes/3186042",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757239200,
+      "description": "Silver Colnago with no serial number, a #32 inscribed on the drive side dropout and a clover cavity at the bottom bracket. The fork has imprinted clovers. The stickers are black with a yellow border. On the seat tube there is only one rainbow sticker above the colnago letters. \r\n\r\nThe bike is currently equipped with campangolo shifters and rear deraillleur, ultegra wheels, ultegra front shifter, ultegra cranks, and ultegra brakes. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Colnago Super",
+      "id": 3190889,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966992/large_IMG_9135.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966992/small_IMG_9135.jpeg",
+      "title": "1970 Colnago Colnago Super",
+      "url": "https://bikeindex.org/bikes/3190889",
+      "year": 1970,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757163600,
+      "description": "TREK 2022 Domane SL 5 54 Satin TREK Black. Distinguishing features include:\r\n- brown Chromag lift saddle\r\n- Shimano XT pedals\r\n- Specialized pathfinder SS tires\r\n- Smith sticker on left side rear triangle",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Domane SL5",
+      "id": 1249797,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/771494/large_DD5E86B9-DAC5-4372-94F5-C97636374BD3.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU252CT3062S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.15
+      ],
+      "stolen_location": "Calgary, T3C 1X3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/771494/small_DD5E86B9-DAC5-4372-94F5-C97636374BD3.jpeg",
+      "title": "2022 Trek Domane SL5",
+      "url": "https://bikeindex.org/bikes/1249797",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757138400,
+      "description": "The bike is an orange Marin Bear Valley bike, 2000 model, with Jones H-Bar handlebar, Brooks Brothers saddle, Schwalbe Marathon tires, Axiom Journey rack, 27 speed Shimano drivetrain, Shimano PD-EH500 pedals, and a Peak Design phone mount. ",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Bear Valley",
+      "id": 3183600,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962662/large_A61D6E3A-1A1C-498D-A73A-3DA638EC8817.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F030JAC053",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.77,
+        -117.14
+      ],
+      "stolen_location": "San Diego, CA 92108, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962662/small_A61D6E3A-1A1C-498D-A73A-3DA638EC8817.jpeg",
+      "title": "2000 Marin Bikes Bear Valley",
+      "url": "https://bikeindex.org/bikes/3183600",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764021600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Marlin 6",
+      "id": 3183438,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/963470/large_382.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2036U0423 WTU34XSC7085U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.14,
+        -80.27
+      ],
+      "stolen_location": "Brantford Ont, N3T 3N6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/963470/small_382.jpg",
+      "title": "2022 Trek Marlin 6",
+      "url": "https://bikeindex.org/bikes/3183438",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1769216400,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Bizango",
+      "id": 3182975,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962253/large_20250905_143103.jpg",
+      "location_found": null,
+      "manufacturer_name": "Voodoo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A1B280I0070",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        56.4,
+        -3.43
+      ],
+      "stolen_location": "Perth, PH1 5EJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962253/small_20250905_143103.jpg",
+      "title": "Voodoo Bizango",
+      "url": "https://bikeindex.org/bikes/3182975",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757077200,
+      "description": "This is a Cervelo \"P1\" bike with a new chain, older scratched Shimano Ultegra rear derailleur, Cobb seat, Shimano wheelset, Shimano Crankset. The bars have black grip tape , Shimano Shifters, Cane Creek brakes. The headset/stem has 5 black spacers installed. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "P1",
+      "id": 3183577,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962645/large_IMG_6188.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2S08A01804",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.55,
+        -79.59
+      ],
+      "stolen_location": "Mississauga, L5G 1C8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962645/small_IMG_6188.jpg",
+      "title": "Cervélo P1",
+      "url": "https://bikeindex.org/bikes/3183577",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756958400,
+      "description": "Bright red Fuji Sportif 1.5. The picture is from 2022, so it now has red bar tape, large red pedals (CrankBros), a black seat with red accent lines (Ouxi), a brand new DJC 2-gear chainring, a new chrome Shimano 9-gear cassette, and it no longer has a rear fender.  It has a distinguishable Bike Stop sticker at the bottom of the seat tube and may still have an HUPD registration sticker.  The front wheel is still a Vera Corsa, but the back wheel is a brand new Bucklos wheel. Disc brake pads were replaced 3 days prior to theft. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Sportif 1.5",
+      "id": 3183078,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962339/large_AC_wholeBike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.38,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02138, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962339/small_AC_wholeBike.jpg",
+      "title": "2014 Fuji Sportif 1.5",
+      "url": "https://bikeindex.org/bikes/3183078",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756893600,
+      "description": "In good condition new shimano derailer and new rear wheel and chain and aftermarket handlebar as well as a wtb seat a water bottle holder and a mobile pump ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "K6hk86593",
+      "id": 3181314,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962166/large_IMG_1764.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K6HK86593",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.25
+      ],
+      "stolen_location": "Minneapolis, MN 55407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962166/small_IMG_1764.jpeg",
+      "title": "2022 Giant K6hk86593",
+      "url": "https://bikeindex.org/bikes/3181314",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756627200,
+      "description": "2019 Diamondback hook with most parts upgraded. Manitou Markhor fork, 1x10 Shimano Deore drivetrain, brand-x remote dropper post, brown Easton grips, WTB volt saddle, Shimano M395 hydraulic brakes.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Hook",
+      "id": 3180662,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961069/large_PXL_20240623_230609385.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.48,
+        -113.94
+      ],
+      "stolen_location": "Pincher Creek, T0K 1W0, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961069/small_PXL_20240623_230609385.jpg",
+      "title": "2019 Diamondback Hook",
+      "url": "https://bikeindex.org/bikes/3180662",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756627200,
+      "description": "A classic 1980's Italian steel-frame road bike, with shifters on the down tube. Shimano 105 groupset. ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": null,
+      "id": 3179447,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960224/large_IMG_9292_3.jpg",
+      "location_found": null,
+      "manufacturer_name": "Tommaso",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960224/small_IMG_9292_3.jpg",
+      "title": "1988 Tommaso",
+      "url": "https://bikeindex.org/bikes/3179447",
+      "year": 1988,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756591200,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Switchblade",
+      "id": 3178542,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959827/large_IMG_6555.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pivot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UNSURE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.27,
+        -97.74
+      ],
+      "stolen_location": "Austin, TX 78701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959827/small_IMG_6555.jpeg",
+      "title": "Pivot Switchblade",
+      "url": "https://bikeindex.org/bikes/3178542",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "42\" wheelbase, 24-speed Shimano Alivio, Indy RockShocks, eyeball mounted on handlebars.",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Big Sur",
+      "id": 3075640,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Burlington, VT 05401, United States",
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Gary Fisher Big Sur",
+      "url": "https://bikeindex.org/bikes/3075640",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756382400,
+      "description": "Custom painted ENVE MOG (one of two MOGs stolen)- black with yellow/blue/pink speckle, pink head badge, painted Bike Sports logos, white ENVE decals. ENVE G23 Front with yellow and pink decals, and ENVE SES 3.4 Rear with white decals. New Shimano GRX Di2 1x. I can't see which serial number is which (both bikes are 99% the same), so this is either for a 52 or 54- the other serial number is Y24D1P1EV19540021.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MOG",
+      "id": 3071148,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958804/large_IMG_6630.jpg",
+      "location_found": null,
+      "manufacturer_name": "ENVE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Y23K3P1EV19520025",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.69,
+        -114.35
+      ],
+      "stolen_location": "Sun Valley, ID 83353, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958804/small_IMG_6630.jpg",
+      "title": "2025 ENVE MOG",
+      "url": "https://bikeindex.org/bikes/3071148",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756382400,
+      "description": "Custom painted ENVE MOG (one of two MOGs stolen)- black with yellow/blue/pink speckle, pink head badge, painted Bike Sports logos, white ENVE decals. ENVE G23 Front with yellow and pink decals, and ENVE SES 3.4 Rear with white decals. New Shimano GRX Di2 1x. I can't see which serial number is which (both bikes are 99% the same), so this is either for a 52 or 54- the other serial number is Y23K3P1EV19520025",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MOG",
+      "id": 3071176,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958814/large_IMG_6630.jpg",
+      "location_found": null,
+      "manufacturer_name": "ENVE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Y24D1P1EV19540021",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.69,
+        -114.35
+      ],
+      "stolen_location": "Sun Valley, ID 83353, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958814/small_IMG_6630.jpg",
+      "title": "2025 ENVE MOG",
+      "url": "https://bikeindex.org/bikes/3071176",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756353600,
+      "description": "Start with a painstakingly engineered Premium A1 Aluminum frame, add modern geometry with efficiency and confident capability in mind, and you’ve got a solid foundation for our best Rockhopper yet. Combine that with a list of components that will simply blow this Rockhopper away: RockShox Judy SoloAir fork, Shimano MT-200 hydraulic brakes, tubeless-ready wheels, SRAM Eagle 1x12 drivetrain. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "ROCKHOPPER EXPERT 27.5 OAKGRNMET/METWHTSIL",
+      "id": 3071003,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958714/large_IMG_9051.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC026057946T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        19.41,
+        -99.18
+      ],
+      "stolen_location": "Cdmx, 06170, MX",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958714/small_IMG_9051.jpeg",
+      "title": "2024 Specialized ROCKHOPPER EXPERT 27.5 OAKGRNMET/METW...",
+      "url": "https://bikeindex.org/bikes/3071003",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

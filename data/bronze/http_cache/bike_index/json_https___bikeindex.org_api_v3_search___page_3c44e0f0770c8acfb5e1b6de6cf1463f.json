@@ -1,0 +1,759 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1703829600,
+      "description": "Ritchey Break Away Ti. 56cm \r\nRim brake. Dt Swiss R460 wheels with Conti gp5000 tr tires. Sram red etap wifli 11sp groupset. Sram Red 11-32 cassette. Black Selle italia saddle. Zipp service course aluminum seat post and stem. Zipp service course bars. Shimano 105 5800 brakes. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Break Away Ti",
+      "id": 2545799,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ritchey",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1258050",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.01,
+        -87.84
+      ],
+      "stolen_location": "Park Ridge, IL, US",
+      "thumb": null,
+      "title": "2009 Ritchey Break Away Ti",
+      "url": "https://bikeindex.org/bikes/2545799",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1702271331,
+      "description": "Motobecane titanium road bike. Kysrium rims, conti gatorskins tires. Ultegra groupset",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Le Champion SL",
+      "id": 2537963,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/770668/large_20220528_143040.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.58,
+        -104.96
+      ],
+      "stolen_location": "Centennial, Co 80122, CO, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/770668/small_20220528_143040.jpg",
+      "title": "2017 Motobecane Le Champion SL",
+      "url": "https://bikeindex.org/bikes/2537963",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1698688800,
+      "description": "105 Groupset",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Warbird",
+      "id": 1689254,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/761927/large_IMG_4135.jpg",
+      "location_found": null,
+      "manufacturer_name": "Salsa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EN147881",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/761927/small_IMG_4135.jpg",
+      "title": "2016 Salsa Warbird",
+      "url": "https://bikeindex.org/bikes/1689254",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1696852800,
+      "description": "Black frame, blue fork, rainbow handle bars cane creek helm fork and cane creek dm kitsumia coil shock. Sram g eagle groupset",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "FM10",
+      "id": 1677979,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/778872/large_IMG_0932-02.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Seraph Frame",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.97,
+        -93.13
+      ],
+      "stolen_location": "St Paul, MN 55103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/778872/small_IMG_0932-02.jpeg",
+      "title": "2021 Seraph Frame FM10",
+      "url": "https://bikeindex.org/bikes/1677979",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1696777200,
+      "description": "Red Fuji SL-1 Road bike with carbon EC90 stem, carbon saddle, Controltech seatpost. Mixed Shimano 105 and Ultegra groupset and Vuelta wheelset. Tail light under seat. Cateye bike computer on red mount.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Sl 1",
+      "id": 1677543,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/755793/large_Stolen-Fuji-SL1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.87,
+        -77.02
+      ],
+      "stolen_location": "Washington, DC 20024, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/755793/small_Stolen-Fuji-SL1.jpg",
+      "title": "Fuji Sl 1",
+      "url": "https://bikeindex.org/bikes/1677543",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1696266000,
+      "description": "2019 RLT 9 RDO \r\n56cm \r\nCarbon Frame \r\nCement/Blue Color \r\nBlue Crank Bros pedals \r\nRed Deschutes Brewery Beer Cap on head tube \r\nSerial #13518M30739 \r\n\r\nShimano 105 groupset\r\nStans No Tubes Grail wheels with Maxxis tan sidewall tires",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "RLT 9 RDO",
+      "id": 1674387,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/754044/large_RLT9RDO_latest_setup_-_USE.jpg",
+      "location_found": null,
+      "manufacturer_name": "Niner",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "13518M30739",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.99,
+        -123.92
+      ],
+      "stolen_location": "Seaside, OR 97138, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/754044/small_RLT9RDO_latest_setup_-_USE.jpg",
+      "title": "2019 Niner RLT 9 RDO",
+      "url": "https://bikeindex.org/bikes/1674387",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1695934800,
+      "description": "Silver Shimano 105 groupset, Leather Brooks saddle, Velo Orange silver hammered fenders, blue spoke nipples, silver campeur rear rack, silver randonneur front rack (not shown in pic), Thule seatpost adapter for child bike seat (not shown in pic), light brown bar tape (slightly differs from pic), black randonneur bag (not shown in pic)",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Space Horse",
+      "id": 1672094,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/752872/large_2015-06-03_22.41.14.jpg",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M13090405",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/752872/small_2015-06-03_22.41.14.jpg",
+      "title": "2016 All City Space Horse",
+      "url": "https://bikeindex.org/bikes/1672094",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1695409200,
+      "description": "Black top tube, gray/glitter down tube, silver logos. SRAM Rival groupset.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Emonda",
+      "id": 1667743,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU167XT0045T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.97,
+        -79.05
+      ],
+      "stolen_location": "Chapel Hill, NC 27514, US",
+      "thumb": null,
+      "title": "2023 Trek Emonda",
+      "url": "https://bikeindex.org/bikes/1667743",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694822400,
+      "description": "GUNNAR HYPER-X with color matched ENVE gravel fork. MOOTS Ti spacers, stem, and cinch post, along with women's Specialized Power saddle and NQR seat clamp. Internal brake routing, a Arundel sport bottle cage and Arundel Looney bin bottle cage. SRAM Force eTap AXS groupset with SRAM Force 2x front derailleur and 12x rear with the distinctive flattop chain. SRAM Powermeter on AXS crankset and SRAM BB DUB. Disc brakes with SRAM HRD levers. WAHOO Elemnt Roam and K-stem handlebar mount along with speed sensor. DT Swiss XDR Freehub and DT Swiss 350 hubs. SL-70 XPLR drop handlebar with SPUACAZ Kush Galaxy handlebar tape, oil slick plugs, and silver Spurcycle bell. Panaracer Gravel King SS 700x35 (black/black) mounted on black Astral Wanderlust rims with Sapim CX Ray spokes. Shimano PD-EH500 SPD/Flat pedals and Silca Mattone seatbag. Axiom DLX Streamliner rack in black. KNOG Cobber front and rear lights.",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Hyper X",
+      "id": 1661460,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/747594/large_20210606_103646.jpg",
+      "location_found": null,
+      "manufacturer_name": "Gunnar",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E21019",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.9,
+        -122.26
+      ],
+      "stolen_location": "Berkeley, CA 94708, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/747594/small_20210606_103646.jpg",
+      "title": "2021 Gunnar Hyper X",
+      "url": "https://bikeindex.org/bikes/1661460",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694822400,
+      "description": "GUNNAR HYPER-X with color matched ENVE gravel fork. MOOTS Ti spacers, stem, and cinch post with Specialized Power saddle and NQR seat clamp. Internal brake routing and triple titanium bottle cages. SRAM Force eTap AXS groupset with SRAM Force 2x front derailleur and 12x rear with the distinctive flattop chain. SRAM Powermeter on AXS crankset and SRAM BB DUB. Disc brakes with SRAM HRD levers. WAHOO Elemnt Roam and stem mount along with speed sensor. DT Swiss XDR Freehub and DT Swiss 350 hubs. SL-70 XPLR drop handlebar with Silca Nastro Piloti black handlebar tape and black Spurcycle bell. Panaracer Gravel King SS 700x35 (black/black) mounted on black Astral Wanderlust rims with Sapim CX Ray spokes. Left handlebar end is scuffed and there is a small chip in the paint on the left rear of the frame near the hub mounting point. Lezyne Road Caddy seat bag and Lezyne Flow Tool Caddy w/ Lezyne CNC tubeless hand pump. Lezyne hard handlebar bag. KNOG Cobber front and rear lights.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Hyper X",
+      "id": 1661467,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/747596/large_20210623_145835.jpg",
+      "location_found": null,
+      "manufacturer_name": "Gunnar",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D21012",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.9,
+        -122.26
+      ],
+      "stolen_location": "Berkeley, CA 94708, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/747596/small_20210623_145835.jpg",
+      "title": "2021 Gunnar Hyper X",
+      "url": "https://bikeindex.org/bikes/1661467",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694638800,
+      "description": "Custom-build matte black bike. Hydraulic 105 groupset with a poorly functioning back brake, scuffed hoods, various light oil stains from sunscreen, GP5000 28mm tires, Prime Baroudeur Disc Alloy Wheelset (mid-low range aluminum disc wheel) with RT800 rotors",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "2017",
+      "id": 1659934,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Velobuild (unmarked) Frame, 105 Components, Custom Build",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.27
+      ],
+      "stolen_location": "Oakland, CA 94612, US",
+      "thumb": null,
+      "title": "2021 Velobuild (unmarked) Frame, 105 Components, Custom Build 2017",
+      "url": "https://bikeindex.org/bikes/1659934",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1693371600,
+      "description": "Shimano 105 groupset, Shimano 105 road pedals, Specialized saddle bag, Specialized square lights attached via rubber bands. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ORCA M30",
+      "id": 1654413,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/743722/large_IMG_9553.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01190548157",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97239, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/743722/small_IMG_9553.jpeg",
+      "title": "2022 Orbea ORCA M30",
+      "url": "https://bikeindex.org/bikes/1654413",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1690084800,
+      "description": "Brazo tire in front\r\nMezcal tire in rear\r\nShimano XT brakes\r\nNX groupset\r\nXX1 gold eagle chain\r\nThompson Elite seat post",
+      "frame_colors": [
+        "Green",
+        "Teal"
+      ],
+      "frame_model": "Tallboy C",
+      "id": 1563810,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/727944/large_2635F61B-7092-4A98-9E69-A2FCD89631A3.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS 1810 P-1 1332 C",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.51,
+        -112.03
+      ],
+      "stolen_location": "Herriman, UT 84096, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/727944/small_2635F61B-7092-4A98-9E69-A2FCD89631A3.jpeg",
+      "title": "2019 Santa Cruz Tallboy C",
+      "url": "https://bikeindex.org/bikes/1563810",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1689062400,
+      "description": "58cm\r\nGRX groupset\r\nDT Swiss wheels/hubs\r\nShockstop suspension stem\r\nBrooks saddle",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Rove DL",
+      "id": 1553784,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/721331/large_IMG_2558.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AK80603108",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.51,
+        -123.33
+      ],
+      "stolen_location": "Grants Pass, OR 97526, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/721331/small_IMG_2558.jpeg",
+      "title": "2019 Kona Rove DL",
+      "url": "https://bikeindex.org/bikes/1553784",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1687392000,
+      "description": "grey frame with red writing upgraded shimano hydraulic disc brakes and shimano deore groupset",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "marlin 4",
+      "id": 1542539,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/713697/large_0BCC9B49-4CF5-440D-9F9C-1E76E1CBD73C_1_105_c.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU113JC0558R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.54,
+        -77.32
+      ],
+      "stolen_location": "Greenville, NC 27858, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/713697/small_0BCC9B49-4CF5-440D-9F9C-1E76E1CBD73C_1_105_c.jpeg",
+      "title": "2021 Trek marlin 4",
+      "url": "https://bikeindex.org/bikes/1542539",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1686528000,
+      "description": "2022 Trek Farley 5 Mountain Fatbike. Frame size small. Wheels have been setup as tubeless and tires have been upgraded to 45NRTH Vanhelga. Handlebar bar has been upgraded to a Race Face Next carbon fiber handlebar with ultralight Ritchey WCS Truegrip Grips (Red in Color). Has been professionally wrapped with protective film. Comes with stock groupset, brakes, pedals, and dropper post.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Farley 5",
+      "id": 1536916,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/709873/large_20230508_230554.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU253G0514S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.25
+      ],
+      "stolen_location": "Minneapolis, MN 55407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/709873/small_20230508_230554.jpg",
+      "title": "2022 Trek Farley 5",
+      "url": "https://bikeindex.org/bikes/1536916",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1685826000,
+      "description": "Light/sky blue steel framed, black components gravel bike. SRAM Rival 1 groupset; rear derailer only. Had a small BV Bicycle strap-on saddle bag behind the seat. See bike here: https://99spokes.com/bikes/raleigh/2017/tamland-2",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Tamland 2",
+      "id": 1371301,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/620388/large_Screen_Shot_2022-08-12_at_2.35.48_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U175E07246",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/620388/small_Screen_Shot_2022-08-12_at_2.35.48_PM.png",
+      "title": "2017 Raleigh Tamland 2",
+      "url": "https://bikeindex.org/bikes/1371301",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1682712000,
+      "description": "Aluminum Frame 54cm, carbon wheels, carbon seat post, carbon handlebars, Shimano 105 groupset, Fabric seat",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Light Sea Foam Green - Custom build",
+      "id": 1511230,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/692419/large__DSC0674-Edit.jpg",
+      "location_found": null,
+      "manufacturer_name": "Custom",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.32
+      ],
+      "stolen_location": "Seattle, WA 98102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/692419/small__DSC0674-Edit.jpg",
+      "title": "2023 Custom Light Sea Foam Green - Custom build",
+      "url": "https://bikeindex.org/bikes/1511230",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1682240400,
+      "description": "Ex-Team Ineos bike belonging to Gianni Moscon. It was his second bike, so has a number 2 sticker on the bottom bracket. Black with red Grenadiers stickers added by the team as they transitioned to their new blue and red bikes. Rim brake. Dura-Ace Di2 9150 groupset, apart from a Quarq D-Zero power meter crank. Fizik Arione R1 Large saddle, Lizard Skins bar tape, 3-D printed out-front Wahoo mount, Bontrager Aeolus Pro 3 wheels with Pirelli P-Zero Velo tyres (red logos). Talon Ultra bars (420 x 120). Was stolen with race number attached, but probably removed by now.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "F12 X-Light Team Ineos",
+      "id": 1510524,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/691994/large_Pinarello_F12_X-Light.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pinarello",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7CD5500010188",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.63,
+        5.57
+      ],
+      "stolen_location": "Liege, BE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/691994/small_Pinarello_F12_X-Light.jpg",
+      "title": "2021 Pinarello F12 X-Light Team Ineos",
+      "url": "https://bikeindex.org/bikes/1510524",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1678752000,
+      "description": "Current iteration has XT groupset, niner carbon fork. \r\n\r\nLocking bolts on the wheels, headset and seat. Tire have tubes in them, despite having tubeless residue. (Was sick of fixing for commuting). MTB tires on it.\r\n\r\n(Some of the photos feature things that aren't on it anymore: no panier setup. On original wheels, no longer Stans. Rockshox fork replaced w/ rigid niner fork)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Crave Comp",
+      "id": 1470203,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/678903/large_IMG_9695.JPG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.4
+      ],
+      "stolen_location": "Los Angeles, CA 90034, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/678903/small_IMG_9695.JPG",
+      "title": "2016 Specialized Crave Comp",
+      "url": "https://bikeindex.org/bikes/1470203",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1676077200,
+      "description": "Very unique custom build. 1x10 Shimano groupset, Shimano XT derailleur, Shimano SLX crankset, Shimano XT hydraulic brakes, Shimano XT shifter, Shimano hubs, black spokes and rims, Truvativ stem, WTB saddle, Ryder seatpost, black straight handlebars, RockShox Reba fork with SID internals.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Zaskar Sport",
+      "id": 3186227,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F120808761",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -25.74,
+        28.31
+      ],
+      "stolen_location": "Pretoria, Gauteng, 0184, ZA",
+      "thumb": null,
+      "title": "2013 GT Bicycles Zaskar Sport",
+      "url": "https://bikeindex.org/bikes/3186227",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1675182600,
+      "description": "ultegra groupset, internal cable routing, favero assioma pedals, dt swiss wheels, continental gp5000 front tyre, gp 4 season back tyre, one elite bottle cage",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Tarmac Comp",
+      "id": 1460712,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/673335/large_Image.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604217944M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        56.34,
+        -2.81
+      ],
+      "stolen_location": "St.Andrews, KY16 9SS, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/673335/small_Image.jpeg",
+      "title": "2016 Specialized Tarmac Comp",
+      "url": "https://bikeindex.org/bikes/1460712",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1673010000,
+      "description": "This is a custom steel frame/fork, geometry is closest to a 57cm with a sloping top tube. Full Shimano 7800 Dura-Ace groupset. ",
+      "frame_colors": [
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Odi steel custom",
+      "id": 1454108,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/668414/large_Patrick_Cycles_Odi.jpg",
+      "location_found": null,
+      "manufacturer_name": "Patrick Cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/668414/small_Patrick_Cycles_Odi.jpg",
+      "title": "2009 Patrick Cycles Odi steel custom",
+      "url": "https://bikeindex.org/bikes/1454108",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1673010000,
+      "description": "This is one of the original 1994 Coors Light Team bikes built by Ben Serotta. It has a Campagnolo C-Record groupset including the rare Delta bikes calipers.",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Purple"
+      ],
+      "frame_model": "Coors Light Team",
+      "id": 1454163,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/668460/large_Coors_Light_Team.jpg",
+      "location_found": null,
+      "manufacturer_name": "Serotta",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/668460/small_Coors_Light_Team.jpg",
+      "title": "1994 Serotta Coors Light Team",
+      "url": "https://bikeindex.org/bikes/1454163",
+      "year": 1994,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1669977000,
+      "description": "2022 Esker Japhy  XXl \r\nBuilt with Fox 34 Factory fork, ENVE M7 handlebars, ENVE M735 wheelset with I9 Hydra Hubs\r\nXTR full groupset with XTR brakes (Noticeable marking on brake lever pictured in last photo)\r\n\r\nFrame is bare gray with anodized logo",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Japhy",
+      "id": 1451749,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/666294/large_s-l1600.jpg",
+      "location_found": null,
+      "manufacturer_name": "Esker",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.88,
+        -93.21
+      ],
+      "stolen_location": "Minneapolis, MN 55111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/666294/small_s-l1600.jpg",
+      "title": "2022 Esker Japhy",
+      "url": "https://bikeindex.org/bikes/1451749",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

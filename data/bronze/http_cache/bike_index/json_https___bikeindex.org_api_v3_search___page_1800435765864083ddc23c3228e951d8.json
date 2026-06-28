@@ -1,0 +1,768 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1761523200,
+      "description": "2012 Cervelo R5 VWD Road Bike 58cm Carbon SRAM Red 10s ENVE Chris King 3T",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "R5 VWD",
+      "id": 639199,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/174392/large_BRD13771_BJ_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR5P110200020",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/174392/small_BRD13771_BJ_02.jpg",
+      "title": "2012 Cervélo R5 VWD",
+      "url": "https://bikeindex.org/bikes/639199",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1544540400,
+      "description": "Cervelo C3. 28mm tires. Full front back fenders. Lights.",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "C3",
+      "id": 491538,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/142843/large_Bike_20180221.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/142843/small_Bike_20180221.jpg",
+      "title": "2016 Cervélo C3",
+      "url": "https://bikeindex.org/bikes/491538",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1536436800,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "cervelo s2",
+      "id": 413746,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, CA",
+      "thumb": null,
+      "title": "2013 Cervélo cervelo s2",
+      "url": "https://bikeindex.org/bikes/413746",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1533801600,
+      "description": "Cervelo C3 di2 Disc brakes - white frame w black pinstripes on top tube. Brand new .",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "C3 Ult Di2 8070",
+      "id": 407272,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/129932/large_6E3057BA-AE9F-40A1-9861-8AC4834AC389.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNCA18A00315",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.21
+      ],
+      "stolen_location": "Bellevue, WA 98004 , US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/129932/small_6E3057BA-AE9F-40A1-9861-8AC4834AC389.jpeg",
+      "title": "2018 Cervélo C3 Ult Di2 8070",
+      "url": "https://bikeindex.org/bikes/407272",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1533801600,
+      "description": "Silver with black and yellow stickers, yellow grip tape ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Series One",
+      "id": 407287,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/129938/large_0A5111EF-B14A-4FB4-9C14-C2FE9C43042E.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F10070084",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.21
+      ],
+      "stolen_location": "Bellevue, WA 98004, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/129938/small_0A5111EF-B14A-4FB4-9C14-C2FE9C43042E.jpeg",
+      "title": "2013 GT Bicycles Series One",
+      "url": "https://bikeindex.org/bikes/407287",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1511589600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "INTENSO ULTEGRA",
+      "id": 378201,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/106200/large_6F992911-1F48-4313-88FD-B02288ACB1F0.png",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "210000011692",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/106200/small_6F992911-1F48-4313-88FD-B02288ACB1F0.png",
+      "title": "2017 Bianchi INTENSO ULTEGRA",
+      "url": "https://bikeindex.org/bikes/378201",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1502337600,
+      "description": "I bought this 2015 Cervelo S2 from bonzai sports in Virginia in June of 2015. It was stolen in August of 2017 from my home in Ocean City, MD. At the time My bike was stolen, it had Shimano 105 components, stock shimano Wheels, blue LOOK Brand pedals, carbon water bottle cages, 3T handle bars with black tape, black stock cervelo saddle, and a black Louis Garneau saddle bag. There were also OVC (Ocean Velo Club) team stickers on the seat tube, but I'm sure they have been taken off by now. Please help me find my bike! ",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "S2",
+      "id": 1445507,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/662266/large_1D63AD85-86C4-4304-8F58-4BD2DB83C2B5.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNS2D14D10361",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.34,
+        -75.09
+      ],
+      "stolen_location": "Ocean City, MD 21842, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/662266/small_1D63AD85-86C4-4304-8F58-4BD2DB83C2B5.jpeg",
+      "title": "2015 Cervélo S2",
+      "url": "https://bikeindex.org/bikes/1445507",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1501826400,
+      "description": "White Cervelo, women's frame, with auto gear shifting,",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "S5",
+      "id": 352351,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN55C11J00530",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.21,
+        -119.12
+      ],
+      "stolen_location": "Kennewick, WA, US",
+      "thumb": null,
+      "title": "2011 Cervélo S5",
+      "url": "https://bikeindex.org/bikes/352351",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1473314400,
+      "description": "Cervelo R3 frame set built up with white industries hubs, belgium rims, sram red shifters, 11/38 in the back that will look odd on a road bike. The tape is also a little thicker than normal.",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "R3 56cm",
+      "id": 95456,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/66199/large_Screen_Shot_2016-09-09_at_8.03.49_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR3D15M00094",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.27
+      ],
+      "stolen_location": "Oakland, CA 94612, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/66199/small_Screen_Shot_2016-09-09_at_8.03.49_AM.png",
+      "title": "2016 Cervélo R3 56cm",
+      "url": "https://bikeindex.org/bikes/95456",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1459317600,
+      "description": "Cervelo R3 105 Group set |\r\nHorizontal scratch on the head tube (Right side) |\r\nFront of cockpit where it says 3T is missing paint in distinctive fashion (see picture) |\r\nGarmin mount on the stem",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "R3",
+      "id": 72056,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/49815/large_IMG_8536.JPG",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR3C13E00456",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/49815/small_IMG_8536.JPG",
+      "title": "2013 Cervélo R3",
+      "url": "https://bikeindex.org/bikes/72056",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1458021600,
+      "description": "it's 48cm frame with racing tires, and 2 water bottle racks, and a white speedometer, with carbon tri bars.  Also, there is a parking sticker (forget the number), and a big speedy reedy sticker by the drive train.  Ultegra 6700",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "cervelo s2",
+      "id": 71723,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/49104/large_Cervelo_S2_Ultegra_2010.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNS2C10D00305",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/49104/small_Cervelo_S2_Ultegra_2010.jpg",
+      "title": "2010 Cervélo cervelo s2",
+      "url": "https://bikeindex.org/bikes/71723",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1445839200,
+      "description": "Cervelo S2, Ultegra 10 speed, brand new chain, rear derailleur, and cassette, Powertap/open pro wheels",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "S2",
+      "id": 61484,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/38539/large_Bike_on_Trainer.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/38539/small_Bike_on_Trainer.jpg",
+      "title": "2012 Cervélo S2",
+      "url": "https://bikeindex.org/bikes/61484",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1432965600,
+      "description": "Bike had some gooves in carbon frame - main down post that goes into pedals, from hauling it around.  It also had very little handlebar tape and the aero bars were turned down with the right one slightly off center.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "p2 Ultegra",
+      "id": 47295,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2C11G50232",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.17,
+        -115.22
+      ],
+      "stolen_location": "Las Vegas, NV 89107, US",
+      "thumb": null,
+      "title": "2012 Cervélo p2 Ultegra",
+      "url": "https://bikeindex.org/bikes/47295",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1430417493,
+      "description": "Triathlon fitting\r\nAerobar infront\r\nCage bottle behind",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "Cervelo",
+      "id": 43972,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "012S2CRI1C51",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2015 Cervélo Cervelo",
+      "url": "https://bikeindex.org/bikes/43972",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1423548000,
+      "description": "Cervelo R3 with:\r\nReynolds Wheels\r\nUltegra 50/34 (front)\r\nUltegra 12/30 (rear)\r\nCarbon Fiber Drop handlebars\r\nSpeedplay pedals\r\nSpecialized saddle",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "R3",
+      "id": 39656,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR3C10G00505",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -74.0
+      ],
+      "stolen_location": "New York, NY 10012, US",
+      "thumb": null,
+      "title": "2012 Cervélo R3",
+      "url": "https://bikeindex.org/bikes/39656",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1414216800,
+      "description": "Cervelo Renaissance Roadbike size 56 with grey Reynolds high wall clincher wheelset, Shimano dura-ace group, Look Koa clipless pedals, carbone fork, cervelo brakes, chris king headset, shimano brake shifters, FSA carbon cranks, specialized saddle, specialized carbon bar stem, Easton bars. Picture is the same colors scheme though not my bike. Only 100 ever made not sure there are many in SF.",
+      "frame_colors": [
+        "Red",
+        "White",
+        "Black"
+      ],
+      "frame_model": "Renaissance",
+      "id": 33905,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/15526/large_cervelo-renaissance_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.48
+      ],
+      "stolen_location": "San Francisco, CA 94122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/15526/small_cervelo-renaissance_1.jpg",
+      "title": "2002 Cervélo Renaissance",
+      "url": "https://bikeindex.org/bikes/33905",
+      "year": 2002,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1401688800,
+      "description": "This is a 2011 Cervelo road bike, white with red decals.  It has black Crank Bros Candy Pedals.  ",
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "RS",
+      "id": 11474,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4352/large_1401766701.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNRSC10C5050168",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.3,
+        -71.19
+      ],
+      "stolen_location": "Newton, MA 02459, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4352/small_1401766701.jpg",
+      "title": "2011 Cervélo RS",
+      "url": "https://bikeindex.org/bikes/11474",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1395381600,
+      "description": "White Cervelo R3 56cm with Campy Chorus 10spd components. Mavic Open Pro rims, Michelin tires. Had Race Blade fenders on it as well as a Niterider MiNewt 100 headlamp and a Planet Bike Superflash rear LED light.  ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "R3",
+      "id": 7426,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.41,
+        -122.57
+      ],
+      "stolen_location": "Clackamas, OR, US",
+      "thumb": null,
+      "title": "2009 Cervélo R3",
+      "url": "https://bikeindex.org/bikes/7426",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1389765600,
+      "description": "Cervelo R3 105 with Mavic Cosmic Carbone SL wheels  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "R3",
+      "id": 9904,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR3C12J00928",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": null,
+      "title": "2013 Cervélo R3",
+      "url": "https://bikeindex.org/bikes/9904",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1381816800,
+      "description": "There is a $1000 reward to the person who can help me recover my new bike and possibly provide information leading to the arrest and conviction of these two women.This morning 10/15/13 my brand new Cervelo S5 Di2 bike serial # SNS5C12K00691 was stolen from my house near 50th and Folsom Blvd by two women in a 2000 something silver 2door 2WD Dodge Ram truck. The driver was approximately 27 years of age, hispanic or latin with blonde died hair done in pigtails. She was approximately 5'4\" she called herself Kristal. She was with a taller younger woman possibly caucasian or latin mix and had straight black hair and a small piercing in her upper lip approximately 21 years old.The two women said that they lived in Del Paso Heights near W. El Camino and Washington and American Ave. On Peralta St. and asking for directions and money.While I was distracted and on the phone they left and I believe they took my bike.There is a $1000 reward to the person who can help me recover the new bike and possibly provide information leading to the arrest and conviction of these two women.  ",
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "S5 Di2 Ultegra",
+      "id": 23097,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNS5C12K00691",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.57,
+        -121.44
+      ],
+      "stolen_location": "Sacramento, CA 95819, US",
+      "thumb": null,
+      "title": "2013 Cervélo S5 Di2 Ultegra",
+      "url": "https://bikeindex.org/bikes/23097",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1380002400,
+      "description": "Black Fuji Cross Comp, Black Fenders and Rack.  Rear and Front Planet Bike Lights.  Easton bars w black tape, bell under left shifter, Sprintech Rear Mirror, three BTA stickers on rear, one on rack, two on fender.  Illuminating rack flaps, very distinctive, black by day, illuminate once light strikes them.  Flight Titanium Saddle and a Cervelo carbon fiber seatpost.   Fuji Altair 1 aluminum with PowerDiamond down tube, Integrated head tube, Double water bottle mounts. Rear triangle: Fuji custom butted and tapered 6000 series aluminum, Fuji forged road dropout with replaceable derailleur hanger",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cross Comp",
+      "id": 21489,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/7044/cross-comp4-main-photo-large.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/7044/small_cross-comp4-main-photo-large.jpg",
+      "title": "2009 Fuji Cross Comp",
+      "url": "https://bikeindex.org/bikes/21489",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1379829600,
+      "description": "broke into my passenger window on a red 2005 mercedes c230 and stole my 2011 cervelo p1 triathlon bike with the below listed accessories on 9/22/13 between 540 and 840am.  was going to the 2013 portland triathlon.  Accessories on bike include: conti 700x18-25 48mm LIGHT 72g presta tube, torhans aero 30 bottle, torhans aero 30 mounting bracket \"reverse\", speedplay Zero chrome-moly red clipped pedals, timbuk2 bike seat bag medium gunmetal with following components: park tool TL-1 tire levers, genuine innovations 16g threaded CO2 cartridge, genuine innovations air chuck elite inflator; new swiss stop BXP flash brake pads, conti 700x25 Grand Prix 4000S Black tires, Shimano Ultegra 6701-10 speed chain  ",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "P1 Traithlon",
+      "id": 20621,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7252/large_1379886678.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2S09E0241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7252/small_1379886678.jpg",
+      "title": "2011 Cervélo P1 Traithlon",
+      "url": "https://bikeindex.org/bikes/20621",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1372831200,
+      "description": "2011 Cervelo P2 triathlon bike, red bar tape, red classic keo look pedals, double bottle gorilla holder saddle mounted  ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "P2",
+      "id": 21647,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7612/large_1372896436.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2C11L50269",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.01,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60626, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7612/small_1372896436.jpg",
+      "title": "2011 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/21647",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1369548000,
+      "description": "Like new Cervelo RS Rival with Garmin 500 GPS & Garmin Cadence Unit, Shimano R540 white pedals and qty. 2 Bontrager white bottle cages.  ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "RS Rival",
+      "id": 15240,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5529/large_1369952163.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNRSC11B00244",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.1,
+        -117.25
+      ],
+      "stolen_location": "Carlsbad, CA 92009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5529/small_1369952163.jpg",
+      "title": "2012 Cervélo RS Rival",
+      "url": "https://bikeindex.org/bikes/15240",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1369202400,
+      "description": "Red/Black Cervelo P3 with orange training tire and Bend Bike N Sport sticker, Dura Ace components and Ergomo power meter.  ",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "P3",
+      "id": 18990,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/6742/large_Patterson_Stolen_Bikes_sized.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.06,
+        -121.32
+      ],
+      "stolen_location": "Bend, OR 97701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/6742/small_Patterson_Stolen_Bikes_sized.jpg",
+      "title": "2009 Cervélo P3",
+      "url": "https://bikeindex.org/bikes/18990",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

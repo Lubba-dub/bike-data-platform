@@ -1,0 +1,749 @@
+{
+  "bikes": [
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "790245",
+      "id": 3374875,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Princeton, NJ 08540, United States",
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Brompton Bicycle 790245",
+      "url": "https://bikeindex.org/bikes/3374875",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "790245",
+      "id": 3374470,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Princeton, NJ 08540, United States",
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Brompton Bicycle 790245",
+      "url": "https://bikeindex.org/bikes/3374470",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776700800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Régis v6",
+      "id": 3372937,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019505/large_Brompton_R%C3%A9gis_v6_%2B_dynamo__moyeu.JPG",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0710077797",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.79,
+        4.42
+      ],
+      "stolen_location": "Bruxelles, 1170, BE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019505/small_Brompton_R%C3%A9gis_v6_%2B_dynamo__moyeu.JPG",
+      "title": "2007 Brompton Bicycle Régis v6",
+      "url": "https://bikeindex.org/bikes/3372937",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776625200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "P Line",
+      "id": 3373263,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2303231548",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.43,
+        -0.34
+      ],
+      "stolen_location": "London, TW11 8SJ, GB",
+      "thumb": null,
+      "title": "2024 Brompton Bicycle P Line",
+      "url": "https://bikeindex.org/bikes/3373263",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772830800,
+      "description": "Clear Lacquer Brown Brooks saddle ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "M6R",
+      "id": 3347653,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1006808/large_IMG_2927.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1904260733",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        -122.6
+      ],
+      "stolen_location": "Portland, OR 97213, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1006808/small_IMG_2927.jpeg",
+      "title": "2019 Brompton Bicycle M6R",
+      "url": "https://bikeindex.org/bikes/3347653",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768766400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "C Line 6 Speed",
+      "id": 3288328,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/997756/large_1000316590.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2204270401",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -38.12,
+        176.27
+      ],
+      "stolen_location": "Rotorua, 3010, NZ",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/997756/small_1000316590.jpg",
+      "title": "Brompton Bicycle C Line 6 Speed",
+      "url": "https://bikeindex.org/bikes/3288328",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766354400,
+      "description": "Sone marks on Handel bar left side and sone very noticeable marks on the pack trolley ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "C Line Electric",
+      "id": 3252133,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/992399/large_IMG_9076.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2309290083",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.47,
+        -0.1
+      ],
+      "stolen_location": "London, SE5 9PZ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/992399/small_IMG_9076.jpeg",
+      "title": "2024 Brompton Bicycle C Line Electric",
+      "url": "https://bikeindex.org/bikes/3252133",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765355215,
+      "description": null,
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Brompton C Line",
+      "id": 3248876,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1811140427",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -76.98
+      ],
+      "stolen_location": "Washington, DC 20002, US",
+      "thumb": null,
+      "title": "Brompton Bicycle Brompton C Line",
+      "url": "https://bikeindex.org/bikes/3248876",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764091800,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 3231000,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987518/large_IMG_3711.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2409270067",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.83,
+        -0.16
+      ],
+      "stolen_location": "Hove, BN31PR, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987518/small_IMG_3711.jpeg",
+      "title": "2024 Brompton Bicycle",
+      "url": "https://bikeindex.org/bikes/3231000",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760814000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "P Line Electric",
+      "id": 3218182,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2208020336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.44,
+        -0.06
+      ],
+      "stolen_location": "London, SE23 3RN, GB",
+      "thumb": null,
+      "title": "2022 Brompton Bicycle P Line Electric",
+      "url": "https://bikeindex.org/bikes/3218182",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759780800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Sl6",
+      "id": 3207182,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1610030073",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.93,
+        -1.39
+      ],
+      "stolen_location": "Southampton, SO17 1NN, GB",
+      "thumb": null,
+      "title": "2017 Brompton Bicycle Sl6",
+      "url": "https://bikeindex.org/bikes/3207182",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758747034,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M2L",
+      "id": 3200637,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.48,
+        -0.17
+      ],
+      "stolen_location": "London, SW11 4AN, GB",
+      "thumb": null,
+      "title": "Brompton Bicycle M2L",
+      "url": "https://bikeindex.org/bikes/3200637",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758308400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "C Line",
+      "id": 3200444,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970353/large_WhatsApp_Image_2025-09-24_at_08.29.02_376dd08c.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2408141440",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970353/small_WhatsApp_Image_2025-09-24_at_08.29.02_376dd08c.jpg",
+      "title": "2025 Brompton Bicycle C Line",
+      "url": "https://bikeindex.org/bikes/3200444",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757108954,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Brompton Folding Bike C Line",
+      "id": 3183237,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2112221021",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": null,
+      "title": "2022 Brompton Bicycle Brompton Folding Bike C Line",
+      "url": "https://bikeindex.org/bikes/3183237",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756987200,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 3231518,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987813/large_1000008113.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2307231618",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.53,
+        -80.06
+      ],
+      "stolen_location": "Boynton Beach, FL 33435, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987813/small_1000008113.jpg",
+      "title": "2023 Brompton Bicycle",
+      "url": "https://bikeindex.org/bikes/3231518",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754632800,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Folding bike, Model P",
+      "id": 3007376,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1812040837",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Feancisco, CA 94110, US",
+      "thumb": null,
+      "title": "2020 Brompton Bicycle Folding bike, Model P",
+      "url": "https://bikeindex.org/bikes/3007376",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752030000,
+      "description": "Bike register reference 9399909747\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M3L",
+      "id": 2835051,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/937440/large_PHOTO-2025-07-09-04-42-42_14.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "392584",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.32,
+        -0.56
+      ],
+      "stolen_location": "Woking, GU22 7XJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/937440/small_PHOTO-2025-07-09-04-42-42_14.jpg",
+      "title": "2013 Brompton Bicycle M3L",
+      "url": "https://bikeindex.org/bikes/2835051",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749452400,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Foldable- Frame No. 1029142",
+      "id": 2821053,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1029142",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.85,
+        4.36
+      ],
+      "stolen_location": "Brussels, 1200, BE",
+      "thumb": null,
+      "title": "Brompton Bicycle Foldable- Frame No. 1029142",
+      "url": "https://bikeindex.org/bikes/2821053",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748822400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "C Line 6 Speed",
+      "id": 2826620,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2410161010",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.75,
+        -105.0
+      ],
+      "stolen_location": "Denver, CO 80202, US",
+      "thumb": null,
+      "title": "2025 Brompton Bicycle C Line 6 Speed",
+      "url": "https://bikeindex.org/bikes/2826620",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748160000,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "C-line",
+      "id": 2808026,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/920228/large_IMG_0046.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2402070293",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.04
+      ],
+      "stolen_location": "Calgary, T2E 4E8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/920228/small_IMG_0046.jpeg",
+      "title": "2024 Brompton Bicycle C-line",
+      "url": "https://bikeindex.org/bikes/2808026",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747702800,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2813797,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/923837/large_Brompton_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2407041740",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.98,
+        -84.15
+      ],
+      "stolen_location": "Duluth, GA 30096, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/923837/small_Brompton_1.jpg",
+      "title": "2024 Brompton Bicycle",
+      "url": "https://bikeindex.org/bikes/2813797",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745949600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "C-Line Urban",
+      "id": 2863822,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2306301486",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": null,
+      "title": "Brompton Bicycle C-Line Urban",
+      "url": "https://bikeindex.org/bikes/2863822",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743876000,
+      "description": "Dark blue Brompton with light blue trim at front and rear. Swytch kit mounted. Metal plaque at base of seat post reads \"Stonehenge Cycles\"",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "M3L",
+      "id": 2774288,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/902808/large_PXL_20220918_130036695.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.5,
+        -0.07
+      ],
+      "stolen_location": "London, SE1 2HG, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/902808/small_PXL_20220918_130036695.jpg",
+      "title": "Brompton Bicycle M3L",
+      "url": "https://bikeindex.org/bikes/2774288",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743437032,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2772035,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2012060712",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        59.33,
+        18.07
+      ],
+      "stolen_location": "Stockholm, 111 57, SE",
+      "thumb": null,
+      "title": "2020 Brompton Bicycle",
+      "url": "https://bikeindex.org/bikes/2772035",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742749200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "C-Line Explore",
+      "id": 2863804,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2405091621",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": null,
+      "title": "Brompton Bicycle C-Line Explore",
+      "url": "https://bikeindex.org/bikes/2863804",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

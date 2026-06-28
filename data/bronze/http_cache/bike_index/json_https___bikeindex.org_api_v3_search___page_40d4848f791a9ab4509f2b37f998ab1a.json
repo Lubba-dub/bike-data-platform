@@ -1,0 +1,756 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1756324800,
+      "description": "The serial number may be close to our other EBike CG0FD2212EB4348 as purchased at same time",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "CC60",
+      "id": 3070033,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ebgo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XXXXXXXXX",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P 4K7, CA",
+      "thumb": null,
+      "title": "2023 Ebgo CC60",
+      "url": "https://bikeindex.org/bikes/3070033",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756284000,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Rad tricycle",
+      "id": 3071278,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958916/large_326BB814-51B3-4A11-9B27-6B00029DDA66.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.69,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958916/small_326BB814-51B3-4A11-9B27-6B00029DDA66.jpeg",
+      "title": "2023 Rad Power Bikes Rad tricycle",
+      "url": "https://bikeindex.org/bikes/3071278",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762657200,
+      "description": "This is a black cafe cruiser eBike. It is stock with the addition of a phone mount and bell. Equipped with AirTag for tracking.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cafe Cruiser",
+      "id": 3069107,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984088/large_IMG_0572.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ3220902271",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984088/small_IMG_0572.jpeg",
+      "title": "Ride1Up Cafe Cruiser",
+      "url": "https://bikeindex.org/bikes/3069107",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756238400,
+      "description": "Chili Red folding ebike 48V 750W 20\" frame, 4.0 fat tire, 13Ah lithium-ion battery, Shimano 7-speed, with Smart LCD display, and black insulated Mosiso waterproof bag behind rider. ViaVelo Bike U Lock, Meachow handlebar right side bicycle mirror. Several locations on metal frame engraved with name - Travis Mackie",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "FW11 KT-D05 Z-LXD25-SD",
+      "id": 1230470,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958003/large_E-Bike_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fucare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "209922127700006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.06,
+        -122.15
+      ],
+      "stolen_location": "Marysville, WA 98270, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958003/small_E-Bike_1.jpg",
+      "title": "2022 Fucare FW11 KT-D05 Z-LXD25-SD e-scooter",
+      "url": "https://bikeindex.org/bikes/1230470",
+      "year": 2022,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "e-scooter"
+    },
+    {
+      "date_stolen": 1755982800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Packer 1 Ebike",
+      "id": 3066021,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/956401/large_IMG_2737.png",
+      "location_found": null,
+      "manufacturer_name": "Velotric",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.55,
+        -122.82
+      ],
+      "stolen_location": "Windsor, CA 95492, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/956401/small_IMG_2737.png",
+      "title": "2024 Velotric Packer 1 Ebike",
+      "url": "https://bikeindex.org/bikes/3066021",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755878400,
+      "description": "There is a small purple bell on the right side handle bar, for alerting walkers.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Current EBike",
+      "id": 3064530,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955665/large_ebike.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Priority Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.68,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955665/small_ebike.jpeg",
+      "title": "2020 Priority Bicycles Current EBike",
+      "url": "https://bikeindex.org/bikes/3064530",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755495055,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Retrovolt",
+      "id": 3007374,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Jasion ebike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JASION240528208",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.66,
+        -117.97
+      ],
+      "stolen_location": "Huntington Beach, CA 92646, US",
+      "thumb": null,
+      "title": "Jasion ebike Retrovolt",
+      "url": "https://bikeindex.org/bikes/3007374",
+      "year": null,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755399600,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Brown"
+      ],
+      "frame_model": "R Adventure",
+      "id": 3061376,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Super73",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F22CY3016",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97239, US",
+      "thumb": null,
+      "title": "2025 Super73 R Adventure",
+      "url": "https://bikeindex.org/bikes/3061376",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755288000,
+      "description": "Black ebike with black childs seat on back and silver electra front rack over front tire.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Verve",
+      "id": 2935300,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/952384/large_IMG_2747.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU075XC0195V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.22,
+        -79.91
+      ],
+      "stolen_location": "Roanoke, VA 24014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/952384/small_IMG_2747.jpeg",
+      "title": "2025 Trek Verve",
+      "url": "https://bikeindex.org/bikes/2935300",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757761200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "U4",
+      "id": 2930222,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966379/large_ebike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Isinwheel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EBX00125021600",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.62,
+        -96.31
+      ],
+      "stolen_location": "College Station, TX 77840, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966379/small_ebike.jpg",
+      "title": "2025 Isinwheel U4",
+      "url": "https://bikeindex.org/bikes/2930222",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757023200,
+      "description": "Ebike with fat tires",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Super odin",
+      "id": 2878846,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948616/large_173.jpg",
+      "location_found": null,
+      "manufacturer_name": "Vamoose cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OTM2201132",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.51
+      ],
+      "stolen_location": "Edmonton , Alberta, T5H 3A7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948616/small_173.jpg",
+      "title": "2023 Vamoose cycles Super odin",
+      "url": "https://bikeindex.org/bikes/2878846",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754580278,
+      "description": "This is an electric bike.  \r\nIt is called a Thunder eBike Step Through model.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cruiser style eBike",
+      "id": 1130792,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/471759/large_Thunder_eBike.JPG",
+      "location_found": null,
+      "manufacturer_name": "Thunder eBike - Step Through",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TT0170200921",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/471759/small_Thunder_eBike.JPG",
+      "title": "2017 Thunder eBike - Step Through Cruiser style eBike",
+      "url": "https://bikeindex.org/bikes/1130792",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754542800,
+      "description": "Metallic teal ebike\r\nI had two mustard yellow packs on it, one attached with WNDR ski strap \r\nBlack wire rack on back \r\nSlow leak from rear tire ",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": null,
+      "id": 2879303,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948913/large_IMG_8938.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.78,
+        -111.74
+      ],
+      "stolen_location": "Salt Lake City, UT 84108, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948913/small_IMG_8938.jpeg",
+      "title": "2022 Kona",
+      "url": "https://bikeindex.org/bikes/2879303",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754539200,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "RadMini 4",
+      "id": 2878726,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948655/large_IMG_2531.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.9,
+        -93.23
+      ],
+      "stolen_location": "Minneapolis, MN 55417, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948655/small_IMG_2531.jpeg",
+      "title": "2021 Rad Power Bikes RadMini 4",
+      "url": "https://bikeindex.org/bikes/2878726",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754474400,
+      "description": "The 2024 Bird Adult A-frame 28\" ebike is a sleek and modern electric hybrid bike designed for urban commutes and leisure rides. It features a robust aluminum alloy frame, puncture-resistant 28-inch Kenda tires, and a powerful 500W Bafang rear hub motor capable of reaching speeds of up to 20 mph.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Adult A",
+      "id": 3062104,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/954686/large_Screenshot_2025-08-20_094013.png",
+      "location_found": null,
+      "manufacturer_name": "Bird",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.05,
+        -118.3
+      ],
+      "stolen_location": "Los Angeles, CA 90006, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/954686/small_Screenshot_2025-08-20_094013.png",
+      "title": "2024 Bird Adult A",
+      "url": "https://bikeindex.org/bikes/3062104",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753574400,
+      "description": "Ebike, Marin, Alpine Trail E2, Large, Grey/Black\r\neMTB. Distinct forest green colored handlebar grips.\r\nDistinct MAXXIS labelling on sidewall of Front and Rear Tires.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Alpine Trail E2",
+      "id": 2851781,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/944098/large_IMG_1285.jpg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A21049551",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.14,
+        -80.26
+      ],
+      "stolen_location": "Brantford, N3T 2Z5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/944098/small_IMG_1285.jpg",
+      "title": "2022 Marin Bikes Alpine Trail E2",
+      "url": "https://bikeindex.org/bikes/2851781",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753552800,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "\"Libra\" Full suspension ebike.",
+      "id": 2851824,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/944119/large_IMG_5057.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fucare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JY23010055",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.07,
+        -87.91
+      ],
+      "stolen_location": "Milwaukee, WI 53212, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/944119/small_IMG_5057.jpg",
+      "title": "2023 Fucare \"Libra\" Full suspension ebike.",
+      "url": "https://bikeindex.org/bikes/2851824",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753480800,
+      "description": "Bike was stolen on 07/25 in walnut  creek. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Eunorau Flash",
+      "id": 2850795,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943593/large_1000003081.jpg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "NDYHJ2403061",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.88,
+        -122.03
+      ],
+      "stolen_location": "Walnut Creek, CA 94596, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943593/small_1000003081.jpg",
+      "title": "2025 Other Eunorau Flash",
+      "url": "https://bikeindex.org/bikes/2850795",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765457100,
+      "description": "20in Fat Tire All Terrain eBike w/green handlebar cup holder w/bunjers tied to rear frame",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Thunder",
+      "id": 2848706,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942336/large_1000013948.jpg",
+      "location_found": null,
+      "manufacturer_name": "Laifook",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "24090017",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.12,
+        -118.29
+      ],
+      "stolen_location": "Los Angeles, CA 90027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942336/small_1000013948.jpg",
+      "title": "2025 Laifook Thunder",
+      "url": "https://bikeindex.org/bikes/2848706",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753192800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Pace 500.3 Ebike",
+      "id": 2848560,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942280/large_IMG_4609.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PE3C6286",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.27,
+        -121.85
+      ],
+      "stolen_location": "San Jose, CA 95136, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942280/small_IMG_4609.jpeg",
+      "title": "2023 Aventón Pace 500.3 Ebike",
+      "url": "https://bikeindex.org/bikes/2848560",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752814800,
+      "description": "black folding ebike with step-through frame",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RadExpand 5",
+      "id": 1386032,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/629715/large_PXL_20220830_225424617.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RE5H21T6026",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/629715/small_PXL_20220830_225424617.jpg",
+      "title": "Rad Power Bikes RadExpand 5",
+      "url": "https://bikeindex.org/bikes/1386032",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752516300,
+      "description": "It is a foldable ebike with 16'' wheels. White carbon steel frame",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "U3",
+      "id": 2838337,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/939398/large_Isinwheel_Ebike-U3.jpg",
+      "location_found": null,
+      "manufacturer_name": "Isinwheel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.15,
+        -86.8
+      ],
+      "stolen_location": "Nashville, TN 37235, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/939398/small_Isinwheel_Ebike-U3.jpg",
+      "title": "2025 Isinwheel U3",
+      "url": "https://bikeindex.org/bikes/2838337",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752401614,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Electric Bike for Adults, Ebike 750W/48V/13Ah, 20\" x 4.0\" Fat Tires",
+      "id": 2837477,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "GELEISEN",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.56
+      ],
+      "stolen_location": "Portland, OR 97266, US",
+      "thumb": null,
+      "title": "2023 GELEISEN Electric Bike for Adults, Ebike 750W/...",
+      "url": "https://bikeindex.org/bikes/2837477",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752224400,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Electric Bike for Adults, Ebike 750W/48V/13Ah, 20\" x 4.0\" Fat Tires",
+      "id": 2837478,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938916/large_IMG_4502.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GELEISEN",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.56
+      ],
+      "stolen_location": "Portland, OR 97266, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938916/small_IMG_4502.jpeg",
+      "title": "GELEISEN Electric Bike for Adults, Ebike 750W/...",
+      "url": "https://bikeindex.org/bikes/2837478",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752195600,
+      "description": "Moped Style, 16\"x4\" Fat tires, Gray Decals: on Chain Stays \"Blaze⭐\", Black Battery w/ Gray letters \"ACTBEST OFF-ROAD\", Gray lightning-bolt stickers on front suspension fork, large headlamp, brake light, Teen-size (smaller) approx 30\" stand-over height, Extended/long seat.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Blaze",
+      "id": 2839790,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/939736/large_2025-07-14_actbest_blaze-1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Actbest",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.09
+      ],
+      "stolen_location": "Lafayette, CO 80026, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/939736/small_2025-07-14_actbest_blaze-1.jpg",
+      "title": "2025 Actbest Blaze",
+      "url": "https://bikeindex.org/bikes/2839790",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

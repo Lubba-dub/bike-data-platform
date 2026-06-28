@@ -1,0 +1,371 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1736402400,
+      "description": "Color: cold cactus. XL road bike.",
+      "frame_colors": [
+        "Teal",
+        "Black"
+      ],
+      "frame_model": "Endurance 7 raw",
+      "id": 2745920,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/883610/large_IMG_2166.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401AD24A3046",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.33,
+        -121.89
+      ],
+      "stolen_location": "San Jose, CA 95113, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/883610/small_IMG_2166.png",
+      "title": "2024 Canyon bicycles Endurance 7 raw",
+      "url": "https://bikeindex.org/bikes/2745920",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1700154000,
+      "description": "The frame of my bike is blue, whitel, red, and black. The downtube has the Scott logo in bold print (black) as does the carbon fork. The top tube says Speedster 20. It has a black carbon stem with a black and red Syncros saddle. There are two black and red composite Syncros bottle cages on the bike as well as a rear Bontrager indicator light. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Bike Speedster 20 (CD22) M54",
+      "id": 76865,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/765952/large_IMG_1204.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Scott Sports",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS41100676",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.21
+      ],
+      "stolen_location": "Unit 102, CO 80303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/765952/small_IMG_1204.jpeg",
+      "title": "2016 Scott Sports Bike Speedster 20 (CD22) M54",
+      "url": "https://bikeindex.org/bikes/76865",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1687622400,
+      "description": "Specialized FACT 9r carbon, FACT construction, Women's Endurance Geometry and layup, Zertz, OSBB",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Purple",
+        "White"
+      ],
+      "frame_model": "Ruby Sport",
+      "id": 1547043,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/3287/66707",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.15,
+        -118.13
+      ],
+      "stolen_location": "Pasadena, CA 91106, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/3287/small_66707",
+      "title": "2014 Specialized Ruby Sport",
+      "url": "https://bikeindex.org/bikes/1547043",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1664362800,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Red",
+        "White"
+      ],
+      "frame_model": "Z85",
+      "id": 1408265,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/642899/large_IMG_0665.png",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F1202K1080",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/642899/small_IMG_0665.png",
+      "title": "2014 Felt Z85",
+      "url": "https://bikeindex.org/bikes/1408265",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1655560800,
+      "description": "The lightweight ALUXX frame features the latest women’s endurance geometry with an Advanced-Grade Composite fork and D-Fuse seatpost to diminish vibrations.\r\n\r\nThe Avail AR comes with 32c tires that ride steady on-road and off, and is compatible with tires up to 38c (select models are tubeless). Maintain precise handling with the OverDrive steerer and powerful disc brakes.\r\n\r\nThis bike also accommodates a rack and fenders to keep you equipped on longer hauls.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Avail AR 4",
+      "id": 1325457,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/593398/large_Picture_of_Min_and_Sean_stolen_bikes_copy.jpg",
+      "location_found": null,
+      "manufacturer_name": "Liv",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K4FK53195",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.99,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60660, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/593398/small_Picture_of_Min_and_Sean_stolen_bikes_copy.jpg",
+      "title": "2021 Liv Avail AR 4",
+      "url": "https://bikeindex.org/bikes/1325457",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1638529200,
+      "description": "Specialized A1 Premium Aluminum, fully manipulated tubing, smooth welded, women's endurance geometry, 1-1/8\" integrated headset, rack eyelets",
+      "frame_colors": [
+        "Red",
+        "White"
+      ],
+      "frame_model": "Dolce Sport Triple",
+      "id": 1196045,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/502094/large_20170521_084139.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.07,
+        -122.02
+      ],
+      "stolen_location": "Scotts Valley, CA 95066, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/502094/small_20170521_084139.jpg",
+      "title": "2012 Specialized Dolce Sport Triple",
+      "url": "https://bikeindex.org/bikes/1196045",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1628794800,
+      "description": "https://www.cyclesuk.com/bikes/road-bikes/2021-specialized-allez-elite-endurance-road-bike-black__183881",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Allez Elite Endurance Road Bike",
+      "id": 1120344,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC006030952R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.55,
+        -0.09
+      ],
+      "stolen_location": "London, N16 9PX, GB",
+      "thumb": null,
+      "title": "2021 Specialized Allez Elite Endurance Road Bike",
+      "url": "https://bikeindex.org/bikes/1120344",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1626768000,
+      "description": "Bright red Ribble road bike with disc brakes and integrated black handlebars",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Endurance SL Disc",
+      "id": 1106882,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/457843/large_ce366571-f9ab-4a10-8026-c302d535764c.JPG",
+      "location_found": null,
+      "manufacturer_name": "Ribble",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB19040474",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.45,
+        -0.15
+      ],
+      "stolen_location": "London, SW12 8AZ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/457843/small_ce366571-f9ab-4a10-8026-c302d535764c.JPG",
+      "title": "2019 Ribble Endurance SL Disc",
+      "url": "https://bikeindex.org/bikes/1106882",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Road Bike - Endurance",
+      "id": 1067208,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/437816/large_CCM.jpg",
+      "location_found": "Lethbridge, T1K, Canada",
+      "manufacturer_name": "CCM",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/437816/small_CCM.jpg",
+      "title": "CCM Road Bike - Endurance",
+      "url": "https://bikeindex.org/bikes/1067208",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591851600,
+      "description": " ALUXX-Grade Aluminum/ COLOR- Charcoal / TRIM COLOR - Rasberry/ SEAT- Liv Contact Comfort (forward)/ LIGHT?- Y-BBN Dayblazer 400 F click read combo \"black\" color  / WHEEL SIZE- 28 / TIIRE TYPE - Giant S-R3 AC, wire bead, 700x28c / BRAKE-Tektro TK-B177 AL Rim brake ED Black / SPEED-10 / HANDLE- Giant Connect / FENDERS- N/ LOCKED? y - Inside storage unit inside apartment complex / LOCK TYPE /LOCKED TO? / DESCRIPTION -  Giant Liv 3 Avail 2019 custom womens Endurance road bike. Bought for Triathalon races and long distance ride events. invested in additional items to aid with races/events. See list of items below",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Pink"
+      ],
+      "frame_model": "Liv AVAIL 3 womens bike",
+      "id": 775079,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/271552/large_IMG_1051001.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GP19Z8637",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.77,
+        -95.61
+      ],
+      "stolen_location": "Houson, TX 77079, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/271552/small_IMG_1051001.jpg",
+      "title": "2019 Giant Liv AVAIL 3 womens bike",
+      "url": "https://bikeindex.org/bikes/775079",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1447826400,
+      "description": "Very Clean new carbon endurance road bike",
+      "frame_colors": [
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Solace",
+      "id": 63076,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/40434/large_soalce.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SGR01F25213050266A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/40434/small_soalce.jpg",
+      "title": "2014 SCOTT Solace",
+      "url": "https://bikeindex.org/bikes/63076",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1400047200,
+      "description": "Bicycle Information:Â¬â€ Cannondale R3000siMavic Cosmic Carbone SL Wheelset 700c Clincher Campy, Ultegra / Durace Components â€šÃ„Ã¬ Triple, Womenâ€šÃ„Ã´s handle bars, 5 degree Stem, Ergo Womenâ€šÃ„Ã´s Endurance Saddle-Specialized, Black Medium Saddle Bag Contained: (This was a new larger bag than the one in the photo)Â¬â€ Portland Design Works Shiny Object CO2 Inflator Head and 2 CO2 Cartridges, 1 Road Tube â€šÃ„Ã¬ Presta valve, Topeak Mini 18+ Mini-ToolBike Tire Repair Kit, Emergency Kit (like Lifeline 30-Piece First Aid Kit)Rear Tail LightÂ¬â€ Other Accessories:Â¬â€ Time Attack Pedals, Profile Design Aero Bars,Wireless Odometer, 2 coated yellow metal bottle carriers, yellow bar wraps  ",
+      "frame_colors": [
+        "Blue",
+        "Yellow or Gold"
+      ],
+      "frame_model": "R3000si",
+      "id": 11341,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4318/large_HOpSf8w.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.55,
+        -122.68
+      ],
+      "stolen_location": "Portland, OR 97227, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4318/small_HOpSf8w.jpg",
+      "title": "200 Cannondale R3000si",
+      "url": "https://bikeindex.org/bikes/11341",
+      "year": 200,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

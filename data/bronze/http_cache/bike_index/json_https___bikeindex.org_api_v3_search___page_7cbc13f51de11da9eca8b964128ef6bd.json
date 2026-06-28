@@ -1,0 +1,754 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1749391200,
+      "description": "Full Di2 dura ace roval deep dish wheels had new 32c pan a racer gravel kings. There is a mount under the saddle for shimano pro bag. Ultegra road pedals. Quad lock mount on stem. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Tarmac, SL6",
+      "id": 1032408,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/743567/large_IMG_2520.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604346138N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.62,
+        -98.43
+      ],
+      "stolen_location": "San Antonio, TX 78259, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/743567/small_IMG_2520.jpeg",
+      "title": "2021 Specialized Tarmac, SL6",
+      "url": "https://bikeindex.org/bikes/1032408",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748952000,
+      "description": "Black frame with very noticeable bright blue Mtn biking pedals (clips on one side) and blue constellations bike seat from Terri",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Topstone Carbon Gravel Bike",
+      "id": 2829381,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934180/large_IMG_9936.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TC39875",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934180/small_IMG_9936.jpeg",
+      "title": "2021 Cannondale Topstone Carbon Gravel Bike",
+      "url": "https://bikeindex.org/bikes/2829381",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748384100,
+      "description": "48cm 2018 Specialized Diverge Comp E5 gravel bike with SKS Speedrocket Gravel Fenders and front and tail lights. The listed colors of the bike is \"Berry/Mint\"",
+      "frame_colors": [
+        "Purple",
+        "Teal"
+      ],
+      "frame_model": "Diverge",
+      "id": 2809433,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/921102/large_IMG_0501.JPG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC602288771M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/921102/small_IMG_0501.JPG",
+      "title": "2018 Specialized Diverge",
+      "url": "https://bikeindex.org/bikes/2809433",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748376000,
+      "description": "The picture is a little old - the bike now has turquoise handlebar wraps that match the turquoise bottle cages. It is the State copper 4130 all road, has a black leather Brooks saddle, brown-rimmed Gravel King tires, and a SOMA front rack.",
+      "frame_colors": [
+        "Brown",
+        "Teal"
+      ],
+      "frame_model": "4130 All Road",
+      "id": 2809826,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/921322/large_IMG_2886.jpg",
+      "location_found": null,
+      "manufacturer_name": "State Bicycle Co.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.99,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60660, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/921322/small_IMG_2886.jpg",
+      "title": "2021 State Bicycle Co. 4130 All Road",
+      "url": "https://bikeindex.org/bikes/2809826",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747908000,
+      "description": "Gravel Bike from Stevens, Type Camino Pro. First version with only one Sprocket (newer one have two). Primary Color is Silver, secondary Black. On the left side of the Frame was (is) a sticker with the Logo of the trader.\r\nThe Bag under the sattle was not mounted.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Camino Pro",
+      "id": 2809072,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/920830/large_WhatsApp_Bild_2025-05-27_um_14.21.38_257ff7a3.jpg",
+      "location_found": null,
+      "manufacturer_name": "Stevens",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22RBBFLM1035",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.14,
+        5.72
+      ],
+      "stolen_location": "Echirolles, 38310, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/920830/small_WhatsApp_Bild_2025-05-27_um_14.21.38_257ff7a3.jpg",
+      "title": "2022 Stevens Camino Pro",
+      "url": "https://bikeindex.org/bikes/2809072",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747648800,
+      "description": "RaceFace Atlas Red anodized very short stem. Cane Creek Thudbuster ST seatpost. Selle Italia gravel saddle. Rear Rack attached to removable rear wheel bridge.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "951 Gravel",
+      "id": 2804460,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/918018/large_Intense_951_Gravel_right_side_IMG_0649.jpg",
+      "location_found": null,
+      "manufacturer_name": "Intense",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1186CM2306F80253",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.45,
+        -122.12
+      ],
+      "stolen_location": "Palo, CA 94303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/918018/small_Intense_951_Gravel_right_side_IMG_0649.jpg",
+      "title": "2023 Intense 951 Gravel",
+      "url": "https://bikeindex.org/bikes/2804460",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746752954,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Gravel Bike",
+      "id": 2798616,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U186K09511",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        -122.95
+      ],
+      "stolen_location": "Portland, OR 97124, US",
+      "thumb": null,
+      "title": "2019 Raleigh Gravel Bike",
+      "url": "https://bikeindex.org/bikes/2798616",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746752400,
+      "description": "The bike is more scratched than the pictures show especially on the sides of the top of the frame that wore off some of the blue paint, those were new pictures. It had a kenda tire with white reflectors up front and a black gravel master rei tire on the back. There was a black saddle bag holder on the back with silver metal attachments to the bottom of the seat frame. It had disc brakes as well as black plastic fenders on front and back. The front wheel had a suspension system.\r\n\r\nProduct page w/ more details: https://www.rei.com/product/109675/co-op-cycles-cty-21-bike",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "CTY 2.1",
+      "id": 2798972,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914609/large_IMG_20210102_123126073.jpg",
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CAFL3781",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914609/small_IMG_20210102_123126073.jpg",
+      "title": "2021 REI Co-op CTY 2.1",
+      "url": "https://bikeindex.org/bikes/2798972",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746615600,
+      "description": "Grey e-bike. Commuter. My wife has the same one in size small. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Quick-E",
+      "id": 716996,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914146/large_20200425_120847_Original.jpg.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E6EE08405",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.68,
+        -122.75
+      ],
+      "stolen_location": "Vancouver, WA 98660, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914146/small_20200425_120847_Original.jpg.jpeg",
+      "title": "Giant Quick-E",
+      "url": "https://bikeindex.org/bikes/716996",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746457200,
+      "description": "Batch Gravel Plus 700C Large Gloss Dew Green. Kryptonite fabric wrapped chain lock around/under the seat. 2 water bottle cages, 1 adjustable. Brake light on seat post.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Gravel Plus",
+      "id": 2796615,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913027/large_IMG_8544.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Batch Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNHTB24C02117",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.58,
+        -113.58
+      ],
+      "stolen_location": "Edmonton, T5V 1J7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913027/small_IMG_8544.jpeg",
+      "title": "2025 Batch Bicycles Gravel Plus",
+      "url": "https://bikeindex.org/bikes/2796615",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746435600,
+      "description": "Bike is a gravel bike. It has upgraded deep dish LIGHT road rims.  Pedals are flat on one side and spd on the other ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "E9 RDO RLT",
+      "id": 2798548,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914353/large_IMG_5139.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Niner",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2500000006241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914353/small_IMG_5139.jpeg",
+      "title": "2023 Niner E9 RDO RLT",
+      "url": "https://bikeindex.org/bikes/2798548",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746428400,
+      "description": "Fully equipped Gravel bike with drop bars, grx group set, integrated lights and fenders ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Nuroad FE",
+      "id": 2797223,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913470/large_1000042670.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW44357PVNW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.07,
+        15.45
+      ],
+      "stolen_location": "Graz, 8010, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913470/small_1000042670.jpg",
+      "title": "2025 Cube Nuroad FE",
+      "url": "https://bikeindex.org/bikes/2797223",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752699600,
+      "description": "Specialized Gravel bike. Frame color is listed on Specialized website as \"spice\". 56 cm frame with disc brakes. Drop handlebars",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Diverge",
+      "id": 2794391,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/940300/large_1000017084.png",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W5BC025035957V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.88,
+        -87.63
+      ],
+      "stolen_location": "Chicago, IL 60641-2825, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/940300/small_1000017084.png",
+      "title": "Specialized Diverge",
+      "url": "https://bikeindex.org/bikes/2794391",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745960400,
+      "description": "All black gravel bike with tan skinwalls ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Topstone 4",
+      "id": 2793252,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/910751/large_bike_Picture.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FC47198",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/910751/small_bike_Picture.jpg",
+      "title": "Cannondale Topstone 4",
+      "url": "https://bikeindex.org/bikes/2793252",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745858828,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ostro Vam Gravel",
+      "id": 2792494,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/910196/large_IMG_8775.jpg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.22,
+        -80.83
+      ],
+      "stolen_location": "Charlotte, NC 28204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/910196/small_IMG_8775.jpg",
+      "title": "2024 Factor Ostro Vam Gravel",
+      "url": "https://bikeindex.org/bikes/2792494",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745848800,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Tera Gravel",
+      "id": 2792468,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Basso",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PX0048 CA0460939",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.21,
+        -83.73
+      ],
+      "stolen_location": "Ann Arbor, MI 48108, US",
+      "thumb": null,
+      "title": "2025 Basso Tera Gravel",
+      "url": "https://bikeindex.org/bikes/2792468",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748412000,
+      "description": "Specialized Diverge Sport Carbon Gravel Bike - 2021, 54cm",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Diverge Carbon",
+      "id": 2791114,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/909302/large_BGR15556-2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC014142982T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.74,
+        -105.03
+      ],
+      "stolen_location": "Denver, CO 80204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/909302/small_BGR15556-2.jpg",
+      "title": "2021 Specialized Diverge Carbon",
+      "url": "https://bikeindex.org/bikes/2791114",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745453662,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Roadster V2 Gravel Edition",
+      "id": 2789647,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/909145/large_IMG_7780.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/909145/small_IMG_7780.jpeg",
+      "title": "2023 Ride1Up Roadster V2 Gravel Edition",
+      "url": "https://bikeindex.org/bikes/2789647",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744902066,
+      "description": "Trek Checkpoint SL 6 Gravel Bike - 2019, 58cm",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Checkpoint SL 6",
+      "id": 1431410,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/652346/large_BGR13404_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU359CT0008M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/652346/small_BGR13404_PH_2.jpg",
+      "title": "2019 Trek Checkpoint SL 6",
+      "url": "https://bikeindex.org/bikes/1431410",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744722000,
+      "description": "Checkpoint ALR 4 is an aluminum gravel bike that offers an incredible amount of capability for the price. It's built for the rigors of gravel and dirt roads, but it's also right at home on morning commutes and centuries. This bike knows no boundaries, which makes it the ideal gateway to adventure on any road or path",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Checkpoint ALR 4",
+      "id": 2780870,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2R1G8, US",
+      "thumb": null,
+      "title": "2020 Trek Checkpoint ALR 4",
+      "url": "https://bikeindex.org/bikes/2780870",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744617600,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Zydeco Gravel",
+      "id": 2780164,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/905440/large_71426040827__148A8759-FE7E-4173-BE1E-A0F6FE01C16C.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cinelli",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XD908113",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80218, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/905440/small_71426040827__148A8759-FE7E-4173-BE1E-A0F6FE01C16C.jpeg",
+      "title": "2020 Cinelli Zydeco Gravel",
+      "url": "https://bikeindex.org/bikes/2780164",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744322630,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ROUVIDA GRX RX610 CLASS 3 GRAVEL GRANITE SIZE MD",
+      "id": 2778006,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN143MD23J236",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.41,
+        -122.02
+      ],
+      "stolen_location": "Vacaville, CA 95688, US",
+      "thumb": null,
+      "title": "2025 Cervélo ROUVIDA GRX RX610 CLASS 3 GRAVEL GRAN...",
+      "url": "https://bikeindex.org/bikes/2778006",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744322630,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ROUVIDA GRX RX610 CLASS 3 GRAVEL GRANITE SIZE MD",
+      "id": 2778007,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN143MD23J236",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.41,
+        -122.02
+      ],
+      "stolen_location": "Vacaville, CA 95688, US",
+      "thumb": null,
+      "title": "2025 Cervélo ROUVIDA GRX RX610 CLASS 3 GRAVEL GRAN...",
+      "url": "https://bikeindex.org/bikes/2778007",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743728400,
+      "description": "Gravel bike with rear rack that may or may not still be attached",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Revolt Zero",
+      "id": 2773638,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/905768/large_IMG_0113.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.77,
+        -117.2
+      ],
+      "stolen_location": "San, CA 92110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/905768/small_IMG_0113.jpeg",
+      "title": "2019 Giant Revolt Zero",
+      "url": "https://bikeindex.org/bikes/2773638",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743415200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "speedster gravel 30",
+      "id": 2772009,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/901493/large_PXL_20250319_135221311.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS00306767",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.82,
+        2.27
+      ],
+      "stolen_location": "Issy Les Moulineaux, 92130, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/901493/small_PXL_20250319_135221311.jpg",
+      "title": "2020 SCOTT speedster gravel 30",
+      "url": "https://bikeindex.org/bikes/2772009",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

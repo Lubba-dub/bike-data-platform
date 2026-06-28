@@ -1,0 +1,29 @@
+{
+  "name": "@bike-templates/mountain-template",
+  "version": "1.0.0",
+  "templateType": "mountain",
+  "title": "山地车模板",
+  "description": "更适合山地、越野、林道与长避震车架结构。",
+  "engineVersion": ">=1.0.0",
+  "accent": "#2c8a5a",
+  "supportedParts": [
+    "brake",
+    "chainwheel",
+    "fork",
+    "frame",
+    "freewhile",
+    "handlebar",
+    "pedal",
+    "rearderailleur",
+    "saddle",
+    "seatpost",
+    "shiftlever",
+    "shock",
+    "tire"
+  ],
+  "supportedModes": [
+    "price_score",
+    "quality_score",
+    "value_score"
+  ]
+}

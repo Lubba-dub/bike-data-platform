@@ -1,0 +1,768 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1780327739,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Cube Nuroad Hybrid C:62 Race (XS)",
+      "id": 3407813,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1036173/large_IMG_4775.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "47625-653-WOW38010PSNE",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        46.06,
+        14.51
+      ],
+      "stolen_location": "Lubiana, 1000, SI",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1036173/small_IMG_4775.jpeg",
+      "title": "2025 Cube Cube Nuroad Hybrid C:62 Race (XS)",
+      "url": "https://bikeindex.org/bikes/3407813",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1780311600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cross Hybrid Pro 625 Allroad",
+      "id": 3407720,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1036114/large_ebike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW56159PSKR",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        49.59,
+        6.14
+      ],
+      "stolen_location": "Luxembourg City, 1338, LU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1036114/small_ebike.jpg",
+      "title": "2020 Cube Cross Hybrid Pro 625 Allroad",
+      "url": "https://bikeindex.org/bikes/3407720",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778921810,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Analog",
+      "id": 3392605,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1029602/large_1000072574.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.34,
+        13.09
+      ],
+      "stolen_location": "Neustrelitz, 17235, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1029602/small_1000072574.jpg",
+      "title": "2021 Cube Analog",
+      "url": "https://bikeindex.org/bikes/3392605",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778918400,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Hyde Pro",
+      "id": 3392592,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW 27737 PSMV",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        52.07,
+        5.06
+      ],
+      "stolen_location": "Utrecht, 3545, NL",
+      "thumb": null,
+      "title": "2024 Cube Hyde Pro",
+      "url": "https://bikeindex.org/bikes/3392592",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778842800,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "NUROAD SLX",
+      "id": 3388391,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W6W1704XSSFX",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.82,
+        144.96
+      ],
+      "stolen_location": "Southbank, 3006, AU",
+      "thumb": null,
+      "title": "2026 Cube NUROAD SLX",
+      "url": "https://bikeindex.org/bikes/3388391",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778836225,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Gts",
+      "id": 3388380,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1029287/large_IMG_1897.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.56
+      ],
+      "stolen_location": "Edmonton, T5R 5R9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1029287/small_IMG_1897.jpeg",
+      "title": "2019 Cube Gts",
+      "url": "https://bikeindex.org/bikes/3388380",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778661321,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Nature EXC",
+      "id": 3387307,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1028422/large_att.ZB3iWqxqiOCWYgpfBAc0bYC5WXDHdQJnxkXcSmCq2MQ.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW45898PVFU",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        48.21,
+        16.42
+      ],
+      "stolen_location": "Vienna, 1020, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1028422/small_att.ZB3iWqxqiOCWYgpfBAc0bYC5WXDHdQJnxkXcSmCq2MQ.jpeg",
+      "title": "Cube Nature EXC",
+      "url": "https://bikeindex.org/bikes/3387307",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778439600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "REACTION C62 Pro Carbon",
+      "id": 3385632,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1027506/large_Cube_hardtailIMG_7685.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW13561PSKP",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2N 1C5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1027506/small_Cube_hardtailIMG_7685.JPEG",
+      "title": "2019 Cube REACTION C62 Pro Carbon",
+      "url": "https://bikeindex.org/bikes/3385632",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778403600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Stereo 120 race 29",
+      "id": 3385435,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1027368/large_Bildschirmfoto_2026-05-10_um_12.02.37.png",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W0W00446MSMS",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        52.52,
+        13.34
+      ],
+      "stolen_location": "Berlin, 10555, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1027368/small_Bildschirmfoto_2026-05-10_um_12.02.37.png",
+      "title": "2021 Cube Stereo 120 race 29",
+      "url": "https://bikeindex.org/bikes/3385435",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778158800,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Touring Hybrid ONE 500",
+      "id": 3387913,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1028993/large_IMG_8891.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW24262PSDV",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        55.6,
+        13.05
+      ],
+      "stolen_location": "Malmö, 21228, SE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1028993/small_IMG_8891.jpeg",
+      "title": "2023 Cube Touring Hybrid ONE 500",
+      "url": "https://bikeindex.org/bikes/3387913",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778010303,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Stereo Hybrid 140",
+      "id": 3382375,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW05795MCCT",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.38,
+        7.68
+      ],
+      "stolen_location": "Iserlohn, 58638, DE",
+      "thumb": null,
+      "title": "2021 Cube Stereo Hybrid 140",
+      "url": "https://bikeindex.org/bikes/3382375",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777701600,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Kathmandu",
+      "id": 3380619,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PWOW48098PSMT",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.2,
+        -122.71
+      ],
+      "stolen_location": "Ashland, OR 97520, US",
+      "thumb": null,
+      "title": "2022 Cube Kathmandu",
+      "url": "https://bikeindex.org/bikes/3380619",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777620600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Aim SLX 29",
+      "id": 3379322,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW53545XSHV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.07,
+        11.62
+      ],
+      "stolen_location": "Unterhaching, 82008, DE",
+      "thumb": null,
+      "title": "2024 Cube Aim SLX 29",
+      "url": "https://bikeindex.org/bikes/3379322",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777428000,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Reaction 500.",
+      "id": 3378325,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022885/large_1f544de7-6531-4cca-8f9a-7b54fc2f114a-1_all_291.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW67398PFEV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.44,
+        -113.6
+      ],
+      "stolen_location": "Edmonton, T6W 0L7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022885/small_1f544de7-6531-4cca-8f9a-7b54fc2f114a-1_all_291.jpg",
+      "title": "2026 Cube Reaction 500.",
+      "url": "https://bikeindex.org/bikes/3378325",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777305600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Reaction Hybrid Pro 800 Allroad",
+      "id": 3376805,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW31975XSGW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.0,
+        8.24
+      ],
+      "stolen_location": "Mainz, 55122, DE",
+      "thumb": null,
+      "title": "2025 Cube Reaction Hybrid Pro 800 Allroad",
+      "url": "https://bikeindex.org/bikes/3376805",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777003200,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Kathmandu Hybrid 1 625 Easy Entry swampgrey'n'black XS",
+      "id": 3378418,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW88462KGKU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": null,
+      "title": "2024 Cube Kathmandu Hybrid 1 625 Easy Entry swa...",
+      "url": "https://bikeindex.org/bikes/3378418",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776013200,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "Cube Nuroad Race FE",
+      "id": 3363316,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW97863PVHX",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.22,
+        6.8
+      ],
+      "stolen_location": "Düsseldorf, 40227, DE",
+      "thumb": null,
+      "title": "2026 Cube Cube Nuroad Race FE",
+      "url": "https://bikeindex.org/bikes/3363316",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775838600,
+      "description": "Has a belt drive and (had) a powered air pump attached.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Hyde Pro",
+      "id": 3362257,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015972/large_mycubehydepro.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F100153044",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.14,
+        8.67
+      ],
+      "stolen_location": "Frankfurt Am Main, 60320, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015972/small_mycubehydepro.jpg",
+      "title": "2020 Cube Hyde Pro",
+      "url": "https://bikeindex.org/bikes/3362257",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775818800,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Red"
+      ],
+      "frame_model": "Analog",
+      "id": 3374467,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW74186BTBN",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.0,
+        23.75
+      ],
+      "stolen_location": "Athens, 11363, GR",
+      "thumb": null,
+      "title": "2018 Cube Analog",
+      "url": "https://bikeindex.org/bikes/3374467",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775675123,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": "Stereo 140 HPC TM",
+      "id": 3361382,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW22525PSCR",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.18,
+        8.63
+      ],
+      "stolen_location": "Frankfurt, 60438, DE",
+      "thumb": null,
+      "title": "2020 Cube Stereo 140 HPC TM",
+      "url": "https://bikeindex.org/bikes/3361382",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775653200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3361718,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015631/large_IMG_2087.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW46962KGFX",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.41,
+        -1.83
+      ],
+      "stolen_location": "Birmingham, B90 3GG, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015631/small_IMG_2087.jpeg",
+      "title": "2026 Cube",
+      "url": "https://bikeindex.org/bikes/3361718",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775419200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Nature",
+      "id": 3359949,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014496/large_IMG_7125.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW38124PSNT",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.92,
+        -114.14
+      ],
+      "stolen_location": "Calgary, T2Y 0S2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014496/small_IMG_7125.jpeg",
+      "title": "2021 Cube Nature",
+      "url": "https://bikeindex.org/bikes/3359949",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774965600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Touring Hybrid Pro (Step-Through). Bosch powered.",
+      "id": 3358033,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013321/large_IMG_0315.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW16455PSCM",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013321/small_IMG_0315.jpeg",
+      "title": "2017 Cube Touring Hybrid Pro (Step-Through). Bo...",
+      "url": "https://bikeindex.org/bikes/3358033",
+      "year": 2017,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774479600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cube Stereo cm HPA",
+      "id": 3378203,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022781/large_1000285705.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.78,
+        11.41
+      ],
+      "stolen_location": "Ingolstadt, 85057, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022781/small_1000285705.jpg",
+      "title": "2012 Cube Cube Stereo cm HPA",
+      "url": "https://bikeindex.org/bikes/3378203",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774134000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Attain",
+      "id": 3353621,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W0W70872PSGU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.35,
+        -6.25
+      ],
+      "stolen_location": "Dublin 1, D01Y6H7, IE",
+      "thumb": null,
+      "title": "2021 Cube Attain",
+      "url": "https://bikeindex.org/bikes/3353621",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "bikes": [
+    {
+      "date_stolen": null,
+      "description": "Bike was found parked near a tree with a flat tire. Found 2 bikes within. A week  I would like to find the owner because this is a super cool bike I know someone is missing it ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Five",
+      "id": 3379656,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Las Vegas, NV 89119, United States",
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "2023 Cannondale Five",
+      "url": "https://bikeindex.org/bikes/3379656",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777662000,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Trail 6",
+      "id": 3379494,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023750/large_IMG_0185.png",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AC 32337",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.8,
+        -77.05
+      ],
+      "stolen_location": "Alexandria, VA 22314, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023750/small_IMG_0185.png",
+      "title": "2021 Cannondale Trail 6",
+      "url": "https://bikeindex.org/bikes/3379494",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777615200,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Adventure",
+      "id": 3379138,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023515/large_IMG_3714.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BA15414",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023515/small_IMG_3714.jpeg",
+      "title": "2024 Cannondale Adventure",
+      "url": "https://bikeindex.org/bikes/3379138",
+      "year": 2024,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777611600,
+      "description": "",
+      "frame_colors": [
+        "Orange",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Treadwell 3",
+      "id": 3379281,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YF08049",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.35,
+        -111.72
+      ],
+      "stolen_location": "Lindon, UT 84042, US",
+      "thumb": null,
+      "title": "Cannondale Treadwell 3",
+      "url": "https://bikeindex.org/bikes/3379281",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777539600,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Trigger",
+      "id": 3378774,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023262/large_C6A94E9F-E26A-4B90-BF04-C87CAE5F4D06.JPG",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023262/small_C6A94E9F-E26A-4B90-BF04-C87CAE5F4D06.JPG",
+      "title": "2019 Cannondale Trigger",
+      "url": "https://bikeindex.org/bikes/3378774",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777489200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3378388,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.07,
+        -118.4
+      ],
+      "stolen_location": "Beverly Hills, CA 90212-3851, US",
+      "thumb": null,
+      "title": "2012 Cannondale",
+      "url": "https://bikeindex.org/bikes/3378388",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777421356,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Quick",
+      "id": 3378059,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022673/large_IMG_7602.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SB15573",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.27,
+        -97.74
+      ],
+      "stolen_location": "Austin, TX 78701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022673/small_IMG_7602.jpeg",
+      "title": "2024 Cannondale Quick",
+      "url": "https://bikeindex.org/bikes/3378059",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777384800,
+      "description": "Clipless pedals, Liv bike saddle, small black frame bag, black rear bike rack, ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Topstone",
+      "id": 3377833,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022578/large_IMG_1237.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB45147",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022578/small_IMG_1237.jpg",
+      "title": "2019 Cannondale Topstone",
+      "url": "https://bikeindex.org/bikes/3377833",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777119436,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Topstone",
+      "id": 3374841,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021169/large_IMG_20260425_072014.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FC82425",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.97,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021169/small_IMG_20260425_072014.jpg",
+      "title": "Cannondale Topstone",
+      "url": "https://bikeindex.org/bikes/3374841",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777086000,
+      "description": "Synapse, BallisTec Carbon, Di2 ready, SAVE PLUS, BB30A",
+      "frame_colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Synapse Carbon 5 105",
+      "id": 3374902,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021242/large_20150713_191630.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HM83192",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.68,
+        -112.3
+      ],
+      "stolen_location": "Sun City, AZ 85373, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021242/small_20150713_191630.jpeg",
+      "title": "2014 Cannondale Synapse Carbon 5 105",
+      "url": "https://bikeindex.org/bikes/3374902",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777061006,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Topstone 2",
+      "id": 3374592,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FC78852",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.09
+      ],
+      "stolen_location": "Washington, DC 20007, US",
+      "thumb": null,
+      "title": "2023 Cannondale Topstone 2",
+      "url": "https://bikeindex.org/bikes/3374592",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "CAD2 BIRKENSTOCK",
+      "id": 3374187,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "413 Central Campus Drive, Salt Lake City, UT 84112, United States",
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Cannondale CAD2 BIRKENSTOCK",
+      "url": "https://bikeindex.org/bikes/3374187",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776898800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Quick 6 canondale",
+      "id": 3373942,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020444/large_66.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YQFK22W47B10514",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.17,
+        -86.54
+      ],
+      "stolen_location": "Bloomington, IN 47401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020444/small_66.jpg",
+      "title": "2023 Cannondale Quick 6 canondale",
+      "url": "https://bikeindex.org/bikes/3373942",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776848640,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Synapse CBN Ult 3",
+      "id": 3374876,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2200004478166",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.91,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55419, US",
+      "thumb": null,
+      "title": "2016 Cannondale Synapse CBN Ult 3",
+      "url": "https://bikeindex.org/bikes/3374876",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776762000,
+      "description": "Upgraded with light blue handles, Magura MT7 pro brakes and separeted locker for front and rear shocks.\r\nA small black rectangle under the rear base is specific only to this bike.",
+      "frame_colors": [
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "scalpel carbon lefty",
+      "id": 3373264,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019815/large_20260221_192455.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OA31120",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.11,
+        -1.01
+      ],
+      "stolen_location": "Croix Chapeau, 17220, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019815/small_20260221_192455.jpg",
+      "title": "2024 Cannondale scalpel carbon lefty",
+      "url": "https://bikeindex.org/bikes/3373264",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776726793,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Quick Cx",
+      "id": 3373092,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "QM62983",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.08,
+        -86.71
+      ],
+      "stolen_location": "Nashville, TN 37211, US",
+      "thumb": null,
+      "title": "2015 Cannondale Quick Cx",
+      "url": "https://bikeindex.org/bikes/3373092",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776718800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Quick Cx 4",
+      "id": 3373054,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YH97224",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.34
+      ],
+      "stolen_location": "Minneapolis, MN 55416, US",
+      "thumb": null,
+      "title": "Cannondale Quick Cx 4",
+      "url": "https://bikeindex.org/bikes/3373054",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776704400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Quick Women's 5",
+      "id": 3372965,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YF49301",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        25.82,
+        -80.18
+      ],
+      "stolen_location": "Miami, FL 33137, US",
+      "thumb": null,
+      "title": "Cannondale Quick Women's 5",
+      "url": "https://bikeindex.org/bikes/3372965",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776625887,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "SYNAPSE DISC TIAGRA",
+      "id": 3372363,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ME37585",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": null,
+      "title": "2023 Cannondale SYNAPSE DISC TIAGRA",
+      "url": "https://bikeindex.org/bikes/3372363",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776448800,
+      "description": "Black bike, rose gold bell, Thule kids seat",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3371286,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K3764693",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.57,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5G 3C1, CA",
+      "thumb": null,
+      "title": "2021 Cannondale",
+      "url": "https://bikeindex.org/bikes/3371286",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776312000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 3371274,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": null,
+      "title": "2010 Cannondale",
+      "url": "https://bikeindex.org/bikes/3371274",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776272400,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Topstone 3 – C15871M",
+      "id": 3365347,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1017818/large_0dce0f9a-c18d-4560-8f02-e07c327cfccc.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FC56613",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        43.65,
+        -79.41
+      ],
+      "stolen_location": "Toronto, M5T 2S6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1017818/small_0dce0f9a-c18d-4560-8f02-e07c327cfccc.jpeg",
+      "title": "2021 Cannondale Topstone 3 – C15871M",
+      "url": "https://bikeindex.org/bikes/3365347",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776114000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Bad Boy 1",
+      "id": 3364112,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1017108/large_IMG_9579.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ME16984",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55407-3307, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1017108/small_IMG_9579.jpeg",
+      "title": "2020 Cannondale Bad Boy 1",
+      "url": "https://bikeindex.org/bikes/3364112",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776016800,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Cannondale F600",
+      "id": 3363377,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1016703/large_1000539645.jpg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.53,
+        -98.78
+      ],
+      "stolen_location": "San Antonio, TX 78254, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1016703/small_1000539645.jpg",
+      "title": "Other Cannondale F600",
+      "url": "https://bikeindex.org/bikes/3363377",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775894400,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Street 20 Boy's",
+      "id": 3362718,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1016251/large_IMG_1043__1_.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "4318",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1016251/small_IMG_1043__1_.jpeg",
+      "title": "Cannondale Street 20 Boy's",
+      "url": "https://bikeindex.org/bikes/3362718",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

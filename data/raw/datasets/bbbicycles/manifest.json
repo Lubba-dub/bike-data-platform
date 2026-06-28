@@ -1,0 +1,8 @@
+{
+  "dataset_name": "bbbicycles",
+  "source_url": "https://huggingface.co/datasets/GrainsPolito/BBBicycles",
+  "readme_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\datasets\\bbbicycles\\README.md",
+  "downloaded_at": "2026-05-21T08:17:16.079822+00:00",
+  "status": "metadata_only",
+  "detail": "设置环境变量 BBBICYCLES_FULL_DOWNLOAD=1 后可执行全量下载。数据集体量约 104GB。"
+}

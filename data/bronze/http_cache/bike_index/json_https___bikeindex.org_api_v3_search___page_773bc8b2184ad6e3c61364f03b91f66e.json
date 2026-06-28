@@ -1,0 +1,750 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1618936528,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Unknown",
+      "id": 1042447,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.74,
+        -122.34
+      ],
+      "stolen_location": "Shoreline, WA 98133, US",
+      "thumb": null,
+      "title": "Brompton Bicycle Unknown",
+      "url": "https://bikeindex.org/bikes/1042447",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1602496800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "M3L",
+      "id": 933521,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1908020498",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.51,
+        -0.07
+      ],
+      "stolen_location": "Whitechapel, E1 5SD, GB",
+      "thumb": null,
+      "title": "2019 Brompton Bicycle M3L",
+      "url": "https://bikeindex.org/bikes/933521",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1602449224,
+      "description": "Brompton folding bike, fully decked out. Red, demo bike sticker. Lightly used (served as demo bike for 1 year).",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "folding bike",
+      "id": 933288,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/344596/large_IMG-4344.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1910183082",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.66
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/344596/small_IMG-4344.jpg",
+      "title": "2020 Brompton Bicycle folding bike",
+      "url": "https://bikeindex.org/bikes/933288",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1602449020,
+      "description": "White electric folding bike. Some wear, but fairly new. Sticker says demo bike.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Electric",
+      "id": 933284,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/344589/large_brompton_white.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1903270079",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.66
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/344589/small_brompton_white.jpg",
+      "title": "2020 Brompton Bicycle Electric",
+      "url": "https://bikeindex.org/bikes/933284",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1600191000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "S6L",
+      "id": 923645,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/333363/large_120026908_792024114985853_5182137419965648376_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2002140113",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.51,
+        -0.02
+      ],
+      "stolen_location": "West India Quay, E14 4AW, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/333363/small_120026908_792024114985853_5182137419965648376_n.jpg",
+      "title": "2020 Brompton Bicycle S6L",
+      "url": "https://bikeindex.org/bikes/923645",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1599303120,
+      "description": "colour apple green, 6 gears, mudguards,\r\nback rack, M handle bar, original Brompton saddle",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "265131",
+      "id": 863495,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/323652/large_m_type_r_version_racing_green_sp6_fcb_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0809098220",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.51,
+        -0.1
+      ],
+      "stolen_location": "London, SE1, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/323652/small_m_type_r_version_racing_green_sp6_fcb_1.jpg",
+      "title": "2009 Brompton Bicycle 265131",
+      "url": "https://bikeindex.org/bikes/863495",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1597132800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 835860,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/306402/large_received_1134955260238773.png",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1906140950",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.68,
+        -117.13
+      ],
+      "stolen_location": "San Diego, CA 92101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/306402/small_received_1134955260238773.png",
+      "title": "2020 Brompton Bicycle",
+      "url": "https://bikeindex.org/bikes/835860",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1596232800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "S6L (554804)",
+      "id": 847242,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1609050400",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.45,
+        -0.19
+      ],
+      "stolen_location": "London, SW18, GB",
+      "thumb": null,
+      "title": "2017 Brompton Bicycle S6L (554804)",
+      "url": "https://bikeindex.org/bikes/847242",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1593058851,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "M5L",
+      "id": 774180,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -73.98
+      ],
+      "stolen_location": "New York, NY 10009, US",
+      "thumb": null,
+      "title": "Brompton Bicycle M5L",
+      "url": "https://bikeindex.org/bikes/774180",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1592915400,
+      "description": "Brompton Superlight, Orange. Special edition with titanium forks and back end. Schwalbe Marathon tyres. When stolen it had a Quadlock phone mount on the handlebar.",
+      "frame_colors": [
+        "Orange",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "M3L-X Titanium",
+      "id": 775041,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/271384/large_20200625_003913.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "509049",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.56,
+        -0.16
+      ],
+      "stolen_location": "London, N6 6NG, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/271384/small_20200625_003913.jpg",
+      "title": "Brompton Bicycle M3L-X Titanium",
+      "url": "https://bikeindex.org/bikes/775041",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1592024400,
+      "description": "Blue frame, 6-speed, U-shaped seat",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "305068",
+      "id": 759731,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/263230/large_IMG-20191107-WA0004.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1006144705",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.43
+      ],
+      "stolen_location": "San Francisco, CA 94114, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/263230/small_IMG-20191107-WA0004.jpeg",
+      "title": "2011 Brompton Bicycle 305068",
+      "url": "https://bikeindex.org/bikes/759731",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1588928879,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "660608",
+      "id": 730265,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.42,
+        -0.09
+      ],
+      "stolen_location": "London, SE193PX, GB",
+      "thumb": null,
+      "title": "2019 Brompton Bicycle 660608",
+      "url": "https://bikeindex.org/bikes/730265",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1588608000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M6L",
+      "id": 763527,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/266134/large_0-2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1906141021",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.1,
+        -118.33
+      ],
+      "stolen_location": "Los Angeles, CA 90028, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/266134/small_0-2.jpg",
+      "title": "2019 Brompton Bicycle M6L",
+      "url": "https://bikeindex.org/bikes/763527",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1584694800,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "M3L",
+      "id": 705152,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/230752/large_IMG_0522.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1412316443",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.11,
+        8.68
+      ],
+      "stolen_location": "Frankfurt Am Main, 06350, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/230752/small_IMG_0522.jpg",
+      "title": "2015 Brompton Bicycle M3L",
+      "url": "https://bikeindex.org/bikes/705152",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1580329835,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M6L",
+      "id": 689828,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1705220488",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2020 Brompton Bicycle M6L",
+      "url": "https://bikeindex.org/bikes/689828",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1579924800,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 688922,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1305244157",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": null,
+      "title": "2013 Brompton Bicycle",
+      "url": "https://bikeindex.org/bikes/688922",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1575702000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "568754",
+      "id": 678594,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "161140739",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2005 Brompton Bicycle 568754",
+      "url": "https://bikeindex.org/bikes/678594",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1575633600,
+      "description": "Brompton foldable bike that is a H3L Black with Lime Green extremities fitted with the Brompton folding basket, XLC Barrel bag & joint armored 3’ long lock.",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "H3L Black with lime green",
+      "id": 681047,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/211649/large_YzHPxcPpRqezAcqWMDx4SA.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1906211003",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.96,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/211649/small_YzHPxcPpRqezAcqWMDx4SA.jpg",
+      "title": "2019 Brompton Bicycle H3L Black with lime green",
+      "url": "https://bikeindex.org/bikes/681047",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1574442000,
+      "description": "IT IS A FOLDABLE BIKE, VERY UNIQUE, IT IS A SPECIAL VERSION “CHAPTER 3”. BLACK WITH RED SADDLE",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "CHPT 3",
+      "id": 675689,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/207477/large_22227747-40D4-467D-B573-D51049669C4E.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1907120045",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/207477/small_22227747-40D4-467D-B573-D51049669C4E.jpeg",
+      "title": "2019 Brompton Bicycle CHPT 3",
+      "url": "https://bikeindex.org/bikes/675689",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1571850161,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "M3I",
+      "id": 669255,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/196422/large_Screenshot_2019-10-23_at_17.45.31.png",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "504405",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.52,
+        -0.07
+      ],
+      "stolen_location": "London, E2 7DP, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/196422/small_Screenshot_2019-10-23_at_17.45.31.png",
+      "title": "2016 Brompton Bicycle M3I",
+      "url": "https://bikeindex.org/bikes/669255",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1571799600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "697955",
+      "id": 669227,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/196412/large_Screen_Shot_2019-10-23_at_9.27.58_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1906141025",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.07,
+        -118.24
+      ],
+      "stolen_location": "Los Angeles, CA 90012, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/196412/small_Screen_Shot_2019-10-23_at_9.27.58_AM.png",
+      "title": "2019 Brompton Bicycle 697955",
+      "url": "https://bikeindex.org/bikes/669227",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1568570400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "M6 Superlight",
+      "id": 657043,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/185124/large_5CEE07C9-90F3-4039-BD03-9D10ED2E621C.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "130624818",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.21,
+        -122.87
+      ],
+      "stolen_location": "Surrey, BC V3V 8C5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/185124/small_5CEE07C9-90F3-4039-BD03-9D10ED2E621C.jpeg",
+      "title": "Brompton Bicycle M6 Superlight",
+      "url": "https://bikeindex.org/bikes/657043",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1564304400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M6R",
+      "id": 636765,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1564558638252",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.83,
+        -122.26
+      ],
+      "stolen_location": "Oakland, CA 94609, US",
+      "thumb": null,
+      "title": "2016 Brompton Bicycle M6R",
+      "url": "https://bikeindex.org/bikes/636765",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1560771000,
+      "description": "Frame Number: 552887",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "M3L",
+      "id": 623366,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/163743/large_DSC01949.JPG",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1607385648",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.5,
+        -0.18
+      ],
+      "stolen_location": "London, SW7 2AZ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/163743/small_DSC01949.JPG",
+      "title": "2016 Brompton Bicycle M3L",
+      "url": "https://bikeindex.org/bikes/623366",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1560189600,
+      "description": "2 speed with flat handlebars and mudguards",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M2",
+      "id": 618792,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/162044/large_Brompton.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "555237/150725040",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.21,
+        0.12
+      ],
+      "stolen_location": "Cambridge, CB5 8AS, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/162044/small_Brompton.jpg",
+      "title": "2016 Brompton Bicycle M2",
+      "url": "https://bikeindex.org/bikes/618792",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

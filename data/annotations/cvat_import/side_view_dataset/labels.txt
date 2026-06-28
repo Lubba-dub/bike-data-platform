@@ -1,0 +1,8 @@
+frame
+front_wheel
+rear_wheel
+fork
+handlebar
+saddle
+drivetrain
+brake

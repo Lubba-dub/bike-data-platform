@@ -1,0 +1,769 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1777849200,
+      "description": "There is a sticker on the seat tube that says \"Rat's Cycles,\" below which it lists the frame model \"R059\" and then the size \"M.\" The pedals are older than the rest of the bike and are meant for normal shoes. The grease guard below the chain is starting to peel. The surface of the down tube facing the front wheel is pretty scratched up, there's even a bald spot right behind where the fork meets the frame",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Black"
+      ],
+      "frame_model": "Inflite CF SLX R059",
+      "id": 3382669,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025760/large_IMG_2348.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.28,
+        -76.71
+      ],
+      "stolen_location": "Williamsburg, VA 23185, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025760/small_IMG_2348.jpeg",
+      "title": "2018 Canyon bicycles Inflite CF SLX R059",
+      "url": "https://bikeindex.org/bikes/3382669",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777845600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3380983,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        41.32,
+        -72.93
+      ],
+      "stolen_location": "New Haven, CT 06511, US",
+      "thumb": null,
+      "title": "2006 Trek",
+      "url": "https://bikeindex.org/bikes/3380983",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777788000,
+      "description": "Missing front wheel cover, missing, reflectors, red brakes, missing headlight, brown seat matching handle covers, cut on seat, LB sticker located on frame below seat, custom fork",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3383396,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026226/large_IMG_2083.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        34.12,
+        -117.85
+      ],
+      "stolen_location": "Glendora, CA 91740, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026226/small_IMG_2083.jpeg",
+      "title": "Other",
+      "url": "https://bikeindex.org/bikes/3383396",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777687200,
+      "description": "this is a radwagon 4 that i painted chrome!!! not silver or metal, chrome! with black accents such as pedals handlebars, sprockets, shifters, pretty much just the frame is chrome.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "radwagon 4 custom",
+      "id": 3380232,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024330/large_radwagonchrome.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "X2006018950",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.98,
+        -124.1
+      ],
+      "stolen_location": "Florence, OR 97439, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024330/small_radwagonchrome.jpeg",
+      "title": "2024 Rad Power Bikes radwagon 4 custom",
+      "url": "https://bikeindex.org/bikes/3380232",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777618800,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "Trance X",
+      "id": 3394061,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1030498/large_4854699172597086721.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.6,
+        -106.52
+      ],
+      "stolen_location": "Avon, CO 81620, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1030498/small_4854699172597086721.jpg",
+      "title": "Giant Trance X",
+      "url": "https://bikeindex.org/bikes/3394061",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777575788,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "BK35M 16\" Foldable Electric Bike for Adults, 350W Lightweight Commuter E-Bike, 37 Miles Range, Quick-Fold Portable Design, Aluminum Frame, UL2849 Certified",
+      "id": 3378850,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023337/large_WhatsApp_Image_2026-04-30_at_15.07.37.jpeg",
+      "location_found": null,
+      "manufacturer_name": "COLORWAY",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.34,
+        -71.09
+      ],
+      "stolen_location": "Boston, MA 02115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023337/small_WhatsApp_Image_2026-04-30_at_15.07.37.jpeg",
+      "title": "2026 COLORWAY BK35M 16\" Foldable Electric Bike for ...",
+      "url": "https://bikeindex.org/bikes/3378850",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777550400,
+      "description": "Composite frame, color is Black/gray with indigo coloring on back (wheel) frame.  I have a \"Gincleey\" comfort bike seat on it but it has several strips of black Gorilla tape on it (because there were some tears in the seat). \r\n\r\nBike purchased <1 week ago (4/25/26) from WashCo Bikes - I never looked at the serial number, and I called WashCo Bikes to see if they had this info, but they said they do not keep record of this.  They DID however take my first and last name (and I believe contact info) when I purchased the bike.  \r\n\r\nAlso! The bike shop did add a sturdy kickstand!",
+      "frame_colors": [
+        "Black",
+        "Purple"
+      ],
+      "frame_model": "8700",
+      "id": 3378871,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023349/large_IMG_3884.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.41,
+        -122.99
+      ],
+      "stolen_location": "Hillsboro, OR 97123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023349/small_IMG_3884.jpeg",
+      "title": "Trek 8700",
+      "url": "https://bikeindex.org/bikes/3378871",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777532400,
+      "description": "Light blue specialized 7 speed bike, with a light on the front right top of the handlebars and a rear light on the back.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 3379740,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC029018963X",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.45,
+        -122.28
+      ],
+      "stolen_location": "Sea Tac, WA 98188, US",
+      "thumb": null,
+      "title": "2026 Specialized",
+      "url": "https://bikeindex.org/bikes/3379740",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777529700,
+      "description": "Blue Lectric Xpedition 2 longtail step-through cargo ebike. Black electrical taped logos. Front rack/light/net. Rear Orbitor cage, 2 cushions, XL panniers. Dive sticker on left non-drive side on down tube of frame. Garmin style phone mount on right side of handlebars near shifter.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Xpedition 2",
+      "id": 3378691,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023350/large_IMG_1877.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNCTC25G08999",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023350/small_IMG_1877.jpeg",
+      "title": "2025 Lectric eBikes Xpedition 2",
+      "url": "https://bikeindex.org/bikes/3378691",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777424400,
+      "description": "The frame is bright purple (Arroyo Lilac) with drop handlebars, and the original tires were replaced with thinner tires that are brown and black. I had a black Velcro bag on the front, a dark green pouch under the seat, a water bottle mount on the frame, and a light mount on the front right handlebar. ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "4130 All-Road",
+      "id": 3378116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023370/large_Bike3.JPG",
+      "location_found": null,
+      "manufacturer_name": "State Bicycle Co.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SBCAT2501229",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        43.04,
+        -87.9
+      ],
+      "stolen_location": "Milwaukee, WI 53202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023370/small_Bike3.JPG",
+      "title": "2025 State Bicycle Co. 4130 All-Road",
+      "url": "https://bikeindex.org/bikes/3378116",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777384800,
+      "description": "Clipless pedals, Liv bike saddle, small black frame bag, black rear bike rack, ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Topstone",
+      "id": 3377833,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022578/large_IMG_1237.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB45147",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022578/small_IMG_1237.jpg",
+      "title": "2019 Cannondale Topstone",
+      "url": "https://bikeindex.org/bikes/3377833",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777323600,
+      "description": "Had a black rear bag with a tear at the bottom of one of the paneers, which usually droops to one side or the other. Little red scuff mark near battery keyhole (left-top of frame).",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Trax",
+      "id": 3378906,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023352/large_1000045112.jpg",
+      "location_found": null,
+      "manufacturer_name": "Troxus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "344922303000391",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.96
+      ],
+      "stolen_location": "Denver, CO 80206, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023352/small_1000045112.jpg",
+      "title": "Troxus Trax",
+      "url": "https://bikeindex.org/bikes/3378906",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777309200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3376908,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022114/large_be28bff2a0560fb7f710af334510465a.png",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022114/small_be28bff2a0560fb7f710af334510465a.png",
+      "title": "Jamis",
+      "url": "https://bikeindex.org/bikes/3376908",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777172400,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Hakka MX",
+      "id": 3377819,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022570/large_IMG_1148.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ibis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN19B50372",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80207, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022570/small_IMG_1148.jpeg",
+      "title": "2019 Ibis Hakka MX",
+      "url": "https://bikeindex.org/bikes/3377819",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777150800,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Stumpjumper",
+      "id": 3375966,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021833/large_IMG_1472.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BI-2563",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.35,
+        -122.68
+      ],
+      "stolen_location": "West Linn, OR 97068, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021833/small_IMG_1472.jpeg",
+      "title": "2020 Specialized Stumpjumper",
+      "url": "https://bikeindex.org/bikes/3375966",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777129200,
+      "description": "Actual frame size is ML. Color is matte black with shiny red TREK logo. Example Here: https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/cross-country-mountain-bikes/marlin/f/F321/marlin-5-gen-3/40773/5292506\r\nThis was my 14yo son's bike. It was stolen while locked in front of Grant High School around April 26-28, 2026.",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 3379299,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023637/large_Trek_Marlin5_Gen3_2.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU156XC1779V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97212, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023637/small_Trek_Marlin5_Gen3_2.png",
+      "title": "2025 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/3379299",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777010400,
+      "description": "- Red fabric seat\r\n- rear wheel has 8 BROKEN SPOKES at the time of theft (all snapped at the center end, but are still attached at the rim end)\r\n- Brake cable and lever has been removed, but the mounting point remains on the right handlebar\r\n- Some exposed components are rusty (crankshaft, axle nuts)\r\n- Chain is quite loose, and hits the frame when the bike is dropped\r\n- Lock on handlebar grips with a bit of wear\r\n- Handlebar is angled slightly forward of parallel with the fork",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rant",
+      "id": 3374505,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020934/large_bmx__1_.png",
+      "location_found": null,
+      "manufacturer_name": "Subrosa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RS180405155",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2M 1M2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020934/small_bmx__1_.png",
+      "title": "Subrosa Rant",
+      "url": "https://bikeindex.org/bikes/3374505",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776956400,
+      "description": "Metal frame 90s Specialized Mountain bike with pink tires, yellow grips, red pedals",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Stumpjumper",
+      "id": 3374137,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020644/large_IMG_1087.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020644/small_IMG_1087.jpeg",
+      "title": "Specialized Stumpjumper",
+      "url": "https://bikeindex.org/bikes/3374137",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776942000,
+      "description": "Bergamont E-Horizon N7 CB trekking e-bike. Bosch drive system. Original equipment: ABUS Bordo Classic folding lock. Originally purchased 06/2020 at Bikeprofi am Herderplatz, Weimar, Germany. Second owner. Stolen May 2026 from a residential building hallway in Weimar.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "E-Horizon N7 CB",
+      "id": 3392765,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1029730/large_WhatsApp_Image_2026-05-16_at_22.56.55.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bergamont",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BGM7C18G01145",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        50.98,
+        11.32
+      ],
+      "stolen_location": "Weimar, 99423, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1029730/small_WhatsApp_Image_2026-05-16_at_22.56.55.jpeg",
+      "title": "2019 Bergamont E-Horizon N7 CB",
+      "url": "https://bikeindex.org/bikes/3392765",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776844800,
+      "description": "2022 Trek FX 3 Disc, Size Medium, Matte Dnister Black aluminum frame. Serial number WTU256XC3645S. Purchased new 05/08/2022 from Freewheel Bike, 799 Grand Ave, St. Paul, MN for $999.99. Accessories at time of theft include Bontrager Elite bottle cage (matte black) and Revelate Designs mag-tank top tube stem bag (black). Bike was in excellent condition with minimal use.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX 3",
+      "id": 3378014,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU256XC3645S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55105, US",
+      "thumb": null,
+      "title": "2022 Trek FX 3",
+      "url": "https://bikeindex.org/bikes/3378014",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776704400,
+      "description": null,
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Men’s Epic Comp",
+      "id": 3372959,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019517/large_IMG_2624.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC614102481N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019517/small_IMG_2624.jpeg",
+      "title": "2018 Specialized Men’s Epic Comp",
+      "url": "https://bikeindex.org/bikes/3372959",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776528000,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Alight",
+      "id": 3371751,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018593/large_18230.jpg",
+      "location_found": null,
+      "manufacturer_name": "Liv",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        32.75,
+        -117.17
+      ],
+      "stolen_location": "San Diego, CA 92103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018593/small_18230.jpg",
+      "title": "2020 Liv Alight",
+      "url": "https://bikeindex.org/bikes/3371751",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776488400,
+      "description": "Loyola University New Orleans police dept. campus bike registration sticker on frame.  Water Bottle Mount. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Draft Lite",
+      "id": 3371667,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018533/large_IMG_8720.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SE Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -86.05
+      ],
+      "stolen_location": "Indianapolis, IN 46219, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018533/small_IMG_8720.jpeg",
+      "title": "2013 SE Bikes Draft Lite",
+      "url": "https://bikeindex.org/bikes/3371667",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776477600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Adventure 21",
+      "id": 3371495,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018451/large_IMG_3435.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SE Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.15,
+        -118.36
+      ],
+      "stolen_location": "North Hollywood, CA 91602, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018451/small_IMG_3435.jpeg",
+      "title": "SE Bikes Adventure 21",
+      "url": "https://bikeindex.org/bikes/3371495",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777834800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3371321,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Mongoose",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P7KY36086",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": null,
+      "title": "2000 Mongoose",
+      "url": "https://bikeindex.org/bikes/3371321",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

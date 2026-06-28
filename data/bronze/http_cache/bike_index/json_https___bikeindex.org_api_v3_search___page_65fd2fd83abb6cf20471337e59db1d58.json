@@ -1,0 +1,759 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1758171515,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Canyon Grail CF SL 7",
+      "id": 3192262,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/967660/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R11901AC24F0228",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.06
+      ],
+      "stolen_location": "Mountain View, CA 94043, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/967660/small_bike.jpg",
+      "title": "2024 Canyon bicycles Canyon Grail CF SL 7",
+      "url": "https://bikeindex.org/bikes/3192262",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763172000,
+      "description": "A brown and orange bike with Maxxis wheels, tubeless tires, fox shocks and fox seat raiser, and stylo pedals. \r\nIt has a beat up and rusty spring bell on the left handle. ",
+      "frame_colors": [
+        "Brown",
+        "Orange"
+      ],
+      "frame_model": "M9 A9A45484",
+      "id": 3191716,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/967402/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M07001B19C0462",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80310, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/967402/small_image.jpg",
+      "title": "2019 Canyon bicycles M9 A9A45484",
+      "url": "https://bikeindex.org/bikes/3191716",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758026591,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Urban commuter / trekking frame",
+      "id": 3190303,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U02201Z21M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.52,
+        13.4
+      ],
+      "stolen_location": "Berlin, 010969, DE",
+      "thumb": null,
+      "title": "2022 Canyon bicycles Urban commuter / trekking frame",
+      "url": "https://bikeindex.org/bikes/3190303",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757980800,
+      "description": "It had a back basket",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3191299,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/967198/large_1000058284.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U02601B24H0036",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.21,
+        8.7
+      ],
+      "stolen_location": "Richterswil, 8805, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/967198/small_1000058284.jpg",
+      "title": "2024 Canyon bicycles",
+      "url": "https://bikeindex.org/bikes/3191299",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757962800,
+      "description": "Tan and black Canyon Gravel Bike, XS sized frame. Tires are brown and black. ",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Grail 6",
+      "id": 3191027,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/967060/large_IMG_7605.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R06202AD22A3326",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.72,
+        -84.34
+      ],
+      "stolen_location": "Atlanta, GA 30316, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/967060/small_IMG_7605.png",
+      "title": "2022 Canyon bicycles Grail 6",
+      "url": "https://bikeindex.org/bikes/3191027",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757916000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ultimate Al SLX 9.0",
+      "id": 3190311,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/967104/large_65768.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R3315B14B0463",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.7
+      ],
+      "stolen_location": "Chicago, IL 60625, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/967104/small_65768.jpeg",
+      "title": "2015 Canyon bicycles Ultimate Al SLX 9.0",
+      "url": "https://bikeindex.org/bikes/3190311",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757890800,
+      "description": "Bike is a split of a deep red and black, pedals that are on the bike are dual sided (on side regular pedal and one clipping mounts). Bike had 2 basic black water bottle cages on it (if the bottles are still on the are a clear-ish color) I have had the bike for no more than 2 weeks and haven't taken a picture of it yet. Picture used is from internet, bikes looks IDENTICAL to picture but pedals are different as described.",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Canyon Ultimate CF SL7",
+      "id": 3189597,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966327/large_nbd-ultimate-cf-sl-7-deep-red-v0-5i8lkvoa5yde1.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -73.54
+      ],
+      "stolen_location": "Montreal, H1N 3P6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966327/small_nbd-ultimate-cf-sl-7-deep-red-v0-5i8lkvoa5yde1.png",
+      "title": "2025 Canyon bicycles Canyon Ultimate CF SL7",
+      "url": "https://bikeindex.org/bikes/3189597",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757732400,
+      "description": "- Fox 36 Rhythm, GRIP Damper, 160mm Travel\r\n- Fox Float DPX2, Performance Series, 230x65mm\r\n- SRAM GX Eagle 1×12 w/Descendent 6K 32t Crankset & 10-50t Cassette\r\n\r\nReview of the bike (bike with my setup & frame color etc.):\r\nhttps://flowmountainbike.com/tests/longterm-review-2019-canyon-spectral-al-6-0/\r\n\r\nBrand new tires in tubeless setup: Maxxis Minion DHR II WT TR DD 2x120TPI 3C Terra 27.5 x 2.40\r\n\r\nSmall damage on the frame just above the rear dumper.\r\n\r\nGarmin computer holder on the handlebar.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 3189668,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966351/large_IMG_20210724_174114_047.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M05301B19C0206-5",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.34,
+        5.07
+      ],
+      "stolen_location": "Les Bastides / Les Rouges / Martigue, 13500, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966351/small_IMG_20210724_174114_047.jpg",
+      "title": "2019 Canyon bicycles",
+      "url": "https://bikeindex.org/bikes/3189668",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757691249,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Slx inflite",
+      "id": 3187627,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.92,
+        12.5
+      ],
+      "stolen_location": "Rome, 00198, IT",
+      "thumb": null,
+      "title": "2018 Canyon bicycles Slx inflite",
+      "url": "https://bikeindex.org/bikes/3187627",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757599200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Exceed CF 6",
+      "id": 3188254,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965594/large_IMG_5190.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M07601H22D0679",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.8,
+        13.91
+      ],
+      "stolen_location": "Premantura, 52100, HR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965594/small_IMG_5190.jpeg",
+      "title": "2022 Canyon bicycles Exceed CF 6",
+      "url": "https://bikeindex.org/bikes/3188254",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757530800,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "NEURON 5",
+      "id": 3186444,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M06101AD22G1134",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.13,
+        -122.77
+      ],
+      "stolen_location": "Maple St, WA 98368, US",
+      "thumb": null,
+      "title": "2022 Canyon bicycles NEURON 5",
+      "url": "https://bikeindex.org/bikes/3186444",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757505600,
+      "description": "Off the rack setup\r\nFox\r\nShamans\r\nMaxxis",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Neuron",
+      "id": 3200213,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M06202N20J0136",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.06,
+        -122.5
+      ],
+      "stolen_location": "Novato, CA 94949, US",
+      "thumb": null,
+      "title": "2020 Canyon bicycles Neuron",
+      "url": "https://bikeindex.org/bikes/3200213",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756997924,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Grand Canyon 8",
+      "id": 3182051,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961789/large_1000074821.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M11001Z22K4200",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.65,
+        -0.89
+      ],
+      "stolen_location": "Zaragoza, 50300, ES",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961789/small_1000074821.jpg",
+      "title": "2022 Canyon bicycles Grand Canyon 8",
+      "url": "https://bikeindex.org/bikes/3182051",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756976400,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Pathlite ON:4",
+      "id": 3183507,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962569/large_SCR-20250906-kfhb.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M08001B21J0448",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.41,
+        8.08
+      ],
+      "stolen_location": "Aarau Rohr, 5032, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962569/small_SCR-20250906-kfhb.png",
+      "title": "2022 Canyon bicycles Pathlite ON:4",
+      "url": "https://bikeindex.org/bikes/3183507",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3181670,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Denver, CO 80204, United States",
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Canyon bicycles",
+      "url": "https://bikeindex.org/bikes/3181670",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756879200,
+      "description": "“Afagotto” colored, like a crème, with black accent. There was a Canyon branded cage on the back. Stolen in London 02 Sept 2025.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Grizl 7",
+      "id": 3181280,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961341/large_IMG_2436.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07501B24D2978",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.53,
+        -0.15
+      ],
+      "stolen_location": "London, NW1 5DW, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961341/small_IMG_2436.jpeg",
+      "title": "2025 Canyon bicycles Grizl 7",
+      "url": "https://bikeindex.org/bikes/3181280",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756692000,
+      "description": "Cold Cactus colored 2XS size Canyon Endurance 7 (now called Canyon Endurance 7 RAW). \r\n\r\nLink: https://www.canyon.com/en-fi/outlet-bikes/road-bikes/endurace-7-raw/3705.html",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "ENDURANCE 7 RAW",
+      "id": 3180333,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960851/large_Screenshot_2025-09-01_at_10.49.34_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401AD24B3520",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.09,
+        -118.3
+      ],
+      "stolen_location": "Los Angeles, CA 90029, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960851/small_Screenshot_2025-09-01_at_10.49.34_PM.png",
+      "title": "Canyon bicycles ENDURANCE 7 RAW",
+      "url": "https://bikeindex.org/bikes/3180333",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756270800,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Ultimate CF 7",
+      "id": 3071348,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R10101AC24M0094",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.92,
+        -87.7
+      ],
+      "stolen_location": "Chicago, IL 60647, US",
+      "thumb": null,
+      "title": "2026 Canyon bicycles Ultimate CF 7",
+      "url": "https://bikeindex.org/bikes/3071348",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756216800,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "grizl CF SL 8",
+      "id": 3068860,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957708/large_1000014321.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09502AJ23D4036",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.37,
+        -71.11
+      ],
+      "stolen_location": "Cambridge, MA 02139-3832, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957708/small_1000014321.jpg",
+      "title": "Canyon bicycles grizl CF SL 8",
+      "url": "https://bikeindex.org/bikes/3068860",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756180800,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Endurace 7 RAW",
+      "id": 3069110,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957853/large_IMG_5974.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401AD24D4056",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.55,
+        -77.46
+      ],
+      "stolen_location": "Richmond, VA 23220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957853/small_IMG_5974.JPEG",
+      "title": "2024 Canyon bicycles Endurace 7 RAW",
+      "url": "https://bikeindex.org/bikes/3069110",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756159200,
+      "description": null,
+      "frame_colors": [
+        "Teal",
+        "Purple"
+      ],
+      "frame_model": "Torque mullet",
+      "id": 3068287,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960937/large_IMG_6115.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M11301AD24F0295",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.75,
+        -105.0
+      ],
+      "stolen_location": "Denver, CO 80202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960937/small_IMG_6115.png",
+      "title": "2025 Canyon bicycles Torque mullet",
+      "url": "https://bikeindex.org/bikes/3068287",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755867600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "lux cf7",
+      "id": 3218272,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/978905/large_Scherm_afbeelding_2025-10-21_om_19.14.27.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M07301H20A0750",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.37,
+        5.22
+      ],
+      "stolen_location": "Almere, 1315RA, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/978905/small_Scherm_afbeelding_2025-10-21_om_19.14.27.png",
+      "title": "2021 Canyon bicycles lux cf7",
+      "url": "https://bikeindex.org/bikes/3218272",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755777600,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Slx inflite alu",
+      "id": 3187632,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965253/large_1000025050.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.92,
+        12.5
+      ],
+      "stolen_location": "Rome, 00198, IT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965253/small_1000025050.jpg",
+      "title": "2018 Canyon bicycles Slx inflite alu",
+      "url": "https://bikeindex.org/bikes/3187632",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755831600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "White"
+      ],
+      "frame_model": "Canyon Pathlite WMN AL",
+      "id": 3062563,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M13501Z22A3336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": null,
+      "title": "Canyon bicycles Canyon Pathlite WMN AL",
+      "url": "https://bikeindex.org/bikes/3062563",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755685800,
+      "description": "This is a Grizl CF SL XL matcha green gravel bike ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Grizl CF SL 8 lby",
+      "id": 3063932,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09501AD21F1015",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.68,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80210, US",
+      "thumb": null,
+      "title": "2024 Canyon bicycles Grizl CF SL 8 lby",
+      "url": "https://bikeindex.org/bikes/3063932",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1756325533,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Trance X E+",
+      "id": 3070039,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G8HF05108",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.55,
+        -90.33
+      ],
+      "stolen_location": "Affton, MO 63123, US",
+      "thumb": null,
+      "title": "2022 Giant Trance X E+",
+      "url": "https://bikeindex.org/bikes/3070039",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756317600,
+      "description": "Red bike, black handlebars, ascher light, Shimano iOS, Registered with the University of Colorado with B096136",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Altimira CX 2.5",
+      "id": 3069938,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958316/large_68281249259__8CB4B6FF-7E92-422F-9FF1-247DF987E455.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FJ244AK1325",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.44,
+        -122.14
+      ],
+      "stolen_location": "Palo Alto, CA 94301, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958316/small_68281249259__8CB4B6FF-7E92-422F-9FF1-247DF987E455.jpeg",
+      "title": "2015 Fuji Altimira CX 2.5",
+      "url": "https://bikeindex.org/bikes/3069938",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756310400,
+      "description": "Advanced SL-Grade aluminum, Zipp ('Z') stem, Stan's Wheels with Red Hope hubs, Specialized carbon handlebars, Prologo Saddle, Shimano Derailleur and Brakes, Easton Seatpost, \"Jack Jones\" name sticker",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "XTC Advanced SL 29er 2",
+      "id": 3075337,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959032/large_IMG_3160.JPG",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.65,
+        -122.31
+      ],
+      "stolen_location": "Seattle, WA 98195, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959032/small_IMG_3160.JPG",
+      "title": "2013 Giant XTC Advanced SL 29er 2",
+      "url": "https://bikeindex.org/bikes/3075337",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756238400,
+      "description": "Hand built bike with red Soma frame, black Tange fork, Shimano drive train and brifters, Tektro brakes, old Ksyerium wheels. Currently has black fenders and black rear rack (Topeak).",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "ES road frameset",
+      "id": 694359,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/222071/large_Soma_Jan19.jpg",
+      "location_found": null,
+      "manufacturer_name": "Soma",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TSFBJ01782",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.71
+      ],
+      "stolen_location": "Portland, OR 97205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/222071/small_Soma_Jan19.jpg",
+      "title": "2014 Soma ES road frameset",
+      "url": "https://bikeindex.org/bikes/694359",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756238400,
+      "description": "Chili Red folding ebike 48V 750W 20\" frame, 4.0 fat tire, 13Ah lithium-ion battery, Shimano 7-speed, with Smart LCD display, and black insulated Mosiso waterproof bag behind rider. ViaVelo Bike U Lock, Meachow handlebar right side bicycle mirror. Several locations on metal frame engraved with name - Travis Mackie",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "FW11 KT-D05 Z-LXD25-SD",
+      "id": 1230470,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958003/large_E-Bike_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fucare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "209922127700006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.06,
+        -122.15
+      ],
+      "stolen_location": "Marysville, WA 98270, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958003/small_E-Bike_1.jpg",
+      "title": "2022 Fucare FW11 KT-D05 Z-LXD25-SD e-scooter",
+      "url": "https://bikeindex.org/bikes/1230470",
+      "year": 2022,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "e-scooter"
+    },
+    {
+      "date_stolen": 1756188000,
+      "description": "Black and sparkles in the sun. 51cm. Tape on handlebars is a little worn unless whoever stole it retapes it. \r\nFrame: 100 Series Alpha Aluminum, fender & rack compatible, 51 cm\r\n\t•\tFork: Trek carbon road\r\n\t•\tWheels: Bontrager alloy hubs, Bontrager Tubeless Ready rims\r\n\t•\tTires: Bontrager T1, 700x25c\r\n\t•\tShifters: Shimano Sora, 9-speed\r\n\t•\tDerailleurs: Shimano Sora, front and rear\r\n\t•\tCrank: FSA Vero 50/34 (compact)\r\n\t•\tCassette: Shimano HG400, 11-28, 9-speed\r\n\t•\tPedals: Wellgo nylon body w/alloy cage, toe-clip/strap\r\n\t•\tSaddle: Bontrager Ajna 1 WSD\r\n\t•\tSeatpost: Bontrager SSR, 2-bolt head, 27.2mm, 12mm offset\r\n\t•\tHandlebar: Bontrager Race, VR-S shallow drop, WSD sized, 31.8mm\r\n\t•\tStem: Bontrager Elite, 31.8mm, 7°, w/Blendr mounts\r\n\t•\tHeadset: 1-1/8” semi-cartridge bearings\r\n\t•\tBrakes: Alloy dual-pivot\r\n\r\n",
+      "frame_colors": [
+        "Black",
+        "Black"
+      ],
+      "frame_model": "Alpha 1.1",
+      "id": 7106,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958045/large_IMG_2288.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "141016337327G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.75,
+        -117.17
+      ],
+      "stolen_location": "San Diego, CA 92103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958045/small_IMG_2288.jpeg",
+      "title": "2016 Trek Alpha 1.1",
+      "url": "https://bikeindex.org/bikes/7106",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756173600,
+      "description": "Modified RadWagon e-bike with Luna BBSHD mid-drive motor below the pedals, Shimano Zee hydraulic brakes, and RockShox front fork. Cargo rack has wooden boards which have been painted bright orange, and there may be a black cushioned rear passenger seat on the rack.",
+      "frame_colors": [
+        "Blue",
+        "Orange"
+      ],
+      "frame_model": "RadWagon",
+      "id": 763574,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/266176/large_MVIMG_20200111_120816.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "28E1605030",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.91,
+        -122.27
+      ],
+      "stolen_location": "Everett, WA 98204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/266176/small_MVIMG_20200111_120816.jpg",
+      "title": "2017 Rad Power Bikes RadWagon cargo bike rear",
+      "url": "https://bikeindex.org/bikes/763574",
+      "year": 2017,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "cargo-rear"
+    },
+    {
+      "date_stolen": 1756155600,
+      "description": "Very unique Klein Aeolus bicycle stolen from the Planet Fitness parking lot on Addison and Broadway in Chicago on 8/25/25. its a rare bike, never seen one like it so it is probably mine. the bike has Mavic Ksyrium wheels, thick n slick tires, ritchey carbon pro seat post and handlebars, specialized stem, Shimano Tiagra components (derailleur, cranks, gears etc). \r\n\r\nlooking for any information regarding the whereabouts of the bike. you can reach me at 414-477-2649. I will pay a reward to anyone who can provide information that leads to finding the bike.",
+      "frame_colors": [
+        "Green",
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 3068954,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957756/large_IMG_2826.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Klein Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.94,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60657, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957756/small_IMG_2826.jpeg",
+      "title": "1996 Klein Bikes",
+      "url": "https://bikeindex.org/bikes/3068954",
+      "year": 1996,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765231200,
+      "description": "Carbonda frame. Red/Black colors. Skull decal. 105 Di2 2x12 Disc brake.",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Carbonda CFR505-SL 57cm",
+      "id": 3065688,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/956227/large_IMG_2789.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Custom Carbonda Shimano 105 Di2 2x12sp",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB24103084",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.31,
+        -122.07
+      ],
+      "stolen_location": "Cupertino, CA 95014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/956227/small_IMG_2789.jpeg",
+      "title": "2025 Custom Carbonda Shimano 105 Di2 2x12sp Carbonda CFR505-SL 57cm",
+      "url": "https://bikeindex.org/bikes/3065688",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755952380,
+      "description": "Quad lock mount on handlebar, rear seat cushion on cargo rack, front and rear fenders",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "D50",
+      "id": 3076261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959528/large_IMG_8764.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Envo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "QY25030449",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.26,
+        -123.18
+      ],
+      "stolen_location": "Vancouver, V6R 3C1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959528/small_IMG_8764.jpeg",
+      "title": "2025 Envo D50",
+      "url": "https://bikeindex.org/bikes/3076261",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755916200,
+      "description": "Carbonda frame. Green/Purple dynamic color. D20 decal. 105 Di2 2x12 Disc brake.",
+      "frame_colors": [
+        "Green",
+        "Purple"
+      ],
+      "frame_model": "Carbonda CFR505-SL 57cm",
+      "id": 3065275,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955972/large_IMG_2787.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Custom Carbonda Shimano 105 Di2 2x12sp",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB24103086",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.31,
+        -122.07
+      ],
+      "stolen_location": "Cupertino, CA 95014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955972/small_IMG_2787.jpeg",
+      "title": "2025 Custom Carbonda Shimano 105 Di2 2x12sp Carbonda CFR505-SL 57cm",
+      "url": "https://bikeindex.org/bikes/3065275",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755914400,
+      "description": "Excellent original condition Shimano gears, with added lights",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cross Trail",
+      "id": 3066495,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957601/large_IMG_1485.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC6023285721",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.38,
+        -1.07
+      ],
+      "stolen_location": "Reading, RG7 3XH, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957601/small_IMG_1485.jpeg",
+      "title": "2015 Specialized Cross Trail",
+      "url": "https://bikeindex.org/bikes/3066495",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755421200,
+      "description": "Trek Marlin 5 with a The Bike Shop adventure sticker over the 5 on the top tube. Maxxis rekon tires 2.4 tubeless front 2.6 wire rear. Topeak bag roll mount front, old man mountain rack rear, shimano deore linkglide drivetrain, green oneup pedals, front wheel is velocity dually on red halo hub. Red trim sdg saddle Frame bag not installed",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 3027166,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/953434/large_534834907_1461157938636929_7714173021722739009_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2T 5R1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/953434/small_534834907_1461157938636929_7714173021722739009_n.jpg",
+      "title": "2023 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/3027166",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755421200,
+      "description": "Bug zapper blue 2022 ibis ripmo v2 with silver Anvil Pedals, silver Anvil pedals and deity handlebars. Fox factory 38 fork, Fox factory x2 shock. Ibis blackbird send wheels, one up dropper, shimano xt drivetrain & brakes. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "ripmo",
+      "id": 3063757,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955267/large_IMG_1239.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ibis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TFGD0355L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -117.41
+      ],
+      "stolen_location": "Spokane, WA 99203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955267/small_IMG_1239.jpeg",
+      "title": "2022 Ibis ripmo",
+      "url": "https://bikeindex.org/bikes/3063757",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755421200,
+      "description": "2022 commencal meta ht (medium) \r\nRockshox Lyrik 160\r\nBontrager line comp 30 rapid drive 108 mixed wheel set\r\nWheels mfg single speed (purple)\r\nSurley tensioner \r\nShimano xt brakes 203/180\r\nDecendant carbon cranks\r\nOne up v2 dropper and leaver\r\nWolf tooth seat post clamp\r\nWtb Silverado saddle \r\nEnve carbon bars and stem\r\nOne up threaded top cap (purple)\r\nAnvl tilt chromoly pedal (purple) \r\nDeity Supra crush grips\r\nSpecialized butcher grid front/slaughter grid rear 2.6” width\r\nSRAM xx1 chain",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Meta HT",
+      "id": 3063778,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955270/large_IMG_1241.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Commencal Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -117.41
+      ],
+      "stolen_location": "Spokane, WA 99203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955270/small_IMG_1241.jpeg",
+      "title": "2022 Commencal Bikes Meta HT",
+      "url": "https://bikeindex.org/bikes/3063778",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755352800,
+      "description": "Bike was stolen in Deptford, whilst I was riding it. Crime Reference 01/7685540/25\r\n\r\nMafia Lucky 6: Frame is a two tone blue, possibly 2020 season. Muck Off Sticker on underside of frame, where pale blue meets darker blue. Scratches on dark blue RHS of frame; Horizon V2 Carbon Riser MTB Handlebar 31.8mm; Collective Headset (Black); Hope top cap & bolt in black with blue Hope spacers; Shimano Deore derailer & shifter; Clarks brake (black). Brake calliper snapped leaving one bolt holding it together; & Blue & white suede Collective LH seat.\r\n\r\nOther bike in photos: My friend also had his bike stolen at the same time. He had a Black & Purple C100, Purple Wake Stem; Nukeproof handle bars. Rockshock Judys suspension, rear Chosen Hub, black Selects Cranks; purple chain ring; PC Specialist sticker on downtube of seat post; Collective sticker on downtube on seat post. \r\n\r\n",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Lucky 6 STB",
+      "id": 3184261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/963058/large_Blue_Lucky_6.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Mafia",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ROTW02560388",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.47,
+        -0.02
+      ],
+      "stolen_location": "Deptford, SE8 4HY, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/963058/small_Blue_Lucky_6.jpeg",
+      "title": "2020 Mafia Lucky 6 STB",
+      "url": "https://bikeindex.org/bikes/3184261",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755324000,
+      "description": "",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "SP Sirrus X 4.0",
+      "id": 2956238,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/952764/large_Specialized_SP_Sirrus_X_4_0.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC024015577V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.02,
+        -93.24
+      ],
+      "stolen_location": "Minneapolis, MN 55418, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/952764/small_Specialized_SP_Sirrus_X_4_0.jpeg",
+      "title": "2025 Specialized SP Sirrus X 4.0",
+      "url": "https://bikeindex.org/bikes/2956238",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755291600,
+      "description": "Black Brooks leather saddle, lugged 1\" steel fork (slightly different shade of blue), Handlebar - Nitto Albatross, 55cm x 25.4 × 1.\r\nThere is a rack mounted to the fork cantilever mounts and a black Wald basket sitting atop the rack, with extra Wald supports attached to eyelets located lower on the fork blades.\r\nRear hub is a Shimano Saint (MTB) with a through axle, which threads into the derailleur.  This is a unique feature of this bike - there is no derailleur hangar.     \r\n\r\nThe frame has a unique junction of the seat stays, which curve over the top of the seat & down tubes to meet one another.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "San Remo",
+      "id": 416264,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Falcon (frame)",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.39,
+        -122.46
+      ],
+      "stolen_location": "Seattle, WA 98013, US",
+      "thumb": null,
+      "title": "Falcon (frame) San Remo",
+      "url": "https://bikeindex.org/bikes/416264",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Schwinn 21-speed, Promax brakes front, Tektro brakes rear, Shimano RevoShift-Model SLRS35, Shimano Altus Rear Derailleur-Model RD-M310, Shimano Tourney Front Derailleur.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Voyageur 1",
+      "id": 3186028,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964495/large_IMG_1714.JPG",
+      "location_found": "Fort Collins, CO 80521, United States",
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964495/small_IMG_1714.JPG",
+      "title": "2012 Schwinn Voyageur 1",
+      "url": "https://bikeindex.org/bikes/3186028",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755158400,
+      "description": "German company, hybrid upright bicycle with suspension",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Square Cross 1.8 Step-Through Women's",
+      "id": 3223437,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982592/large_IMG_7148.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ghost",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WCR1187339M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.91,
+        -93.17
+      ],
+      "stolen_location": "St Paul, MN 55116, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982592/small_IMG_7148.jpg",
+      "title": "2018 Ghost Square Cross 1.8 Step-Through Women's",
+      "url": "https://bikeindex.org/bikes/3223437",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754752245,
+      "description": "Dark Green Cannondale CUJO 2, 2019 hardtail mountain bike with:\r\n\r\nBL-MT200 Shimano Hydraulic disc brake system\r\n\r\n5~6N-m bike stem\r\n\r\n\"Cannondale written in black\"",
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "CUJO 2 - CAAD (size: medium)",
+      "id": 1123060,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": null,
+      "title": "2019 Cannondale CUJO 2 - CAAD (size: medium)",
+      "url": "https://bikeindex.org/bikes/1123060",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754667000,
+      "description": "SPecialized Power Saddle 155mm, Fox 38 Fork 160mm, Fox DHX2 Damper, Shimano XT 4-Piston Brakes, OneUp V3 Dropper 210mm.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Heckler SL",
+      "id": 2929842,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/951018/large_IMG_8019.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S24A4P1HS1LGC0208",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.6,
+        8.05
+      ],
+      "stolen_location": "Grindelwald, 3818, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/951018/small_IMG_8019.jpeg",
+      "title": "2024 Santa Cruz Heckler SL",
+      "url": "https://bikeindex.org/bikes/2929842",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754654400,
+      "description": "200 Series Alpha Aluminum frame.\r\nContinental Race King tyres\r\nAlexrims DA16 wheel rims\r\nShimano sora crankset\r\nSan marco aspide saddle",
+      "frame_colors": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Ion CX Pro",
+      "id": 2879081,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948703/large_IMG-20230504-WA0047.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.81,
+        -1.57
+      ],
+      "stolen_location": "Leeds, LS61JZ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948703/small_IMG-20230504-WA0047.jpg",
+      "title": "2013 Trek Ion CX Pro",
+      "url": "https://bikeindex.org/bikes/2879081",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754596800,
+      "description": "Dual Suspension mtb. The Polygon Siskiu T8 is the ultimate all-mountain shredder, boasting 135/140mm of travel, a playful trail geometry, and a capable Fox Float DPS/34 Rhythm suspension combo. Shimano's SLX 12-speed drivetrain and 4-piston brakes deliver reliable performance for conquering any trail.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Siskiu T8",
+      "id": 2878712,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948492/large_image.png",
+      "location_found": null,
+      "manufacturer_name": "Polygon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.52,
+        -111.9
+      ],
+      "stolen_location": "Scottsdale, AZ 85250, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948492/small_image.png",
+      "title": "2024 Polygon Siskiu T8",
+      "url": "https://bikeindex.org/bikes/2878712",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754578800,
+      "description": "Color changing bike (depending on the light) with oil slick pedals. It has \"Tarvali\" on the top tube (right side) right underneath the saddle and signed by the painter on the left chain stay.",
+      "frame_colors": [
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "frame_model": "Fuel EX 9.8",
+      "id": 2879126,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948759/large_Chameleon4.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU294T0012R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.53,
+        -122.03
+      ],
+      "stolen_location": "Issaquah, WA 98027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948759/small_Chameleon4.jpg",
+      "title": "2020 Trek Fuel EX 9.8",
+      "url": "https://bikeindex.org/bikes/2879126",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

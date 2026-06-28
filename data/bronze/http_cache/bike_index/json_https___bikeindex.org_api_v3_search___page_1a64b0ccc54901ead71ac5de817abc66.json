@@ -1,0 +1,759 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1777834800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3371321,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Mongoose",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P7KY36086",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": null,
+      "title": "2000 Mongoose",
+      "url": "https://bikeindex.org/bikes/3371321",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776312000,
+      "description": "Composite Gravel comp race bike. SRAM GX XPLR wireless drive train. Disc brake lauf suspension fork.",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Seigla",
+      "id": 3373354,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019923/large_1000004679.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lauf",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FRAME - LF242935 FORK - F124JH0063 BARS - S124GH0066",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.09
+      ],
+      "stolen_location": "Saint Paul, MN 55106-1722, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019923/small_1000004679.jpg",
+      "title": "2025 Lauf Seigla",
+      "url": "https://bikeindex.org/bikes/3373354",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778500800,
+      "description": "Make: Meelod\r\nModel: DK300 MAX (Anti-Theft GPS Edition)  \r\nStyle: Retro Moped / Scrambler Fat-Tire E-Bike  \r\nColor: Matte Black\r\nFrame Material: Carbon Steel  \r\nMotor: Dual 750W Hub Motors (2400W Peak Total)  \r\nPower: Dual 48V 20Ah Batteries (one top-mounted \"tank\" battery, one frame-mounted)  \r\nWheel/Tire: 20\" x 4.0\" CST Scout Puncture-Resistant Fat Tires  \r\nDistinctive Features: > * Dual-crown front suspension fork and rear coil shock.  \r\nLarge motorcycle-style LED \"halo\" headlight.\r\n* Integrated heavy-duty rear cargo rack with LED brake light.\r\n* Hydraulic disc brakes with gold-accented levers.  \r\nHigh-contrast backlit LCD center display.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "DK300 Max (Dual Motor / Dual Battery version)",
+      "id": 3364532,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Meelod",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "237022024061430",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        40.61,
+        -111.9
+      ],
+      "stolen_location": "Midvale, UT 84047, US",
+      "thumb": null,
+      "title": "2026 Meelod DK300 Max (Dual Motor / Dual Battery ...",
+      "url": "https://bikeindex.org/bikes/3364532",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776175200,
+      "description": "Frame size: Small. Battery: Canyon BT0003-01 720Wh.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Spectral:ON CF 7",
+      "id": 3364477,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.68,
+        -122.75
+      ],
+      "stolen_location": "Vancouver, WA 98660, US",
+      "thumb": null,
+      "title": "2024 Canyon bicycles Spectral:ON CF 7",
+      "url": "https://bikeindex.org/bikes/3364477",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776114000,
+      "description": "Some of the green inner wheel patterns have been inked out with black sharpie, there is black electrical tape covering green patterns on the frame, there is a small bag attached to the vertical frame, and a u bar bike lock attached to the left side of the frame near the rear wheel. \r\n\r\nThe battery is attached and has a long gouge (3+ inches) along the top of the battery. There are some mild dents/scratches from the battery being dropped on the ground. ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Rx Series",
+      "id": 3365435,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1017862/large_IMG_5220.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Super73",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F01AY0729",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.99,
+        -93.17
+      ],
+      "stolen_location": "Falcon Heights, MN 55113, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1017862/small_IMG_5220.jpeg",
+      "title": "Super73 Rx Series",
+      "url": "https://bikeindex.org/bikes/3365435",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776009600,
+      "description": "Navy blue, a few scratches on the frame from everyday use",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Urbania",
+      "id": 3363307,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1016652/large_IMG_4150.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Louis Garneau",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNLGE21B00822",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T5K 2M5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1016652/small_IMG_4150.jpeg",
+      "title": "Louis Garneau Urbania",
+      "url": "https://bikeindex.org/bikes/3363307",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775916000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aera 27 Pro",
+      "id": 3362763,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1016307/large_96285746-9848-4C42-AAB8-7567B541322D.JPG",
+      "location_found": null,
+      "manufacturer_name": "KTM",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KSC3091341",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.4,
+        2.18
+      ],
+      "stolen_location": "Barcelona, 08013, ES",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1016307/small_96285746-9848-4C42-AAB8-7567B541322D.JPG",
+      "title": "KTM Aera 27 Pro",
+      "url": "https://bikeindex.org/bikes/3362763",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775761200,
+      "description": "Stolen Trek Marlin 5 – very distinctive color and setup, not a stock build.\r\n\r\nFrame color: Volt Blue → Miami Green fade (bright, high-visibility gradient that really stands out)\r\nRear pannier rack/bag attached\r\nHybrid clip-in pedals (clip-in + flat combo)\r\nHandlebar-mounted phone holder\r\nCenter/top tube bag mounted just behind the stem\r\nFront and rear lights installed\r\nBell + horn on handlebars\r\nSide-view mirrors on BOTH sides (uncommon and highly noticeable)\r\n\r\nThis bike is extremely recognizable due to the bright blue-to-green fade and the number of accessories. It looks more like a commuter/touring setup than a typical mountain bike.\r\n\r\nIf you see anything matching this description, even partially, please reach out.",
+      "frame_colors": [
+        "Green",
+        "Blue"
+      ],
+      "frame_model": "Marlin 5 - Gen 2",
+      "id": 3361847,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015770/large_WhatsApp_Image_2.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 021 JV 0443T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.43,
+        -121.95
+      ],
+      "stolen_location": "San Jose, CA 95134, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015770/small_WhatsApp_Image_2.jpeg",
+      "title": "2024 Trek Marlin 5 - Gen 2",
+      "url": "https://bikeindex.org/bikes/3361847",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775523600,
+      "description": "Made in America trek bike with dark red frame and no-tread tires ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 3360632,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014875/large_IMG_0349.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.7
+      ],
+      "stolen_location": "Chicago, IL 60625, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014875/small_IMG_0349.jpeg",
+      "title": "1999 Trek",
+      "url": "https://bikeindex.org/bikes/3360632",
+      "year": 1999,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775523600,
+      "description": "Bicycle Description\r\n\t•\tBrand/Model: Specialized Sirrus X 2.0\r\n\t•\tType: Hybrid / fitness commuter bike\r\n\t•\tFrame: Aluminum, step-over (diamond frame)\r\n\t•\tColor: Deep burgundy / maroon (matte finish)\r\n\t•\tWheels/Tires: 700c wheels with wider, semi-slick tires (designed for pavement + light gravel)\r\n\t•\tDrivetrain: 1x drivetrain (single front chainring with multiple rear gears)\r\n\t•\tBrakes: Mechanical disc brakes\r\n\t•\tHandlebars: Flat handlebars (upright riding position)\r\n\t•\tFork: Rigid (no suspension)\r\n\r\nAccessories/Identifiers:\r\n\t•\tKickstand installed\r\n\t•\tFront and rear reflectors\r\n\t•\tmulti color chevron Saddle bag (at time of theft, if applicable)\r\n\t•\tDistinct dark maroon frame color with minimal branding",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Specialized Sirrus X 2.0",
+      "id": 3361403,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Sirrus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC029048647T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.19
+      ],
+      "stolen_location": "St Paul, MN 55108, US",
+      "thumb": null,
+      "title": "2023 Sirrus Specialized Sirrus X 2.0",
+      "url": "https://bikeindex.org/bikes/3361403",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775427300,
+      "description": "It has a black and red phone holder on the right side of the handle bar, a silver bell on the left side, no front or back reflecters, an airtag bottle holder.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "XC29",
+      "id": 3360443,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014743/large_A1209402.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Northrock",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.51,
+        -113.5
+      ],
+      "stolen_location": "Edmonton, T6E 0Z6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014743/small_A1209402.jpeg",
+      "title": "Northrock XC29",
+      "url": "https://bikeindex.org/bikes/3360443",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776196800,
+      "description": "White bike with some black trim, some stickers on side a top of frame. ",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Jupiter bike",
+      "id": 3359922,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1017445/large_IMG_6331.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Jetson",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "233522010050641",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.03,
+        -89.38
+      ],
+      "stolen_location": "Madison, WI 53713, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1017445/small_IMG_6331.jpeg",
+      "title": "2024 Jetson Jupiter bike",
+      "url": "https://bikeindex.org/bikes/3359922",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775408400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "A Frame",
+      "id": 3359890,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014415/large_IMG_3069.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bird",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNBAM21H06576",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014415/small_IMG_3069.jpeg",
+      "title": "2021 Bird A Frame",
+      "url": "https://bikeindex.org/bikes/3359890",
+      "year": 2021,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Has a bike rack with a spring on the back no lights and a 36 volt ebike battery build in the frame with 700c rims and tires ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "700c hyper e ride",
+      "id": 3359517,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014202/large_1000000119.jpg",
+      "location_found": "Reno, NV 89502, United States",
+      "manufacturer_name": "Hyper",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014202/small_1000000119.jpg",
+      "title": "2026 Hyper 700c hyper e ride",
+      "url": "https://bikeindex.org/bikes/3359517",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Post for seat pole damaged. \r\nA man my age was yelling at it with the seat off, and I asled him what was wrong. He said the seat wouldn't tighten. I observed the frame damage and figured I could make it at least RIDEABLE for him. We walk it back to my apartment, and he starts getting all weirded out, as I'm working on it. He says he better leave, and I say that it's literally rideable until he can find a repair shop. He says \"It's your bike now.\" \r\nWhich leads me to believe it's stolen. I called Eugene, OR PD, and the serial numbers I gave them weren't showing up anywhere.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal",
+        "Blue"
+      ],
+      "frame_model": "Gary Fisher",
+      "id": 3362526,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Eugene, OR 97402, United States",
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "2010 Trek Gary Fisher",
+      "url": "https://bikeindex.org/bikes/3362526",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775224800,
+      "description": "STOLEN MISSING AXS BATTERY \r\nHas a gritty habits mud guard \r\nRainbow sparkle frame protection tape",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fuel EX 9.8 GX AXS ML 29 Deep Smoke Gen 6",
+      "id": 3359829,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014342/large_IMG_5363.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU126VV0076U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014342/small_IMG_5363.jpeg",
+      "title": "2025 Trek Fuel EX 9.8 GX AXS ML 29 Deep Smoke G...",
+      "url": "https://bikeindex.org/bikes/3359829",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775224800,
+      "description": "Hot pink and basically one of a kind. She was built from the frame up. No longer has the zip 303s. Specialized mimic saddle. \r\n\r\n\r\nThis bike was my first “real” bike and was the bike that got me into it. Please help me bring her home. ",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Allez",
+      "id": 3359826,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014337/large_71405859527__41930B3E-F868-4DB4-8D2C-A3428A2EC94B.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC601069561N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014337/small_71405859527__41930B3E-F868-4DB4-8D2C-A3428A2EC94B.jpeg",
+      "title": "2017 Specialized Allez",
+      "url": "https://bikeindex.org/bikes/3359826",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775030400,
+      "description": "Gold frame with a red/pink Kona lettering. \r\nHas a waterbottle holder with bike pump attached . 29\" tires and a dropper post seat. ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Honzo Al/DR",
+      "id": 3359946,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014494/large_1000026327.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.05
+      ],
+      "stolen_location": "Calgary, T2E 3W3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014494/small_1000026327.jpg",
+      "title": "2018 Kona Honzo Al/DR",
+      "url": "https://bikeindex.org/bikes/3359946",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774947900,
+      "description": "The bike had a shock absorber at the frame and handle bar junction.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Sirrus X 4.0",
+      "id": 3357945,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013285/large_IMG_4305.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC024015862V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013285/small_IMG_4305.jpeg",
+      "title": "2025 Specialized Sirrus X 4.0",
+      "url": "https://bikeindex.org/bikes/3357945",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774897200,
+      "description": "FX 2 Disc Gen 3, Dark satin gray colorway with glossy TREK logo on frame. It has a kickstand on the back, a red tail light underneath the seat.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "FX2 DISC",
+      "id": 3358043,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013328/large_Screenshot_2026-03-31_at_8.28.48_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU107XC0315T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.71
+      ],
+      "stolen_location": "Portland, OR 97205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013328/small_Screenshot_2026-03-31_at_8.28.48_PM.png",
+      "title": "Trek FX2 DISC",
+      "url": "https://bikeindex.org/bikes/3358043",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774872000,
+      "description": "The bike is a maroon bike that has a frame with two main tubes. Tires are 700cm and frame appears as a hybrid/comfort bike with matte finish paint. Handle bar has slightly curves but mostly straight. Gears are twist shift at the handles. ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Adventure 3",
+      "id": 3356936,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1012769/large_IMG_8324.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YA53522",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.28
+      ],
+      "stolen_location": "Los Angeles, CA 90007, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1012769/small_IMG_8324.jpeg",
+      "title": "2017 Cannondale Adventure 3",
+      "url": "https://bikeindex.org/bikes/3356936",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774771200,
+      "description": "It is a blue Bianchi Brava with a white and black fi'zi:k saddle. It has a copper stem and the front wheel has a light blue stripe around it. There is a mark on the top of the frame that is rusted. It is missing the handlebar endcaps shown in the photo.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Brava",
+      "id": 3357430,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1012937/large_IMG_1298.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.05,
+        -123.09
+      ],
+      "stolen_location": "Eugene, OR 97405-8405, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1012937/small_IMG_1298.jpeg",
+      "title": "2007 Bianchi Brava",
+      "url": "https://bikeindex.org/bikes/3357430",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774749600,
+      "description": "White bike with \"Blind Freddy's\" branding on sides and top of frame. Has little black storage pouch under seat. ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": null,
+      "id": 3356602,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1012536/large_Snapchat-826262397.jpg",
+      "location_found": null,
+      "manufacturer_name": "i-Maze (Blind Freddy's)",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -42.88,
+        147.33
+      ],
+      "stolen_location": "Hobart, 7000, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1012536/small_Snapchat-826262397.jpg",
+      "title": "i-Maze (Blind Freddy's)",
+      "url": "https://bikeindex.org/bikes/3356602",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774450800,
+      "description": "hybrid bike bought from Landry's Bicycle store on 6/29/25 (have invoice for proof). \r\nColor: sea foam / white\r\nFrame size: x-large \r\n\r\nIt has a domed ring bell that is blue and of two cartoon otters holding hands. Was on the left side. \r\nAlso had attached to it the holder for the Kryptonike Kryptolock\r\nAlso had a water bottle holder attached to it (cage trek side load plastic gloss galactic)",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "25 Specialized Sirrus X 1.0 Sea Foam/Dune White X-Large",
+      "id": 3358595,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013658/large_IMG_8284.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC029018170X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.34,
+        -71.07
+      ],
+      "stolen_location": "Boston, MA 02118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013658/small_IMG_8284.jpeg",
+      "title": "2025 Specialized 25 Specialized Sirrus X 1.0 Sea Foam/...",
+      "url": "https://bikeindex.org/bikes/3358595",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774422000,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": null,
+      "id": 3355526,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1012043/large_IMG_5947.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Unknown",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1012043/small_IMG_5947.jpeg",
+      "title": "2026 Unknown",
+      "url": "https://bikeindex.org/bikes/3355526",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1769738400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "supersix evo",
+      "id": 3335027,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KA90835",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.4,
+        -121.96
+      ],
+      "stolen_location": "Santa Clara, CA 95054, US",
+      "thumb": null,
+      "title": "Canyon bicycles supersix evo",
+      "url": "https://bikeindex.org/bikes/3335027",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1769569200,
+      "description": "Black Canyon bike with teal Canyon logo, black water bottle holders, handle bar light, and speedplay peddles",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Endurace WMN AL Disc 7.0 20",
+      "id": 3335042,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/999900/large_IMG_7289.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R05701AD21C0121",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/999900/small_IMG_7289.jpeg",
+      "title": "2021 Canyon bicycles Endurace WMN AL Disc 7.0 20",
+      "url": "https://bikeindex.org/bikes/3335042",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768809600,
+      "description": "De fietsvork heeft krassen.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roadlite 7",
+      "id": 3288241,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/997701/large_PXL_20260105_172517648.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M15601Z25H0019",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.03,
+        4.31
+      ],
+      "stolen_location": "Rijswijk, 2285 VL, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/997701/small_PXL_20260105_172517648.jpg",
+      "title": "2025 Canyon bicycles Roadlite 7",
+      "url": "https://bikeindex.org/bikes/3288241",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768755600,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Grizl CF SL 6 AXS",
+      "id": 3287943,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/997545/large_rowery_szosowe_gravel_szutrowe_canyon_grizl_cf_sl_6_axs_b6937.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09502AP23L1137",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.26,
+        20.96
+      ],
+      "stolen_location": "Warsaw, 01-737, PL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/997545/small_rowery_szosowe_gravel_szutrowe_canyon_grizl_cf_sl_6_axs_b6937.jpg",
+      "title": "2024 Canyon bicycles Grizl CF SL 6 AXS",
+      "url": "https://bikeindex.org/bikes/3287943",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768734988,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Roadlite 5",
+      "id": 3287911,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/997544/large_rowery_szosowe_fitness_canyon_roadlite_5_wmn_82267.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AJ11104278",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.26,
+        20.96
+      ],
+      "stolen_location": "Warsaw, 01-737, PL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/997544/small_rowery_szosowe_fitness_canyon_roadlite_5_wmn_82267.jpg",
+      "title": "Canyon bicycles Roadlite 5",
+      "url": "https://bikeindex.org/bikes/3287911",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768618800,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Endurace AllRoad",
+      "id": 3287549,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R13801Z25D0920",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.12
+      ],
+      "stolen_location": "Redmond, WA 98052, US",
+      "thumb": null,
+      "title": "2026 Canyon bicycles Endurace AllRoad",
+      "url": "https://bikeindex.org/bikes/3287549",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768323600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Endurace 8 Disc",
+      "id": 3286833,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/996725/large_Screenshot_2026-01-14_at_10.26.38_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401AD23B1679",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.42,
+        -119.7
+      ],
+      "stolen_location": "Santa Barbara, CA 93105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/996725/small_Screenshot_2026-01-14_at_10.26.38_AM.png",
+      "title": "2023 Canyon bicycles Endurace 8 Disc",
+      "url": "https://bikeindex.org/bikes/3286833",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767481200,
+      "description": "Matcha green, size L, Canyon Grizl, 2022, zip carbon wheels, Maxxis tires, Shimano pedals, Electrical tape around seat post",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Grizl",
+      "id": 3255690,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/994718/large_Screen_Shot_2026-01-04_at_4.42.29_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09501AD21G1402",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.7,
+        -105.08
+      ],
+      "stolen_location": "Lakewood, CO 80232-5758, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/994718/small_Screen_Shot_2026-01-04_at_4.42.29_PM.png",
+      "title": "2022 Canyon bicycles Grizl",
+      "url": "https://bikeindex.org/bikes/3255690",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767205734,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Endurance Allroad",
+      "id": 3254672,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/993779/large_IMG_4128.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R13801Z25D0881",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/993779/small_IMG_4128.png",
+      "title": "2026 Canyon bicycles Endurance Allroad",
+      "url": "https://bikeindex.org/bikes/3254672",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766077200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Grail AL",
+      "id": 3251763,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/992122/large_IMG_6091.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R06202AD22C4052",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.66,
+        -104.83
+      ],
+      "stolen_location": "Aurora, CO 80014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/992122/small_IMG_6091.jpeg",
+      "title": "2020 Canyon bicycles Grail AL",
+      "url": "https://bikeindex.org/bikes/3251763",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765947600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Grail",
+      "id": 3250792,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/991538/large_IMG_0265.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R06202B21K0091",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.31,
+        -123.06
+      ],
+      "stolen_location": "North Vancouver, V7L 1G8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/991538/small_IMG_0265.jpeg",
+      "title": "2022 Canyon bicycles Grail",
+      "url": "https://bikeindex.org/bikes/3250792",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765633430,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Exceed CF slx 9",
+      "id": 3249821,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M07501H21F0201",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.46,
+        13.53
+      ],
+      "stolen_location": "Berlin, 12459, DE",
+      "thumb": null,
+      "title": "2022 Canyon bicycles Exceed CF slx 9",
+      "url": "https://bikeindex.org/bikes/3249821",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764907200,
+      "description": "Canyon Endurace Stealth 2XS",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Endurace 6",
+      "id": 3237397,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/989055/large_3500e026-6cdd-4ccc-aa36-d4aec509215b.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401AD23C2242",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.39,
+        -122.05
+      ],
+      "stolen_location": "Maple Valley, WA 98038, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/989055/small_3500e026-6cdd-4ccc-aa36-d4aec509215b.jpeg",
+      "title": "2023 Canyon bicycles Endurace 6",
+      "url": "https://bikeindex.org/bikes/3237397",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764756000,
+      "description": "Black with Vittora Corsa Pro tallwall tires",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aeroad",
+      "id": 3237613,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/989245/large_Screenshot_2025-12-04_at_9.52.53_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R10701AC25D0292",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.9,
+        -121.98
+      ],
+      "stolen_location": "Walnut Creek West, CA 94598, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/989245/small_Screenshot_2025-12-04_at_9.52.53_PM.png",
+      "title": "2025 Canyon bicycles Aeroad",
+      "url": "https://bikeindex.org/bikes/3237613",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764608400,
+      "description": "Maroon/Red bike, stock wheels and components",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "LUX CF 7",
+      "id": 3247140,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/989864/large_IMG_6091.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M08401H22E0917",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/989864/small_IMG_6091.jpeg",
+      "title": "2023 Canyon bicycles LUX CF 7",
+      "url": "https://bikeindex.org/bikes/3247140",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764388800,
+      "description": "Red Canyon bike\r\nAero handlebar (Prime Doyenne)\r\nCarbon Wheels (55mm Elite wheels)\r\nOn a day of theft the bike had a round bag on the handlebar? another bag was on the top tube, and the 3rd one was under the saddle. \r\nThere was also a yellow plush Emoji toy (Smile) attached to the seatbag.\r\n\r\n\r\n",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Endurace CF7",
+      "id": 3231659,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987937/large_IMG_2938.JPG",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07601AC21M0069",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.61,
+        -122.87
+      ],
+      "stolen_location": "Healdsburg, CA 95448, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987937/small_IMG_2938.JPG",
+      "title": "2021 Canyon bicycles Endurace CF7",
+      "url": "https://bikeindex.org/bikes/3231659",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764379800,
+      "description": "",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Ultimate CF SLX 9 Di2",
+      "id": 3232024,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987977/large_2966.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R10001AC22G0052",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.64,
+        -122.37
+      ],
+      "stolen_location": "Seattle, WA 98119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987977/small_2966.jpg",
+      "title": "2024 Canyon bicycles Ultimate CF SLX 9 Di2",
+      "url": "https://bikeindex.org/bikes/3232024",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763888400,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Endurace 6 AL",
+      "id": 3230573,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987219/large_signal-2025-11-23-200941.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R3421B20G0045",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        63.41,
+        10.43
+      ],
+      "stolen_location": "Trondheim, 7050, NO",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987219/small_signal-2025-11-23-200941.jpeg",
+      "title": "2021 Canyon bicycles Endurace 6 AL",
+      "url": "https://bikeindex.org/bikes/3230573",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763704800,
+      "description": "US EDR 8 DB 21 MiD L bk/bk\r\nSpecialized powercomp seat\r\nShimano composite pedal",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Endurace 8 Disc",
+      "id": 3230545,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401AD23A1377",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.16,
+        -118.08
+      ],
+      "stolen_location": "Pasadena, CA 91107, US",
+      "thumb": null,
+      "title": "2021 Canyon bicycles Endurace 8 Disc",
+      "url": "https://bikeindex.org/bikes/3230545",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763478000,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Grizl6",
+      "id": 3229517,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986467/large_CCD95149-C266-4DE3-B75D-B656394DAEA7.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07501AD22B2788",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.06,
+        -105.17
+      ],
+      "stolen_location": "Gunbarrel, CO 80301, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986467/small_CCD95149-C266-4DE3-B75D-B656394DAEA7.jpeg",
+      "title": "Canyon bicycles Grizl6",
+      "url": "https://bikeindex.org/bikes/3229517",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763125200,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Neuron Al 7.0",
+      "id": 3227427,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985341/large_IMG_3741.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985341/small_IMG_3741.png",
+      "title": "2019 Canyon bicycles Neuron Al 7.0",
+      "url": "https://bikeindex.org/bikes/3227427",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762909200,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Canyon Grizl 6",
+      "id": 3226425,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R0751AD24F1416",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.24,
+        -85.72
+      ],
+      "stolen_location": "Louisville, KY 40204, US",
+      "thumb": null,
+      "title": "2024 Canyon bicycles Canyon Grizl 6",
+      "url": "https://bikeindex.org/bikes/3226425",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762894800,
+      "description": "Has unique mud guards, which are original canyon and not sold in the US.\r\n\r\nHas handlebar mirror on the left side.\r\nSpurcycle bell\r\nOutbound lighting main light\r\nCateye backlight\r\nBrooks saddle\r\nOrnot handlebar bag",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3237084,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/988864/large_IMG_8083.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R06202AD20K0607",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.12
+      ],
+      "stolen_location": "Redmond, WA 98052, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/988864/small_IMG_8083.jpeg",
+      "title": "2021 Canyon bicycles",
+      "url": "https://bikeindex.org/bikes/3237084",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762822800,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Endurace 7 AL",
+      "id": 3226268,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984549/large_IMG_5222.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07401B22F0315",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.32,
+        -6.23
+      ],
+      "stolen_location": "Dublin, D04P9F8, IE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984549/small_IMG_5222.jpeg",
+      "title": "2023 Canyon bicycles Endurace 7 AL",
+      "url": "https://bikeindex.org/bikes/3226268",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762727164,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Endurace CF 8 Di2",
+      "id": 3225670,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984200/large_Grey_Canyon_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07601AC24F0041",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984200/small_Grey_Canyon_Bike.jpg",
+      "title": "2024 Canyon bicycles Endurace CF 8 Di2",
+      "url": "https://bikeindex.org/bikes/3225670",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

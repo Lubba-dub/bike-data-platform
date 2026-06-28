@@ -1,0 +1,336 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1779819931,
+      "description": "The bike color is blue, but because it is made of carbon, it looks almost black. The material doesn't look like carbon, it just looks like brushed aluminum because it has PPF. It has a black basket on the back, black wheels, black forks, black cranks, and black bars. It has a big Summit sticker on the left side and a Bimmerworld sticker on the right (thought it's pretty scratched up). It is sticker-bombed down the bottom of the main frame. It has front and back mud-guards.",
+      "frame_colors": [
+        "Blue",
+        "Black",
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "DB Line 27.5",
+      "id": 3223376,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982565/large_IMG_1843.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AMC19J00344",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982565/small_IMG_1843.jpg",
+      "title": "2019 Diamondback DB Line 27.5",
+      "url": "https://bikeindex.org/bikes/3223376",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720144800,
+      "description": "Bike is silver with black writing its a downhill full , fox shox, hydroilc brakes,raceface and shemano parts",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "dawg",
+      "id": 2645978,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/827013/large_IMG_0078.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H4BOO512",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.7,
+        -120.36
+      ],
+      "stolen_location": "Kamloops, V2B 2K5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/827013/small_IMG_0078.jpeg",
+      "title": "Kona dawg",
+      "url": "https://bikeindex.org/bikes/2645978",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1689487200,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Orange"
+      ],
+      "frame_model": "Process 134 DL",
+      "id": 2778791,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/904558/large_20210330_132116.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HOLH11656",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.56,
+        -120.83
+      ],
+      "stolen_location": "Downieville, CA 95910, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/904558/small_20210330_132116.jpeg",
+      "title": "2021 Kona Process 134 DL",
+      "url": "https://bikeindex.org/bikes/2778791",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1603598400,
+      "description": "Front tire is 29\"X 2.5\" Maxxis Minion tubeless ready with black Schwinn brand rim. Back is 29\"X3.5\" Maxxis Minion tubeless ready on a black Alxis rim. Oversized disc, hydraulic brakes. 2 different crank arms. Red colored Kona brand over sized pedals. Original paint colors are Black and green lettering. Bike was stolen last summer and had been repainted solid blue with no lettering before I got it back. Giant competition downhill superwide handle bars with Giant comp 1 neck. One side has Santa Cruz bolt on handgrip and the other is just a standard slide on grip. Front has a Rock shocks. Sram X 10 speed lock out rear derailer and a Sram chain.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 6",
+      "id": 939862,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU2C40U05",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.75,
+        -122.48
+      ],
+      "stolen_location": "Bellingham, WA 98226, US",
+      "thumb": null,
+      "title": "2018 Trek Marlin 6",
+      "url": "https://bikeindex.org/bikes/939862",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1569974400,
+      "description": "Crimson bright red down hill mountain bike.\r\n\r\nFront shocks and shock in center of frame just behind pedals.\r\n\r\nWide handle bars, gear shifts on right hand side.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Downhill",
+      "id": 662494,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": null,
+      "title": "2017 Specialized Downhill",
+      "url": "https://bikeindex.org/bikes/662494",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1499061600,
+      "description": "2006 Lemond Poprad, Orange, with white Lemond Panels on seattube and downtube. 57cm. True Temper OX Platinum Steel tubing.Corrosion/rust on top tube cable guides, seattube and underside of bottom bracket.Vintage “Huffy” Headtube badge, glued to headtube.Labelmaker sticker “Pooprad” on drive side top tube.White Conduit Coffee sticker on drive side top tube near head tube.Shiny Gold “Tapeworm Time Trial” Sticker on drive side top tube.Easton EC70 cyclocross fork, White. Adorned with large TRP stickers.Pewter Chris King HeadsetMismatched Wheelset: Black Mavic Ksyrium Equipe Rear Wheel, Silver Mavic Ksyrium Elite front wheel, wheels have significant wear on the braking surface. Rear rim has several small dents, front rim has one small dent below the braking surface. Worn out Clement MXP 700x33 Tires.Shimano Ultegra 6600 Crankset Silver, with a black Spot Brand bash guard and a 39 tooth ultegra single chainring. Black Shimano Ultegra 6800 hollowtech II bottom bracket.  Black Plastic chain watcher on seat tube.Time ATAC Z downhill clipless pedals, Black.Black Sunline XC One Stem 90mm flipped at an upward angle, with one spacer below the stem, several spacers above the stem.White Specialized mountain bike riser bars with black specialized lock on grips with red lockrings.Red Anodized Avid Speed Dial levers, sun faded to pink,  with silver lever blades.Red Anodized TRP CX-9 mini v brake calipers with salmon brake pads.Shimano XT trigger shifter, 8 speed.Shimano XTR M900 8 speed rear derailleur, silver.Shimano XTR M900 11-32 8 speed cassette.Black Thomson Set Back SeatpostWhite Specialized Phenom 143 saddle, with red undershell.Black Elite waterbottle cage mounted on seattube.Also had a small Blackburn flashy rear light on the seatpost, and a Light and Motion Urban 350 headlight mounted on the handlebar.The included picture is accurate other than having drop bars, bike is now flatbarred.",
+      "frame_colors": [
+        "Orange",
+        "White",
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "Poprad",
+      "id": 221559,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/89972/large_16107404_243108239448598_2458419535081198385_o.jpg",
+      "location_found": null,
+      "manufacturer_name": "LeMond",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.54,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/89972/small_16107404_243108239448598_2458419535081198385_o.jpg",
+      "title": "2006 LeMond Poprad",
+      "url": "https://bikeindex.org/bikes/221559",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1387692000,
+      "description": "2008 Giant Rincon with Dart3 front fork and oversize rotor with hydraulic brake. Stainless spacers mounted between fork and caliper that I custom machined. Lever mounted on rightside for front brake as I come from a motorcycle background. Primo Comet tires mounted in place of knobbies for commuting. WTB seat that is torn on the left rear side. Broken shifter tops from faceplanting on pavement. Downhill grips with allenhead clamps.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rincon",
+      "id": 6159,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/8495/Rincon-Olive-Black.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/8495/small_Rincon-Olive-Black.jpg",
+      "title": "2008 Giant Rincon",
+      "url": "https://bikeindex.org/bikes/6159",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1376805600,
+      "description": "Black Giant Reign X freeride/ downhill bike. Fox van fork. Two big white dakine stickers on side. race face crank  with aftermarket chainguard. Removed front derailer and converted it to one chainring in front.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reign X",
+      "id": 21685,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7626/large_1377738274.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GV601921",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "Baltimore Fed Hill, MD 21230, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7626/small_1377738274.jpg",
+      "title": "2007 Giant Reign X",
+      "url": "https://bikeindex.org/bikes/21685",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1366092000,
+      "description": "Make: SurlyModel: Big DummyFrame Color: Military greenStyle: Long tail cargo bikeYear: 2008Serial: unknown at this timeWheels: 26\" w/ Velocity downhill rimsDrivetrain: Shimano XT/LXStem: Cane CreekSeatpost: ThomsonHandlebars: Cruiser StyleSaddle: Brooks Black LeatherOther:Bike is a \"long tail\" style cargo bike with large rear cargo bags at each side of the rear cargo frame and a thin plywood deck over the rear wheel and behind the saddle.Wooden deck is varnished plywood with a red stripe down center of deck front to back. Varnish peeled at edges with age/wear.There are stickers on the bikeOn the seat tube: B1 Bicycles - Columbus, Ohio near bottom bracketOn the bottom tube: Red \"Gimmie Coffee\" stickerOn the wooden deck: In-n-Out sticker, \"FTON\" white oval sticker, Snowville Creamery stickerFrame paint is green but has scratches from wear.  ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Big Dummy",
+      "id": 8736,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3486/large_1397791618.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.5,
+        -122.27
+      ],
+      "stolen_location": "San Carlos, CA 94070, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3486/small_1397791618.jpg",
+      "title": "2008 Surly Big Dummy",
+      "url": "https://bikeindex.org/bikes/8736",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1319695200,
+      "description": "The bike is a bright orange KHS track frame with black v-wheels. The frame has dings and paint wear from locking up/general usage. The wheels have a distinctive double silver stripe on the side. Front wheel has silver spokes, rear spokes are black. Black seatpost, black seat, and black Intense locking grips on the handlebars. The handlebars are distinctive in that they are downhill bike-style riser bars that are cut very wide, as opposed to the popular narrow cut. The stem is a black traditional road riser stem. The headset is a silver polished aluminum Velo Orange headset. Cranks and front chainring are black Pake, fairly worn and used. The chain is black as well, but mostly from heavy usage. The drivetrain in general is greasy and worn out, and there are grease spots on the chainstay. The cranks have spots which show silver aluminum through the black paint due to wear from riding. Pedals are silver Shimano PD-M540 clipless pedals. The rear hub on the bike is one single 16 tooth fixed gear. The bike has no brakes. The bike also has black Planet Bike fenders, mounted with a special low clearance fender mounting kit (called the Reach Around kit from River City Bicycles). The fender mounting kit is silver, showing spots of rust. The fenders are very distinctive in that they are cut in half and mounted with the special kit. The tires on the front are Kenda Kontender 700C x 23 tires, the rear tire is a Continental 700C x 23.Email me, or give me a call at 541-399-4868. I will be personally high-fiving the person who returns me my bike, and we'll drink beers if that is your thing. I'm also totally willing to give someone 100 bucks for returning this thing. Unless you're the person who stole it, in which case I'd love to give you 100 karate chops in the throat.I have no proof of ownership or serial number, though my flatmates have seen the bike a million times and can vouch that it's mine.",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "track frame",
+      "id": 23679,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.61
+      ],
+      "stolen_location": "Se 49th St, OR 97206, US",
+      "thumb": null,
+      "title": "KHS Bicycles track frame",
+      "url": "https://bikeindex.org/bikes/23679",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1306562400,
+      "description": "Flat black downhill bike with a Rock Shox Domain front fork, swingarm has \"KORE\" stickers on either side, seat post has notches engraved for measurements.  Searial is located on bottom bracket.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Kingfisher 2",
+      "id": 17364,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WL3272621",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.44,
+        -111.94
+      ],
+      "stolen_location": "Tempe, AZ 85281, US",
+      "thumb": null,
+      "title": "2005 Gary Fisher Kingfisher 2",
+      "url": "https://bikeindex.org/bikes/17364",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

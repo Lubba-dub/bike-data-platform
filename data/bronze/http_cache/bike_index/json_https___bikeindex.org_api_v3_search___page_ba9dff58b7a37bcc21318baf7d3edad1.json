@@ -1,0 +1,755 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1758927600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rover",
+      "id": 3202127,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971251/large_IMG_0666.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RB619J101340",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971251/small_IMG_0666.jpeg",
+      "title": "Rad Power Bikes Rover",
+      "url": "https://bikeindex.org/bikes/3202127",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758880800,
+      "description": "Super commuter ebike, scratches on one of the handle ends from a crash",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Allant+ 8S",
+      "id": 3202570,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/971560/large_1339.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1816UO222",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/971560/small_1339.jpg",
+      "title": "2022 Trek Allant+ 8S",
+      "url": "https://bikeindex.org/bikes/3202570",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758769782,
+      "description": "29 inch disc brake tires  . Sky blue kinda looks like a ebike",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Secene",
+      "id": 3198477,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "V288NX1D248",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": null,
+      "title": "2018 Norco Bikes Secene",
+      "url": "https://bikeindex.org/bikes/3198477",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758693600,
+      "description": "Ebike from Ride1Up. \r\nStolen recently and needs a key to open the battery, which I have",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Ride1UP Core-5 Midnight Gray ST",
+      "id": 3201039,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970716/large_Ratika_s_ebike.png",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.49,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T6H 1C1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970716/small_Ratika_s_ebike.png",
+      "title": "2021 Ride1Up Ride1UP Core-5 Midnight Gray ST",
+      "url": "https://bikeindex.org/bikes/3201039",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761530400,
+      "description": "All black with small silver and blue stripes on front of body and rear forks. No visible manufacturer markings,but model number is present. Full suspension (front forks and shock also under the seat) large seat, 1000w motor, with hydraulic disc brakes",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mx03",
+      "id": 3199747,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981231/large_Screenshot_2025-10-28_203437.png",
+      "location_found": null,
+      "manufacturer_name": "Shengmilo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "266522104080796",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.81,
+        -119.71
+      ],
+      "stolen_location": "Clovis, CA 93612, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981231/small_Screenshot_2025-10-28_203437.png",
+      "title": "2022 Shengmilo Mx03",
+      "url": "https://bikeindex.org/bikes/3199747",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758636000,
+      "description": "this was my ebike but was stolen this week. i had a green child's seat on the front. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "turbo como sl 4.0",
+      "id": 3201015,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC025025890S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.74,
+        -84.38
+      ],
+      "stolen_location": "Atlanta, GA 30312, US",
+      "thumb": null,
+      "title": "2024 Specialized turbo como sl 4.0",
+      "url": "https://bikeindex.org/bikes/3201015",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758668400,
+      "description": "Bought it on Amazon with a receipt ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "HS142506W02709",
+      "id": 3199194,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970104/large_IMG_2333.jpeg",
+      "location_found": null,
+      "manufacturer_name": "HopCycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EB3US250601121",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970104/small_IMG_2333.jpeg",
+      "title": "2025 HopCycle HS142506W02709",
+      "url": "https://bikeindex.org/bikes/3199194",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758553200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Peak Motor Ebike",
+      "id": 3200427,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Yoloway",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.03,
+        -95.7
+      ],
+      "stolen_location": "Topeka, KS 66621, US",
+      "thumb": null,
+      "title": "2025 Yoloway Peak Motor Ebike",
+      "url": "https://bikeindex.org/bikes/3200427",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758510000,
+      "description": "This a blue folding commuter ebike with a cushy seat, a large front mounted bag, and an ortlieb rack top trunk bag on the rear.  The key for the lock is on a keyring with the logo of the Visual Effects Society",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "G4",
+      "id": 3198750,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/969383/large_Screenshot_2025-09-21_201730.png",
+      "location_found": null,
+      "manufacturer_name": "Gocycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "925494",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/969383/small_Screenshot_2025-09-21_201730.png",
+      "title": "2023 Gocycle G4",
+      "url": "https://bikeindex.org/bikes/3198750",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758387600,
+      "description": null,
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Moterra",
+      "id": 3198681,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/969337/large_IMG_1387.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CA08238",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.12,
+        -122.66
+      ],
+      "stolen_location": "Novato, CA 94947, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/969337/small_IMG_1387.jpeg",
+      "title": "Cannondale Moterra",
+      "url": "https://bikeindex.org/bikes/3198681",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777341600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding",
+      "id": 3196984,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968187/large_1000020366.jpg",
+      "location_found": null,
+      "manufacturer_name": "HiKEEP",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "250822412600437",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.47,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T6N 1B5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968187/small_1000020366.jpg",
+      "title": "2025 HiKEEP Folding",
+      "url": "https://bikeindex.org/bikes/3196984",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758218400,
+      "description": "EBike with Bosch Drive\r\nBosch LED Remote and Intuvia 100 display\r\nBontrager Backrack Large MIK Black Rack\r\n",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Powerfly 4 Gen 4",
+      "id": 3197072,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968248/large_Trek_Powerfly_4_Gen_4.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU348G1263T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.49,
+        -121.53
+      ],
+      "stolen_location": "Sacramento, CA 95831, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968248/small_Trek_Powerfly_4_Gen_4.JPG",
+      "title": "2023 Trek Powerfly 4 Gen 4",
+      "url": "https://bikeindex.org/bikes/3197072",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758214800,
+      "description": "Has missing right pedal, black with small green accents",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M40",
+      "id": 3195964,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/969928/large_20250905_162137.jpg",
+      "location_found": null,
+      "manufacturer_name": "Shenzhen Xincheng Times Technology Co.,Ltd",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ISINWHEELM40SUS250400124",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.21
+      ],
+      "stolen_location": "Boulder, CO 80303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/969928/small_20250905_162137.jpg",
+      "title": "2025 Shenzhen Xincheng Times Technology Co.,Ltd M40",
+      "url": "https://bikeindex.org/bikes/3195964",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758214800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M40",
+      "id": 3199890,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Shenzhen Xincheng Times Technology Co.,Ltd",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ISINWHEELM40SUS250400124",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -105.21
+      ],
+      "stolen_location": "Boulder, CO 80303, US",
+      "thumb": null,
+      "title": "2025 Shenzhen Xincheng Times Technology Co.,Ltd M40",
+      "url": "https://bikeindex.org/bikes/3199890",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758086700,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Blue"
+      ],
+      "frame_model": "Xpedition Dual-Battery Cargo ebike",
+      "id": 3205742,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973633/large_Screenshot_2025-10-03-15-01-44-09_92460851df6f172a4592fca41cc2d2e6.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "606574 230646X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.08,
+        -117.98
+      ],
+      "stolen_location": "Baldwin Park, CA 91706, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973633/small_Screenshot_2025-10-03-15-01-44-09_92460851df6f172a4592fca41cc2d2e6.jpg",
+      "title": "2023 Lectric eBikes Xpedition Dual-Battery Cargo ebike cargo bike rear",
+      "url": "https://bikeindex.org/bikes/3205742",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "cargo-rear"
+    },
+    {
+      "date_stolen": 1757296800,
+      "description": "Blue Ariel Rider 52V bike with black seat and black passenger seat. \r\n\r\nThe bike will have scratches at the front of the bike near the post due to the chain lock that I usually tie around there while not in use. \r\n\r\nWill have a black and red bike bell on the right side of the handlebars. \r\n\r\nHas HEB allscape tires mounted on them. The rear tire is mounted backwards so will have Rotation arrow pointing wrong direction. \r\n\r\nUnfortunately do not have the serial number for this bike written down. \r\n\r\nThe battery was taken with the bike and is locked to the frame. I still have the key to unlock the battery and can bring that in to prove the bike is mine. Serial number of battery is located on the back where it meets the bike frame",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "X-Class 52 V",
+      "id": 3186085,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964302/large_IMG_2905.png",
+      "location_found": null,
+      "manufacturer_name": "Ariel Rider",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964302/small_IMG_2905.png",
+      "title": "Ariel Rider X-Class 52 V",
+      "url": "https://bikeindex.org/bikes/3186085",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757268000,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Ebike",
+      "id": 3184285,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Whizz Ebikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W22740",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.16
+      ],
+      "stolen_location": "Metairie, LA 70001, US",
+      "thumb": null,
+      "title": "2024 Whizz Ebikes Ebike",
+      "url": "https://bikeindex.org/bikes/3184285",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757119500,
+      "description": "All black, has bell, green and purple circular stickers on the seat post, detachable front/back lights. Previously owned by Bay City Bike Rentals before I purchased.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "e222A E-Bike",
+      "id": 3185158,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/963597/large_528592349_1069229702080049_3743783113677565861_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "GenZe",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "80222180801294",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/963597/small_528592349_1069229702080049_3743783113677565861_n.jpg",
+      "title": "GenZe e222A E-Bike",
+      "url": "https://bikeindex.org/bikes/3185158",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757080800,
+      "description": "The tan colored Lectric XP Lite 1st Gen ebike. Used it for riding around town in the Galloway and Southwestern parts of Columbus",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": null,
+      "id": 3183168,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962383/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LEC220082861",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.91,
+        -83.16
+      ],
+      "stolen_location": "Galloway, OH 43119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962383/small_bike.jpg",
+      "title": "Lectric eBikes",
+      "url": "https://bikeindex.org/bikes/3183168",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757008800,
+      "description": "",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "XP Lite2 Lavender Haze eBike",
+      "id": 3182305,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961929/large_IMG_7816.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.08
+      ],
+      "stolen_location": "Cambridge, MA 02142, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961929/small_IMG_7816.jpeg",
+      "title": "2025 Lectric eBikes XP Lite2 Lavender Haze eBike",
+      "url": "https://bikeindex.org/bikes/3182305",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756915200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Xpeak",
+      "id": 3183899,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962840/large_IMG_2024.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD23L2023",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962840/small_IMG_2024.jpg",
+      "title": "2023 Lectric eBikes Xpeak",
+      "url": "https://bikeindex.org/bikes/3183899",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756810800,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "Fat Tire 26 inch ebike",
+      "id": 3180984,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961218/large_IMG_4504.jpg",
+      "location_found": null,
+      "manufacturer_name": "Senada",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.72,
+        -74.04
+      ],
+      "stolen_location": "Jersey City, NJ 07302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961218/small_IMG_4504.jpg",
+      "title": "2023 Senada Fat Tire 26 inch ebike",
+      "url": "https://bikeindex.org/bikes/3180984",
+      "year": 2023,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756670400,
+      "description": "It is an ebike and has a gray color. The headquarter of this bike is Ride1Up and locates in San Diego, CA.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Step Over",
+      "id": 1693833,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/764997/large_IMG_7101.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ3220802654",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.83,
+        -117.26
+      ],
+      "stolen_location": "La Jolla, CA 92037, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/764997/small_IMG_7101.jpg",
+      "title": "Ride1Up Step Over",
+      "url": "https://bikeindex.org/bikes/1693833",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756400400,
+      "description": "Blue with black tires.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Talon Ebike",
+      "id": 3180547,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E7HE14903",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": null,
+      "title": "2024 Giant Talon Ebike",
+      "url": "https://bikeindex.org/bikes/3180547",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756350000,
+      "description": "Satin black commuter eBike - as new. Characteristic compact commuter rack on front with Coat of Arms from City of Amsterdam. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Amsterdam+ (60cm)",
+      "id": 3178691,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959897/large_IMG_0650.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Lekker",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "10071012",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -27.48,
+        153.01
+      ],
+      "stolen_location": "South Brisbane, 4101, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959897/small_IMG_0650.jpeg",
+      "title": "2024 Lekker Amsterdam+ (60cm)",
+      "url": "https://bikeindex.org/bikes/3178691",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1765278000,
+      "description": null,
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Hybrid",
+      "id": 3250526,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/991408/large_IMG_2135.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Viribus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M145423440006",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        29.75,
+        -95.34
+      ],
+      "stolen_location": "Houston, TX 77003, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/991408/small_IMG_2135.jpeg",
+      "title": "Viribus Hybrid",
+      "url": "https://bikeindex.org/bikes/3250526",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Hybrid Bike",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "7200 MULTITRACK",
+      "id": 3243301,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "750 Meridian Ave, Fort Collins, CO 80523, United States",
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Trek 7200 MULTITRACK",
+      "url": "https://bikeindex.org/bikes/3243301",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Hybrid Bike",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "PUEBLO",
+      "id": 3242528,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "750 Meridian Ave, Fort Collins, CO 80523, United States",
+      "manufacturer_name": "Nishiki",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Nishiki PUEBLO",
+      "url": "https://bikeindex.org/bikes/3242528",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Hybrid Bike",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "URBAN SOUL 8",
+      "id": 3242388,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "750 Meridian Ave, Fort Collins, CO 80523, United States",
+      "manufacturer_name": "Unknown",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Unknown URBAN SOUL 8",
+      "url": "https://bikeindex.org/bikes/3242388",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764633447,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Hybrid Road Bike",
+      "id": 3236556,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN20061347",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.58,
+        -113.4
+      ],
+      "stolen_location": "Edmonton, T5A 4A4, CA",
+      "thumb": null,
+      "title": "2021 Kona Hybrid Road Bike",
+      "url": "https://bikeindex.org/bikes/3236556",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763830800,
+      "description": "Gray Trek 7200 XF small hybrid bike. One metal bottle cage. Schwinn seat with spring on seat post",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "7200",
+      "id": 3230469,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987173/large_IMG_7431.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80207, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987173/small_IMG_7431.png",
+      "title": "Trek 7200",
+      "url": "https://bikeindex.org/bikes/3230469",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763103600,
+      "description": "Hybrid with disk brakes, rack, fenders, lights (current front light is white version of one in photo), bell, Kryptonite U-lock mount.\r\nSeat was stolen a few years ago after photo was taken, so there's a different seat on it now.\r\nFront wheel was replaced several years ago, so wheels are mismatched, replacement has red logo.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Muirwoods 29",
+      "id": 3227441,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985355/large_12070016.jpg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CA10626LSC654",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.32
+      ],
+      "stolen_location": "Seattle, WA 98102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985355/small_12070016.jpg",
+      "title": "Marin Bikes Muirwoods 29",
+      "url": "https://bikeindex.org/bikes/3227441",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763024400,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Dual Sport 2 Hybrid",
+      "id": 3248714,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/990575/large_IMG_6818.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU170C5018P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.7,
+        -105.0
+      ],
+      "stolen_location": "Denver, CO 80223, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/990575/small_IMG_6818.JPG",
+      "title": "2020 Trek Dual Sport 2 Hybrid",
+      "url": "https://bikeindex.org/bikes/3248714",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762640100,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Hybrid",
+      "id": 3225341,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.94,
+        -118.36
+      ],
+      "stolen_location": "Inglewood, CA 90304, US",
+      "thumb": null,
+      "title": "GT Bicycles Hybrid",
+      "url": "https://bikeindex.org/bikes/3225341",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762464000,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "FX2 WSD Disc Medium",
+      "id": 3226923,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU110C7436R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55414-2628, US",
+      "thumb": null,
+      "title": "2020 Trek FX2 WSD Disc Medium",
+      "url": "https://bikeindex.org/bikes/3226923",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762207200,
+      "description": "Its an aluminum green hybrid trek bike. It has new tires, and a white water bottle attachment. The cross bar has several scratches on it, and the back leather on the seat is slightly off. Not sure exactly what model, but definitely a multitrack that was made early 90's.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Multitrack 700",
+      "id": 3224567,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.01,
+        -93.16
+      ],
+      "stolen_location": "Roseville, MN 55113, US",
+      "thumb": null,
+      "title": "2025 Trek Multitrack 700",
+      "url": "https://bikeindex.org/bikes/3224567",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761282000,
+      "description": "Women’s 27-gear hybrid bike\r\n- Rubber end cap is missing from the left handlebar\r\n- Right gear shift works, but the indicator is broken\r\n- Wheel locks on both wheels!",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Terra Linda",
+      "id": 3219466,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979691/large_77863079396__51DE802B-C1BA-408D-8471-9D8A7EC73D4A.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HA13462BSC005",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.96,
+        -75.16
+      ],
+      "stolen_location": "Philadelphia, PA 19102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979691/small_77863079396__51DE802B-C1BA-408D-8471-9D8A7EC73D4A.jpeg",
+      "title": "2013 Marin Bikes Terra Linda",
+      "url": "https://bikeindex.org/bikes/3219466",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760580000,
+      "description": "Trek 730 hybrid Medium",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Trek 730 hybrid Medium",
+      "id": 3215797,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977219/large_1000001766.jpg",
+      "location_found": null,
+      "manufacturer_name": "Blue",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU1330U027",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977219/small_1000001766.jpg",
+      "title": "Blue Trek 730 hybrid Medium",
+      "url": "https://bikeindex.org/bikes/3215797",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760256000,
+      "description": "hybrid bike w/700C wheels, aluminum frame, steel alloy fork, Shimano 8 speed EZ Fire shifters, Shimano Altus detailers, direct pull brakes, Shimano 300 LX triple crank, Alex DM18 rims (silver)",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Circuit",
+      "id": 1332454,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/597268/large_IMG_1189.jpg",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNMN609C41",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T6E 2M9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/597268/small_IMG_1189.jpg",
+      "title": "Schwinn Circuit",
+      "url": "https://bikeindex.org/bikes/1332454",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759973400,
+      "description": "Black bike with red Thermalite pedals and stickers associated with local news organizations (MinnPost, Project Optimist, Racket) on the bottom tube. Also a sticker for MVTA's 4FUN bus. Also has a Brooks rubber saddle.\r\n\r\nBolt on right side of bike securing the rear rack is smaller than the bolt on the left side. The right side also has a Banjo Brothers pannier drop hook.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Hybrid",
+      "id": 3208296,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975229/large_IMG_6540.jpg",
+      "location_found": null,
+      "manufacturer_name": "Biria",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L220100188",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.96,
+        -93.26
+      ],
+      "stolen_location": "Minneapolis, MN 55404, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975229/small_IMG_6540.jpg",
+      "title": "2025 Biria Hybrid",
+      "url": "https://bikeindex.org/bikes/3208296",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759838400,
+      "description": "Rear light under seat is loose and can be turned to the front, seat is at the lowest height, black part of handle bar is easy rub off, and I think the seat collar points to the bike which I think is the opposite of it normally ",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Bellwood 7 speed hybrid",
+      "id": 3207682,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974827/large_IMG_6007.png",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974827/small_IMG_6007.png",
+      "title": "Schwinn Bellwood 7 speed hybrid",
+      "url": "https://bikeindex.org/bikes/3207682",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759816800,
+      "description": "Brand new, bought in August and registered then.  My daughter's bike, front and rear fenders, front and rear LED lights, broken plastic water bottle holder, disc brakes, very clean, seat post has had a 1/2 inch cut off.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "MEC Skyway 1 Hybrid Bicycle - Unisex",
+      "id": 3207847,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974932/large_serial_number__A25033588.jpeg",
+      "location_found": null,
+      "manufacturer_name": "MEC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A25033588",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.5,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T6H 1X6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974932/small_serial_number__A25033588.jpeg",
+      "title": "2025 MEC MEC Skyway 1 Hybrid Bicycle - Unisex",
+      "url": "https://bikeindex.org/bikes/3207847",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759726800,
+      "description": "Black with lime text on frame walkthrough bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "High-performance hydroformed alloy, Removable Integrated Battery, Range Boost compatible, internal cable routing, Motor Armor",
+      "id": 1062927,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/435544/large_IMG_1312.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU326K1025R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/435544/small_IMG_1312.JPG",
+      "title": "2021 Trek High-performance hydroformed alloy, R...",
+      "url": "https://bikeindex.org/bikes/1062927",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759611600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Nishiki Men's 700c Pagosa Sport Hybrid Bike",
+      "id": 3206278,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Nishiki",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.83,
+        -117.26
+      ],
+      "stolen_location": "La Jolla, CA 92037, US",
+      "thumb": null,
+      "title": "2025 Nishiki Nishiki Men's 700c Pagosa Sport Hybri...",
+      "url": "https://bikeindex.org/bikes/3206278",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759510800,
+      "description": "Almost new, less than 500km. couple scratches on the fork and bar ends from falling on a trail. Bosch gen 4 motor and powertube.\r\n\r\nHad a cub integrated light. ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Stereo Hybrid 160 HPC SLX",
+      "id": 3205629,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973494/large_cube1copy.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW14637PSDU",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.56,
+        7.58
+      ],
+      "stolen_location": "Basel, 4031, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973494/small_cube1copy.jpg",
+      "title": "2023 Cube Stereo Hybrid 160 HPC SLX",
+      "url": "https://bikeindex.org/bikes/3205629",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759248000,
+      "description": "White frame, pink handles, pink pedals, rack on back to attach a child seat to it",
+      "frame_colors": [
+        "White",
+        "Pink"
+      ],
+      "frame_model": "Treadwell 3 Hybrid Remixte",
+      "id": 3205017,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973052/large_WhatsApp_Image_2025-10-01_at_3.41.25_PM.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C37300M40SM",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.94,
+        -75.19
+      ],
+      "stolen_location": "Philadelphia, PA 19146, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973052/small_WhatsApp_Image_2025-10-01_at_3.41.25_PM.jpeg",
+      "title": "2021 Cannondale Treadwell 3 Hybrid Remixte",
+      "url": "https://bikeindex.org/bikes/3205017",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759190400,
+      "description": "This is a hybrid electric bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City",
+      "id": 702128,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8CD19F1000404",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.85,
+        -77.04
+      ],
+      "stolen_location": "Arlington, VA 22202, US",
+      "thumb": null,
+      "title": "2020 Rad Power Bikes Rad City",
+      "url": "https://bikeindex.org/bikes/702128",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758794400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Amped ST Hybrid E-Bike",
+      "id": 3221959,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Hurley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.66,
+        -91.49
+      ],
+      "stolen_location": "Iowa City, IA 52245, US",
+      "thumb": null,
+      "title": "2024 Hurley Amped ST Hybrid E-Bike",
+      "url": "https://bikeindex.org/bikes/3221959",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1769457600,
+      "description": "the left gear changer is broken and it has a lot of stickers on it",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "hybrid",
+      "id": 3199646,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/999171/large_Screenshot_2026-01-27_at_8.42.33_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM14G42770",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/999171/small_Screenshot_2026-01-27_at_8.42.33_AM.png",
+      "title": "Schwinn hybrid",
+      "url": "https://bikeindex.org/bikes/3199646",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758574800,
+      "description": "Chrome bike with two distinct bright blue water bottle cages and hybrid pedals (clip / non-clip sides)",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Emonda",
+      "id": 3208163,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975114/large_Bike2.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU233XT0104S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.89,
+        -77.07
+      ],
+      "stolen_location": "Arlington, VA 22209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975114/small_Bike2.jpeg",
+      "title": "2021 Trek Emonda",
+      "url": "https://bikeindex.org/bikes/3208163",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+datasets:
+  delftbikes:
+    landing_page: "https://data.4tu.nl/articles/dataset/DelftBikes_data_underlying_the_publication_Hallucination_In_Object_Detection-A_Study_In_Visual_Part_Verification/14866116"
+    repo: "https://github.com/oskyhn/DelftBikes"
+    notes: "优先解析 4TU 页面中的可下载文件链接。"
+  bbbicycles:
+    hf_repo_id: "GrainsPolito/BBBicycles"
+    repo_type: "dataset"
+    notes: "通过 huggingface_hub 下载公开数据集快照。"
+  geobiked:
+    repo: "https://github.com/Phillip-M97/GeoBIKED"
+    gdrive_folder: "https://drive.google.com/drive/folders/1s2gILDboW2S66XxS2TtkOdsEYOMqe1TH?usp=sharing"
+    notes: "仓库可直接拉取，数据文件通过公开 Google Drive 下载。"
+
+collectors:
+  bike_index:
+    enabled: true
+    type: "api"
+    base_url: "https://bikeindex.org/api/v3"
+    user_agent: "bike-data-platform/1.0 (+academic project)"
+    per_page: 25
+    max_pages: 6
+    search_queries:
+      - "shimano"
+      - "sram"
+      - "trek"
+      - "specialized"
+      - "cannondale"
+      - "giant"
+      - "merida"
+      - "brompton"
+      - "dahon"
+      - "road bike side"
+      - "mountain bike side"
+      - "gravel bike side"
+      - "folding bike side"
+      - "bike frame"
+      - "bike wheel"
+
+  bike_components:
+    enabled: true
+    type: "html"
+    user_agent: "bike-data-platform/1.0 (+academic project)"
+    start_urls:
+      - "https://www.bike-components.de/en/components/"
+      - "https://www.bike-components.de/en/components/brakes/"
+      - "https://www.bike-components.de/en/components/drivetrain/"
+      - "https://www.bike-components.de/en/components/wheels/"
+      - "https://www.bike-components.de/en/components/tyres/"
+      - "https://www.bike-components.de/en/components/cockpit/"
+      - "https://www.bike-components.de/en/components/saddles-seatposts/"
+    product_url_pattern: "^https://www\\.bike-components\\.de/en/.+"
+    review_hint: "Rating:"
+
+  bikeradar:
+    enabled: true
+    type: "html"
+    user_agent: "bike-data-platform/1.0 (+academic project)"
+    start_urls:
+      - "https://www.bikeradar.com/reviews/components"
+      - "https://www.bikeradar.com/reviews/components/tyres"
+      - "https://www.bikeradar.com/reviews/components/brakes"
+      - "https://www.bikeradar.com/reviews/components/groupsets"
+      - "https://www.bikeradar.com/reviews/components/wheels"
+    review_url_pattern: "^https://www\\.bikeradar\\.com/.+"

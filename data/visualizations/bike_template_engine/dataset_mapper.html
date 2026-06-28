@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>dataset mapper</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: #f5f7fb;
+      color: #1f2937;
+    }
+    * { box-sizing: border-box; }
+    .shell { width: min(1500px, calc(100vw - 32px)); margin: 24px auto; display: grid; gap: 16px; }
+    .card {
+      background: rgba(255,255,255,0.94);
+      border-radius: 24px;
+      border: 1px solid rgba(255,255,255,0.76);
+      box-shadow: 0 20px 60px rgba(15,23,42,0.08);
+      padding: 22px;
+    }
+    .hero { display:flex; justify-content:space-between; gap:20px; }
+    .muted { color:#6b7280; font-size:13px; line-height:1.65; }
+    .layout { display:grid; grid-template-columns: 1fr 1fr 360px; gap:16px; }
+    textarea, select, button, input[type="search"] {
+      width: 100%;
+      font: inherit;
+      border-radius: 14px;
+      border: 1px solid #d8dde6;
+    }
+    textarea {
+      min-height: 520px;
+      padding: 14px;
+      resize: vertical;
+      background: #fbfcff;
+      line-height: 1.55;
+    }
+    select, button {
+      padding: 12px 14px;
+      background:#fff;
+    }
+    input[type="search"] {
+      padding: 12px 14px;
+      background:#fff;
+    }
+    .toolbar { display:flex; gap:10px; flex-wrap:wrap; margin-top: 12px; }
+    .toolbar button { width:auto; cursor:pointer; }
+    .toolbar input[type="search"] { max-width: 240px; }
+    .summary {
+      display:grid;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .summary div {
+      padding: 12px;
+      border-radius: 16px;
+      background: rgba(15,23,42,0.03);
+      border: 1px solid rgba(15,23,42,0.04);
+      font-size: 13px;
+    }
+    .tag {
+      display:inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background:#eef6ff;
+      color:#2952c3;
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+    .status {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: rgba(47,111,228,0.08);
+      color:#2952c3;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+    @media (max-width: 1180px) { .layout { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <section class="card hero">
+      <div>
+        <div class="tag">Phase 3 · dataset mapper</div>
+        <h1 style="margin:8px 0 0;">数据适配器工作台</h1>
+        <p class="muted">该页面用于把新数据源套进标准模板协议。左侧输入源数据 JSON，中间输入字段映射规则，点击转换后即可得到 engine 可消费的标准 payload。</p>
+      </div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a class="tag" href="./index.html">返回 Engine</a>
+        <a class="tag" href="./template_studio.html">打开 Studio</a>
+      </div>
+    </section>
+    <section class="card">
+      <label class="muted">预设规则</label>
+      <div style="margin-top:8px;">
+        <select id="presetSelect"></select>
+      </div>
+      <div class="toolbar">
+        <button id="loadPresetBtn">加载预设</button>
+        <button id="mapBtn">映射为标准 payload</button>
+        <button id="formatBtn">格式化输入</button>
+        <button id="copyOutputBtn">复制结果</button>
+        <button id="downloadBtn">下载结果</button>
+      </div>
+      <div class="status" id="mapperStatus">支持直接修改源数据与规则 JSON，点击映射后可查看模板覆盖率与未映射部件。</div>
+    </section>
+    <section class="layout">
+      <div class="card">
+        <h2>源数据 JSON</h2>
+        <textarea id="sourceEditor"></textarea>
+      </div>
+      <div class="card">
+        <h2>字段映射规则</h2>
+        <textarea id="rulesEditor"></textarea>
+      </div>
+      <div class="card">
+        <h2>映射结果摘要</h2>
+        <div class="summary" id="summary"></div>
+        <h2 style="margin-top:18px;">标准 Payload</h2>
+        <textarea id="outputEditor" style="min-height:360px;"></textarea>
+      </div>
+    </section>
+  </div>
+  <script>
+    window.__MAPPER_DATA__ = {"partFromApi": {"tyre": ["tire"], "brake": ["brake"], "cassette": ["freewhile"], "wheel": ["tire"], "fork": ["fork"], "frame": ["frame"], "saddle": ["saddle"], "seatpost": ["seatpost"], "shock": ["shock"], "handlebar": ["handlebar"], "crankset": ["chainwheel", "crank"], "pedal": ["pedal"], "derailleur": ["rearderailleur"], "shifter": ["shiftlever"], "chain": ["chainwheel"]}, "presets": {"generic_demo": {"source": [{"name": "Demo Trail Bike", "brand_name": "demo", "category": "mountain", "views": {"side": "https://example.com/demo-trail-bike-side.jpg"}, "components": [{"slot": "fork", "name": "Fox 36 Factory", "price": 469, "quality": 0.92, "value": 0.31, "offers": 4, "reviews": 3}, {"slot": "shock", "name": "RockShox Super Deluxe", "price": 245, "quality": 0.88, "value": 0.29, "offers": 2, "reviews": 5}, {"slot": "tyre", "name": "Maxxis Minion DHF", "price": 52, "quality": 0.86, "value": 0.34, "offers": 5, "reviews": 6}]}], "rules": {"sourceName": "generic_demo", "bikeNameField": "name", "brandField": "brand_name", "bikeTypeField": "category", "sideViewField": "views.side", "partsPath": "components", "partKeyField": "slot", "componentNameField": "name", "offersCountField": "offers", "reviewsCountField": "reviews", "metricMappings": {"price_score": "price", "quality_score": "quality", "value_score": "value"}, "partMappings": {"wheel": "tyre", "rearshockabsorber": "shock", "seat post": "seatpost"}}, "exampleOutput": [{"schemaVersion": "1.0.0", "bikeId": "demo-demo-trail-bike", "bikeName": "Demo Trail Bike", "brand": "demo", "bikeType": "mountain", "templateType": "mountain", "views": {"front": null, "side": "https://example.com/demo-trail-bike-side.jpg", "rear": null}, "availableModes": ["price_score", "quality_score", "value_score"], "defaultMode": "price_score", "parts": [{"partKey": "fork", "displayName": "Fork", "templateLabels": ["fork"], "componentName": "Fox 36 Factory", "brandHint": null, "sourceType": "observed", "evidence": {"offersCount": 4, "reviewsCount": 3, "confidence": 0.76, "coverage": "medium"}, "metrics": {"price_score": 469, "quality_score": 0.92, "value_score": 0.31}, "render": {"status": "empty", "fillValue": null, "fillColor": "#d9dde3", "strokeOpacity": 0.45}, "meta": {"spec_name": null, "slot": null}}, {"partKey": "shock", "displayName": "Shock", "templateLabels": ["shock"], "componentName": "RockShox Super Deluxe", "brandHint": null, "sourceType": "observed", "evidence": {"offersCount": 2, "reviewsCount": 5, "confidence": 0.75, "coverage": "medium"}, "metrics": {"price_score": 245, "quality_score": 0.88, "value_score": 0.29}, "render": {"status": "empty", "fillValue": null, "fillColor": "#d9dde3", "strokeOpacity": 0.45}, "meta": {"spec_name": null, "slot": null}}, {"partKey": "tyre", "displayName": "Tyre", "templateLabels": ["tire"], "componentName": "Maxxis Minion DHF", "brandHint": null, "sourceType": "observed", "evidence": {"offersCount": 5, "reviewsCount": 6, "confidence": 0.84, "coverage": "high"}, "metrics": {"price_score": 52, "quality_score": 0.86, "value_score": 0.34}, "render": {"status": "empty", "fillValue": null, "fillColor": "#d9dde3", "strokeOpacity": 0.45}, "meta": {"spec_name": null, "slot": null}}], "summary": {"partsCount": 3, "mappedPartsCount": 3, "templateCoverage": 1.0, "evidenceScore": 8.33, "hasPhoto": true}, "meta": {"source": "generic_demo", "description": null, "officialUrl": null}}]}, "website_api_shape": {"source": [{"bike_name": "A Line", "brand": "brompton", "bike_type": "folding", "template_type": "road", "official_url": "https://global.brompton.com/a-line", "description": "Brompton A Line. The essential Brompton. The ride, the compact fold, the easy-to-store. Shop now. Free Delivery.", "views": {"front": "https://dam.brompton.com/filestore/8/3/0/1_8b4352fc032b952/1038_79d08c3348d63f3.jpg", "side": "https://dam.brompton.com/filestore/7/3/0/1_cb6b247e6ef8bc1/1037_19b140289f4567a.jpg", "rear": "https://dam.brompton.com/filestore/3/5/6/1_50e6e42117cfc96/1653_22642bc83c8ed7e.jpg"}, "parts": [{"part_key": "tyre", "name": "Tyre", "spec_name": "Tyres", "value": "Schwalbe Kojak", "slot": "tyre", "brand_hint": "Schwalbe", "component_name": "Schwalbe Kojak", "offers_count": 4, "reviews_count": 0, "price_score": 20.99, "quality_score": 0.8210526315789474, "value_score": 0.34218000000000004}], "offers": [{"part_key": "tyre", "source": "bike_components", "merchant": "Schwalbe", "title": "Back in Stock Rating: 5 of 5 based on 2 reviews (2) Schwalbe Road Cruiser Plus 28\" Wired Tyre from 10.99€", "manufacturer": "Schwalbe", "category": "tyres", "price_text": null, "price_value": 10.99, "currency": "EUR", "url": "https://www.bike-components.de/en/Schwalbe/Road-Cruiser-Plus-28-Wired-Tyre-p73709/?v=2787-black-reflective"}, {"part_key": "tyre", "source": "bike_components", "merchant": "Schwalbe", "title": "Back in Stock Rating: 5 of 5 based on 2 reviews (2) Schwalbe Billy Bonkers Active 26\" Wired Tyre from 12.99€", "manufacturer": "Schwalbe", "category": "tyres", "price_text": null, "price_value": 12.99, "currency": "EUR", "url": "https://www.bike-components.de/en/Schwalbe/Billy-Bonkers-Active-26-Wired-Tyre-p86008/?v=15170-black-bronze-skin"}, {"part_key": "tyre", "source": "bike_components", "merchant": "Schwalbe", "title": "Schwalbe Hans Dampf Evo ADDIX Super Trail 29+ Folding Tire - Workshop Packaging 25.99€", "manufacturer": "Schwalbe", "category": "tyres", "price_text": null, "price_value": 25.99, "currency": "EUR", "url": "https://www.bike-components.de/en/Schwalbe/Hans-Dampf-Evo-ADDIX-Super-Trail-29-Folding-Tire-Workshop-Packaging-p250672/?v=63842-black"}, {"part_key": "tyre", "source": "bike_components", "merchant": "Schwalbe", "title": "Back in Stock Rating: 5 of 5 based on 2 reviews (2) Schwalbe G-One Speed Evolution ADDIX Super Ground 28\" Folding Tyre 2023 Model 33.99€", "manufacturer": "Schwalbe", "category": "tyres", "price_text": null, "price_value": 33.99, "currency": "EUR", "url": "https://www.bike-components.de/en/Schwalbe/G-One-Speed-Evolution-ADDIX-Super-Ground-28-Folding-Tyre-2023-Model-p91005/?v=9161-black"}], "reviews": [{"part_key": "tyre", "source": "bikeradar", "title": "Schwalbe G-One RX Pro review: light, fast and grippy race-focused gravel tyres", "brand_hint": "Schwalbe", "category": null, "subtype": null, "rating_text": null, "rating_value": null, "summary": "A surprisingly speedy tyre for its category, that does everything well ", "url": "https://www.bikeradar.com/reviews/components/reviews/components/tyres/gravel-bike-tyres/schwalbe-g-one-rx-pro"}], "heatmap_metrics": {"summary": {"parts_count": 1, "parts_with_offers": 1, "parts_with_reviews": 0, "evidence_score": 1}, "parts": [{"part_key": "tyre", "name": "Tyre", "component_name": "Schwalbe Kojak", "offers_count": 4, "reviews_count": 0, "price_score": 20.99, "quality_score": null, "value_score": null}]}}], "rules": {"sourceName": "website_api_shape", "bikeNameField": "bike_name", "brandField": "brand", "bikeTypeField": "bike_type", "sideViewField": "views.side", "partsPath": "parts", "partKeyField": "part_key", "componentNameField": "component_name", "offersCountField": "offers_count", "reviewsCountField": "reviews_count", "metricMappings": {"price_score": "price_score", "quality_score": "quality_score", "value_score": "value_score"}, "partMappings": {}}, "exampleOutput": [{"schemaVersion": "1.0.0", "bikeId": "brompton-a-line", "bikeName": "A Line", "brand": "brompton", "bikeType": "folding", "templateType": "road", "views": {"front": null, "side": "https://dam.brompton.com/filestore/7/3/0/1_cb6b247e6ef8bc1/1037_19b140289f4567a.jpg", "rear": null}, "availableModes": ["price_score", "quality_score", "value_score"], "defaultMode": "price_score", "parts": [{"partKey": "tyre", "displayName": "Tyre", "templateLabels": ["tire"], "componentName": "Schwalbe Kojak", "brandHint": "Schwalbe", "sourceType": "observed", "evidence": {"offersCount": 4, "reviewsCount": 0, "confidence": 0.7, "coverage": "medium"}, "metrics": {"price_score": 20.99, "quality_score": 0.8210526315789474, "value_score": 0.34218000000000004}, "render": {"status": "empty", "fillValue": null, "fillColor": "#d9dde3", "strokeOpacity": 0.45}, "meta": {"spec_name": null, "slot": null}}], "summary": {"partsCount": 1, "mappedPartsCount": 1, "templateCoverage": 1.0, "evidenceScore": 4.0, "hasPhoto": true}, "meta": {"source": "website_api_shape", "description": null, "officialUrl": null}}]}}};
+  </script>
+  <script>
+    const DATA = window.__MAPPER_DATA__;
+    const presetSelect = document.getElementById("presetSelect");
+    const sourceEditor = document.getElementById("sourceEditor");
+    const rulesEditor = document.getElementById("rulesEditor");
+    const outputEditor = document.getElementById("outputEditor");
+    const summary = document.getElementById("summary");
+    const mapperStatus = document.getElementById("mapperStatus");
+
+    function setStatus(message) {
+      mapperStatus.textContent = message;
+    }
+
+    function slugify(value) {
+      return String(value || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+    }
+
+    function getByPath(obj, path) {
+      if (!path) return undefined;
+      return String(path).split(".").reduce((acc, key) => acc && typeof acc === "object" ? acc[key] : undefined, obj);
+    }
+
+    function inferBikeType(record) {
+      const text = [record.bike_name, record.brand, record.description, record.official_url, record.bikeType].filter(Boolean).join(" ").toLowerCase();
+      if (/(mountain|mtb|trail|enduro|downhill|xc|one-sixty|one-forty|ninety-six|spectral|neuron|torque)/.test(text)) return "mountain";
+      if (/(fold|brompton|dahon|fnhon|oyama)/.test(text)) return "folding";
+      if (/(gravel|silex)/.test(text)) return "gravel";
+      if (/(road|race|endurance|aero|madone|domane|endurace)/.test(text)) return "road";
+      return "other";
+    }
+
+    function templateTypeForBikeType(type) {
+      return type === "mountain" ? "mountain" : "road";
+    }
+
+    function mapGeneric(records, ruleSet) {
+      const partAliases = Object.fromEntries(Object.entries(ruleSet.partMappings || {}).map(([key, value]) => [String(key).toLowerCase(), String(value).toLowerCase()]));
+      return records.map((record) => {
+        const bikeName = getByPath(record, ruleSet.bikeNameField) || "External Bike";
+        const brand = getByPath(record, ruleSet.brandField) || "external";
+        const bikeType = getByPath(record, ruleSet.bikeTypeField) || inferBikeType(record);
+        const parts = (getByPath(record, ruleSet.partsPath) || []).map((part) => {
+          const rawKey = String(getByPath(part, ruleSet.partKeyField) || part.part_key || "").toLowerCase();
+          const partKey = partAliases[rawKey] || rawKey;
+          return {
+            partKey,
+            componentName: getByPath(part, ruleSet.componentNameField) || part.component_name || part.name || null,
+            metrics: {
+              price_score: getByPath(part, ruleSet.metricMappings.price_score) ?? null,
+              quality_score: getByPath(part, ruleSet.metricMappings.quality_score) ?? null,
+              value_score: getByPath(part, ruleSet.metricMappings.value_score) ?? null
+            },
+            sourceType: "observed",
+            templateLabels: DATA.partFromApi[partKey] || [],
+            evidence: {
+              offersCount: Number(getByPath(part, ruleSet.offersCountField) || part.offers_count || 0),
+              reviewsCount: Number(getByPath(part, ruleSet.reviewsCountField) || part.reviews_count || 0),
+              confidence: 0.7,
+              coverage: "medium"
+            },
+            render: {
+              status: (DATA.partFromApi[partKey] || []).length ? "mapped" : "template_missing",
+              fillValue: null,
+              fillColor: "#d9dde3",
+              strokeOpacity: 0.45
+            },
+            displayName: partKey.replace(/_/g, " ").replace(/(^|\s)\S/g, (m) => m.toUpperCase())
+          };
+        }).filter((part) => part.partKey);
+        return {
+          schemaVersion: "1.0.0",
+          bikeId: slugify(`${brand}-${bikeName}`),
+          bikeName,
+          brand,
+          bikeType,
+          templateType: templateTypeForBikeType(String(bikeType).toLowerCase()),
+          views: {
+            front: null,
+            side: getByPath(record, ruleSet.sideViewField) || null,
+            rear: null
+          },
+          availableModes: ["price_score", "quality_score", "value_score"],
+          defaultMode: "price_score",
+          parts,
+          summary: {
+            partsCount: parts.length,
+            mappedPartsCount: parts.filter((part) => part.templateLabels.length).length,
+            templateCoverage: parts.length ? Number((parts.filter((part) => part.templateLabels.length).length / parts.length).toFixed(2)) : 0
+          },
+          meta: {
+            source: ruleSet.sourceName || "generic"
+          }
+        };
+      });
+    }
+
+    function summarizeMapped(mapped) {
+      const first = mapped[0] || { summary: { partsCount: 0, mappedPartsCount: 0, templateCoverage: 0 }, templateType: "road", parts: [] };
+      const unmapped = [...new Set((first.parts || []).filter((part) => !part.templateLabels.length).map((part) => part.partKey))];
+      summary.innerHTML = `
+        <div><b>输出记录数</b><br>${mapped.length}</div>
+        <div><b>首条 templateType</b><br>${first.templateType}</div>
+        <div><b>首条部件数</b><br>${first.summary.partsCount}</div>
+        <div><b>首条已映射数</b><br>${first.summary.mappedPartsCount}</div>
+        <div><b>首条模板覆盖率</b><br>${Math.round((first.summary.templateCoverage || 0) * 100)}%</div>
+        <div><b>首条未映射部件</b><br>${unmapped.length ? unmapped.join(", ") : "无"}</div>
+      `;
+    }
+
+    function loadPreset(name) {
+      const preset = DATA.presets[name];
+      sourceEditor.value = JSON.stringify(preset.source, null, 2);
+      rulesEditor.value = JSON.stringify(preset.rules, null, 2);
+      outputEditor.value = JSON.stringify(preset.exampleOutput, null, 2);
+      summarizeMapped(preset.exampleOutput);
+      setStatus(`已加载预设 ${name}，可直接修改后重新映射。`);
+    }
+
+    presetSelect.innerHTML = Object.keys(DATA.presets).map((key) => `<option value="${key}">${key}</option>`).join("");
+    document.getElementById("loadPresetBtn").onclick = () => loadPreset(presetSelect.value);
+    document.getElementById("mapBtn").onclick = () => {
+      try {
+        const source = JSON.parse(sourceEditor.value);
+        const rules = JSON.parse(rulesEditor.value);
+        const sourceList = Array.isArray(source) ? source : [source];
+        const mapped = mapGeneric(sourceList, rules);
+        outputEditor.value = JSON.stringify(mapped, null, 2);
+        summarizeMapped(mapped);
+        setStatus(`映射完成，共输出 ${mapped.length} 条记录。`);
+      } catch (error) {
+        alert("映射失败，请检查源数据或规则 JSON 格式。");
+        setStatus("映射失败，请先修正 JSON 格式或字段路径。");
+      }
+    };
+    document.getElementById("formatBtn").onclick = () => {
+      try {
+        sourceEditor.value = JSON.stringify(JSON.parse(sourceEditor.value), null, 2);
+        rulesEditor.value = JSON.stringify(JSON.parse(rulesEditor.value), null, 2);
+        setStatus("源数据与规则 JSON 已格式化。");
+      } catch (error) {
+        alert("格式化失败，请先修正 JSON。");
+      }
+    };
+    document.getElementById("copyOutputBtn").onclick = async () => {
+      try {
+        await navigator.clipboard.writeText(outputEditor.value);
+        setStatus("已复制标准 payload 到剪贴板。");
+      } catch (error) {
+        setStatus("当前环境不支持剪贴板写入，请手动复制。");
+      }
+    };
+    document.getElementById("downloadBtn").onclick = () => {
+      const blob = new Blob([outputEditor.value], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "mapped-bike-payload.json";
+      a.click();
+      URL.revokeObjectURL(url);
+      setStatus("已下载 mapped-bike-payload.json");
+    };
+    [sourceEditor, rulesEditor].forEach((editor) => {
+      editor.addEventListener("keydown", (event) => {
+        if ((event.ctrlKey || event.metaKey) && event.key === "Enter") {
+          document.getElementById("mapBtn").click();
+        }
+      });
+    });
+    loadPreset(Object.keys(DATA.presets)[0]);
+  </script>
+</body>
+</html>

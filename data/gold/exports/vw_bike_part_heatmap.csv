@@ -1,0 +1,120 @@
+﻿bike_variant_id,part_key,part_name,snapshot_date,offer_count,review_count,avg_price,avg_rating,price_score,quality_score,value_score,confidence_score,component_name
+1,tyre,Tyre,2026-06-06,4,0,20.99,,20.99,,,0.5,Schwalbe Kojak
+4,tyre,Tyre,2026-06-06,4,0,20.99,,20.99,,,0.5,Schwalbe Marathon Racer
+6,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,Mid or high
+6,tyre,Tyre,2026-06-06,4,0,20.99,,20.99,,,0.5,349 x 35C Schwalbe Marathon Racer
+7,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,Mid or high
+7,tyre,Tyre,2026-06-06,1,0,11.99,,11.99,,,0.125,349 x 35C Continental Contact Urban - folding bead
+10,tyre,Tyre,2026-06-06,4,0,20.99,,20.99,,,0.5,Schwalbe ONE with Addix Race rubber mix and V-Guard puncture protection
+11,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,400
+11,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,"170,0"
+11,chain,Chain,2026-06-06,0,0,,,,,,0.0,50/34
+11,wheel,Wheel,2026-06-06,5,0,1071.5,,1071.5,,,0.625,"28"""
+12,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380
+12,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,"165,0"
+12,chain,Chain,2026-06-06,0,0,,,,,,0.0,50/34
+12,wheel,Wheel,2026-06-06,5,0,1071.5,,1071.5,,,0.625,"28"""
+13,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380
+13,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,"165,0"
+13,chain,Chain,2026-06-06,0,0,,,,,,0.0,50/34
+13,wheel,Wheel,2026-06-06,5,0,1071.5,,1071.5,,,0.625,"28"""
+14,frame,Frame,2026-06-06,0,0,,,,,,0.0,24
+14,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+15,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+16,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+17,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+18,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+20,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+21,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+22,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+23,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,"they accelerate faster due to a lower moment of inertia,are more aerodynamic, and lighter. In fact, the world speed record for a bike ridden in an upright position was set on abike with 18″ wheels. With DAHON's latest"
+46,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG, XLONG: 200mm"
+49,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+50,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG: 200mm, XLONG: 230mm"
+51,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+52,frame,Frame,2026-06-06,0,0,,,,,,0.0,FAST KINEMATIC
+53,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+54,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+55,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG: 200mm, XLONG: 230mm"
+55,frame,Frame,2026-06-06,0,0,,,,,,0.0,FAST KINEMATIC
+56,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG: 200mm, XLONG: 230mm"
+56,frame,Frame,2026-06-06,0,0,,,,,,0.0,FAST KINEMATIC
+57,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+58,frame,Frame,2026-06-06,0,0,,,,,,0.0,FAST KINEMATIC
+59,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+60,frame,Frame,2026-06-06,0,0,,,,,,0.0,AWS ANTI WRINKLE SYSTEM
+61,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG: 200mm, XLONG: 230mm"
+61,frame,Frame,2026-06-06,0,0,,,,,,0.0,FAST KINEMATIC
+62,frame,Frame,2026-06-06,0,0,,,,,,0.0,FAST KINEMATIC
+63,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG, XLONG: 200mm"
+63,frame,Frame,2026-06-06,0,0,,,,,,0.0,HFS - HYDRO FORMING SYSTEM
+64,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG, XLONG: 200mm"
+64,frame,Frame,2026-06-06,0,0,,,,,,0.0,HFS - HYDRO FORMING SYSTEM
+65,shock,Shock,2026-06-06,0,0,,,,,,0.0,"150mm, MID: 170mm, LONG, XLONG: 200mm"
+65,frame,Frame,2026-06-06,0,0,,,,,,0.0,HFS - HYDRO FORMING SYSTEM
+66,frame,Frame,2026-06-06,0,0,,,,,,0.0,"29"" Alloy Full-Suspension"
+66,motor,Motor,2026-06-06,0,0,,,,,,0.0,Bafang M510 36V 95Nm
+66,battery,Battery,2026-06-06,0,0,,,,,,0.0,Phylion IT-21 36V/ 7Ah
+66,fork,Fork,2026-06-06,2,0,469.0,,469.0,,,0.25,Suntour XCR34X-Boost
+66,derailleur,Derailleur,2026-06-06,0,0,,,,,,0.0,N/A
+66,chain,Chain,2026-06-06,0,0,,,,,,0.0,Bafang G522 32T
+66,cassette,Cassette,2026-06-06,0,0,,,,,,0.0,Shimano SLX CS-M7100 10-51T
+66,tyre,Tyre,2026-06-06,3,0,26.66,,26.66,,,0.375,"Kenda K-1227 29""*2.4"" 30TPi"
+66,brake,Brake,2026-06-06,26,0,164.21,,164.21,,,1.0,Shimano SLX BR-M7100 Hydraulic
+66,wheel,Wheel,2026-06-06,2,0,714.5,,714.5,,,0.25,"27.5"" (650B)*2.125""*13G*36H ALLOY"
+67,frame,Frame,2026-06-06,0,0,,,,,,0.0,OYAMA 20”STEEL W/MS JOINT
+67,fork,Fork,2026-06-06,1,0,469.0,,469.0,,,0.125,OYAMA 20”STEEL FORK
+67,derailleur,Derailleur,2026-06-06,0,0,,,,,,0.0,SHIMANO TOURNEY 6 SPEED
+67,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,SHIMANO Nexus 7 Speeds
+67,brake,Brake,2026-06-06,6,0,282.66,,282.66,,,0.75,PROMAX V-Brake
+67,wheel,Wheel,2026-06-06,1,0,1260.0,,1260.0,,,0.125,Alloy 20”
+67,tyre,Tyre,2026-06-06,0,0,,,,,,0.0,MAXXIS POAMER 20”x1.65”
+67,chain,Chain,2026-06-06,0,0,,,,,,0.0,SHIMANO CAPREO FC-F800 x45T
+67,cassette,Cassette,2026-06-06,3,0,28.66,,28.66,,,0.375,SHIMANO 9T-26T 9 SPEED
+68,frame,Frame,2026-06-06,0,0,,,,,,0.0,"OYAMA 29"" x 18"" ALLOY"
+68,fork,Fork,2026-06-06,1,0,469.0,,469.0,,,0.125,RST FIRST 29 AIR
+68,derailleur,Derailleur,2026-06-06,0,0,,,,,,0.0,SHIMANO SLX/DEORE 27S
+68,brake,Brake,2026-06-06,11,0,236.47,,236.47,,,1.0,SHIMANO HYDRAULIC DISC
+68,tyre,Tyre,2026-06-06,2,0,26.99,,26.99,,,0.25,SCHWALBE RAPID ROB
+68,chain,Chain,2026-06-06,0,0,,,,,,0.0,SHIMANO FC-M131 42/34/24T
+69,fork,Fork,2026-06-06,2,0,469.0,,469.0,,,0.25,700C*540MM ULTRALIGHT CARBON
+69,brake,Brake,2026-06-06,18,0,156.46,,156.46,,,1.0,SRAM FORCE DISC
+69,derailleur,Derailleur,2026-06-06,0,0,,,,,,0.0,SRAM FORCE
+69,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,SRAM FORCE 50*34T
+69,tyre,Tyre,2026-06-06,0,0,,,,,,0.0,VICTORIA ZAFFIRO PRO 700CX25C
+69,seatpost,Seatpost,2026-06-06,0,0,,,,,,0.0,FSA UD CARBON SHAFT W/ALLOY HEAD 31.6 X350mm
+69,handlebar,Handlebar,2026-06-06,5,0,189.83,,189.83,,,0.625,UD CARBON 31.8MM
+69,shock,Shock,2026-06-06,0,0,,,,,,0.0,N/A
+69,wheel,Wheel,2026-06-06,0,0,,,,,,0.0,Alloy 700C
+69,frame,Frame,2026-06-06,0,0,,,,,,0.0,OYAMA 700C 3D carbon frame
+69,shifter,Shifter,2026-06-06,0,0,,,,,,0.0,TEKTRO FORGED ALLOY CANTILEVERS
+70,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,165mm
+70,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380mm
+70,saddle,Saddle,2026-06-06,0,0,,,,,,0.0,155mm
+70,seatpost,Seatpost,2026-06-06,0,0,,,,,,0.0,300mm
+70,fork,Fork,2026-06-06,0,0,,,,,,0.0,50mm
+71,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,165mm
+71,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380mm
+71,saddle,Saddle,2026-06-06,0,0,,,,,,0.0,155mm
+71,seatpost,Seatpost,2026-06-06,0,0,,,,,,0.0,300mm
+71,fork,Fork,2026-06-06,0,0,,,,,,0.0,50mm
+72,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,165mm
+72,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380mm
+72,saddle,Saddle,2026-06-06,0,0,,,,,,0.0,155mm
+72,seatpost,Seatpost,2026-06-06,0,0,,,,,,0.0,300mm
+72,fork,Fork,2026-06-06,0,0,,,,,,0.0,50mm
+73,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,165mm
+73,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380mm
+73,saddle,Saddle,2026-06-06,0,0,,,,,,0.0,155mm
+73,seatpost,Seatpost,2026-06-06,0,0,,,,,,0.0,350mm
+73,fork,Fork,2026-06-06,0,0,,,,,,0.0,55mm
+73,chain,Chain,2026-06-06,0,0,,,,,,0.0,435mm
+74,crankset,Crankset,2026-06-06,0,0,,,,,,0.0,165mm
+74,handlebar,Handlebar,2026-06-06,0,0,,,,,,0.0,380mm
+74,saddle,Saddle,2026-06-06,0,0,,,,,,0.0,155mm
+74,seatpost,Seatpost,2026-06-06,0,0,,,,,,0.0,300mm
+74,fork,Fork,2026-06-06,0,0,,,,,,0.0,47mm
+88,brake,Brake,2026-06-06,2,0,314.0,,314.0,,,0.25,00.5018.234.001
+88,cassette,Cassette,2026-06-06,2,0,314.0,,314.0,,,0.25,00.2418.130.000
+88,crankset,Crankset,2026-06-06,2,0,314.0,,314.0,,,0.25,00.6118.679.006
+89,frame,Frame,2026-06-06,0,0,,,,,,0.0,"27.5"") 150mm Generations Shop fat bikes Learn about fat bikes Farley 27.5"" 80mm Shop dirt jump/slopestyle Ticket 26"" Frameset only Need help? Use our bike finder Go"

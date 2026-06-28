@@ -1,0 +1,1131 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 40,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "58597221": {
+        "pageid": 58597221,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio.jpg",
+        "index": 25,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3382952,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/7_Springs_Mountain_resort_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597221",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790354,
+        "length": 3178,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio.jpg"
+      },
+      "58597329": {
+        "pageid": 58597329,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (10).jpg",
+        "index": 40,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2341125,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/7_Springs_Mountain_resort_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(10).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597329",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790361,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(10).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(10).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(10).jpg"
+      },
+      "58597341": {
+        "pageid": 58597341,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (11).jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4196058,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/7_Springs_Mountain_resort_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(11).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597341",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790364,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(11).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(11).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(11).jpg"
+      },
+      "58597376": {
+        "pageid": 58597376,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (14).jpg",
+        "index": 29,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4732459,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/7_Springs_Mountain_resort_-_panoramio_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(14).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597376",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790374,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(14).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(14).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(14).jpg"
+      },
+      "58597415": {
+        "pageid": 58597415,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (19).jpg",
+        "index": 31,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3026281,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/7_Springs_Mountain_resort_-_panoramio_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(19).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597415",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 990100824,
+        "length": 2887,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(19).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(19).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(19).jpg"
+      },
+      "58597245": {
+        "pageid": 58597245,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (2).jpg",
+        "index": 38,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3090084,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/7_Springs_Mountain_resort_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597245",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790396,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(2).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(2).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(2).jpg"
+      },
+      "58597437": {
+        "pageid": 58597437,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (21).jpg",
+        "index": 37,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2797189,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/7_Springs_Mountain_resort_-_panoramio_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(21).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597437",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 990100826,
+        "length": 2886,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(21).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(21).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(21).jpg"
+      },
+      "58597449": {
+        "pageid": 58597449,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (23).jpg",
+        "index": 30,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4365425,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/7_Springs_Mountain_resort_-_panoramio_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(23).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597449",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 902300635,
+        "length": 2896,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(23).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(23).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(23).jpg"
+      },
+      "58597469": {
+        "pageid": 58597469,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (26).jpg",
+        "index": 27,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4485261,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/7_Springs_Mountain_resort_-_panoramio_%2826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(26).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597469",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790426,
+        "length": 2907,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(26).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(26).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(26).jpg"
+      },
+      "58597479": {
+        "pageid": 58597479,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (27).jpg",
+        "index": 32,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3584830,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/7_Springs_Mountain_resort_-_panoramio_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(27).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597479",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790430,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(27).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(27).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(27).jpg"
+      },
+      "58597525": {
+        "pageid": 58597525,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (30).jpg",
+        "index": 35,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4166578,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/7_Springs_Mountain_resort_-_panoramio_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(30).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597525",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790446,
+        "length": 2907,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(30).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(30).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(30).jpg"
+      },
+      "58597528": {
+        "pageid": 58597528,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (31).jpg",
+        "index": 33,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3451122,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/7_Springs_Mountain_resort_-_panoramio_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(31).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597528",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790450,
+        "length": 2907,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(31).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(31).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(31).jpg"
+      },
+      "58597260": {
+        "pageid": 58597260,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (4).jpg",
+        "index": 34,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4032318,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/7_Springs_Mountain_resort_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597260",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790453,
+        "length": 2887,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(4).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(4).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(4).jpg"
+      },
+      "58597280": {
+        "pageid": 58597280,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (6).jpg",
+        "index": 36,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4671310,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/7_Springs_Mountain_resort_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(6).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597280",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790460,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(6).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(6).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(6).jpg"
+      },
+      "58597286": {
+        "pageid": 58597286,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (7).jpg",
+        "index": 39,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4641665,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/7_Springs_Mountain_resort_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597286",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790462,
+        "length": 2888,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(7).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(7).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(7).jpg"
+      },
+      "58597314": {
+        "pageid": 58597314,
+        "ns": 6,
+        "title": "File:7 Springs Mountain resort - panoramio (9).jpg",
+        "index": 28,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3882683,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/7_Springs_Mountain_resort_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(9).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58597314",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-27T12:12:16Z",
+        "lastrevid": 770790472,
+        "length": 2887,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(9).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:7_Springs_Mountain_resort_-_panoramio_(9).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:7_Springs_Mountain_resort_-_panoramio_(9).jpg"
+      },
+      "22761541": {
+        "pageid": 22761541,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 17 (4780390350).jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2786663,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_17_%284780390350%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_17_(4780390350).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761541",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:38Z",
+        "lastrevid": 1152374667,
+        "length": 873,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_17_(4780390350).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_17_(4780390350).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_17_(4780390350).jpg"
+      },
+      "22761538": {
+        "pageid": 22761538,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 18 (4780392062).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2761249,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_18_%284780392062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_18_(4780392062).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761538",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:38Z",
+        "lastrevid": 1152374663,
+        "length": 873,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_18_(4780392062).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_18_(4780392062).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_18_(4780392062).jpg"
+      },
+      "22761387": {
+        "pageid": 22761387,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 45 (4779873769).jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2746772,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_45_%284779873769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_45_(4779873769).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761387",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374047,
+        "length": 883,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_45_(4779873769).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_45_(4779873769).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_45_(4779873769).jpg"
+      },
+      "22761388": {
+        "pageid": 22761388,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 46 (4780508316).jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3097911,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_46_%284780508316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_46_(4780508316).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761388",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374039,
+        "length": 883,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_46_(4780508316).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_46_(4780508316).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_46_(4780508316).jpg"
+      },
+      "22761455": {
+        "pageid": 22761455,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 50 (4780449360).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2774225,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_50_%284780449360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_50_(4780449360).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761455",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374359,
+        "length": 764,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_50_(4780449360).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_50_(4780449360).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_50_(4780449360).jpg"
+      },
+      "22761458": {
+        "pageid": 22761458,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 51 (4780451286).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2801526,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_51_%284780451286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_51_(4780451286).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761458",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374372,
+        "length": 728,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_51_(4780451286).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_51_(4780451286).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_51_(4780451286).jpg"
+      },
+      "22761462": {
+        "pageid": 22761462,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 52 (4779820619).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2779375,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_52_%284779820619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_52_(4779820619).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761462",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374401,
+        "length": 764,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_52_(4779820619).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_52_(4779820619).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_52_(4779820619).jpg"
+      },
+      "22761430": {
+        "pageid": 22761430,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 61 (4780470476).jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3102326,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_61_%284780470476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_61_(4780470476).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761430",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374238,
+        "length": 759,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_61_(4780470476).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_61_(4780470476).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_61_(4780470476).jpg"
+      },
+      "22761416": {
+        "pageid": 22761416,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 68 (4779852717).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2785829,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_68_%284779852717%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_68_(4779852717).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761416",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374177,
+        "length": 906,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_68_(4779852717).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_68_(4779852717).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_68_(4779852717).jpg"
+      },
+      "22761409": {
+        "pageid": 22761409,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 69 (4779854769).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2798547,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_69_%284779854769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_69_(4779854769).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761409",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374160,
+        "length": 944,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_69_(4779854769).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_69_(4779854769).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_69_(4779854769).jpg"
+      },
+      "22761404": {
+        "pageid": 22761404,
+        "ns": 6,
+        "title": "File:Atomic City to Big Southern Butte via mountain bike 70 (4779856609).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2790674,
+            "width": 4320,
+            "height": 3240,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Atomic_City_to_Big_Southern_Butte_via_mountain_bike_70_%284779856609%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_70_(4779856609).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22761404",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-10T09:11:37Z",
+        "lastrevid": 1152374137,
+        "length": 885,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_70_(4779856609).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_70_(4779856609).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Atomic_City_to_Big_Southern_Butte_via_mountain_bike_70_(4779856609).jpg"
+      },
+      "68157272": {
+        "pageid": 68157272,
+        "ns": 6,
+        "title": "File:Bike parking on the side of the field road in Changbin.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2978808,
+            "width": 3648,
+            "height": 2736,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bike_parking_on_the_side_of_the_field_road_in_Changbin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bike_parking_on_the_side_of_the_field_road_in_Changbin.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68157272",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-03-29T13:28:45Z",
+        "lastrevid": 898410325,
+        "length": 895,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Bike_parking_on_the_side_of_the_field_road_in_Changbin.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Bike_parking_on_the_side_of_the_field_road_in_Changbin.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Bike_parking_on_the_side_of_the_field_road_in_Changbin.jpg"
+      },
+      "72810223": {
+        "pageid": 72810223,
+        "ns": 6,
+        "title": "File:Cwmdeuddwr Arms,and Bike shop.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6989979,
+            "width": 4816,
+            "height": 3020,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cwmdeuddwr_Arms%2Cand_Bike_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cwmdeuddwr_Arms,and_Bike_shop.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72810223",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-05-12T16:00:28Z",
+        "lastrevid": 1156555338,
+        "length": 868,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Cwmdeuddwr_Arms,and_Bike_shop.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Cwmdeuddwr_Arms,and_Bike_shop.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Cwmdeuddwr_Arms,and_Bike_shop.jpg"
+      },
+      "45414466": {
+        "pageid": 45414466,
+        "ns": 6,
+        "title": "File:Kirkwood Mountain Resort, Kirkwood, California (21385611049).jpg",
+        "index": 26,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8418495,
+            "width": 4000,
+            "height": 3000,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kirkwood_Mountain_Resort%2C_Kirkwood%2C_California_%2821385611049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kirkwood_Mountain_Resort,_Kirkwood,_California_(21385611049).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45414466",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-03-29T12:30:28Z",
+        "lastrevid": 1165434624,
+        "length": 2825,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Kirkwood_Mountain_Resort,_Kirkwood,_California_(21385611049).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Kirkwood_Mountain_Resort,_Kirkwood,_California_(21385611049).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Kirkwood_Mountain_Resort,_Kirkwood,_California_(21385611049).jpg"
+      },
+      "106196558": {
+        "pageid": 106196558,
+        "ns": 6,
+        "title": "File:Mountain Bike Centre, Rhayader - geograph.org.uk - 2099831.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1540264,
+            "width": 2000,
+            "height": 1123,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mountain_Bike_Centre%2C_Rhayader_-_geograph.org.uk_-_2099831.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountain_Bike_Centre,_Rhayader_-_geograph.org.uk_-_2099831.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106196558",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-04-26T18:14:51Z",
+        "lastrevid": 1075381801,
+        "length": 106,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Mountain_Bike_Centre,_Rhayader_-_geograph.org.uk_-_2099831.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Mountain_Bike_Centre,_Rhayader_-_geograph.org.uk_-_2099831.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Mountain_Bike_Centre,_Rhayader_-_geograph.org.uk_-_2099831.jpg"
+      },
+      "13836790": {
+        "pageid": 13836790,
+        "ns": 6,
+        "title": "File:Mountain Bike Track, Torachilty Forest - geograph.org.uk - 1125585.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 81333,
+            "width": 640,
+            "height": 381,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mountain_Bike_Track%2C_Torachilty_Forest_-_geograph.org.uk_-_1125585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountain_Bike_Track,_Torachilty_Forest_-_geograph.org.uk_-_1125585.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13836790",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2025-12-21T11:03:06Z",
+        "lastrevid": 970369064,
+        "length": 939,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Mountain_Bike_Track,_Torachilty_Forest_-_geograph.org.uk_-_1125585.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Mountain_Bike_Track,_Torachilty_Forest_-_geograph.org.uk_-_1125585.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Mountain_Bike_Track,_Torachilty_Forest_-_geograph.org.uk_-_1125585.jpg"
+      },
+      "16493647": {
+        "pageid": 16493647,
+        "ns": 6,
+        "title": "File:Mountain bicycle.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 92234,
+            "width": 800,
+            "height": 523,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mountain_bicycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountain_bicycle.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16493647",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-05-07T20:32:23Z",
+        "lastrevid": 877488200,
+        "length": 966,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Mountain_bicycle.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Mountain_bicycle.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Mountain_bicycle.jpg"
+      },
+      "132259200": {
+        "pageid": 132259200,
+        "ns": 6,
+        "title": "File:Mountain bike track on the north side of Drinnahilly - geograph.org.uk - 4815492.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 789787,
+            "width": 1600,
+            "height": 1200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mountain_bike_track_on_the_north_side_of_Drinnahilly_-_geograph.org.uk_-_4815492.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountain_bike_track_on_the_north_side_of_Drinnahilly_-_geograph.org.uk_-_4815492.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132259200",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-05-16T02:07:45Z",
+        "lastrevid": 1001525810,
+        "length": 60,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Mountain_bike_track_on_the_north_side_of_Drinnahilly_-_geograph.org.uk_-_4815492.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Mountain_bike_track_on_the_north_side_of_Drinnahilly_-_geograph.org.uk_-_4815492.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Mountain_bike_track_on_the_north_side_of_Drinnahilly_-_geograph.org.uk_-_4815492.jpg"
+      },
+      "13371167": {
+        "pageid": 13371167,
+        "ns": 6,
+        "title": "File:Mountain bike trail - geograph.org.uk - 705479.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 267976,
+            "width": 639,
+            "height": 479,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mountain_bike_trail_-_geograph.org.uk_-_705479.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountain_bike_trail_-_geograph.org.uk_-_705479.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13371167",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2025-12-21T10:56:14Z",
+        "lastrevid": 1126101188,
+        "length": 1245,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Mountain_bike_trail_-_geograph.org.uk_-_705479.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Mountain_bike_trail_-_geograph.org.uk_-_705479.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Mountain_bike_trail_-_geograph.org.uk_-_705479.jpg"
+      },
+      "14109785": {
+        "pageid": 14109785,
+        "ns": 6,
+        "title": "File:Mountain biking in Gwydyr Forest - geograph.org.uk - 1375168.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 115907,
+            "width": 640,
+            "height": 427,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mountain_biking_in_Gwydyr_Forest_-_geograph.org.uk_-_1375168.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mountain_biking_in_Gwydyr_Forest_-_geograph.org.uk_-_1375168.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14109785",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2025-12-21T11:07:17Z",
+        "lastrevid": 1128163853,
+        "length": 987,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Mountain_biking_in_Gwydyr_Forest_-_geograph.org.uk_-_1375168.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Mountain_biking_in_Gwydyr_Forest_-_geograph.org.uk_-_1375168.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Mountain_biking_in_Gwydyr_Forest_-_geograph.org.uk_-_1375168.jpg"
+      },
+      "66741618": {
+        "pageid": 66741618,
+        "ns": 6,
+        "title": "File:Ponderosa Pine in Sisters, Oregon, on the east side of Cascade Mountains (7967325632).jpg",
+        "index": 24,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 652637,
+            "width": 1152,
+            "height": 1536,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ponderosa_Pine_in_Sisters%2C_Oregon%2C_on_the_east_side_of_Cascade_Mountains_%287967325632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ponderosa_Pine_in_Sisters,_Oregon,_on_the_east_side_of_Cascade_Mountains_(7967325632).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66741618",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-03-29T13:25:44Z",
+        "lastrevid": 894750079,
+        "length": 1266,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Ponderosa_Pine_in_Sisters,_Oregon,_on_the_east_side_of_Cascade_Mountains_(7967325632).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Ponderosa_Pine_in_Sisters,_Oregon,_on_the_east_side_of_Cascade_Mountains_(7967325632).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Ponderosa_Pine_in_Sisters,_Oregon,_on_the_east_side_of_Cascade_Mountains_(7967325632).jpg"
+      },
+      "159514506": {
+        "pageid": 159514506,
+        "ns": 6,
+        "title": "File:South Side Trail (35801791553).jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5477071,
+            "width": 4000,
+            "height": 3000,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/South_Side_Trail_%2835801791553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Side_Trail_(35801791553).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159514506",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-04-05T10:15:21Z",
+        "lastrevid": 1191953643,
+        "length": 1776,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:South_Side_Trail_(35801791553).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:South_Side_Trail_(35801791553).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:South_Side_Trail_(35801791553).jpg"
+      },
+      "159514493": {
+        "pageid": 159514493,
+        "ns": 6,
+        "title": "File:South Side Trail (36214552960).jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4796718,
+            "width": 4000,
+            "height": 3000,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/South_Side_Trail_%2836214552960%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Side_Trail_(36214552960).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159514493",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-04-05T10:15:21Z",
+        "lastrevid": 1191953642,
+        "length": 1787,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:South_Side_Trail_(36214552960).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:South_Side_Trail_(36214552960).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:South_Side_Trail_(36214552960).jpg"
+      },
+      "50077015": {
+        "pageid": 50077015,
+        "ns": 6,
+        "title": "File:Stellenbosch Mountain - Coetzenburg.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5833420,
+            "width": 4000,
+            "height": 3000,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Stellenbosch_Mountain_-_Coetzenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stellenbosch_Mountain_-_Coetzenburg.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50077015",
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2025-11-08T12:14:59Z",
+        "lastrevid": 1111198458,
+        "length": 1040,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Stellenbosch_Mountain_-_Coetzenburg.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Stellenbosch_Mountain_-_Coetzenburg.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Stellenbosch_Mountain_-_Coetzenburg.jpg"
+      }
+    }
+  }
+}

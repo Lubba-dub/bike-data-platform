@@ -1,0 +1,767 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1777518000,
+      "description": "",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Packa Genie",
+      "id": 3378601,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023108/large_IMG_8953.JPG",
+      "location_found": null,
+      "manufacturer_name": "Blix",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "US21120261",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.36,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78757, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023108/small_IMG_8953.JPG",
+      "title": "2022 Blix Packa Genie",
+      "url": "https://bikeindex.org/bikes/3378601",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777503600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 4",
+      "id": 3378523,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023020/large_IMG_20250602_123314302.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU122C121S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.57,
+        -73.99
+      ],
+      "stolen_location": "Brooklyn, NY 11224, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023020/small_IMG_20250602_123314302.jpg",
+      "title": "2023 Trek Marlin 4",
+      "url": "https://bikeindex.org/bikes/3378523",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777446000,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Pathlite:ON 6",
+      "id": 3378187,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022770/large_PXL_20211019_160638495.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M08001B20F0727",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.75,
+        17.29
+      ],
+      "stolen_location": "Hlásnice, 785 01, CZ",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022770/small_PXL_20211019_160638495.jpg",
+      "title": "2021 Canyon bicycles Pathlite:ON 6",
+      "url": "https://bikeindex.org/bikes/3378187",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777244400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Checkpoint ALR 4",
+      "id": 3377842,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022582/large_Screenshot_2026-04-28_at_3.15.57_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU120XC0614V",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022582/small_Screenshot_2026-04-28_at_3.15.57_PM.png",
+      "title": "2025 Trek Checkpoint ALR 4",
+      "url": "https://bikeindex.org/bikes/3377842",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777237200,
+      "description": "With added front basket and rear passenger handlebars/ seatpad/ foot pegs",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Radwagon 4",
+      "id": 3375845,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021704/large_IMG_1428.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RW4A21B3329",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021704/small_IMG_1428.jpeg",
+      "title": "2021 Rad Power Bikes Radwagon 4 cargo bike rear",
+      "url": "https://bikeindex.org/bikes/3375845",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "cargo-rear"
+    },
+    {
+      "date_stolen": 1777172400,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Hakka MX",
+      "id": 3377819,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022570/large_IMG_1148.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ibis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN19B50372",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80207, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022570/small_IMG_1148.jpeg",
+      "title": "2019 Ibis Hakka MX",
+      "url": "https://bikeindex.org/bikes/3377819",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777167900,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "UL2849",
+      "id": 3375148,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021511/large_258.png",
+      "location_found": null,
+      "manufacturer_name": "Varun",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TT2025101036",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.75,
+        -84.16
+      ],
+      "stolen_location": "Dayton, OH 45410, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021511/small_258.png",
+      "title": "2025 Varun UL2849",
+      "url": "https://bikeindex.org/bikes/3375148",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777129200,
+      "description": "Actual frame size is ML. Color is matte black with shiny red TREK logo. Example Here: https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/cross-country-mountain-bikes/marlin/f/F321/marlin-5-gen-3/40773/5292506\r\nThis was my 14yo son's bike. It was stolen while locked in front of Grant High School around April 26-28, 2026.",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 3379299,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023637/large_Trek_Marlin5_Gen3_2.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU156XC1779V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97212, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023637/small_Trek_Marlin5_Gen3_2.png",
+      "title": "2025 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/3379299",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777104060,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M10",
+      "id": 3376819,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022019/large_WhatsApp_Image_2026-04-27_at_12.40.05_PM__2_.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Isin Wheel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "30437",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.4,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02140, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022019/small_WhatsApp_Image_2026-04-27_at_12.40.05_PM__2_.jpeg",
+      "title": "2025 Isin Wheel M10",
+      "url": "https://bikeindex.org/bikes/3376819",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777093200,
+      "description": "Gray/silver e-bike with several visible identifiers. Rear fender is damaged on the right-middle side, flattened and covered with black electrical tape. Front headlight reflector is broken (light still present but missing reflector). Gear shifter (belt drive) has a cut/damaged rubber grip.\r\n\r\nRear rack mounting points (for panniers) are wrapped with black duct tape on the upper sections. Seat post is marked “29.5” with blue tape and black writing. Bike has a black leather seat.\r\n\r\nRear wheel has a deeper dish with black spokes, while the front wheel has a shallower dish with silver spokes.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "C380+ ultimate",
+      "id": 3374925,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021272/large_IMG_2401.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Gazelle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GZ 61722250",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.43
+      ],
+      "stolen_location": "San Francisco, CA 94114, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021272/small_IMG_2401.jpeg",
+      "title": "2023 Gazelle C380+ ultimate",
+      "url": "https://bikeindex.org/bikes/3374925",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777086000,
+      "description": "Synapse, BallisTec Carbon, Di2 ready, SAVE PLUS, BB30A",
+      "frame_colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Synapse Carbon 5 105",
+      "id": 3374902,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021242/large_20150713_191630.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HM83192",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.68,
+        -112.3
+      ],
+      "stolen_location": "Sun City, AZ 85373, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021242/small_20150713_191630.jpeg",
+      "title": "2014 Cannondale Synapse Carbon 5 105",
+      "url": "https://bikeindex.org/bikes/3374902",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777075200,
+      "description": "Giant Revel Black bike. 29inch wheels. Stolen from Frattalone’s Hardware on Grand Avenue Friday April 24. Has rack over rear wheel. Bike King sticker underneath water bottle the water bottle holder",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Revel",
+      "id": 3375089,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021412/large_IMG_6990.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C94S3024",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021412/small_IMG_6990.jpeg",
+      "title": "2017 Giant Revel",
+      "url": "https://bikeindex.org/bikes/3375089",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777068000,
+      "description": "",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Diverge 4 Sport Alloy",
+      "id": 3378953,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023397/large_IMG_20260410_091532_790.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC030010191X",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.43,
+        -121.95
+      ],
+      "stolen_location": "San Jose, CA 95134, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023397/small_IMG_20260410_091532_790.jpg",
+      "title": "2025 Specialized Diverge 4 Sport Alloy",
+      "url": "https://bikeindex.org/bikes/3378953",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777017600,
+      "description": "Step-Thru E-Bike",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "22CB2702YD",
+      "id": 3374775,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021143/large_6859.jpg",
+      "location_found": null,
+      "manufacturer_name": "Concord Recreation",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "605231206931",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021143/small_6859.jpg",
+      "title": "2024 Concord Recreation 22CB2702YD",
+      "url": "https://bikeindex.org/bikes/3374775",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777010400,
+      "description": "- Red fabric seat\r\n- rear wheel has 8 BROKEN SPOKES at the time of theft (all snapped at the center end, but are still attached at the rim end)\r\n- Brake cable and lever has been removed, but the mounting point remains on the right handlebar\r\n- Some exposed components are rusty (crankshaft, axle nuts)\r\n- Chain is quite loose, and hits the frame when the bike is dropped\r\n- Lock on handlebar grips with a bit of wear\r\n- Handlebar is angled slightly forward of parallel with the fork",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rant",
+      "id": 3374505,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020934/large_bmx__1_.png",
+      "location_found": null,
+      "manufacturer_name": "Subrosa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RS180405155",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2M 1M2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020934/small_bmx__1_.png",
+      "title": "Subrosa Rant",
+      "url": "https://bikeindex.org/bikes/3374505",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777003200,
+      "description": "Black metal rear rack in the back and fabric pouch under the seat",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Alysa 3",
+      "id": 3374595,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021025/large_79762041846__9BA57D7C-1BCB-424B-A44F-29C3547F4DBE.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021025/small_79762041846__9BA57D7C-1BCB-424B-A44F-29C3547F4DBE.jpeg",
+      "title": "2017 Raleigh Alysa 3",
+      "url": "https://bikeindex.org/bikes/3374595",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776924000,
+      "description": "FACT 11m carbon front triangle, 29\" geometry, FACT IS construction, gussetless TT (S/M), FACT carbon seatstays w/carbon non-drive DO and chainstays, tapered HT, carbon PF30 BB, 142mm dropouts, sealed cartridge bearing pivots, replaceable derailleur hanger, 100mm\r\n\r\nAftermarket changes:\r\n- single front crank\r\n- 1in grip extensions\r\n- SPD pedals\r\n",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "S-Works Epic Carbon 29 XTR",
+      "id": 3374054,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020563/large_PXL_20221022_192703322.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604111270H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.37,
+        -111.93
+      ],
+      "stolen_location": "Tempe, AZ 85283, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020563/small_PXL_20221022_192703322.jpg",
+      "title": "2013 Specialized S-Works Epic Carbon 29 XTR",
+      "url": "https://bikeindex.org/bikes/3374054",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777309200,
+      "description": "S-Works FACT 10m carbon, Az1 construction, semi-compact Tricross design, Zertz inserts, OS BB, rack and fender fittings",
+      "frame_colors": [
+        "Red",
+        "White"
+      ],
+      "frame_model": "S-Works Tricross Carbon",
+      "id": 3373926,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020412/large_IMG_0204.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WUD094048249E",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        34.02,
+        -118.4
+      ],
+      "stolen_location": "Culver City, CA 90232, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020412/small_IMG_0204.jpeg",
+      "title": "2009 Specialized S-Works Tricross Carbon",
+      "url": "https://bikeindex.org/bikes/3373926",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776877200,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Larkspur",
+      "id": 3377569,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022368/large_70129890252__745FE37C-C82C-4762-A528-E86635253DC1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.04,
+        -118.45
+      ],
+      "stolen_location": "Los Angeles, CA 90025, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022368/small_70129890252__745FE37C-C82C-4762-A528-E86635253DC1.jpeg",
+      "title": "Marin Bikes Larkspur",
+      "url": "https://bikeindex.org/bikes/3377569",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776859200,
+      "description": "it has No plastics on the bike besides the front plate and front fender. it has the wrong seat, it’s not a yz it’s a ktm seat with a tear in the back of the seat. it has cut marks/hoes on the bottom of the seat. the front axel is the wrong size, the nut on the front axel is a nut for a fourwheeler axel. it has one yellow pro taper grip, blue hubs on the rims, it has a pro circuit exhaust, it has a messed up sprocket and the rear brakes don’t work and the front barley work, the clutch and front brake levers are broken.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "yz250f",
+      "id": 3373683,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020180/large_IMG_4332.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Yamaha",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.1,
+        -95.95
+      ],
+      "stolen_location": "Bellevue, NE 68123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020180/small_IMG_4332.jpeg",
+      "title": "2002 Yamaha yz250f",
+      "url": "https://bikeindex.org/bikes/3373683",
+      "year": 2002,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776762000,
+      "description": "Upgraded with light blue handles, Magura MT7 pro brakes and separeted locker for front and rear shocks.\r\nA small black rectangle under the rear base is specific only to this bike.",
+      "frame_colors": [
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "scalpel carbon lefty",
+      "id": 3373264,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019815/large_20260221_192455.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OA31120",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.11,
+        -1.01
+      ],
+      "stolen_location": "Croix Chapeau, 17220, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019815/small_20260221_192455.jpg",
+      "title": "2024 Cannondale scalpel carbon lefty",
+      "url": "https://bikeindex.org/bikes/3373264",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776726000,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Storm 2",
+      "id": 3377445,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1022307/large_207.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.42,
+        -113.45
+      ],
+      "stolen_location": "Edmonton, T6X 0Z4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1022307/small_207.jpg",
+      "title": "Norco Bikes Storm 2",
+      "url": "https://bikeindex.org/bikes/3377445",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776715200,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "TeamMachine ALR01",
+      "id": 3373020,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019656/large_61f73.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "871909M07",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.08
+      ],
+      "stolen_location": "Cambridge, MA 02142, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019656/small_61f73.jpeg",
+      "title": "BMC TeamMachine ALR01",
+      "url": "https://bikeindex.org/bikes/3373020",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776704400,
+      "description": null,
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Men’s Epic Comp",
+      "id": 3372959,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019517/large_IMG_2624.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC614102481N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019517/small_IMG_2624.jpeg",
+      "title": "2018 Specialized Men’s Epic Comp",
+      "url": "https://bikeindex.org/bikes/3372959",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776690000,
+      "description": "26”woman’s/beach cruiser Unite,color pink/tangerine,browncream seat,Tires make bike stands out Brown/Cream sidewalls",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Panama Jack/26 in womans",
+      "id": 3384790,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026944/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Beach cruiser",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        28.5,
+        -81.53
+      ],
+      "stolen_location": "Windermere, FL 34786, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026944/small_image.jpg",
+      "title": "2016 Beach cruiser Panama Jack/26 in womans",
+      "url": "https://bikeindex.org/bikes/3384790",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

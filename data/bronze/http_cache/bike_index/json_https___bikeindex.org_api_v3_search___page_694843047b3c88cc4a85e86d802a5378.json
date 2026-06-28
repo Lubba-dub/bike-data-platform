@@ -1,0 +1,755 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1695751200,
+      "description": "Full Suspension. \r\n\r\nUpgraded Parts:\r\n- Rear Air Shock (Aria 2.1)\r\n- Air Fork\r\n- Handlebars\r\n- Rockbros Flat MTB Pedals\r\n- Formula One Hydraulic Brakes\r\n- Upgraded Cassette (10 disc rear)\r\n\r\nContact Jonathan at (208) 573-2665\r\nor Alyssa at (208) 573-1436",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Recoil",
+      "id": 764482,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/266662/large_Diamondback_Recoil.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A871-6 / U93K60068",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.59,
+        -116.19
+      ],
+      "stolen_location": "Boise, ID 83706, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/266662/small_Diamondback_Recoil.jpg",
+      "title": "Diamondback Recoil",
+      "url": "https://bikeindex.org/bikes/764482",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1695518877,
+      "description": "Beautiful forest green Kronos with black handlebar tape, a rack, and black fenders. Flat, beat-up mtb pedals. Stolen with a blue pannier and a black helmet.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "kronos",
+      "id": 1668421,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/751017/large_tempImage42FiaW.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GD593892",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.72,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98125, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/751017/small_tempImage42FiaW.jpg",
+      "title": "Giant kronos",
+      "url": "https://bikeindex.org/bikes/1668421",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1695333600,
+      "description": "Old photo, it currently has bright blue rubber handlebar grips (Bontrager) and a bright blue rubber phone holder on the handlebars (Nite Ize Handleband). Doesn't shift gears very smoothly and probably needed the tires replaced.",
+      "frame_colors": [
+        "Blue",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "7.1 FX",
+      "id": 1667610,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/750509/large_IMG_0711.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.28,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78712, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/750509/small_IMG_0711.jpg",
+      "title": "2011 Trek 7.1 FX",
+      "url": "https://bikeindex.org/bikes/1667610",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1695088800,
+      "description": "Vintage hardtail Specialized Rockhopper MTB. Front (silver) and rear (black) rack with a wire basket ziptied to the front rack. Has a number of stickers on the frame (Carhartt, Yosemite, Noah, Rock 'n Roll, etc.). Has a brown leather Brooks seat.",
+      "frame_colors": [
+        "Black",
+        "Purple",
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "Rockhopper",
+      "id": 1666702,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/750119/large_rhop.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GR987583",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.1
+      ],
+      "stolen_location": "Cambridge, MA 02139, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/750119/small_rhop.jpeg",
+      "title": "1987 Specialized Rockhopper",
+      "url": "https://bikeindex.org/bikes/1666702",
+      "year": 1987,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694984400,
+      "description": "Custom build, Race Face NEXT seat Post and handlebars, Carbon 27.5+ Wheels with I9 Hubs.\r\nFox Talus Fork with orange decals.\r\nFrame Pivot 429 Trail\r\nNextie Carbon Fiber 650B/27.5\" MTB Rim 40mm \r\nGuide/RSC X0 Trail Disc Brakes\r\n34 TALAS 29 140 3Pos-Adj FIT4 Fork\r\nNext SL Seatpost\r\nTurbine 35mm Stem\r\nX01 2.1 Rear Derailleur\r\nXX1 X-Dome Cassette\r\nX01 Trigger Shifter\r\nRace Face Next Carbon Bars\r\nChris King Headset\r\nErgon GA2 Grips\r\nStem Cap Arizona trail (Custom)\r\nK-edge Adjustable Stem Mount\r\nWTB Seat Volt Team\r\nMaxxis Tires\r\nIndustry Nine Torce Mnt Rear Hub\r\nCrankbrothers Pedals Candy 3\r\nArundel bottle Cage\r\nBell\r\n\r\nOneUp EDC Pump",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Mach 429 Trail",
+      "id": 1662682,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/748298/large_IMG_1562.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pivot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XKG3233",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.71,
+        -111.74
+      ],
+      "stolen_location": "Millcreek, UT 84109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/748298/small_IMG_1562.jpeg",
+      "title": "2015 Pivot Mach 429 Trail",
+      "url": "https://bikeindex.org/bikes/1662682",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694880000,
+      "description": "ca. 2500 km, Fully Ständer schwarz (Farbe in der Mitte etwas abgescheuert) Kabel sind vor dem Lenker mit Clips verbunden",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "e-mtb",
+      "id": 1663150,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/748581/large_scott-strike-eride-920.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2435150009799",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.83,
+        12.76
+      ],
+      "stolen_location": "Lienz, 9900, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/748581/small_scott-strike-eride-920.jpg",
+      "title": "2022 SCOTT e-mtb",
+      "url": "https://bikeindex.org/bikes/1663150",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694210400,
+      "description": "This Matte Baja Yellow bike started out as a Rail 9.8 XT Gen 4 but was customized with the following upgrades:\r\n* Bontrager Line Elite 30 carbon wheelset\r\n* Bontrager RSL MTB carbon one-piece handlebar & stem combo\r\n* SRAM GX AXS derailleur & controller\r\n* OneUp 180mm dropper seatpost\r\n* OneUp chainguide\r\n* Magura MT7 Pro brakeset with MDR-P 220mm/203mm rotors\r\n* Oak Components Root-Lever Pro brake lever blades (installation 95% complete other than the BAT plugs & covers)\r\n* Shimano M8120 Trail SPR pedals installed at the time of loss",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Rail Gen 4",
+      "id": 1658206,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/745922/large_Rail_side.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU223QU0085T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.71
+      ],
+      "stolen_location": "Portland, OR 97205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/745922/small_Rail_side.jpg",
+      "title": "2023 Trek Rail Gen 4",
+      "url": "https://bikeindex.org/bikes/1658206",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694122200,
+      "description": "Bike has Mirrycle MTB bar end mirror on left side of handlebar, CatEye Velo 9 bike computer (wired) and Trek bike rear rack.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "CTY 1.2",
+      "id": 1686912,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "I22007702",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.64
+      ],
+      "stolen_location": "Or   Portland, OR 97211, US",
+      "thumb": null,
+      "title": "2023 REI Co-op CTY 1.2",
+      "url": "https://bikeindex.org/bikes/1686912",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1693972672,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "MTB",
+      "id": 1654766,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/743893/large_2021-11-16_09.20.17.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rock Lobster",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AC-612",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.9,
+        -122.26
+      ],
+      "stolen_location": "Berkeley, CA 94708, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/743893/small_2021-11-16_09.20.17.jpg",
+      "title": "2021 Rock Lobster MTB",
+      "url": "https://bikeindex.org/bikes/1654766",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1693245600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "TR 100 RR MTB GREY",
+      "id": 1649081,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.25,
+        4.5
+      ],
+      "stolen_location": "Schoten, 2900, BE",
+      "thumb": null,
+      "title": "2023 Decathlon TR 100 RR MTB GREY",
+      "url": "https://bikeindex.org/bikes/1649081",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1696415400,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Hardrock Sport",
+      "id": 1648878,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MTB-110PP 590",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "Specialized Hardrock Sport",
+      "url": "https://bikeindex.org/bikes/1648878",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1692914400,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Hydroformed 6061 T6 Aluminum Frame",
+      "id": 1646254,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/739103/large_IMG_4748.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.95,
+        -114.06
+      ],
+      "stolen_location": "Calgary, T2J 6R9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/739103/small_IMG_4748.jpeg",
+      "title": "2023 GT Bicycles Hydroformed 6061 T6 Aluminum Frame",
+      "url": "https://bikeindex.org/bikes/1646254",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1692753076,
+      "description": "Electric Bike. White with Blue accents. PLEASE HELP!",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Adults 26”, Electric Mountain Bicycle 350W Motor, 20MPH Victor 2.0 with 36V 10.4Ah Removable Battery, E-MTB with Shimano 21 Speed Gears, Upgraded Adjustable stem",
+      "id": 1644795,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Totem",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2023 Totem Adults 26”, Electric Mountain Bicycle...",
+      "url": "https://bikeindex.org/bikes/1644795",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1692748800,
+      "description": "Rangefinder front suspension mtb",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Rangefinder",
+      "id": 1644770,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/738467/large_IMG_2468.jpg",
+      "location_found": null,
+      "manufacturer_name": "Salsa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H19A04050",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/738467/small_IMG_2468.jpg",
+      "title": "2020 Salsa Rangefinder",
+      "url": "https://bikeindex.org/bikes/1644770",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1691928000,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Blue"
+      ],
+      "frame_model": "MTB",
+      "id": 1575644,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/734640/large_IMG_0694.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Fischer",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CS19813405",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.19,
+        8.09
+      ],
+      "stolen_location": "Landau, 76829, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/734640/small_IMG_0694.jpeg",
+      "title": "Fischer MTB",
+      "url": "https://bikeindex.org/bikes/1575644",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1691481600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Moonraker 27.5 MTB",
+      "id": 1642692,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1201104183",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.12
+      ],
+      "stolen_location": "Calgary, T2T 5H9, CA",
+      "thumb": null,
+      "title": "2021 Diamondback Moonraker 27.5 MTB",
+      "url": "https://bikeindex.org/bikes/1642692",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1690336800,
+      "description": "Black Trek Roscoe 6 mtb with bigger tires but not a fat bike. Red trek logo and handle bar grips.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roscoe 6",
+      "id": 1563201,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/727573/large_E0F78FBD-E9CA-4C6B-88A0-F175CF2221A1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU009JC0865S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/727573/small_E0F78FBD-E9CA-4C6B-88A0-F175CF2221A1.jpeg",
+      "title": "2021 Trek Roscoe 6",
+      "url": "https://bikeindex.org/bikes/1563201",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1690254000,
+      "description": "Good condition MTB - 27.5” wheels, hydraulic discs, 2x10 MTB",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Dragon",
+      "id": 1562082,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/726821/large_IMG_6199.png",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -105.25
+      ],
+      "stolen_location": "Boulder, CO 80305, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/726821/small_IMG_6199.png",
+      "title": "2017 Jamis Dragon",
+      "url": "https://bikeindex.org/bikes/1562082",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1689878480,
+      "description": "Rear fender and kickstand.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MTB hardtail",
+      "id": 1559119,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.72,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98125, US",
+      "thumb": null,
+      "title": "2020 Raleigh MTB hardtail",
+      "url": "https://bikeindex.org/bikes/1559119",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1689535800,
+      "description": "Yeti turquoise frame. Handle bar had Blue break handles with neon yellow handle grips and a quadlock attachment for the a cellphone. Maxxis tires and LOOK Cycle - X-Track En-Rage MTB Pedals.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "SB5.5 Carbon series",
+      "id": 1557422,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/723508/large_1000012664.jpg",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1G3FD410002",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.22,
+        -118.66
+      ],
+      "stolen_location": "Canoga Park, CA 91304, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/723508/small_1000012664.jpg",
+      "title": "2018 Yeti SB5.5 Carbon series",
+      "url": "https://bikeindex.org/bikes/1557422",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1689372000,
+      "description": "Grey with black letters with a small orange stripe on the frame",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "MTB",
+      "id": 1556445,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/723011/large_received_1657289171458410.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "022025890",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.23,
+        -119.09
+      ],
+      "stolen_location": "Pasco, WA 99301, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/723011/small_received_1657289171458410.jpeg",
+      "title": "Marin Bikes MTB",
+      "url": "https://bikeindex.org/bikes/1556445",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688259600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "MTB",
+      "id": 1548468,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/717919/large_A1927400-2FB7-419B-B550-C122C6509E4D.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MAR30752927E",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.08,
+        -114.0
+      ],
+      "stolen_location": "Calgary, T1Y 7E3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/717919/small_A1927400-2FB7-419B-B550-C122C6509E4D.jpeg",
+      "title": "2022 Trek MTB",
+      "url": "https://bikeindex.org/bikes/1548468",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688259297,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "MTB",
+      "id": 1548466,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/717921/large_BC0598F6-75E7-4E21-AD55-3EC8F2C290B6.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU270G0426S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.08,
+        -114.0
+      ],
+      "stolen_location": "Calgary, T1Y 7E3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/717921/small_BC0598F6-75E7-4E21-AD55-3EC8F2C290B6.jpeg",
+      "title": "2022 Trek MTB",
+      "url": "https://bikeindex.org/bikes/1548466",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688151600,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "MTB",
+      "id": 1548809,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW03869MCAS",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.39,
+        4.65
+      ],
+      "stolen_location": "Haarlem, NH, NL",
+      "thumb": null,
+      "title": "2020 Cube MTB",
+      "url": "https://bikeindex.org/bikes/1548809",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688140800,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "MTB",
+      "id": 1548798,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/718069/large_20201025_130610.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW50343PSHG",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.39,
+        4.63
+      ],
+      "stolen_location": "Haarlem, NH 2011, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/718069/small_20201025_130610.jpg",
+      "title": "2021 Cube MTB",
+      "url": "https://bikeindex.org/bikes/1548798",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

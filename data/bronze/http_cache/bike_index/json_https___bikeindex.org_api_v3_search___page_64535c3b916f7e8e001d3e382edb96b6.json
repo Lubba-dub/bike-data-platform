@@ -1,0 +1,759 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1773795857,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "World cup",
+      "id": 3351911,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009761/large_IMG_9629.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97232, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009761/small_IMG_9629.jpeg",
+      "title": "Colnago World cup",
+      "url": "https://bikeindex.org/bikes/3351911",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773795723,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Word cup",
+      "id": 3351908,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009760/large_IMG_9629.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97232, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009760/small_IMG_9629.jpeg",
+      "title": "Colnago Word cup",
+      "url": "https://bikeindex.org/bikes/3351908",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772589600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "C68 Disc Ultegra Di2 550 HRAU, Vision SC45",
+      "id": 3348090,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AB2719",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.17,
+        14.61
+      ],
+      "stolen_location": "Radomlje, 1235, SI",
+      "thumb": null,
+      "title": "2026 Colnago C68 Disc Ultegra Di2 550 HRAU, Vision...",
+      "url": "https://bikeindex.org/bikes/3348090",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772402400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "World Cup CX 59cm",
+      "id": 3345718,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1005712/large_IMG_2014.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0T95FA278",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.02,
+        -93.24
+      ],
+      "stolen_location": "Minneapolis, MN 55418, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1005712/small_IMG_2014.jpg",
+      "title": "2009 Colnago World Cup CX 59cm",
+      "url": "https://bikeindex.org/bikes/3345718",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771084800,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Orange",
+        "White"
+      ],
+      "frame_model": "Ovalmaster Titanio Rabobank",
+      "id": 3339263,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1003099/large_7e5a3d73-50b3-478c-8967-a86a4a209bc7.JPG",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1003099/small_7e5a3d73-50b3-478c-8967-a86a4a209bc7.JPG",
+      "title": "1999 Colnago Ovalmaster Titanio Rabobank",
+      "url": "https://bikeindex.org/bikes/3339263",
+      "year": 1999,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762243200,
+      "description": "It's a black ebike that folds up with fat tires headlight and brake light. There is a throttle on right side handle bars also fold up and adjust with quick release. It has a back rack that also is used for a seat when you purchase the cushion for it. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding step through",
+      "id": 3219716,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982790/large_1000011634.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BK6MWBT202304180377",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.58,
+        -113.89
+      ],
+      "stolen_location": "Spruce Grove, T7X 4M4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982790/small_1000011634.jpg",
+      "title": "2023 Colnago Folding step through",
+      "url": "https://bikeindex.org/bikes/3219716",
+      "year": 2023,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760924679,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CX1",
+      "id": 3217599,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/978560/large_IMG_7411.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.69,
+        -79.26
+      ],
+      "stolen_location": "Toronto, M1N 1G3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/978560/small_IMG_7411.jpeg",
+      "title": "2015 Colnago CX1",
+      "url": "https://bikeindex.org/bikes/3217599",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758697140,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CLD",
+      "id": 3204860,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.55,
+        -122.68
+      ],
+      "stolen_location": "Portland, OR 97227, US",
+      "thumb": null,
+      "title": "Colnago CLD",
+      "url": "https://bikeindex.org/bikes/3204860",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757239200,
+      "description": "Silver Colnago with no serial number, a #32 inscribed on the drive side dropout and a clover cavity at the bottom bracket. The fork has imprinted clovers. The stickers are black with a yellow border. On the seat tube there is only one rainbow sticker above the colnago letters. \r\n\r\nThe bike is currently equipped with campangolo shifters and rear deraillleur, ultegra wheels, ultegra front shifter, ultegra cranks, and ultegra brakes. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Colnago Super",
+      "id": 3190889,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966992/large_IMG_9135.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966992/small_IMG_9135.jpeg",
+      "title": "1970 Colnago Colnago Super",
+      "url": "https://bikeindex.org/bikes/3190889",
+      "year": 1970,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755158400,
+      "description": "Size 530",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "C68",
+      "id": 3059820,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/953651/large_images.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R680TU.530.AA9567",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.98,
+        2.85
+      ],
+      "stolen_location": "Girona, 17004, ES",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/953651/small_images.jpg",
+      "title": "2025 Colnago C68",
+      "url": "https://bikeindex.org/bikes/3059820",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750046400,
+      "description": "Colnago c60. \r\nGehele fiets Campagnolo 80th anniversay onderdelen. \r\nWielset campagnolo 80th anniversary\r\nGiant zadel.\r\n",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "C60",
+      "id": 2826903,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/932580/large_Screenshot_20250522_154031_DuckDuckGo.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.38,
+        4.9
+      ],
+      "stolen_location": "Amsterdam, 1012LL, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/932580/small_Screenshot_20250522_154031_DuckDuckGo.jpg",
+      "title": "2015 Colnago C60",
+      "url": "https://bikeindex.org/bikes/2826903",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748527200,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "C68 ti",
+      "id": 2810797,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/921908/large_IMG_2827.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R68TTU.485.AA4794",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.96,
+        7.46
+      ],
+      "stolen_location": "Bern, 3014, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/921908/small_IMG_2827.jpeg",
+      "title": "2022 Colnago C68 ti",
+      "url": "https://bikeindex.org/bikes/2810797",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746450000,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "frame_model": "C50",
+      "id": 2796791,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913145/large_IMG_8848.png",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913145/small_IMG_8848.png",
+      "title": "2004 Colnago C50",
+      "url": "https://bikeindex.org/bikes/2796791",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741572000,
+      "description": "Scratch on V3 logo on upper tube, SRAM force etap, Continental tires, black „Top auer“ sticker on upper tube, two bottle holders black/white",
+      "frame_colors": [
+        "Black",
+        "Red",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "V3",
+      "id": 2768806,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/899275/large_IMG_4538.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YT19K10354",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.25,
+        9.6
+      ],
+      "stolen_location": "Feldkirch, 6800, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/899275/small_IMG_4538.jpeg",
+      "title": "Colnago V3",
+      "url": "https://bikeindex.org/bikes/2768806",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741312800,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "G3-X",
+      "id": 2762172,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/895389/large_Colnago_FB.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EIC-RR15-5502212173003",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.18,
+        -118.95
+      ],
+      "stolen_location": "Thousand Oaks, CA 91320, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/895389/small_Colnago_FB.jpeg",
+      "title": "2024 Colnago G3-X",
+      "url": "https://bikeindex.org/bikes/2762172",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1734406685,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "A1r",
+      "id": 2738810,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "COLNAGOA1R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CO",
+      "thumb": null,
+      "title": "2018 Colnago A1r",
+      "url": "https://bikeindex.org/bikes/2738810",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729321200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Cxzero",
+      "id": 2730945,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876369/large_20241126_151257.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SGC4AA310",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.68
+      ],
+      "stolen_location": "Portland, OR ?, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876369/small_20241126_151257.jpg",
+      "title": "2014 Colnago Cxzero",
+      "url": "https://bikeindex.org/bikes/2730945",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721059200,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CLD /40 Ladies Colnago",
+      "id": 2688405,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/852171/large_20140817_120651.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GC2HA334",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.37,
+        -124.21
+      ],
+      "stolen_location": "Coos Bay, OR 97420, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/852171/small_20140817_120651.jpg",
+      "title": "2012 Colnago CLD /40 Ladies Colnago",
+      "url": "https://bikeindex.org/bikes/2688405",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719236709,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": null,
+      "id": 2639625,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0302015",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.9,
+        -87.68
+      ],
+      "stolen_location": "Chicago, IL 60622, US",
+      "thumb": null,
+      "title": "Colnago",
+      "url": "https://bikeindex.org/bikes/2639625",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719126961,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": null,
+      "id": 2638981,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "COLNAGO C50",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.76,
+        5.36
+      ],
+      "stolen_location": "Lourmarin, FR",
+      "thumb": null,
+      "title": "2010 Colnago",
+      "url": "https://bikeindex.org/bikes/2638981",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1712009172,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Super Columbus",
+      "id": 2578994,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/793021/large_IMG_6605.PNG",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.24
+      ],
+      "stolen_location": "Los Angeles, CA 90021, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/793021/small_IMG_6605.PNG",
+      "title": "1983 Colnago Super Columbus",
+      "url": "https://bikeindex.org/bikes/2578994",
+      "year": 1983,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1703138400,
+      "description": "Full Campy Record drivetrain. Mismatched wheels—front wheel Campagnolo, rear custom built. Zipp carbon fiber stem.  Dark gray carbon fiber frame",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "C50",
+      "id": 2721468,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XAB642 OR 3257",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97212, US",
+      "thumb": null,
+      "title": "2009 Colnago C50",
+      "url": "https://bikeindex.org/bikes/2721468",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1699369200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CLX 2.0 Ultegra",
+      "id": 655423,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/183963/large_Colnago.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/183963/small_Colnago.jpg",
+      "title": "2010 Colnago CLX 2.0 Ultegra",
+      "url": "https://bikeindex.org/bikes/655423",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1699023600,
+      "description": "Black Colnago logo in white body.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "AC-R",
+      "id": 1658568,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/746165/large_IMG_3895.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XS14080121",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.38,
+        -122.09
+      ],
+      "stolen_location": "Mountain View, CA 94040, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/746165/small_IMG_3895.jpg",
+      "title": "2015 Colnago AC-R",
+      "url": "https://bikeindex.org/bikes/1658568",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1696024800,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "52-54",
+      "id": 1676402,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/755148/large_colnago_ace.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/755148/small_colnago_ace.jpg",
+      "title": "Colnago 52-54",
+      "url": "https://bikeindex.org/bikes/1676402",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

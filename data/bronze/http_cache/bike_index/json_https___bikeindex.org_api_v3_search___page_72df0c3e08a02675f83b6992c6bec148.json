@@ -1,0 +1,760 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1674709200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "road",
+      "id": 1457542,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/671383/large_cesbike_copy.jpg",
+      "location_found": null,
+      "manufacturer_name": "Takara",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.95,
+        -90.07
+      ],
+      "stolen_location": "New Orleans, LA, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/671383/small_cesbike_copy.jpg",
+      "title": "1980 Takara road",
+      "url": "https://bikeindex.org/bikes/1457542",
+      "year": 1980,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1673370000,
+      "description": "Red Islabike Beinn 24. White and blue spoke reflectors on both wheels. Worn away bar end handle on one side. Mismatched metal pedals. Red bottle cage and red cable lock. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Beinn 24",
+      "id": 1455262,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/669480/large_324750941_659334475879492_4260167413854497084_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Islabikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.44,
+        0.01
+      ],
+      "stolen_location": "London, SE12 0NJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/669480/small_324750941_659334475879492_4260167413854497084_n.jpg",
+      "title": "2012 Islabikes Beinn 24",
+      "url": "https://bikeindex.org/bikes/1455262",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1670486400,
+      "description": "Silver Series aluminum",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Advance",
+      "id": 1449222,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/664564/large_Gary_Fisher_Bike.SN_Picture.JPG",
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OBSCURED -SEE PIC",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/664564/small_Gary_Fisher_Bike.SN_Picture.JPG",
+      "title": "2003 Gary Fisher Advance",
+      "url": "https://bikeindex.org/bikes/1449222",
+      "year": 2003,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1667890800,
+      "description": "Size 56. Bike is a black/red road bike with drop bars that have Sprintech mirrors extending from the ends. An adjustable stem (Satori) is installed on bike. Pedals (Shimano) are flat on one side, with clips on the other. Wheels are locked to bike frame using Pinhead Bicycle Locking Skewers. Bike has a black Topeak rear rack attached. Tires are made by Pirelli.",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Allez E5 Sport",
+      "id": 1464340,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/675625/large_2017_Allez_E5_Sport.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC606072177M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.83,
+        -122.26
+      ],
+      "stolen_location": "Oakland, CA 94609, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/675625/small_2017_Allez_E5_Sport.jpg",
+      "title": "2017 Specialized Allez E5 Sport",
+      "url": "https://bikeindex.org/bikes/1464340",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1667674800,
+      "description": "A “red” electric bike with thermal bag/box at the back (when it was stolen). Small square shape brown bag consist of rain coat dangling at the right side of the back wheel. Both paddle has scratched marks. Handle bar with a small rubber band in mid-axis",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Core Elite 3D hybrid",
+      "id": 1434824,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/654796/large_A1340040-044C-4113-BA6F-9812517E069F.jpeg",
+      "location_found": null,
+      "manufacturer_name": "iGo Electric Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XYA8306611",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.18,
+        -123.13
+      ],
+      "stolen_location": "Richmond, V6X 3A9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/654796/small_A1340040-044C-4113-BA6F-9812517E069F.jpeg",
+      "title": "2022 iGo Electric Bikes Core Elite 3D hybrid",
+      "url": "https://bikeindex.org/bikes/1434824",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1665284400,
+      "description": "Black bike with indigo writing of FUJI on the side. It is a road bike. It has bright purple large pedals and a small metallic purple bell. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Absolute 3.0",
+      "id": 1377838,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": null,
+      "title": "2014 Fuji Absolute 3.0",
+      "url": "https://bikeindex.org/bikes/1377838",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663941600,
+      "description": "Bike is Trek's \"Miami Green\".\r\nStolen from garage (locked) betw. afternoon of 9/18/22-9/22/22\r\nDisc brakes, front suspension, dropper seat post, some frame damage on drivetrain side; Garmin rubber-ring mount & bottle cage on handle bar; Crank Bros(?) turq. platform pedals; Ergon grips",
+      "frame_colors": [
+        "Teal",
+        "Black"
+      ],
+      "frame_model": "Roscoe 7",
+      "id": 1404991,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/640310/large_IMG_9207.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/640310/small_IMG_9207.jpeg",
+      "title": "2018 Trek Roscoe 7",
+      "url": "https://bikeindex.org/bikes/1404991",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663711200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Allez Elite E5 Road Bike",
+      "id": 1403755,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/639345/large_AA0005D2-DE7A-4EE9-9188-2F86C96595A1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC006056224",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.23,
+        -77.87
+      ],
+      "stolen_location": "Wilmington, NC 28403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/639345/small_AA0005D2-DE7A-4EE9-9188-2F86C96595A1.jpeg",
+      "title": "2022 Specialized Allez Elite E5 Road Bike",
+      "url": "https://bikeindex.org/bikes/1403755",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1662807600,
+      "description": "Brand new Standert Kreissage Disc road bike in paceline peach with white accents and blue text. Look Keo Carbon pedals, Sram Force Etap AXS groupset, Vittoria Corsa 28c Tan Wall tires, CeramicSpeed OSPW System Coated pulley.",
+      "frame_colors": [
+        "Pink",
+        "White"
+      ],
+      "frame_model": "Dreissage Disc",
+      "id": 1397144,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/635206/large_Standert.png",
+      "location_found": null,
+      "manufacturer_name": "Standert",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/635206/small_Standert.png",
+      "title": "2022 Standert Dreissage Disc",
+      "url": "https://bikeindex.org/bikes/1397144",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1661752800,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 1385248,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.44,
+        -113.57
+      ],
+      "stolen_location": "Edmonton, T6R 0S9, CA",
+      "thumb": null,
+      "title": "2011 Specialized",
+      "url": "https://bikeindex.org/bikes/1385248",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1660206000,
+      "description": "There is a significant amount of scraping on the right brake handle and housing from an accident last year. The horn on the bike was also not functioning at the time of the theft. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "RX",
+      "id": 1371929,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/623366/large_IMG_1341.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Super73",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8A2AD0229F71F2FE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.35,
+        -71.16
+      ],
+      "stolen_location": "Brighton, MA 02135, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/623366/small_IMG_1341.jpeg",
+      "title": "2021 Super73 RX",
+      "url": "https://bikeindex.org/bikes/1371929",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1659952800,
+      "description": "Matt black aluminium track single speed bike, no brakes or gears. Alpina fork, sugino zen chainring, omnium cranks, skin grows back pink straps, black pedals. Phil wood pink anodised hub, matt black Campagnolo campy Omega rims. Sugino zen chainring omnium cranks Thompson Stem Deda risers / Oury grips Specialized ruby saddle Patrick star & LOVE sculpture dongles on the seat (lol) pink road runner straps / bmx pedals Pink anodised seat post Campy Omega rims - front laced to pink purple Phil wood hub, back I think suntour or campy (silver) Euro cog Low MKII 2014/15 Matt Black 52 Aluminium Alpina track carbon fork\r\nDent - damage to TT on right hand side, about 8cm indent. ",
+      "frame_colors": [
+        "Black",
+        "Pink"
+      ],
+      "frame_model": "MKII",
+      "id": 2754330,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889942/large_Screenshot_20220808-202239_Instagram.jpg",
+      "location_found": null,
+      "manufacturer_name": "LOW//",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.84,
+        144.99
+      ],
+      "stolen_location": "South Yarra, 3141, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889942/small_Screenshot_20220808-202239_Instagram.jpg",
+      "title": "2015 LOW// MKII",
+      "url": "https://bikeindex.org/bikes/2754330",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1659650400,
+      "description": "It's a good condition road commuter bike, with lights front and back, with a mud gard.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Saber KENT",
+      "id": 1360261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/616429/large_received_790573654955003.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Genesis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.13,
+        -77.6
+      ],
+      "stolen_location": "Rochester, NY 14620, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/616429/small_received_790573654955003.jpeg",
+      "title": "Genesis Saber KENT",
+      "url": "https://bikeindex.org/bikes/1360261",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1658084400,
+      "description": "Women's black Colnago CLR bike with a matte finish and the brand is in a glossy black paint. Campagnolo carbon wheels. guessing it is a 2017, but maybe 2016? Added second set of brake levers on handlebars. ",
+      "frame_colors": [
+        "Black",
+        "Black"
+      ],
+      "frame_model": "road",
+      "id": 435822,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/137317/large_IMG_5454.JPG",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GC5MA150",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.43,
+        -122.25
+      ],
+      "stolen_location": "Woodside, CA 94062, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/137317/small_IMG_5454.JPG",
+      "title": "2017 Colnago road",
+      "url": "https://bikeindex.org/bikes/435822",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1657922400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Men's large frame12 speed (road)",
+      "id": 1417876,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2M 1V2, CA",
+      "thumb": null,
+      "title": "1985 Raleigh Men's large frame12 speed (road)",
+      "url": "https://bikeindex.org/bikes/1417876",
+      "year": 1985,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1654808400,
+      "description": "The steel frame is glossy army green with light blue bands in the top, seat and down tube, but also in the fork. The bike was a bit more than 2 years older and in very good conditions. You can find additional information about the bike here (incl. pictures): You can find a picture of the bike at this website: https://www.thelightblue.co.uk/Sport/5LB9R2572G/Robinson-V2-105-R7000",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Reynolds 725",
+      "id": 1321642,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/590791/large_7F8046E2-D6DD-41F4-BDCD-2E82B857C9B4.jpg",
+      "location_found": null,
+      "manufacturer_name": "The Lightblue J.A. Townsend Cambridge",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LBR11810079",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.53,
+        -0.11
+      ],
+      "stolen_location": "London, EC1R 4TY, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/590791/small_7F8046E2-D6DD-41F4-BDCD-2E82B857C9B4.jpg",
+      "title": "2020 The Lightblue J.A. Townsend Cambridge Reynolds 725",
+      "url": "https://bikeindex.org/bikes/1321642",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1653854400,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Nomad",
+      "id": 1307550,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/577474/large_Nomad.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS 1712 P-1 06-15.C",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.38,
+        -122.18
+      ],
+      "stolen_location": "Palo Alto, CA 94304, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/577474/small_Nomad.jpg",
+      "title": "2018 Santa Cruz Nomad",
+      "url": "https://bikeindex.org/bikes/1307550",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1649818800,
+      "description": "A 3x8 speed road bike. Says \"Giant\" in large letters on the side. right downshifter lever is broken off. Has a small bell on the right side.",
+      "frame_colors": [
+        "Black",
+        "Purple"
+      ],
+      "frame_model": "Escape 1",
+      "id": 1267254,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/555689/large_BIKE.png",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C33F4649",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.25,
+        -110.94
+      ],
+      "stolen_location": "Tucson, AZ 85719, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/555689/small_BIKE.png",
+      "title": "Giant Escape 1",
+      "url": "https://bikeindex.org/bikes/1267254",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1643241600,
+      "description": "Had mud flap above rear wheel. Had attachable LED lights on front reflector and rear seat post. Caliper brakes, notably the front pad was very worn. Chain rubbed on front derailleur so it makes clicking sound. Had a Boston Children's parking sticker on main frame. Rear wheel with dent in frame. Clip in pedals.",
+      "frame_colors": [
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "Vincenza Road Bike",
+      "id": 1212748,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/511265/large_marin_bike_1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.35,
+        -71.1
+      ],
+      "stolen_location": "Boston, MA 02215, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/511265/small_marin_bike_1_.jpg",
+      "title": "2017 Marin Bikes Vincenza Road Bike",
+      "url": "https://bikeindex.org/bikes/1212748",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1641020400,
+      "description": "Specialized Dolce Women's Road Bike 51 cm black bar tape, clipless pedals",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Dolce",
+      "id": 1262592,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/553462/large_254004590_211165441153008_5424451987447102734_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC601078361I",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.91,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55419, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/553462/small_254004590_211165441153008_5424451987447102734_n.jpg",
+      "title": "2016 Specialized Dolce",
+      "url": "https://bikeindex.org/bikes/1262592",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Green cruiser bike found stripped on side of road by Alpha House vagrants.  Have listed online for months to find owner.\r\n\r\nElectra USA\r\nJune on chain guard\r\nStreet Ride Series\r\n\r\nBottom bracket:\r\nMade in Taiwan\r\nJune-3 stamped",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "June Street Ride series cruiser",
+      "id": 1182993,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Calgary, Canada",
+      "manufacturer_name": "Electra",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Electra June Street Ride series cruiser",
+      "url": "https://bikeindex.org/bikes/1182993",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635789600,
+      "description": "It is mainly a shimano 105 groupset with ultegra brakes. The paint was stripped in the hopes of doing a custom paint job. It has a carbon fiber seat pot. There is a custom cutout on the side of the rear brake cable. It is not originally like that. The wheels are FSA.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Revenio 3.0",
+      "id": 1182960,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/494698/large_3E93A192-ED27-4D64-B363-8E3CFAAEA909.png",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GKSM08641",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/494698/small_3E93A192-ED27-4D64-B363-8E3CFAAEA909.png",
+      "title": "2013 Raleigh Revenio 3.0",
+      "url": "https://bikeindex.org/bikes/1182960",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635692400,
+      "description": "",
+      "frame_colors": [
+        "White",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Madone SL 7 etap",
+      "id": 1183698,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/495210/large_2020_Trek_Madone_SL7_eTap_WTU073QU0189R.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU073QU0189R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        27.51,
+        -81.39
+      ],
+      "stolen_location": "Sebring, FL 33870, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/495210/small_2020_Trek_Madone_SL7_eTap_WTU073QU0189R.jpg",
+      "title": "2020 Trek Madone SL 7 etap",
+      "url": "https://bikeindex.org/bikes/1183698",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635487200,
+      "description": "Navy blue road cruiser with black front and rear mudguards, rear mounted carrier rack usually equipped with a white pills speaker and right mounted grey and black side saddle. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Allant+ 7S",
+      "id": 1102987,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/494358/large_IMG_1427.PNG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU261K0665P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.45,
+        -112.07
+      ],
+      "stolen_location": "Phoenix, AZ, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/494358/small_IMG_1427.PNG",
+      "title": "2020 Trek Allant+ 7S",
+      "url": "https://bikeindex.org/bikes/1102987",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635116400,
+      "description": "Red color frame, yellow lettering with Cannondale going down the diagonal and Cad2 on the upper frame, all in yellow",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Caad2 Road Bike",
+      "id": 1182267,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/494345/large_BIKE.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -121.95
+      ],
+      "stolen_location": "Santa Clara, CA 95050, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/494345/small_BIKE.jpg",
+      "title": "Cannondale Caad2 Road Bike",
+      "url": "https://bikeindex.org/bikes/1182267",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

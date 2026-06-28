@@ -1,0 +1,761 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1596132583,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ridley X-Trail Disc 6061 aluminum",
+      "id": 827840,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/298505/large_Stolen_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "577076",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.75,
+        -79.46
+      ],
+      "stolen_location": "Toronto, M3H 2T5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/298505/small_Stolen_bike.jpg",
+      "title": "2016 Ridley Ridley X-Trail Disc 6061 aluminum",
+      "url": "https://bikeindex.org/bikes/827840",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591902301,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Damocles ISP",
+      "id": 758033,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/262061/large_D02205C7-5A98-4C6B-8FD2-F47E08DB187B.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/262061/small_D02205C7-5A98-4C6B-8FD2-F47E08DB187B.jpeg",
+      "title": "2011 Ridley Damocles ISP",
+      "url": "https://bikeindex.org/bikes/758033",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591819200,
+      "description": "Purchased from Ridley's Cycle in Calgary, AB in 2019 for my nephew who is a minor, so I'm registering it for him. \r\nTrek Marlin 5 18.5 29 M. Mountain Bike. 21 speed. Hydraulic disc brakes. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 663504,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/190623/large_IMG_7736.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU049C2748P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2R 0W8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/190623/small_IMG_7736.JPG",
+      "title": "2019 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/663504",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591524000,
+      "description": "Good condition. Had a black bike rack that I jury-rigged on using electrical clamps ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fenix AR2 Tiagra",
+      "id": 756898,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/261045/large_IMG_2035.JPG",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "533309",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94131, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/261045/small_IMG_2035.JPG",
+      "title": "2015 Ridley Fenix AR2 Tiagra",
+      "url": "https://bikeindex.org/bikes/756898",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1587500208,
+      "description": "Serial originally sent in as \" YD-B29-S4-1-508EM27 (hard to see from a blurry picture) I could send a copy \"",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XC Ridley C7 carbón small 27.5",
+      "id": 714520,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YD-B29-S4-1-508EM27",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.31,
+        -111.01
+      ],
+      "stolen_location": "Tucson, AZ 85741, US",
+      "thumb": null,
+      "title": "Ridley XC Ridley C7 carbón small 27.5",
+      "url": "https://bikeindex.org/bikes/714520",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1583600400,
+      "description": "It has drop handle bars, studded front tire, monkey lights attached to back wheel, serial number 83 6 52702, a Ridley's Bicycle Calgary sticker above the front derailleur bracket on the frame and two other stickers above it, a chrome finish front fender, and matt finish rear fender. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 698813,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/225966/large_20190816_083243.jpg",
+      "location_found": null,
+      "manufacturer_name": "Apollo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "83 6 52702",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.53
+      ],
+      "stolen_location": "Edmonton, T5M 0B6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/225966/small_20190816_083243.jpg",
+      "title": "Apollo",
+      "url": "https://bikeindex.org/bikes/698813",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1579820816,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Ridley Expo 20 disk, double extra small",
+      "id": 688671,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/217538/large_IMG_0635.PNG",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "510650",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.08
+      ],
+      "stolen_location": "Calgary, T2N1T5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/217538/small_IMG_0635.PNG",
+      "title": "2015 Ridley Ridley Expo 20 disk, double extra small",
+      "url": "https://bikeindex.org/bikes/688671",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1576231200,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Supercross",
+      "id": 610819,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "5MRD5403500",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.68
+      ],
+      "stolen_location": "Portland, OR, US",
+      "thumb": null,
+      "title": "Ridley Supercross",
+      "url": "https://bikeindex.org/bikes/610819",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1571722217,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fenix AL",
+      "id": 668674,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/195988/large_ridley-fenix-alloy-10-2016.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "622769",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/195988/small_ridley-fenix-alloy-10-2016.jpg",
+      "title": "2016 Ridley Fenix AL",
+      "url": "https://bikeindex.org/bikes/668674",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1571065200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Noah",
+      "id": 665634,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RDR70901021M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.44,
+        -112.07
+      ],
+      "stolen_location": "Phoenix, AZ 85004, US",
+      "thumb": null,
+      "title": "2010 Ridley Noah",
+      "url": "https://bikeindex.org/bikes/665634",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1567728000,
+      "description": "Has rear Bontrager Aeolus 5 TLR and Canyon Ultimate headset",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Fenix SL",
+      "id": 653986,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/182904/large_70389858_10220311455236352_6960673159540375552_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "556058",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/182904/small_70389858_10220311455236352_6960673159540375552_n.jpg",
+      "title": "2018 Ridley Fenix SL",
+      "url": "https://bikeindex.org/bikes/653986",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1565420400,
+      "description": "Purchased from Ridley's Cycle in Calgary, AB in 2016. Books saddle. Aluminum frame, hydraulic disc brakes. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "X Caliber 7",
+      "id": 663489,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/190606/large_IMG_6930.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XCA319258166",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2R 0W8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/190606/small_IMG_6930.JPG",
+      "title": "2016 Trek X Caliber 7",
+      "url": "https://bikeindex.org/bikes/663489",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1561078800,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Fenix CR2 105",
+      "id": 624568,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/164002/large_31-2748-w_b-xs_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.42
+      ],
+      "stolen_location": "Gresham, OR 97030, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/164002/small_31-2748-w_b-xs_2.jpg",
+      "title": "2015 Ridley Fenix CR2 105",
+      "url": "https://bikeindex.org/bikes/624568",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1552665600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fenix",
+      "id": 597811,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "39270800076",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.27,
+        -79.96
+      ],
+      "stolen_location": "Roanoke, VA 24016, US",
+      "thumb": null,
+      "title": "2016 Ridley Fenix",
+      "url": "https://bikeindex.org/bikes/597811",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1545267600,
+      "description": "White aluminum frame, carbon fork. “Male frame” but small enough for my comfort. ",
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 498073,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/143320/large_80DBA7BF-AB4F-4D70-BF7F-94761D41EE5B.png",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.97,
+        -90.06
+      ],
+      "stolen_location": "New Orleans, LA 70116, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/143320/small_80DBA7BF-AB4F-4D70-BF7F-94761D41EE5B.png",
+      "title": "Ridley",
+      "url": "https://bikeindex.org/bikes/498073",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1538510400,
+      "description": "Includes SKS raceblade fenders, a Tubus rear rack, and a Ergon Pro saddle",
+      "frame_colors": [
+        "Black",
+        "Teal",
+        "Purple"
+      ],
+      "frame_model": "Women's Liz Alloy 105 LI170BM",
+      "id": 435847,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/137315/large_81sUoWRK65L._SX522_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/137315/small_81sUoWRK65L._SX522_.jpg",
+      "title": "Ridley Women's Liz Alloy 105 LI170BM",
+      "url": "https://bikeindex.org/bikes/435847",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1530424800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Brown"
+      ],
+      "frame_model": "01535 15MRDS",
+      "id": 399674,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/123707/large_mike_bike_photo.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01535 15MRDS",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/123707/small_mike_bike_photo.jpg",
+      "title": "2017 Ridley 01535 15MRDS",
+      "url": "https://bikeindex.org/bikes/399674",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1530338400,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 404851,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/128033/large_Screen_Shot_2018-07-28_at_4.39.47_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97232, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/128033/small_Screen_Shot_2018-07-28_at_4.39.47_PM.png",
+      "title": "2016 Ridley",
+      "url": "https://bikeindex.org/bikes/404851",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1525500000,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Fenix SL Ultegra",
+      "id": 391828,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/116965/large_ridley_bicycle__1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "584642",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.42,
+        -119.7
+      ],
+      "stolen_location": "Santa Barbara, CA 93105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/116965/small_ridley_bicycle__1_.jpg",
+      "title": "2018 Ridley Fenix SL Ultegra",
+      "url": "https://bikeindex.org/bikes/391828",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1518933600,
+      "description": "2009 Ridley X-Fire in Red and Black with white writing.\r\nRed and white lizardskinz bar tape\r\nFizik Arione VS seat\r\nBontrager RXL 38cm carbon handlebars\r\nSpecialized Pro Comp Multi stem set to -21 degrees\r\nBontrager RXL wheels set up tubeless with Schwalbe Pro One 28mm tires\r\nFSA K-Force Light crank-set with white and blue logos, 172.5 CM\r\nDoval chain-rings (non round) 50-35 teeth\r\nShimano 5700 105 Shifters/Brakes\r\nShimano Ultegra 6700 GS medium cage rear derailleur\r\nSram 12-32 10 speed cassette\r\nCantilever brakes\r\nForte carbon bottle cage\r\nShimano PD-a530 pedals\r\nSeat bag with medial card, pump, tire levers, bike tools, extra inner tube, patches, light.\r\n",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "X-fire",
+      "id": 384141,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/111019/large_28208196_10156205533148223_48446477_o.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "147023",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/111019/small_28208196_10156205533148223_48446477_o.jpg",
+      "title": "2009 Ridley X-fire",
+      "url": "https://bikeindex.org/bikes/384141",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1516946400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fenix",
+      "id": 121087,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/109969/large_ridleybike.JPG",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "561259",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/109969/small_ridleybike.JPG",
+      "title": "2016 Ridley Fenix",
+      "url": "https://bikeindex.org/bikes/121087",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1515132000,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "Ridley",
+      "id": 381022,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "541472099257",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.02,
+        -118.29
+      ],
+      "stolen_location": "Los Angeles, CA 90089, US",
+      "thumb": null,
+      "title": "2018 Ridley Ridley",
+      "url": "https://bikeindex.org/bikes/381022",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1513404000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 380004,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/107402/large_IMG_1636.JPG",
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "532669",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -118.43
+      ],
+      "stolen_location": "Los Angeles, CA 90066, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/107402/small_IMG_1636.JPG",
+      "title": "2017 Ridley",
+      "url": "https://bikeindex.org/bikes/380004",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1508652000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "X-Fire",
+      "id": 375284,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.71,
+        -104.96
+      ],
+      "stolen_location": "Denver, CO 80209, US",
+      "thumb": null,
+      "title": "2010 Ridley X-Fire",
+      "url": "https://bikeindex.org/bikes/375284",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1507217483,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Purple",
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 373681,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Ridley",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": null,
+      "title": "2006 Ridley",
+      "url": "https://bikeindex.org/bikes/373681",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

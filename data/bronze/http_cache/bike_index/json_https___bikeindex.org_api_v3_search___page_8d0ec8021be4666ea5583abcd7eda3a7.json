@@ -1,0 +1,747 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1753491517,
+      "description": "gold bronson c medium frame. purple peddles. ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "bronson c",
+      "id": 2850241,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2023 Santa Cruz bronson c",
+      "url": "https://bikeindex.org/bikes/2850241",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753466400,
+      "description": "Cog Wild hardtail rental bike XL 2",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Chameleon",
+      "id": 2878641,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948429/large_IMG_5558.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A21M5P1CH8XLAL1826",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.06,
+        -121.32
+      ],
+      "stolen_location": "Bend, OR 97702, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948429/small_IMG_5558.jpeg",
+      "title": "2022 Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/2878641",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762542000,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Hightower",
+      "id": 2849095,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942597/large_IMG_1956.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "523E4PIHT3MDC0028",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.27,
+        -107.88
+      ],
+      "stolen_location": "Durango, CO 81303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942597/small_IMG_1956.jpeg",
+      "title": "2024 Santa Cruz Hightower",
+      "url": "https://bikeindex.org/bikes/2849095",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753250400,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Hightower C S-Kit",
+      "id": 2851281,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943918/large_IMG_2422_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S20F2P2HT22XC0014",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.05,
+        -105.28
+      ],
+      "stolen_location": "Boulder, CO 80304, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943918/small_IMG_2422_Original.jpeg",
+      "title": "2021 Santa Cruz Hightower C S-Kit",
+      "url": "https://bikeindex.org/bikes/2851281",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753207200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Highball",
+      "id": 2848448,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22H4P1HB3SMC0069",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.93,
+        -122.53
+      ],
+      "stolen_location": "Corte Madera, CA 94925-1930, US",
+      "thumb": null,
+      "title": "2023 Santa Cruz Highball",
+      "url": "https://bikeindex.org/bikes/2848448",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Missing back wheel. Front wheel has Gravelking SK. Has green hand grips",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Chameleon",
+      "id": 2847444,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Boulder, CO 80304, United States",
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/2847444",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753038000,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Hightower C",
+      "id": 2850685,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943486/large_IMG_0134.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943486/small_IMG_0134.jpg",
+      "title": "2018 Santa Cruz Hightower C",
+      "url": "https://bikeindex.org/bikes/2850685",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752994800,
+      "description": "It is all black, with blue anodized highlights, including Hope 4 blue hubs laced to E-Thirteen wheels with different/various colors spoke nipples. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Bronson Carbon C",
+      "id": 3287682,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/997412/large_70880066568__AC8BB7C8-7D60-432F-82E6-C7E97F8A3A18.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PS 1509 P-10140 L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.76,
+        -124.2
+      ],
+      "stolen_location": "Crescent City, CA 95531, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/997412/small_70880066568__AC8BB7C8-7D60-432F-82E6-C7E97F8A3A18.jpg",
+      "title": "2016 Santa Cruz Bronson Carbon C",
+      "url": "https://bikeindex.org/bikes/3287682",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752919200,
+      "description": "Black with orange decals on frame and SID fork.  I REMOVED THE DROPPER POST.  It is a black carbon Whiskey Parts Co. seatpost.  2 water bottle cages meant to be removed by a left-handed rider, not right-handed.  Selle Italia SLR Boost Superflow Saddle with Ti rails.  SRAM GX cabled components, not AXS.  Deore XTR pedals.  Lezyne tire plug tool is the handlebar plug in either the left or right side, I can't remember which.  Maxxis Aspen tires, 29\" x 2.25\".  Rear tire needs more sealant or to be replaced as it loses air quickly.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Blur Carbon S",
+      "id": 2848420,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942173/large_Santa_Cruz_Blur_S_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S21D2P1BL4LGC0032",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.66,
+        -111.84
+      ],
+      "stolen_location": "Holladay, UT 84117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942173/small_Santa_Cruz_Blur_S_2.jpg",
+      "title": "2021 Santa Cruz Blur Carbon S",
+      "url": "https://bikeindex.org/bikes/2848420",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752919200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Blur S",
+      "id": 2848441,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942174/large_Santa_Cruz_Blur_S_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S21D2P1BL4LGC0032",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.66,
+        -111.84
+      ],
+      "stolen_location": "Holladay, UT 84117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942174/small_Santa_Cruz_Blur_S_2.jpg",
+      "title": "2021 Santa Cruz Blur S",
+      "url": "https://bikeindex.org/bikes/2848441",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752915600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Bronson",
+      "id": 2866695,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A8H46084",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.04,
+        -105.21
+      ],
+      "stolen_location": "Boulder, CO 80301, US",
+      "thumb": null,
+      "title": "2019 Santa Cruz Bronson",
+      "url": "https://bikeindex.org/bikes/2866695",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752858000,
+      "description": "color is raspberry. The rubber on right handlebar is slightly worned. there's white paint stain on the seat. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "5010 Carbon C",
+      "id": 2846121,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/940832/large_IMG_0855.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S20E4P1FT4XSC0054",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.77,
+        -73.83
+      ],
+      "stolen_location": "Queens, NY 11354, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/940832/small_IMG_0855.jpg",
+      "title": "2020 Santa Cruz 5010 Carbon C",
+      "url": "https://bikeindex.org/bikes/2846121",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Nomad",
+      "id": 2835448,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "CA, US",
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Santa Cruz Nomad",
+      "url": "https://bikeindex.org/bikes/2835448",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752087600,
+      "description": null,
+      "frame_colors": [
+        "Teal",
+        "Orange",
+        "Black"
+      ],
+      "frame_model": "Full Suspension-All Carbon Fiber",
+      "id": 2835387,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/937630/large_56f40b08-c033-42d9-8062-380045ca0641-1_all_9.png",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.3,
+        -119.22
+      ],
+      "stolen_location": "Ventura, CA 93003, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/937630/small_56f40b08-c033-42d9-8062-380045ca0641-1_all_9.png",
+      "title": "2022 Santa Cruz Full Suspension-All Carbon Fiber",
+      "url": "https://bikeindex.org/bikes/2835387",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751929200,
+      "description": "The bike is equipped with 2 water bottle cases. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Checkpoint ALR 5",
+      "id": 2834322,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936925/large_IMG_20200823_110426.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU105G0065P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.4,
+        -121.96
+      ],
+      "stolen_location": "Santa Clara, CA 95054, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936925/small_IMG_20200823_110426.jpg",
+      "title": "Trek Checkpoint ALR 5",
+      "url": "https://bikeindex.org/bikes/2834322",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751824800,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Stigmata",
+      "id": 3204080,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Y23M3P1ST4LGCC1682",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.68
+      ],
+      "stolen_location": "Portland, OR 97204, US",
+      "thumb": null,
+      "title": "2025 Santa Cruz Stigmata",
+      "url": "https://bikeindex.org/bikes/3204080",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751792400,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "High tower",
+      "id": 2833818,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936608/large_IMG_1925.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U24G4P1HT4XLC0027",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.75,
+        -105.0
+      ],
+      "stolen_location": "Denver, CO 80202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936608/small_IMG_1925.jpeg",
+      "title": "2025 Santa Cruz High tower",
+      "url": "https://bikeindex.org/bikes/2833818",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751767200,
+      "description": "Custom Santa Cruz 5010 brown with dark blue lettering. I have the full list of parts if anyone needs it. I have had it for a week and never got a picture of it but I supplied the picture of the frame from the manufactures website.",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "5010",
+      "id": 2833187,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936282/large_Screenshot_2025-07-05_at_8.29.58_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U24G1P1FT5MDCC0026",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936282/small_Screenshot_2025-07-05_at_8.29.58_PM.png",
+      "title": "2025 Santa Cruz 5010",
+      "url": "https://bikeindex.org/bikes/2833187",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751644800,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Chameleon",
+      "id": 2832338,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GA104426658",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.11,
+        -115.21
+      ],
+      "stolen_location": "Las Vegas, NV 89103, US",
+      "thumb": null,
+      "title": "2021 Santa Cruz Chameleon",
+      "url": "https://bikeindex.org/bikes/2832338",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751364000,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "5010",
+      "id": 2833930,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936631/large_1000024470.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22K4P1FT5LGC0130",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.27,
+        -123.1
+      ],
+      "stolen_location": "Vancouver, V6A 0H4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936631/small_1000024470.jpg",
+      "title": "2023 Santa Cruz 5010",
+      "url": "https://bikeindex.org/bikes/2833930",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751061600,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Santa Cruz Megatower 2 C 29 R",
+      "id": 2878028,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/947981/large_bike_picture.PNG",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22K2P1MG2LGC0178",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.14,
+        -114.14
+      ],
+      "stolen_location": "Calgary, T3A 6A9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/947981/small_bike_picture.PNG",
+      "title": "2024 Santa Cruz Santa Cruz Megatower 2 C 29 R",
+      "url": "https://bikeindex.org/bikes/2878028",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750892400,
+      "description": "Trek Fuel EX 8 with new Maxxis tires and OneUp V3 dropper seat post. May also have a black Bedrock Bags framepack and a frame-mounted pump attached to it. This bike was stolen from my garage in Santa Monica, CA in June 2025.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fuel EX 8",
+      "id": 2929419,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/950840/large_IMG_3763.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -118.49
+      ],
+      "stolen_location": "Santa, CA 90404-1483, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/950840/small_IMG_3763.jpg",
+      "title": "2017 Trek Fuel EX 8",
+      "url": "https://bikeindex.org/bikes/2929419",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750622400,
+      "description": "Tires are Schwalbe and dropper post was upgraded to a BikeYoke Revive.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "HECKLER SL X0 AXS RSV",
+      "id": 2825777,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/932051/large_IMG_2107.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S23D41HS1LGCC0066",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.97,
+        -122.5
+      ],
+      "stolen_location": "San Rafael, CA 94901, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/932051/small_IMG_2107.jpeg",
+      "title": "2024 Santa Cruz HECKLER SL X0 AXS RSV",
+      "url": "https://bikeindex.org/bikes/2825777",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750599516,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Megatower",
+      "id": 2825148,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.45,
+        -73.16
+      ],
+      "stolen_location": "Burlington, VT 05403, US",
+      "thumb": null,
+      "title": "2024 Santa Cruz Megatower",
+      "url": "https://bikeindex.org/bikes/2825148",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750550400,
+      "description": "Light brown benno boost cargo bike. Has a black thule yepp child seat on the back.",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Standard step through",
+      "id": 2825240,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/931526/large_Screenshot_2025-06-22_at_11.39.27_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Benno",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSDJ00123",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.47
+      ],
+      "stolen_location": "Santa Monica, CA 90404, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/931526/small_Screenshot_2025-06-22_at_11.39.27_AM.png",
+      "title": "2023 Benno Standard step through cargo bike",
+      "url": "https://bikeindex.org/bikes/2825240",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "cargo"
+    }
+  ]
+}

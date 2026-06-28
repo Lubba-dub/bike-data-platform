@@ -1,0 +1,760 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1779688389,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ostro Vam",
+      "id": 3403230,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1033041/large_IMG_6098.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.83,
+        -118.39
+      ],
+      "stolen_location": "Redondo Beach, CA 90277, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1033041/small_IMG_6098.jpeg",
+      "title": "2021 Factor Ostro Vam",
+      "url": "https://bikeindex.org/bikes/3403230",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751648400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ostro Vam",
+      "id": 2834097,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936758/large_IMG_0290.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2OR1NC52Z2413006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.86,
+        -77.26
+      ],
+      "stolen_location": "Fairfax, VA 22031, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936758/small_IMG_0290.jpeg",
+      "title": "2024 Factor Ostro Vam",
+      "url": "https://bikeindex.org/bikes/2834097",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746522000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ostro Vam",
+      "id": 2797005,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913213/large_IMG_8644.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2OR2TI58N2454001",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.47,
+        -0.98
+      ],
+      "stolen_location": "Uk, RG4 7PA, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913213/small_IMG_8644.jpeg",
+      "title": "2025 Factor Ostro Vam",
+      "url": "https://bikeindex.org/bikes/2797005",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745858828,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ostro Vam Gravel",
+      "id": 2792494,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/910196/large_IMG_8775.jpg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.22,
+        -80.83
+      ],
+      "stolen_location": "Charlotte, NC 28204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/910196/small_IMG_8775.jpg",
+      "title": "2024 Factor Ostro Vam Gravel",
+      "url": "https://bikeindex.org/bikes/2792494",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1731333600,
+      "description": "KVSwiss wheels, Trex Factor racing tires, single front crank, black pedals, black seat with dropper post, full suspension, fox shocks front and rear",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Fuel EX 9.8",
+      "id": 2725857,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/873404/large_IMG_3743.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU332CT0007K1130",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.58
+      ],
+      "stolen_location": "Edmonton, T5N 3E7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/873404/small_IMG_3743.jpeg",
+      "title": "Trek Fuel EX 9.8",
+      "url": "https://bikeindex.org/bikes/2725857",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730207944,
+      "description": "Shimano clipless pedals \r\nSram GX axs\r\nPink hubs \r\n29” wheels \r\nPink factor stem\r\nÖhlins ttx 2 rear shock \r\nFox 38 factory custom fork \r\nRed/dark red color way \r\nRed valve caps\r\nRed trek bottle cage \r\nBlack grips and bars \r\n",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "S2 Enduro",
+      "id": 2721145,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/870374/large_IMG_0540.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/870374/small_IMG_0540.jpeg",
+      "title": "2023 Specialized S2 Enduro",
+      "url": "https://bikeindex.org/bikes/2721145",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729472400,
+      "description": "Red and black",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Ostro Vam",
+      "id": 2717698,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/868204/large_IMG_8793.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "V52CZ254012AD0044B",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.18,
+        -118.46
+      ],
+      "stolen_location": "Van Nuys, CA 91411, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/868204/small_IMG_8793.jpeg",
+      "title": "2024 Factor Ostro Vam",
+      "url": "https://bikeindex.org/bikes/2717698",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720898250,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "LS",
+      "id": 2651134,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/830454/large_IMG_2210.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LSR1BG542249009",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/830454/small_IMG_2210.jpeg",
+      "title": "2022 Factor LS",
+      "url": "https://bikeindex.org/bikes/2651134",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1710530420,
+      "description": "Stolen on or about February 26, 2024 from Johnson City TN while in transit on Fedex.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FS-WMCZ003410-0669",
+      "id": 2572063,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HZR1CM-TF230036",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.34,
+        -82.32
+      ],
+      "stolen_location": "Johnson City, TN 37601, US",
+      "thumb": null,
+      "title": "2024 Factor FS-WMCZ003410-0669",
+      "url": "https://bikeindex.org/bikes/2572063",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1683064800,
+      "description": "",
+      "frame_colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "o2",
+      "id": 1513595,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/693993/large_20190605-ELPL4314-Edit.jpg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -118.43
+      ],
+      "stolen_location": "Los Angeles, CA 90066, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/693993/small_20190605-ELPL4314-Edit.jpg",
+      "title": "2019 Factor o2",
+      "url": "https://bikeindex.org/bikes/1513595",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1677625200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Lando XC small",
+      "id": 1466080,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/676464/large_B604F318-977E-4D3C-B2EA-3C5E6380A057.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XCR1CYOS22",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.24,
+        -118.55
+      ],
+      "stolen_location": "Northridge, CA 91324, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/676464/small_B604F318-977E-4D3C-B2EA-3C5E6380A057.jpeg",
+      "title": "2023 Factor Lando XC small",
+      "url": "https://bikeindex.org/bikes/1466080",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1673638200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "O2",
+      "id": 1454428,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/668713/large_Factor_O2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2DR100541801016",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.08,
+        -75.19
+      ],
+      "stolen_location": "Wyndmoor, PA 19038, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/668713/small_Factor_O2.jpg",
+      "title": "2020 Factor O2",
+      "url": "https://bikeindex.org/bikes/1454428",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1670360400,
+      "description": "Green and black xl mountain bike thebrames are switched out from hydrologic to standard analog brakes front and back are disk brake 29in wheels everything's factor except the brakes no front brake only back",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Charger 29\" DB Alloy XC Frame",
+      "id": 1444305,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/661521/large_Screenshot_20221206-140946_Whisper.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AJ20073572",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.59
+      ],
+      "stolen_location": "Edmonton, T5P 2R6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/661521/small_Screenshot_20221206-140946_Whisper.jpg",
+      "title": "2017 Norco Bikes Charger 29\" DB Alloy XC Frame",
+      "url": "https://bikeindex.org/bikes/1444305",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1670140800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "O2 VAM",
+      "id": 1153405,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ADR1NB581940010",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.48
+      ],
+      "stolen_location": "San Francisco, CA 94122, US",
+      "thumb": null,
+      "title": "2020 Factor O2 VAM",
+      "url": "https://bikeindex.org/bikes/1153405",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1657364400,
+      "description": "Fork : Suntour, XCM MTB, HLO, hydraulic lockout & rebound adjust, 100mm travel\r\n\r\nRear shock : Moustache, Magic Grip Control 100, specific Air Shock with 2-position platform and dynamic control of rebound, Trunion mount, build-in 165x40mm, 100mm travel\r\n\r\nMotor : Bosch, Performance Line CX 250W - 85 Nm, higher dynamics in response and agility - Weight & form factor reduction\r\n\r\nBattery : Bosch, PowerTube 500Wh\r\nRear derailleur : Shimano, Deore, RD-M4120-SGS, 10-speed\r\n\r\nFront cog / Chainring : FSA, Alloy, 38T w/chainguard\r\n\r\nCassette : Sunrace, CSMS2, 11-42T\r\n\r\nChain : KMC, X10, 10-speed\r\n\r\nShifters : Shimano, Deore, Rapidfire Plus for flat handlebar\r\n\r\nCrankset : Moustache, Alloy, 170mm\r\n\r\nBrakes : Shimano, MT200 hydraulic disc brakes or Alhonga brake, HJ-OD07 (depending on supply)\r\n\r\nRotors Front/Rear (in mm) : Shimano, 180mm front & rear\r\n\r\nHubs : Front= Shimano, 32H, 9x100mm, w/QR Rear= Shimano, 32H, 12x148mm, w/thru axle\r\n\r\nRims : Moustache, Alloy, double wall, 32H\r\n\r\nTires : Hutchinson, Python, 27.5x2.10\r\n\r\nSaddle : Selle Royal, Shadow Ergonomic\r\n\r\nSeatpost : Moustache, Alloy, 31.6mm, 350mm\r\n\r\nSeat clamp : Moustache, Alloy, 34.9mm\r\n\r\nHandlebar : Moustache, Ergonomic, Alloy, 680mm, 25° backsweep\r\n\r\nStem : Moustache, Alloy, adjustable S/M = 65mm L/XL = 90mm\r\n\r\nHeadset : FSA, No 57-B\r\n\r\nGrips : Ergonomic, dual-density\r\n\r\nHeadlight : AXA, Blueline, 30 lux, powered by main battery\r\n\r\nTaillight : Spanninga, Presto2Guard, powered by main battery\r\n\r\nKickstand : Moustache, adjustable\r\n\r\nMudguards : Moustache, Alloy, double wall design, w/alloy stays\r\n\r\nRear carrier : Moustache, Alloy, QL3 low-rider carrier, MIK Bag/Accessories compatible\r\n\r\nPedals : Alloy with plateform and reflectors",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Samedi X Road 3 FS",
+      "id": 1342058,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/604469/large_Samedi.png",
+      "location_found": null,
+      "manufacturer_name": "Mustache",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H2HVM07809",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.09,
+        -114.18
+      ],
+      "stolen_location": "Calgary, T3B 0E8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/604469/small_Samedi.png",
+      "title": "2022 Mustache Samedi X Road 3 FS",
+      "url": "https://bikeindex.org/bikes/1342058",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1657004340,
+      "description": "Increase your speed and fun factor with Specialized's agile, women's-specific Dolce road machine. It features a light, snappy aluminum frame with a carbon fork up front and quick-rolling Alex wheels for confident handling, effortless climbing and a sensational ride! Plus, the 27-speed Shimano drivetrain delivers the right gears no matter where you roam and other women's-specific Specialized components ensure the ride of your life.",
+      "frame_colors": [
+        "Black",
+        "Pink"
+      ],
+      "frame_model": "Dolce",
+      "id": 1338239,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/601630/large_IMG_2942.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94158, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/601630/small_IMG_2942.jpg",
+      "title": "2008 Specialized Dolce",
+      "url": "https://bikeindex.org/bikes/1338239",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1652587200,
+      "description": "Everyday commuter, 10 speed, red fade to grey frame, shortened handlebars, custom pedals- nothing too fancy. This bike has been my lifeline for the past year. ",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "FX4",
+      "id": 1297166,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/568988/large_trek-fx-4.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU022XC5952S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.78
+      ],
+      "stolen_location": "Beaverton, OR 97225, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/568988/small_trek-fx-4.jpeg",
+      "title": "2021 Trek FX4",
+      "url": "https://bikeindex.org/bikes/1297166",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1642283143,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "O2 VAM",
+      "id": 1209276,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/509229/large_Factor-VAM-Black.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AMR1NB562002064WP",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.11,
+        -80.27
+      ],
+      "stolen_location": "Plantation, FL 33324, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/509229/small_Factor-VAM-Black.jpeg",
+      "title": "2019 Factor O2 VAM",
+      "url": "https://bikeindex.org/bikes/1209276",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1642282937,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "O2 Disc",
+      "id": 1209273,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/509226/large_Factor-o2-disc-pearl-white.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2DR1MP54B2122018",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.11,
+        -80.27
+      ],
+      "stolen_location": "Plantation, FL 33324, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/509226/small_Factor-o2-disc-pearl-white.jpeg",
+      "title": "2021 Factor O2 Disc",
+      "url": "https://bikeindex.org/bikes/1209273",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1642282814,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "O2 Disc",
+      "id": 1209271,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/509224/large_Factor-o2-Disc-Miami-Blue-Grey.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2DR1WM52L2128022",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.11,
+        -80.27
+      ],
+      "stolen_location": "Plantation, FL 33324, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/509224/small_Factor-o2-Disc-Miami-Blue-Grey.jpeg",
+      "title": "2021 Factor O2 Disc",
+      "url": "https://bikeindex.org/bikes/1209271",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1636095600,
+      "description": "Tan frame, blue grips, black suspension fork with orange decals. Fox Performance Elite suspension front and rear. Raceface rims on Factor hubs with SRAM G2 brakes.",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Troy",
+      "id": 1186383,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/496917/large_Screenshot_2021-11-10_114625.jpg",
+      "location_found": null,
+      "manufacturer_name": "Devinci",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "VM2002130",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.56,
+        -123.28
+      ],
+      "stolen_location": "Corvallis, OR 97331, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/496917/small_Screenshot_2021-11-10_114625.jpg",
+      "title": "2021 Devinci Troy",
+      "url": "https://bikeindex.org/bikes/1186383",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1628042400,
+      "description": "Alpha Gold Aluminum Trek women’s Dual Sport 8.2 17.5”/44.5cm. It is charcoal gray/black/orange. It has a black rear rack attached to the back wheel/seat. Other identification factor is a red parking sticker on the rear tire frame with parking number A-0171.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "8.2 DS",
+      "id": 1115179,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/462802/large_Screen_Shot_2021-08-03_at_9.38.39_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU080C5335H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/462802/small_Screen_Shot_2021-08-03_at_9.38.39_PM.png",
+      "title": "2014 Trek 8.2 DS",
+      "url": "https://bikeindex.org/bikes/1115179",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1626703200,
+      "description": "Factor OSTRO Sram Red AXS with carbon hunt wheels and carbon spokes.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "OSTRO",
+      "id": 1108415,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/458772/large_IMG_4837.jpg",
+      "location_found": null,
+      "manufacturer_name": "Factor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.77,
+        -117.01
+      ],
+      "stolen_location": "La Mesa,, CA 91942, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/458772/small_IMG_4837.jpg",
+      "title": "2021 Factor OSTRO",
+      "url": "https://bikeindex.org/bikes/1108415",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1600535086,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Factor",
+      "id": 921164,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Kuota",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.29,
+        -113.84
+      ],
+      "stolen_location": "Red Deer, T4P 1A2, CA",
+      "thumb": null,
+      "title": "Kuota Factor",
+      "url": "https://bikeindex.org/bikes/921164",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1597305600,
+      "description": "26 Inch frame mountain bike, with suspension. Black and orange in colour.",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "FACTOR AL 26",
+      "id": 732917,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/308386/large_20200511_120225.jpg",
+      "location_found": null,
+      "manufacturer_name": "KRANKED",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AL09C021512",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.63,
+        -113.43
+      ],
+      "stolen_location": "Edmonton, T5Y 3W5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/308386/small_20200511_120225.jpg",
+      "title": "2011 KRANKED FACTOR AL 26",
+      "url": "https://bikeindex.org/bikes/732917",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "1.0.0",
+  "bikeId": "merida-ninety-six-400",
+  "bikeName": "NINETY-SIX 400",
+  "brand": "merida",
+  "bikeType": "mountain",
+  "templateType": "mountain",
+  "views": {
+    "front": null,
+    "side": null,
+    "rear": null
+  },
+  "availableModes": [
+    "price_score",
+    "quality_score",
+    "value_score"
+  ],
+  "defaultMode": "price_score",
+  "parts": [
+    {
+      "partKey": "brake",
+      "displayName": "Brake",
+      "templateLabels": [
+        "brake"
+      ],
+      "componentName": "Brake representative fallback",
+      "brandHint": "oyama",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 71,
+        "reviewsCount": 2,
+        "confidence": 0.79,
+        "coverage": "high"
+      },
+      "metrics": {
+        "price_score": 214.0004347826087,
+        "quality_score": 0.8500000000000001,
+        "value_score": 0.28525
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "brake"
+      }
+    },
+    {
+      "partKey": "cassette",
+      "displayName": "Cassette",
+      "templateLabels": [
+        "freewhile"
+      ],
+      "componentName": "Cassette representative fallback",
+      "brandHint": "Shimano",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 8,
+        "reviewsCount": 3,
+        "confidence": 0.81,
+        "coverage": "high"
+      },
+      "metrics": {
+        "price_score": 85.726,
+        "quality_score": 0.9666666666666667,
+        "value_score": 0.3018
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "cassette"
+      }
+    },
+    {
+      "partKey": "crankset",
+      "displayName": "Crankset",
+      "templateLabels": [
+        "chainwheel",
+        "crank"
+      ],
+      "componentName": "Crankset representative fallback",
+      "brandHint": "trek",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 3,
+        "reviewsCount": 0,
+        "confidence": 0.68,
+        "coverage": "medium"
+      },
+      "metrics": {
+        "price_score": 274.495,
+        "quality_score": 0.8413103747021875,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "crankset"
+      }
+    },
+    {
+      "partKey": "derailleur",
+      "displayName": "Rear Derailleur",
+      "templateLabels": [
+        "rearderailleur"
+      ],
+      "componentName": "Derailleur representative fallback",
+      "brandHint": "Shimano",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 0,
+        "reviewsCount": 0,
+        "confidence": 0.6,
+        "coverage": "low"
+      },
+      "metrics": {
+        "price_score": 245.3122626811594,
+        "quality_score": 0.8413103747021875,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "derailleur"
+      }
+    },
+    {
+      "partKey": "fork",
+      "displayName": "Fork",
+      "templateLabels": [
+        "fork"
+      ],
+      "componentName": "Fork representative fallback",
+      "brandHint": "Fox-Racing-Shox",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 7,
+        "reviewsCount": 3,
+        "confidence": 0.81,
+        "coverage": "high"
+      },
+      "metrics": {
+        "price_score": 469.0,
+        "quality_score": 0.8666666666666667,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "fork"
+      }
+    },
+    {
+      "partKey": "frame",
+      "displayName": "Frame",
+      "templateLabels": [
+        "frame"
+      ],
+      "componentName": "NINETY-SIX 400 frame",
+      "brandHint": "merida",
+      "sourceType": "inferred",
+      "evidence": {
+        "offersCount": 0,
+        "reviewsCount": 0,
+        "confidence": 0.6,
+        "coverage": "low"
+      },
+      "metrics": {
+        "price_score": 245.3122626811594,
+        "quality_score": 0.8413103747021876,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "bike structure fallback",
+        "slot": "frame"
+      }
+    },
+    {
+      "partKey": "handlebar",
+      "displayName": "Handlebar",
+      "templateLabels": [
+        "handlebar"
+      ],
+      "componentName": "Handlebar representative fallback",
+      "brandHint": "oyama",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 15,
+        "reviewsCount": 31,
+        "confidence": 0.91,
+        "coverage": "high"
+      },
+      "metrics": {
+        "price_score": 134.67166666666665,
+        "quality_score": 0.8074074074074075,
+        "value_score": 0.22599999999999998
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "handlebar"
+      }
+    },
+    {
+      "partKey": "pedal",
+      "displayName": "Pedal",
+      "templateLabels": [
+        "pedal"
+      ],
+      "componentName": "Pedal representative fallback",
+      "brandHint": "Shimano",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 1,
+        "reviewsCount": 2,
+        "confidence": 0.67,
+        "coverage": "medium"
+      },
+      "metrics": {
+        "price_score": 579.0,
+        "quality_score": 0.8,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "pedal"
+      }
+    },
+    {
+      "partKey": "saddle",
+      "displayName": "Saddle",
+      "templateLabels": [
+        "saddle"
+      ],
+      "componentName": "Saddle representative fallback",
+      "brandHint": "Liv",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 0,
+        "reviewsCount": 3,
+        "confidence": 0.66,
+        "coverage": "medium"
+      },
+      "metrics": {
+        "price_score": 245.3122626811594,
+        "quality_score": 0.7999999999999999,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "saddle"
+      }
+    },
+    {
+      "partKey": "seatpost",
+      "displayName": "Seatpost",
+      "templateLabels": [
+        "seatpost"
+      ],
+      "componentName": "Travel seatpost 150mm, MID: 170mm, LONG, XLONG: 200mm",
+      "brandHint": null,
+      "sourceType": "observed",
+      "evidence": {
+        "offersCount": 0,
+        "reviewsCount": 3,
+        "confidence": 0.66,
+        "coverage": "medium"
+      },
+      "metrics": {
+        "price_score": 245.3122626811594,
+        "quality_score": 0.7999999999999999,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "travel seatpost XSHORT/SHORT",
+        "slot": "seatpost"
+      }
+    },
+    {
+      "partKey": "shifter",
+      "displayName": "Shift Lever",
+      "templateLabels": [
+        "shiftlever"
+      ],
+      "componentName": "Shifter representative fallback",
+      "brandHint": "Sram",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 2,
+        "reviewsCount": 0,
+        "confidence": 0.65,
+        "coverage": "low"
+      },
+      "metrics": {
+        "price_score": 183.49,
+        "quality_score": 0.8413103747021875,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "shifter"
+      }
+    },
+    {
+      "partKey": "shock",
+      "displayName": "Shock",
+      "templateLabels": [
+        "shock"
+      ],
+      "componentName": "Shock representative fallback",
+      "brandHint": "RockShox",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 0,
+        "reviewsCount": 5,
+        "confidence": 0.7,
+        "coverage": "medium"
+      },
+      "metrics": {
+        "price_score": 245.3122626811594,
+        "quality_score": 0.86,
+        "value_score": 0.2888075
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "shock"
+      }
+    },
+    {
+      "partKey": "tyre",
+      "displayName": "Tyre",
+      "templateLabels": [
+        "tire"
+      ],
+      "componentName": "Tyre representative fallback",
+      "brandHint": "Schwalbe",
+      "sourceType": "representative",
+      "evidence": {
+        "offersCount": 28,
+        "reviewsCount": 22,
+        "confidence": 0.91,
+        "coverage": "high"
+      },
+      "metrics": {
+        "price_score": 22.115,
+        "quality_score": 0.8210526315789474,
+        "value_score": 0.34218000000000004
+      },
+      "render": {
+        "status": "empty",
+        "fillValue": null,
+        "fillColor": "#d9dde3",
+        "strokeOpacity": 0.45
+      },
+      "meta": {
+        "spec_name": "database representative fallback",
+        "slot": "tyre"
+      }
+    }
+  ],
+  "summary": {
+    "partsCount": 13,
+    "mappedPartsCount": 13,
+    "templateCoverage": 1.0,
+    "evidenceScore": 16.08,
+    "hasPhoto": false
+  },
+  "meta": {
+    "source": "website_bikes_api",
+    "description": "NINETY-SIX 400 - MERIDA BIKES Toggle navigation Toggle navigation E-BIKE HIGHLIGHTS ETMO eONE-SIXTY SL eONE-EIGHTY eFLOAT eONE-SIXTY eONE-FORTY eBIG.NINE eBIG.TOUR eSPRESSO eSPRESSO CITY eSPRESSO CC eSCULTURA eSILEX eSPEEDER BIKE HIGHLIGHTS ONE-TWENTY ONE-SIXTY ONE-SIXTY FR ONE-FORTY NINETY-SIX BIG.NINE BIG.NINE / BIG.SEVEN TFS BIG.TRAIL DIRT REACTO SCULTURA SCULTURA ENDURANCE MISSION SILEX ABOUT US OUR MISSION OUR PRINCIPLES CODE OF CONDUCT ESG REPORT OUR MILESTONES INVESTORS INFO TECHNOLOGY CARBON TECHNOLOGY FRAME-TECHNOLOGIES TEAMS & PARTNER AMBASSADORS PARTNERSHIPS & ATHLETES SERVICE DISTRIBUTORS WORLDWIDE FRAME SIZE CALCULATOR INSTRUCTION MANUALS RECALLS MERIDA WORLD ONE OF A KIND BEST IN TEST STORIES Find your Bike global Login DEALER SEARCH Query Search Query Search BIKES MOUNTAINBI",
+    "officialUrl": "https://www.merida-bikes.com/en/bike/5764/ninety-six-400"
+  }
+}

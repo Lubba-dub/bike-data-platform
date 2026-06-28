@@ -1,0 +1,773 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1777927711,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "allant 8s",
+      "id": 3381736,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025040/large_IMG_5D5B2422-5A5F-449B-A668-D787283DF465.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU238C6080S",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        30.23,
+        -97.71
+      ],
+      "stolen_location": "Austin, TX 78741, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025040/small_IMG_5D5B2422-5A5F-449B-A668-D787283DF465.JPEG",
+      "title": "Trek allant 8s",
+      "url": "https://bikeindex.org/bikes/3381736",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Downhill bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Stache",
+      "id": 3381558,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Albuquerque, NM 87108, United States",
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "2025 Trek Stache",
+      "url": "https://bikeindex.org/bikes/3381558",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777921200,
+      "description": "2 baskets over the rear wheel, leather saddle, good shape, 21 speed. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Verve 2",
+      "id": 3382539,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025696/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.9,
+        -123.08
+      ],
+      "stolen_location": "Salem, OR 97302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025696/small_bike.jpg",
+      "title": "Trek Verve 2",
+      "url": "https://bikeindex.org/bikes/3382539",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777914648,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "FX2",
+      "id": 3381435,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU238XC1803X",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        41.88,
+        -87.63
+      ],
+      "stolen_location": "Chicago, IL 60622-5134, US",
+      "thumb": null,
+      "title": "2026 Trek FX2",
+      "url": "https://bikeindex.org/bikes/3381435",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777902613,
+      "description": "Black and gold, step through, bullhorn handlebars",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Hybrid",
+      "id": 3381348,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024864/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.25
+      ],
+      "stolen_location": "Minneapolis, MN 55407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024864/small_bike.jpg",
+      "title": "2000 Trek Hybrid",
+      "url": "https://bikeindex.org/bikes/3381348",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777899600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Checkpoint SL 5 (61 cm)",
+      "id": 3381360,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024876/large_IMG_9257.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU054XT0015U",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        41.87,
+        -88.12
+      ],
+      "stolen_location": "Wheaton, IL 60187, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024876/small_IMG_9257.jpeg",
+      "title": "2024 Trek Checkpoint SL 5 (61 cm)",
+      "url": "https://bikeindex.org/bikes/3381360",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777897200,
+      "description": "Black seat, handles, bell, writing 'TREK' on frame. Flat handlebar",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "FX3",
+      "id": 3381478,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024947/large_WhatsApp_Image_2026-05-04_at_19.03.09__1_.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU097C8115S",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.53,
+        -0.08
+      ],
+      "stolen_location": "London, N1 6SH, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024947/small_WhatsApp_Image_2026-05-04_at_19.03.09__1_.jpeg",
+      "title": "Trek FX3",
+      "url": "https://bikeindex.org/bikes/3381478",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777896000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Domane AL 2 Gen 3",
+      "id": 3381795,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025116/large_PXL_20230805_163545734_1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU079C7173U",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        39.06,
+        -95.67
+      ],
+      "stolen_location": "Topeka, KS 66603, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025116/small_PXL_20230805_163545734_1_.jpg",
+      "title": "2023 Trek Domane AL 2 Gen 3",
+      "url": "https://bikeindex.org/bikes/3381795",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777868184,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3381126,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 2647, US",
+      "thumb": null,
+      "title": "Trek",
+      "url": "https://bikeindex.org/bikes/3381126",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777867200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3381127,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024808/large_PXL_20260503_161412801.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 2647, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024808/small_PXL_20260503_161412801.jpg",
+      "title": "Trek",
+      "url": "https://bikeindex.org/bikes/3381127",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777849200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roscoe 20",
+      "id": 3380996,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024658/large_IMG_4784.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU242XC0216R",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        38.79,
+        -121.38
+      ],
+      "stolen_location": "Roseville, CA 95747, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024658/small_IMG_4784.png",
+      "title": "2026 Trek Roscoe 20",
+      "url": "https://bikeindex.org/bikes/3380996",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777845600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3380983,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        41.32,
+        -72.93
+      ],
+      "stolen_location": "New Haven, CT 06511, US",
+      "thumb": null,
+      "title": "2006 Trek",
+      "url": "https://bikeindex.org/bikes/3380983",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777827660,
+      "description": "lights including \"Christmas\" lights on front wheel,  racks, kickstand, flat handlebars with vertical bar ends,  Has standard pedals (no clip-in). ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "1500 WSD",
+      "id": 3381108,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024804/large_Hill_ride_Sarah-Roger_Friedel_20120905.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WW2768709",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217-3365, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024804/small_Hill_ride_Sarah-Roger_Friedel_20120905.JPG",
+      "title": "2004 Trek 1500 WSD",
+      "url": "https://bikeindex.org/bikes/3381108",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777791600,
+      "description": "Hybrid tires, clips for front and rear lights, bottle holder, rear reflector, a handlebar phone mount and the seat has a little give on the mount.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "820 MOUNTAIN TRACK",
+      "id": 3380803,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024518/large_IMG-4014.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU1332809P",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        32.77,
+        -117.01
+      ],
+      "stolen_location": "La Mesa, CA 91942, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024518/small_IMG-4014.jpg",
+      "title": "2019 Trek 820 MOUNTAIN TRACK",
+      "url": "https://bikeindex.org/bikes/3380803",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777784340,
+      "description": "",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 3382193,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025398/large_IMG_5112.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 177 JC 0130",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.96,
+        -97.13
+      ],
+      "stolen_location": "Grand Forks, ND 58203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025398/small_IMG_5112.jpeg",
+      "title": "2020 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/3382193",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777777200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "7.3 FX Disc",
+      "id": 3380252,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024357/large_IMG_7619.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU129XC1604T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.49,
+        -81.7
+      ],
+      "stolen_location": "Cleveland, OH 44113, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024357/small_IMG_7619.jpeg",
+      "title": "Trek 7.3 FX Disc",
+      "url": "https://bikeindex.org/bikes/3380252",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777771800,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Full Stache 8",
+      "id": 3380727,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024443/large_IMG_2005.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU360G0186N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.06,
+        -121.32
+      ],
+      "stolen_location": "Bend, OR 97701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024443/small_IMG_2005.jpeg",
+      "title": "2019 Trek Full Stache 8",
+      "url": "https://bikeindex.org/bikes/3380727",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777752000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin Gen 3",
+      "id": 3381732,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025036/large_72044D4E-F9C1-478E-9B22-BC3998C8AC10_1_105_c.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU348XC6062",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025036/small_72044D4E-F9C1-478E-9B22-BC3998C8AC10_1_105_c.jpeg",
+      "title": "2024 Trek Marlin Gen 3",
+      "url": "https://bikeindex.org/bikes/3381732",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777730158,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Domane",
+      "id": 3379854,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "NOT SURE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.1,
+        -122.52
+      ],
+      "stolen_location": "Langley, V4W 1T1, CA",
+      "thumb": null,
+      "title": "2023 Trek Domane",
+      "url": "https://bikeindex.org/bikes/3379854",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777726800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Verve 2 WSD",
+      "id": 3380916,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024621/large_8B0C891C-3AF4-46C4-BF07-D582A7E857C7.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU312C2723N",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        36.0,
+        -78.89
+      ],
+      "stolen_location": "Durham, NC 27701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024621/small_8B0C891C-3AF4-46C4-BF07-D582A7E857C7.jpeg",
+      "title": "Trek Verve 2 WSD",
+      "url": "https://bikeindex.org/bikes/3380916",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777670689,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Marlin 5",
+      "id": 3379561,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU084XC3540X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.17,
+        -80.79
+      ],
+      "stolen_location": "Charlotte, NC 28211, US",
+      "thumb": null,
+      "title": "2025 Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/3379561",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777662000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "FX 2 Disc",
+      "id": 3386945,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU271C0865P",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.08
+      ],
+      "stolen_location": "Calgary, T2P 0C3, CA",
+      "thumb": null,
+      "title": "2020 Trek FX 2 Disc",
+      "url": "https://bikeindex.org/bikes/3386945",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777611600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Trek Roscoe 8",
+      "id": 3380201,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026231/large_PXL_20241111_185952056.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU118JV1688T",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.31,
+        -121.99
+      ],
+      "stolen_location": "San Jose, CA 95129, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026231/small_PXL_20241111_185952056.jpg",
+      "title": "2023 Trek Trek Roscoe 8",
+      "url": "https://bikeindex.org/bikes/3380201",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777608000,
+      "description": "This bike I’ve used personally and to raise money for Less Cancer hike and bike America. It is an E bike made by TREK it’s a VERVE 3 PLUS LOW STEP ",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Verve plus 3 low step",
+      "id": 3380545,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1024992/large_IMG_0224.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 309 JV0 548P",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        38.9,
+        -77.06
+      ],
+      "stolen_location": "Washington, DC 20037, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1024992/small_IMG_0224.jpeg",
+      "title": "2020 Trek Verve plus 3 low step",
+      "url": "https://bikeindex.org/bikes/3380545",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777600800,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Sawyer",
+      "id": 3379043,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023457/large_1000040867.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU283MW097F",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.72,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98125, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023457/small_1000040867.jpg",
+      "title": "Trek Sawyer",
+      "url": "https://bikeindex.org/bikes/3379043",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

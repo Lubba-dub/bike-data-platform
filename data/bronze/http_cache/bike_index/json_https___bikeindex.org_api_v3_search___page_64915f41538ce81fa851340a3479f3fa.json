@@ -1,0 +1,771 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1779652800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "RadExpand",
+      "id": 3402858,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1032908/large_IMG_0113.PNG",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RE523T02431A",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1032908/small_IMG_0113.PNG",
+      "title": "2024 Rad Power Bikes RadExpand",
+      "url": "https://bikeindex.org/bikes/3402858",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1779541200,
+      "description": "Rare yellow Montague-built BMW folding bicycle, Bi-Frame design that folds in half. Early-to-mid 1990s, sold through BMW dealerships and designed to fit in a car trunk. \"BMW\" in white lettering on the frame, no BMW roundel logo. Same model line was the official mountain bike of the 1996 Atlanta Olympics. Distinctive and uncommon — easily identifiable on sight. A saddle bag with Phat Tire (NW Arkansas) gloves inside was attached at the handlebars when stolen.",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "BMW folding bike (Bi-Frame)",
+      "id": 3397128,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1032172/large_Stolen_in_Roswell_NM_-_STOLEN_Montague_BMW_folding_Bi-Frame_yellow_bike_2026-5-23_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Montague",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.39,
+        -104.52
+      ],
+      "stolen_location": "Roswell, NM 88201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1032172/small_Stolen_in_Roswell_NM_-_STOLEN_Montague_BMW_folding_Bi-Frame_yellow_bike_2026-5-23_1.jpg",
+      "title": "Montague BMW folding bike (Bi-Frame)",
+      "url": "https://bikeindex.org/bikes/3397128",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1779112800,
+      "description": "It has a cargo rack on the back with a stretchy net and hooks. It has a lock holder on the frame but the lock is missing. There is a phone holder. There is a side mirror on the left side only. It had a caltrain tag on it as well. There is no battery.",
+      "frame_colors": [
+        "Purple",
+        "Black"
+      ],
+      "frame_model": "XP Lite 2.0",
+      "id": 3394050,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1030489/large_1000023489.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.29
+      ],
+      "stolen_location": "Redwood City, CA 94062, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1030489/small_1000023489.jpg",
+      "title": "2026 Lectric eBikes XP Lite 2.0",
+      "url": "https://bikeindex.org/bikes/3394050",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778788800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "EuroMini Via 20” Folding Bike-Lightweight Aluminum Frame Genuine Shimano 7- Speed 26lb",
+      "id": 3405985,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Zizzo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B01MRMNTZ9",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2P 5M5, CA",
+      "thumb": null,
+      "title": "2019 Zizzo EuroMini Via 20” Folding Bike-Lightwe...",
+      "url": "https://bikeindex.org/bikes/3405985",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778677200,
+      "description": "Aipas folding electric bike ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3387318,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1028434/large_129.jpg",
+      "location_found": null,
+      "manufacturer_name": "Aipas",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GLX240008601",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        29.2,
+        -81.04
+      ],
+      "stolen_location": "Daytona Beach, FL 32114, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1028434/small_129.jpg",
+      "title": "2026 Aipas",
+      "url": "https://bikeindex.org/bikes/3387318",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777946400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Y2/Y6/Y6PRO",
+      "id": 3382112,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025328/large_IMG_3840.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Werhy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.79,
+        -117.98
+      ],
+      "stolen_location": "Garden Grove, CA 92841, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025328/small_IMG_3840.jpeg",
+      "title": "Werhy Y2/Y6/Y6PRO",
+      "url": "https://bikeindex.org/bikes/3382112",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777620600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Aim SLX 29",
+      "id": 3379322,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW53545XSHV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.07,
+        11.62
+      ],
+      "stolen_location": "Unterhaching, 82008, DE",
+      "thumb": null,
+      "title": "2024 Cube Aim SLX 29",
+      "url": "https://bikeindex.org/bikes/3379322",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776942000,
+      "description": "Bergamont E-Horizon N7 CB trekking e-bike. Bosch drive system. Original equipment: ABUS Bordo Classic folding lock. Originally purchased 06/2020 at Bikeprofi am Herderplatz, Weimar, Germany. Second owner. Stolen May 2026 from a residential building hallway in Weimar.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "E-Horizon N7 CB",
+      "id": 3392765,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1029730/large_WhatsApp_Image_2026-05-16_at_22.56.55.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bergamont",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BGM7C18G01145",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        50.98,
+        11.32
+      ],
+      "stolen_location": "Weimar, 99423, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1029730/small_WhatsApp_Image_2026-05-16_at_22.56.55.jpeg",
+      "title": "2019 Bergamont E-Horizon N7 CB",
+      "url": "https://bikeindex.org/bikes/3392765",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1439679600,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Folding",
+      "id": 3365493,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.79,
+        -122.19
+      ],
+      "stolen_location": "Van Zandt, WA 98244, US",
+      "thumb": null,
+      "title": "1970 Motobecane Folding",
+      "url": "https://bikeindex.org/bikes/3365493",
+      "year": 1970,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773676800,
+      "description": "Set up as a bikepacking bike with Jones handlebars, Rene Herse tires, and Ergo grips. Had a half-frame bag at the time.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Troll",
+      "id": 3352457,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M17023013",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.88,
+        -76.99
+      ],
+      "stolen_location": "Washington, DC 20003, US",
+      "thumb": null,
+      "title": "2018 Surly Troll",
+      "url": "https://bikeindex.org/bikes/3352457",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776819600,
+      "description": "GoTrax , folding by bicycle electric , with six red stripes down the back and silver fenders and light",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal",
+        "Red"
+      ],
+      "frame_model": "Folding bike",
+      "id": 3346336,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020090/large_560.jpg",
+      "location_found": null,
+      "manufacturer_name": "GOTRAX",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TT25A04050834",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.78,
+        -118.15
+      ],
+      "stolen_location": "Long Beach, CA 90804, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020090/small_560.jpg",
+      "title": "2025 GOTRAX Folding bike",
+      "url": "https://bikeindex.org/bikes/3346336",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772474400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Diverge Comp E5",
+      "id": 3345633,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1006520/large_IMG_4382.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC025007071T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1006520/small_IMG_4382.jpeg",
+      "title": "2023 Specialized Diverge Comp E5",
+      "url": "https://bikeindex.org/bikes/3345633",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772449200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Ponto Go!",
+      "id": 3350041,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1008724/large_1000040048.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU206XC0249U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.12
+      ],
+      "stolen_location": "Redmond, WA 98052, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1008724/small_1000040048.jpg",
+      "title": "2025 Trek Ponto Go!",
+      "url": "https://bikeindex.org/bikes/3350041",
+      "year": 2025,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771866000,
+      "description": "All black CGO800s e-bike with a phone holder on the handle and a folding basket in the back.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Step through",
+      "id": 3344581,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1005178/large_IMG_4381.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Tenways",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1005178/small_IMG_4381.jpeg",
+      "title": "Tenways Step through",
+      "url": "https://bikeindex.org/bikes/3344581",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1770516000,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Twenty",
+      "id": 3338150,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1002295/large_20260124_170709.jpg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "00001",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.6
+      ],
+      "stolen_location": "Portland, OR 97215, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1002295/small_20260124_170709.jpg",
+      "title": "1975 Raleigh Twenty",
+      "url": "https://bikeindex.org/bikes/3338150",
+      "year": 1975,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1770332400,
+      "description": "",
+      "frame_colors": [
+        "Purple",
+        "Black"
+      ],
+      "frame_model": "Expert Diverge",
+      "id": 3336431,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1000998/large_specialized_bike.png",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC0147487SP",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.34,
+        -71.09
+      ],
+      "stolen_location": "Boston, MA 02115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1000998/small_specialized_bike.png",
+      "title": "2021 Specialized Expert Diverge",
+      "url": "https://bikeindex.org/bikes/3336431",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1770156000,
+      "description": "Black Jupiter Discovery X5 commuter electric bike with internal frame battery. Non-folding frame. Rear cargo rack with zip-tied milk crate and rear basket. Front handlebar bag attached. Reflective tire sidewalls. Throttle and pedal assist. Used for daily commuting transportation. Stolen outside Zaxby’s while parked. Largo, Florida area. Pictures are not of the bike that was stolen that basket is from my bike but the bike that was stolen had a milk crate and bags attached to the frame and handlebars.. the pictures are the exact model of bike stolen",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Jupiter Tempo",
+      "id": 3336227,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1000794/large_2750.jpg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "221522108050474",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        27.9,
+        -82.76
+      ],
+      "stolen_location": "Largo, FL 33771, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1000794/small_2750.jpg",
+      "title": "Other Jupiter Tempo",
+      "url": "https://bikeindex.org/bikes/3336227",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772863200,
+      "description": "Montague folding bike, ridden every day. Stolen from nearby the BNSF interlockings.",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "M-E1",
+      "id": 3286794,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/996735/large_20260114_113628.jpg",
+      "location_found": null,
+      "manufacturer_name": "Montague",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AA01211777",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.64,
+        -122.37
+      ],
+      "stolen_location": "Seattle, WA 98119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/996735/small_20260114_113628.jpg",
+      "title": "Montague M-E1",
+      "url": "https://bikeindex.org/bikes/3286794",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767812400,
+      "description": "Aftermarket Side view mirror installed \r\nABUS folding lock installed on step through of frame \r\nThule Yepp seat on back (baby blue)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RadRunner Plus Electric Cargo Utility Bike",
+      "id": 3261455,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/995509/large_Photo_of_Stolen_Bike.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "VP4C25H07061A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.65,
+        -122.41
+      ],
+      "stolen_location": "Seattle, WA 98199, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/995509/small_Photo_of_Stolen_Bike.jpeg",
+      "title": "2025 Rad Power Bikes RadRunner Plus Electric Cargo Utility...",
+      "url": "https://bikeindex.org/bikes/3261455",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767207600,
+      "description": "Black Specialized Vita road bike with teal accents. It has front & rear Planet Bike fenders and a Bontrager rear rack. It was locked up with a steel folding lock and a kryptoflex looped cable.",
+      "frame_colors": [
+        "Black",
+        "Teal"
+      ],
+      "frame_model": "Vita",
+      "id": 3255622,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/994644/large_bike1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC607346173L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.24,
+        -119.29
+      ],
+      "stolen_location": "Richland, WA 99352, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/994644/small_bike1.jpeg",
+      "title": "Specialized Vita",
+      "url": "https://bikeindex.org/bikes/3255622",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766268000,
+      "description": "Bike battery was not with bike when stolen",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "Folding Bike",
+      "id": 3354188,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Magnum Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HFB2HC2415",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        40.12,
+        -88.24
+      ],
+      "stolen_location": "Champaign, IL 61820, US",
+      "thumb": null,
+      "title": "2023 Magnum Bikes Folding Bike",
+      "url": "https://bikeindex.org/bikes/3354188",
+      "year": 2023,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766199600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Level.2",
+      "id": 3255161,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/994292/large_IMG_3607.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LL4H3498",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.47,
+        -79.94
+      ],
+      "stolen_location": "Pittsburgh, PA 15224, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/994292/small_IMG_3607.jpeg",
+      "title": "2023 Aventón Level.2",
+      "url": "https://bikeindex.org/bikes/3255161",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766116800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "750W Folding Electric Bike",
+      "id": 3251338,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "GoPlus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SP38245US",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.12,
+        -113.96
+      ],
+      "stolen_location": "Calgary, T3J T39, CA",
+      "thumb": null,
+      "title": "GoPlus 750W Folding Electric Bike",
+      "url": "https://bikeindex.org/bikes/3251338",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765152000,
+      "description": "Bike has a Trek rear flare light zip tied to the seat post.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "CrossTrail",
+      "id": 3238373,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/989803/large_IMG_0373.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC614073831N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.6,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/989803/small_IMG_0373.jpeg",
+      "title": "2017 Specialized CrossTrail",
+      "url": "https://bikeindex.org/bikes/3238373",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764907200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Folding 1",
+      "id": 3237584,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/989220/large_IMG_5350.jpg",
+      "location_found": null,
+      "manufacturer_name": "Denago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TT23A02030189",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.58,
+        -101.85
+      ],
+      "stolen_location": "Lubbock, TX 79401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/989220/small_IMG_5350.jpg",
+      "title": "2023 Denago Folding 1",
+      "url": "https://bikeindex.org/bikes/3237584",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

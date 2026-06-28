@@ -1,0 +1,762 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1780023600,
+      "description": "Brown road bike ",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Fairfax 2",
+      "id": 3405670,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1034747/large_Marin_Fairfax2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K21050559",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.17
+      ],
+      "stolen_location": "Stanford, CA 94305, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1034747/small_Marin_Fairfax2.jpg",
+      "title": "2023 Marin Bikes Fairfax 2",
+      "url": "https://bikeindex.org/bikes/3405670",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778626800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": null,
+      "id": 3406503,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1035289/large_IMG_8009.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ROAD BIKE",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        29.92,
+        -90.11
+      ],
+      "stolen_location": "New Orleans, LA 70115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1035289/small_IMG_8009.jpeg",
+      "title": "Cannondale",
+      "url": "https://bikeindex.org/bikes/3406503",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778599800,
+      "description": "AVASTA Single-Speed Road Bike, Flat Handlebar, 47cm, Black with carrier rack and rear bag (Ibera brand). ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Single-Speed Road Bike, 47cm",
+      "id": 3388103,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Avasta",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": null,
+      "title": "2022 Avasta Single-Speed Road Bike, 47cm",
+      "url": "https://bikeindex.org/bikes/3388103",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "SLR01 team machine road bike",
+      "id": 3383577,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Portland, OR 97209, United States",
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "BMC SLR01 team machine road bike",
+      "url": "https://bikeindex.org/bikes/3383577",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778115000,
+      "description": "White Trek Hybrid bike with rear cargo rack, black worn saddle, flat handlebars, and thin road-style tires.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "7.2 FX",
+      "id": 3383659,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026363/large_IMG_9645.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        34.04,
+        -118.27
+      ],
+      "stolen_location": "Los Angeles, CA 90015, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026363/small_IMG_9645.jpeg",
+      "title": "Trek 7.2 FX",
+      "url": "https://bikeindex.org/bikes/3383659",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778061600,
+      "description": "Should have a gel seat, combination lock safety link on the handle bars. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3383113,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1026083/large_GiantRoadBike_PW.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -113.54
+      ],
+      "stolen_location": "Edmonton, T5M 0R6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1026083/small_GiantRoadBike_PW.jpg",
+      "title": "2011 Giant",
+      "url": "https://bikeindex.org/bikes/3383113",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777424400,
+      "description": "The frame is bright purple (Arroyo Lilac) with drop handlebars, and the original tires were replaced with thinner tires that are brown and black. I had a black Velcro bag on the front, a dark green pouch under the seat, a water bottle mount on the frame, and a light mount on the front right handlebar. ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "4130 All-Road",
+      "id": 3378116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1023370/large_Bike3.JPG",
+      "location_found": null,
+      "manufacturer_name": "State Bicycle Co.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SBCAT2501229",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        43.04,
+        -87.9
+      ],
+      "stolen_location": "Milwaukee, WI 53202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1023370/small_Bike3.JPG",
+      "title": "2025 State Bicycle Co. 4130 All-Road",
+      "url": "https://bikeindex.org/bikes/3378116",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776855600,
+      "description": "",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Impulso E-Road US",
+      "id": 3373719,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020226/large_Screenshot_2026-04-22_094948.png",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BI00000WBK733772S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020226/small_Screenshot_2026-04-22_094948.png",
+      "title": "2023 Bianchi Impulso E-Road US",
+      "url": "https://bikeindex.org/bikes/3373719",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776852000,
+      "description": "There are 4 bikes total that were stolen. All Serial Numbers are: FY21KY6630         FY21KY6752\r\n    FY21KY6607                FY21KY6626\r\n     ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Declaration",
+      "id": 3374322,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020819/large_Stolen_Fujis.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FY21KY6630",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.55,
+        -122.51
+      ],
+      "stolen_location": "Portland, OR 97230, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020819/small_Stolen_Fujis.jpeg",
+      "title": "2026 Fuji Declaration",
+      "url": "https://bikeindex.org/bikes/3374322",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776564000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Venture 2",
+      "id": 3372060,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018816/large_IMG_8422.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.81,
+        -82.33
+      ],
+      "stolen_location": "Greenville, SC 29607, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018816/small_IMG_8422.jpeg",
+      "title": "Raleigh Venture 2",
+      "url": "https://bikeindex.org/bikes/3372060",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775401200,
+      "description": "I'll note that I got this bike used and the wide handlebars and thin wheels differ from many images of the Sulcata on the internet and more resemble a road bike. Nonetheless, the receipt states that it is a Sulcata. It did not have any baskets or other notable features.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Blue"
+      ],
+      "frame_model": "Carrera Sulcata",
+      "id": 3359893,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Carrera bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.75,
+        -1.26
+      ],
+      "stolen_location": "Oxford, OX1 1QE, GB",
+      "thumb": null,
+      "title": "Carrera bicycles Carrera Sulcata",
+      "url": "https://bikeindex.org/bikes/3359893",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775318400,
+      "description": "My stolen bike is a white (with black/gold accents) 2022-2024 Trek Domane AL 4 that is in good condition other than cosmetic wear/tear (eg, scratches on pedals/handlebars, etc). Notable bike modifications/accessories that are currently installed or are also missing include:\r\na) 3 bike bags: \r\ni. repair bag/kit (black saddle bag)\r\nii. split colored orange/grey oveja negra forward top tube bag\r\niii. black Almsthre Stem Bag with blue waterproof interior (last fixed on stem's left side)\r\nb) Specialized Romin Evo Pro 3D-printed saddle (black)\r\nc) black Shimano clipless road pedals\r\nd) bike essentially otherwise outfitted with the model's stock gear/parts\r\ne) other/accessories missing at time of theft:\r\ni.  Giro Aries Spherical helmet (notable for its ball-in-socket Mips design)\r\nii. white Giro racing gloves with fingertip cutaways",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Domane AL Era White Gen 4",
+      "id": 3359473,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014197/large_white_Trek_Domane_AL_4.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU074XC1042X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -104.87
+      ],
+      "stolen_location": "Denver, CO 80238, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014197/small_white_Trek_Domane_AL_4.png",
+      "title": "2024 Trek Domane AL Era White Gen 4",
+      "url": "https://bikeindex.org/bikes/3359473",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775106000,
+      "description": "Yellow with black seat and black chain. Silver wheels, drivetrain, and handlebars. This is an old road bike from the 70s.",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "LeMans",
+      "id": 3358507,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013602/large_IMG_5984_copy.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Centurion",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UNSURE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.24,
+        -110.94
+      ],
+      "stolen_location": "Tucson, AZ 85719, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013602/small_IMG_5984_copy.jpeg",
+      "title": "1970 Centurion LeMans",
+      "url": "https://bikeindex.org/bikes/3358507",
+      "year": 1970,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Women's Road Bike",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": null,
+      "id": 3357234,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1012817/large_IMG_5420.jpg",
+      "location_found": "Denver, CO 80203, United States",
+      "manufacturer_name": "Peugeot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1012817/small_IMG_5420.jpg",
+      "title": "Peugeot",
+      "url": "https://bikeindex.org/bikes/3357234",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773126000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reacto DA",
+      "id": 3351873,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009745/large_20260317_v%C3%A9lo_vol%C3%A9_Merida_Reacto_DA_pour_petite_annonce.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MF6F9ZK8Z3",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.86,
+        2.45
+      ],
+      "stolen_location": "Montreuil, 93100, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009745/small_20260317_v%C3%A9lo_vol%C3%A9_Merida_Reacto_DA_pour_petite_annonce.jpg",
+      "title": "2016 Merida Bikes Reacto DA",
+      "url": "https://bikeindex.org/bikes/3351873",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772773554,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Triban RC120 Disc Brake Aluminum Road Bike",
+      "id": 3347281,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1006425/large_PXL_20231019_212322626.jpg",
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1006425/small_PXL_20231019_212322626.jpg",
+      "title": "2023 Decathlon Triban RC120 Disc Brake Aluminum Road...",
+      "url": "https://bikeindex.org/bikes/3347281",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772575200,
+      "description": "This is a grey and red cyclocross Felt bike. The most recognizable detail is the red/pink handlebar tape, and the gravel tires, which are much more rugged than a road bike.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Red"
+      ],
+      "frame_model": "F75x",
+      "id": 3351861,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009738/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.82,
+        144.96
+      ],
+      "stolen_location": "Melbourne, 3000, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009738/small_bike.jpg",
+      "title": "2014 Felt F75x",
+      "url": "https://bikeindex.org/bikes/3351861",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771689600,
+      "description": "Giant Fastroad E+ city ebike with over 7K miles.  Unique features include raspberry martini glass bike bell, Time ATAC MTB clip less pedals, Schwable Moto X tires, Robert Axle BOB trailer rear axle, women's WTB Deva saddle, Cycliq seatpost camera mount, Bontrager flared handle bar grips. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fastroad E+",
+      "id": 3342886,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1004085/large_JStangEBike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G8GA07418",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.86,
+        -104.87
+      ],
+      "stolen_location": "Colorado Springs, CO 80904, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1004085/small_JStangEBike.jpg",
+      "title": "2022 Giant Fastroad E+",
+      "url": "https://bikeindex.org/bikes/3342886",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771490700,
+      "description": "Well maintained road bike, black with some purple accents and grey forks.  Medium/Large frame (exact size not known)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Composite 2120",
+      "id": 3342812,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1004035/large_20200119_140416.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.96,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60613, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1004035/small_20200119_140416.jpg",
+      "title": "2026 Trek Composite 2120",
+      "url": "https://bikeindex.org/bikes/3342812",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771454100,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Marlin 7 Gen 3",
+      "id": 3340261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1003909/large_IMG_8146.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU028 XC 0520 X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.42,
+        -111.95
+      ],
+      "stolen_location": "Tempe, AZ 85281, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1003909/small_IMG_8146.jpg",
+      "title": "2025 Trek Marlin 7 Gen 3",
+      "url": "https://bikeindex.org/bikes/3340261",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771089964,
+      "description": "Pearl white Kuwahara road bike with downtube shifters and steel fenders. ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "road bike",
+      "id": 3338682,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1002748/large_Kuwahara.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kuwahara",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "50551060",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.69,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1002748/small_Kuwahara.jpg",
+      "title": "1985 Kuwahara road bike",
+      "url": "https://bikeindex.org/bikes/3338682",
+      "year": 1985,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1770879600,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Model 5",
+      "id": 3338083,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1002248/large_IMG_7305.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Qualisports",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HYUS20L10437",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        19.64,
+        -156.0
+      ],
+      "stolen_location": "Kailua Kona, HI 96740, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1002248/small_IMG_7305.jpeg",
+      "title": "Qualisports Model 5",
+      "url": "https://bikeindex.org/bikes/3338083",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1770789600,
+      "description": "It is a silver specialized Tricross Sport Road / gravel bike (700c) \r\nFrame: Specialized TriCross Sport lightweight aluminum\r\n • Wheel size: 700c\r\n • Tires: Specialized Borough CX 700x32c (smooth-rolling, multi-surface tread)\r\n • Drivetrain: Shimano Sora 2x9 (18-speed)\r\n • Crankset: Shimano Sora compact double\r\n • Brakes: Avid mechanical disc brakes\r\n • Shifters: Shimano Sora integrated brake/shift levers\r\n • Bars: Specialized drop bars with inline brake levers\r\n • Saddle: SDG Allure\r\n • Hubs spin smooth, gears shift clean\r\n",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3337981,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1002124/large_IMG_5075.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC602366892H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.27,
+        -123.15
+      ],
+      "stolen_location": "Vancouver, V6J 1M7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1002124/small_IMG_5075.jpeg",
+      "title": "Specialized",
+      "url": "https://bikeindex.org/bikes/3337981",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1770762856,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Radster Trail Electric Off-Road Bike",
+      "id": 3337658,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TL1F24V24101A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.6,
+        -117.91
+      ],
+      "stolen_location": "Newport Beach, CA 92661, US",
+      "thumb": null,
+      "title": "2025 Rad Power Bikes Radster Trail Electric Off-Road Bike",
+      "url": "https://bikeindex.org/bikes/3337658",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1769623200,
+      "description": "Road bike with gravel tires. Had adjustable fenders on the bike at the time of theft",
+      "frame_colors": [
+        "Red",
+        "Purple"
+      ],
+      "frame_model": "Avail AR 1",
+      "id": 3317544,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/999469/large_IMG_3890.jpg",
+      "location_found": null,
+      "manufacturer_name": "Liv",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K3JK54375",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/999469/small_IMG_3890.jpg",
+      "title": "2022 Liv Avail AR 1",
+      "url": "https://bikeindex.org/bikes/3317544",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

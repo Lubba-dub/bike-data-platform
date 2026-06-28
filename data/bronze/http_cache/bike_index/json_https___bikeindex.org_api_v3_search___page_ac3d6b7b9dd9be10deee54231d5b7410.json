@@ -1,0 +1,762 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1779112800,
+      "description": "It has a cargo rack on the back with a stretchy net and hooks. It has a lock holder on the frame but the lock is missing. There is a phone holder. There is a side mirror on the left side only. It had a caltrain tag on it as well. There is no battery.",
+      "frame_colors": [
+        "Purple",
+        "Black"
+      ],
+      "frame_model": "XP Lite 2.0",
+      "id": 3394050,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1030489/large_1000023489.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.29
+      ],
+      "stolen_location": "Redwood City, CA 94062, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1030489/small_1000023489.jpg",
+      "title": "2026 Lectric eBikes XP Lite 2.0",
+      "url": "https://bikeindex.org/bikes/3394050",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777946400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Y2/Y6/Y6PRO",
+      "id": 3382112,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025328/large_IMG_3840.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Werhy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.79,
+        -117.98
+      ],
+      "stolen_location": "Garden Grove, CA 92841, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025328/small_IMG_3840.jpeg",
+      "title": "Werhy Y2/Y6/Y6PRO",
+      "url": "https://bikeindex.org/bikes/3382112",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767812400,
+      "description": "Aftermarket Side view mirror installed \r\nABUS folding lock installed on step through of frame \r\nThule Yepp seat on back (baby blue)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RadRunner Plus Electric Cargo Utility Bike",
+      "id": 3261455,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/995509/large_Photo_of_Stolen_Bike.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "VP4C25H07061A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.65,
+        -122.41
+      ],
+      "stolen_location": "Seattle, WA 98199, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/995509/small_Photo_of_Stolen_Bike.jpeg",
+      "title": "2025 Rad Power Bikes RadRunner Plus Electric Cargo Utility...",
+      "url": "https://bikeindex.org/bikes/3261455",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762243200,
+      "description": "It's a black ebike that folds up with fat tires headlight and brake light. There is a throttle on right side handle bars also fold up and adjust with quick release. It has a back rack that also is used for a seat when you purchase the cushion for it. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding step through",
+      "id": 3219716,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982790/large_1000011634.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BK6MWBT202304180377",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.58,
+        -113.89
+      ],
+      "stolen_location": "Spruce Grove, T7X 4M4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982790/small_1000011634.jpg",
+      "title": "2023 Colnago Folding step through",
+      "url": "https://bikeindex.org/bikes/3219716",
+      "year": 2023,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756785600,
+      "description": "- Black folding e-bike with blue \"LECTRIC\" logo on upper side of frame.\r\n- Over 1,200 miles on odometer.\r\n- Noticeably squeaky/dry front suspension, no oil, rust stains around rubber gaskets.\r\n- Rear tire replaced! Has a completely different, tighter tread pattern.\r\n- Pedal assist settings on left handle, throttle on right handle.\r\n- Been in several low-speed accidents. Obvious damage: dent on bell, slightly downward-bent left brake lever, paint scratches, askew front mudguard, small surface-level tear on the textured part of the seat. \r\n- Handlebar stem and seat post lengths were maximized at time of theft.\r\n- Plastic film still on circular headlight.\r\n- Fold lock lever fairly tight; requires effort to open.\r\n- Accessories: Silver bell, phone holder overlapping with LCD screen, bike lock holder on rear of seat post, rear-mounted rack, mesh water bottle holder Velcroed to rack.",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "XP™ Step-Thru 3.0",
+      "id": 3180338,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/963696/large_image1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric Cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD22J86725",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.05,
+        -118.34
+      ],
+      "stolen_location": "Los Angeles, CA 90019, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/963696/small_image1.jpg",
+      "title": "2022 Lectric Cycles XP™ Step-Thru 3.0",
+      "url": "https://bikeindex.org/bikes/3180338",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756238400,
+      "description": "Chili Red folding ebike 48V 750W 20\" frame, 4.0 fat tire, 13Ah lithium-ion battery, Shimano 7-speed, with Smart LCD display, and black insulated Mosiso waterproof bag behind rider. ViaVelo Bike U Lock, Meachow handlebar right side bicycle mirror. Several locations on metal frame engraved with name - Travis Mackie",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "FW11 KT-D05 Z-LXD25-SD",
+      "id": 1230470,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958003/large_E-Bike_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fucare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "209922127700006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.06,
+        -122.15
+      ],
+      "stolen_location": "Marysville, WA 98270, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958003/small_E-Bike_1.jpg",
+      "title": "2022 Fucare FW11 KT-D05 Z-LXD25-SD e-scooter",
+      "url": "https://bikeindex.org/bikes/1230470",
+      "year": 2022,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "e-scooter"
+    },
+    {
+      "date_stolen": 1768633200,
+      "description": "MidTown Breezer 1.5, large frame, black bell and Mounts for phone and lights on the handlebars. Rear rack with a spring loaded mechanism. Kickstand on the Left side. The frame is silver, but the fork is black (had to be replaced due to an accident).",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Midtown 1.5",
+      "id": 2863267,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/944965/large_PXL_20250730_220047960.jpg",
+      "location_found": null,
+      "manufacturer_name": "Breezer",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ISO 4210-210-2",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.31
+      ],
+      "stolen_location": "Oakland, CA 94607, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/944965/small_PXL_20250730_220047960.jpg",
+      "title": "Breezer Midtown 1.5",
+      "url": "https://bikeindex.org/bikes/2863267",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753898400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2863125,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/944858/large_IMG_2540.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/944858/small_IMG_2540.jpg",
+      "title": "2022 Giant",
+      "url": "https://bikeindex.org/bikes/2863125",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748386800,
+      "description": "This bike has been completely updated, repainted, and modified with a frame mounted front rack and XL front basket. It has a hub motor in the rear wheel, and the battery is mounted on the down tube. It also has a child seat mounted behind the handlebars.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Raleigh 20 non-folding",
+      "id": 2809468,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/921127/large_1000008548.jpg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.54,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/921127/small_1000008548.jpg",
+      "title": "1970 Raleigh Raleigh 20 non-folding",
+      "url": "https://bikeindex.org/bikes/2809468",
+      "year": 1970,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749513600,
+      "description": "White frame, with 3 gray stripes. Black suspension seat post, black fenders, bike rack and lights. Black Lectric phone mount, rear view mirrors and bike lock (installed in seat post side of the frame). Digital display. ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Step-thru",
+      "id": 2803395,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/926748/large_thumbnail6.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNCTC24M00852",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.05,
+        -87.68
+      ],
+      "stolen_location": "Evanston, IL 60208, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/926748/small_thumbnail6.jpg",
+      "title": "2025 Lectric eBikes Step-thru",
+      "url": "https://bikeindex.org/bikes/2803395",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747209600,
+      "description": "Fat tire electric bike with a wide seat and a rear basket. The bike is scuffed up the right side from a crash in a few places. The gear shift (where the numbers are on the handlebars) is cracked. When it was stolen it had silly horror-themed bumper stickers on either side.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mars 2.0",
+      "id": 2801732,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/916285/large_carmilla.jpg",
+      "location_found": null,
+      "manufacturer_name": "Heybike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HBK24042031095",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.08,
+        -81.08
+      ],
+      "stolen_location": "Savannah, GA 31401-7016, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/916285/small_carmilla.jpg",
+      "title": "Heybike Mars 2.0",
+      "url": "https://bikeindex.org/bikes/2801732",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745834400,
+      "description": "See photo description",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Explore ED+GTS",
+      "id": 1393472,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/632491/large_3D1164F0-F063-4866-BE91-4013CC7248D1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E7FE00950",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.27,
+        -81.41
+      ],
+      "stolen_location": "Jacksonville Beach, FL 32250, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/632491/small_3D1164F0-F063-4866-BE91-4013CC7248D1.jpeg",
+      "title": "2021 Giant Explore ED+GTS",
+      "url": "https://bikeindex.org/bikes/1393472",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744362000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XP Step-Thru 3.0",
+      "id": 2778534,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/904388/large_1000012864.png",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D24H86945",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/904388/small_1000012864.png",
+      "title": "2025 Lectric eBikes XP Step-Thru 3.0",
+      "url": "https://bikeindex.org/bikes/2778534",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744372800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XP 3.0 Step Thru folding e bike",
+      "id": 2739053,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/904319/large_PXL_20250115_204808200.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D24H86945",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/904319/small_PXL_20250115_204808200.jpg",
+      "title": "2024 Lectric eBikes XP 3.0 Step Thru folding e bike",
+      "url": "https://bikeindex.org/bikes/2739053",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745841600,
+      "description": "Includes after market add ons: Axiom Rack over rear wheel, Planet Bike (front and rear) aluminum finders front and Black Ops flat pedals.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Wabash RT",
+      "id": 2734922,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877711/large_IMG_9237.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Yamaha",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "X2U20001779",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.27,
+        -81.41
+      ],
+      "stolen_location": "Jacksonville Beach, FL 32250, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877711/small_IMG_9237.jpeg",
+      "title": "2024 Yamaha Wabash RT",
+      "url": "https://bikeindex.org/bikes/2734922",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735830000,
+      "description": "\"polaris\" blue aventon abound cargo bike. Lectric mirror on the left side handlebar.\r\nBike has been stolen. There is a black plastic trunk on the rear of the bike. Trunk has a red button and red reflective strip, and locking latch.\r\nSchwable Pick Up tire on the rear\r\nSchwable Super Moto X tire on the front\r\n",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Abound",
+      "id": 2731501,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876602/large_20241127_162712.jpg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AD4I0591",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.11,
+        -115.21
+      ],
+      "stolen_location": "Las Vegas, NV 89103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876602/small_20241127_162712.jpg",
+      "title": "2024 Aventón Abound",
+      "url": "https://bikeindex.org/bikes/2731501",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730242800,
+      "description": "Fat Tire Electric Bike: A folding electric bike with 26-inch wheels and 3-inch wide tires, equipped with a SHIM 7-speed transmission. Yellow head light. Has a small Rainbow sticker on each side.  LCD smart display with glue spilled on the bezel. The front motor's wire has the plastic worn down exposing the bare wire due to  poor design and it being too close to the rubber tire. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FOLDING",
+      "id": 2721483,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/871115/large_Screenshot_20241029_205016_Chrome_1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "TT EBIKE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBTAP24040103",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.19,
+        -117.37
+      ],
+      "stolen_location": "Oceanside, CA 92054, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/871115/small_Screenshot_20241029_205016_Chrome_1_.jpg",
+      "title": "2024 TT EBIKE FOLDING",
+      "url": "https://bikeindex.org/bikes/2721483",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727830800,
+      "description": "The bike is a folding long-range battery-powered black and blue electric bicycle made by Lectric eBikes of Arizona. This new model of the XP 3.0 has an upgraded 1000W peak rear hub motor with 55nm of torque as well as hydraulic disc brakes.",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2555812,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/777370/large_Lectric_XP_3.0_Foward_Left_Frame.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD23J61089",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.1,
+        -106.57
+      ],
+      "stolen_location": "Albuquerque, NM 87110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/777370/small_Lectric_XP_3.0_Foward_Left_Frame.jpg",
+      "title": "2023 Lectric eBikes",
+      "url": "https://bikeindex.org/bikes/2555812",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723395600,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Soltera.2",
+      "id": 2672844,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/842014/large_Bike_1_Stock_Image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SA3K1374",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.96,
+        -93.26
+      ],
+      "stolen_location": "Minneapolis, MN 55404, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/842014/small_Bike_1_Stock_Image.jpg",
+      "title": "2023 Aventón Soltera.2",
+      "url": "https://bikeindex.org/bikes/2672844",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716770700,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Grizzly 52v",
+      "id": 2617808,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/812498/large_IMG_20221113_145342.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ariel Rider",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "837570623015",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/812498/small_IMG_20221113_145342.jpg",
+      "title": "2022 Ariel Rider Grizzly 52v",
+      "url": "https://bikeindex.org/bikes/2617808",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1707721200,
+      "description": "Folding bike.  Has a pannier on right side.  Has built in lights.  Has bike bell like a beach ball.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "LINK D7i",
+      "id": 2561723,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/781965/large_tern_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Tern",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TSAQA000",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.27,
+        -110.99
+      ],
+      "stolen_location": "Tucson, AZ 85705, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/781965/small_tern_bike.jpg",
+      "title": "Tern LINK D7i",
+      "url": "https://bikeindex.org/bikes/2561723",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1701846000,
+      "description": "This is a step through style bike with 2 folding mechanisms. One at the handle bars and one at the middle of the frame near the pedals. It has 7 bike gears and 5 pedal assist gears. Fat tires. Upgraded headlight. \r\n\r\nMy particular bike at the time of theft, had Velcro type a tool bag on the handle bars and 2 of the orange Rad bungee cords. The rear tail light is held on via a zap strap, and on the right side where the pedal comes out the plasticy part that houses the pedal and the chain is broken slightly from pulling in and out of my vehicle so it’s not a full smooth circle. ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Expand 5 - Step in",
+      "id": 2537427,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/770357/large_Rad_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RE5H21T5204",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.22,
+        -64.55
+      ],
+      "stolen_location": "Shediac, E4P 2E3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/770357/small_Rad_Bike.jpg",
+      "title": "2022 Rad Power Bikes Expand 5 - Step in",
+      "url": "https://bikeindex.org/bikes/2537427",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1699498800,
+      "description": "Frame mounted bottle cage and abus folding lock holder. Black rear rack, the paint is worn through where the pannier hooks sit. Has a rack-mounted taillight mount (for a specialized stix that was not on the bike), and a light and motion viz mount on the handlebars. The down tube has a substantial dent on the right hand side. Front wheel only has a security skewer.",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Sirrus",
+      "id": 1692758,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/764100/large_PXL_20220513_234618817.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/764100/small_PXL_20220513_234618817.jpg",
+      "title": "2016 Specialized Sirrus",
+      "url": "https://bikeindex.org/bikes/1692758",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1694754000,
+      "description": "[E-bike Brand: Synergy electric rides | Model: Kahuna | Style: Folding, Fat Tire | Colour: Blue] |  \r\n\r\nADDED ACCESSORIES INCLUDE:\r\n\r\nFenders: Front & Back | Rear rack with tail light | Seat: Selle Italia Sportourer Zeta Comfort Gel Flow Saddle | Handlebar mounted bike helmet lock (on left handlebar) | Handlebar mounted side view mirror (on left handlebar only) | Bike Alarm (mounted just atop the base of the handlebar stem) | \r\nDEFINING MARKS:  * 1/2 of the Left brake lever is broken off | \r\n* some scraped & scratched paint on left side of rear rack and frame of bike | \r\n\r\n**[IMPORTANT NOTE]**\r\n\r\nAttached photos on file are primarily stock photos of the same make, model and colour of bike, \r\nand accessories for reference purposes.\r\nI do not have any pictures of my personally owned bike.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "SYNERGY KAHUNA X 750S",
+      "id": 1661517,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/747648/large_Kahuna-blue.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Synergy electric rides",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WMAB HK2020121005",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.13,
+        -106.64
+      ],
+      "stolen_location": "Saskatoon, S7N 5E2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/747648/small_Kahuna-blue.jpeg",
+      "title": "2021 Synergy electric rides SYNERGY KAHUNA X 750S",
+      "url": "https://bikeindex.org/bikes/1661517",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1682197200,
+      "description": "RAD Mini Step Thru 2019 Electric Bicycle that is white with orange accents, leather brown seat and handlebars, digital LCD Display, folding bike, throttle, 7 gear, peddle Assist",
+      "frame_colors": [
+        "White",
+        "Orange"
+      ],
+      "frame_model": "Rad Mini Step Thru",
+      "id": 1188636,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/499429/large_E0730C8D-8B86-42F1-B666-2710D4DE890E.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LB919J110069",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.76,
+        -111.87
+      ],
+      "stolen_location": "Salt Lake City, UT 84102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/499429/small_E0730C8D-8B86-42F1-B666-2710D4DE890E.jpeg",
+      "title": "2019 Rad Power Bikes Rad Mini Step Thru",
+      "url": "https://bikeindex.org/bikes/1188636",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

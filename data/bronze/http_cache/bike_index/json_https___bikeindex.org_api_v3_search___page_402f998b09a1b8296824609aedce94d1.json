@@ -1,0 +1,766 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1762686000,
+      "description": "A carbon frame gravel bike with high-end components and shimano grx 800 hydraulic disc brakes.\r\nI have changed the handle tape. So, it does not canyon symbol.  I have also changed the tube of the rear tyre.\r\nhttps://99spokes.com/en-GB/bikes/canyon/2024/grizl-cf-sl-8-trail ",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Carbon Frame, Size L, Grizl CF SL 8 Trail",
+      "id": 3230317,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987063/large_Screenshot_from_2025-11-23_11-50-20.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09501N23A0639",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.75,
+        -1.27
+      ],
+      "stolen_location": "Oxford, OX1 1HR, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987063/small_Screenshot_from_2025-11-23_11-50-20.png",
+      "title": "2023 Canyon bicycles Carbon Frame, Size L, Grizl CF SL 8 T...",
+      "url": "https://bikeindex.org/bikes/3230317",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762560000,
+      "description": "Yellow Brodie Romulis road bike with blue logos. Blue handlebar wrap. Carbon fibre front forks. Two blue water bottle holders. Unique Shimano rims, spokes in star-like pattern, black. Shimano clip pedals. Black seat bag with teal trim and moose hide pin, contains roadside tools. RBC Whistler Gran Fondo elevation sticker on crossbar.",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": null,
+      "id": 3225023,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983861/large_11bef58a-1d74-40dd-8521-4f3ce6303afe-1_all_4586.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brodie",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.48
+      ],
+      "stolen_location": "Edmonton, T5H 1Z3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983861/small_11bef58a-1d74-40dd-8521-4f3ce6303afe-1_all_4586.jpg",
+      "title": "Brodie",
+      "url": "https://bikeindex.org/bikes/3225023",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762473600,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "SuperSix Evo",
+      "id": 3224621,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983478/large_IMG_5162_Original.png",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DM57702",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.37,
+        -119.13
+      ],
+      "stolen_location": "Bakersfield, CA 93312, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983478/small_IMG_5162_Original.png",
+      "title": "2015 Cannondale SuperSix Evo",
+      "url": "https://bikeindex.org/bikes/3224621",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762376400,
+      "description": "FSA Handlebar, Original full Shimano Ultegra groupset, cranks, breaks, casette and chain, Wheels Mavic Ksyrium with clincher Serfas  Kevlar tires ",
+      "frame_colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "SLX01 Racemaster",
+      "id": 3224505,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983620/large_BMC2.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.62,
+        -79.77
+      ],
+      "stolen_location": "Toronto, L6Y 0R3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983620/small_BMC2.jpg",
+      "title": "2010 BMC SLX01 Racemaster",
+      "url": "https://bikeindex.org/bikes/3224505",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762189080,
+      "description": "Oval aluminum handlebars\r\nQ2 stem\r\nVuelta corsa súper lite wheelset\r\n700 x 28 gatorskin tires\r\nShimano 105 5700 shifters\r\nShimano 105 5700 compact crank/black\r\nUltegra 6700 rear and front derailleur \r\nUltegra rim brakes\r\nUltegra pedals\r\nFizik terra Argo saddle\r\nBlack tape wrapped around the end of the bars because it was beginning to tear\r\nSmall Chip on center of the frame where the logo “Giant” is",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Defy 1",
+      "id": 3227533,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985370/large_B47A79DD-DBEC-402D-9BFA-1C5AF55F2DD1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.04,
+        -117.75
+      ],
+      "stolen_location": "Pomona, CA 91766, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985370/small_B47A79DD-DBEC-402D-9BFA-1C5AF55F2DD1.jpeg",
+      "title": "2009 Giant Defy 1",
+      "url": "https://bikeindex.org/bikes/3227533",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762131600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Tarmac SL8",
+      "id": 3225931,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984325/large_IMG_0254.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004087574V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -76.98
+      ],
+      "stolen_location": "Washington, DC 20002, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984325/small_IMG_0254.jpeg",
+      "title": "2025 Specialized Tarmac SL8",
+      "url": "https://bikeindex.org/bikes/3225931",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762120800,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Topstone 2 GRX",
+      "id": 3223410,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982576/large_IMG_4946.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FD18265",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.97,
+        -118.42
+      ],
+      "stolen_location": "Playa Vista, CA 90094, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982576/small_IMG_4946.jpg",
+      "title": "2025 Cannondale Topstone 2 GRX",
+      "url": "https://bikeindex.org/bikes/3223410",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762003860,
+      "description": "I bought my bike in 2013 off Craigslist from a women who was upgrading to a nicer commuting bike. I think it's a 2009 based on the frame, color, and parts. It has EF50 L shimano shifters, which weren't used on the 2011 and 2012 models. I've added cheapo fenders to make riding in Tacoma and Seattle more pleasant. We've gone on tours around many of the parks here. I also rode it in Portland after taking it on the Amtrak- saaaweeeeet! I love my bike and have decorated it with stickers favorite shops around the area. My bike was stolen in 2015 and rediscovered at a pawn shop the next day. I'm so lucky to have this bike and i can imagine losing it again!",
+      "frame_colors": [
+        "Teal",
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "Transeo",
+      "id": 385455,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/199710/large_IMG_20190614_134900.jpg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H162A170",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.64,
+        -122.37
+      ],
+      "stolen_location": "Seattle, WA 98119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/199710/small_IMG_20190614_134900.jpg",
+      "title": "2009 GT Bicycles Transeo",
+      "url": "https://bikeindex.org/bikes/385455",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761739200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "510",
+      "id": 3221878,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/988034/large_Trek_1979.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E2J8214",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.06
+      ],
+      "stolen_location": "Mountain, CA 94043, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/988034/small_Trek_1979.jpg",
+      "title": "1979 Trek 510",
+      "url": "https://bikeindex.org/bikes/3221878",
+      "year": 1979,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761705900,
+      "description": "Chipped yellow paint on top tube exposing aluminum. Shimano wheels shimano wh540 wheels (very distinct, nipple on hub), only 16 spokes per wheel. 2 speed crankset, mismatched front and rear shifters. Two mounts on handlebars (phone and light mount).",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Vela",
+      "id": 3221669,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981471/large_IMG_3316.JPG",
+      "location_found": null,
+      "manufacturer_name": "Litespeed",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.7,
+        -73.92
+      ],
+      "stolen_location": "Brooklyn, NY 11237, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981471/small_IMG_3316.JPG",
+      "title": "2004 Litespeed Vela",
+      "url": "https://bikeindex.org/bikes/3221669",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761429600,
+      "description": "Grey and Black Scattante road bike with Shimano 105 components. Has very worn plastic on the paddle shifter and brand new Shimano PD M520 SPD pedals.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "R570 Carbon Fiber Road Bike",
+      "id": 3220215,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/980437/large_1000014084.jpg",
+      "location_found": null,
+      "manufacturer_name": "Scattante",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.74,
+        -105.03
+      ],
+      "stolen_location": "Denver, CO 80204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/980437/small_1000014084.jpg",
+      "title": "2011 Scattante R570 Carbon Fiber Road Bike",
+      "url": "https://bikeindex.org/bikes/3220215",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761415200,
+      "description": "Bicicleta con diseño retro, de color azul grisáceo, manguitos y sillín de piel sintética color marrón con muelles, modelo \"Victoria\" (cambiados del original). Portamaletas delante y detrás. Luz en el guardabarro trasero y en el lateral del delantero. Cambio de marchas SHIMANO RD-TX35D 7V. Timbre de color amarillo.\r\n\r\nA retro-style bicycle in a blue-gray color with brown synthetic leather saddle and springs, \"Victoria\" model (replaced from the original). Front and rear pannier racks. Lights on the rear fender and on the side of the front fender. SHIMANO RD-TX35D 7-speed derailleur. Yellow bell.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Coluer Sixties 700C",
+      "id": 3221255,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981133/large_IMG_20220829_152006.jpg",
+      "location_found": null,
+      "manufacturer_name": "COLUER",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.38,
+        2.15
+      ],
+      "stolen_location": "Barcelona, 08015, ES",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981133/small_IMG_20220829_152006.jpg",
+      "title": "2014 COLUER Coluer Sixties 700C",
+      "url": "https://bikeindex.org/bikes/3221255",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761073200,
+      "description": "200 Series Alpha Aluminum, IsoSpeed\r\n\r\nTrek Lexa SLX 52CM Racing road bike Shimano, Bontrager, White.\r\n",
+      "frame_colors": [
+        "White",
+        "Teal",
+        "Blue"
+      ],
+      "frame_model": "Lexa SLX (Compact or Triple)",
+      "id": 3218429,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/978981/large_IMG_B378EA1D-32F2-4B08-B9F0-87725EF6DB3D.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU269G5069H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/978981/small_IMG_B378EA1D-32F2-4B08-B9F0-87725EF6DB3D.jpeg",
+      "title": "2014 Trek Lexa SLX (Compact or Triple)",
+      "url": "https://bikeindex.org/bikes/3218429",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760907600,
+      "description": "Bright blue color, the original mechanical 2x11 Shimano 105 groupset and Mavic wheels. It might have Wahoo speed and cadence sensors still attached, as well as two Topeak bottle cages.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Endurace AL DB 7.0",
+      "id": 3219516,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979769/large_IMG_20200706_224324.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R05601B19C0058",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        60.22,
+        24.81
+      ],
+      "stolen_location": "Espoo, 02600, FI",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979769/small_IMG_20200706_224324.jpg",
+      "title": "2019 Canyon bicycles Endurace AL DB 7.0",
+      "url": "https://bikeindex.org/bikes/3219516",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760860800,
+      "description": "SHIMANO SLX 9 SPEED, SRAM TRIGGER SHIFTER, HAYES CODE 5 HYDRAULIC BRAKES, SDG IBEAM SADDLE AND SEATPOST,BLACKSPIRE SUPERGUARD BASHGUARD, BLAKSPIRE CHAIN TENSIONER, MARCOZZI DROP OFF III FRONT FORK, WELGO PEDALS, SUN S TYPE RIMS",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "YAKUZA",
+      "id": 3218871,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979305/large_BIKE_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ironhorse Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.6,
+        -113.39
+      ],
+      "stolen_location": "Edmonton, T5A 0E3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979305/small_BIKE_1.jpg",
+      "title": "2006 Ironhorse Bicycles YAKUZA",
+      "url": "https://bikeindex.org/bikes/3218871",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760346000,
+      "description": "Frame Material Details \t6066 alloy, triple butted T4 and T6 tubes; molded down tube, chainstay, and seatstay protection ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Meta TR29",
+      "id": 1397762,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976571/large_IMG_0223.JPG",
+      "location_found": null,
+      "manufacturer_name": "Commencal Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TRS1AC04900W",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.98
+      ],
+      "stolen_location": "Denver, CO 80203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976571/small_IMG_0223.JPG",
+      "title": "2021 Commencal Bikes Meta TR29",
+      "url": "https://bikeindex.org/bikes/1397762",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760256000,
+      "description": "hybrid bike w/700C wheels, aluminum frame, steel alloy fork, Shimano 8 speed EZ Fire shifters, Shimano Altus detailers, direct pull brakes, Shimano 300 LX triple crank, Alex DM18 rims (silver)",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Circuit",
+      "id": 1332454,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/597268/large_IMG_1189.jpg",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNMN609C41",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T6E 2M9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/597268/small_IMG_1189.jpg",
+      "title": "Schwinn Circuit",
+      "url": "https://bikeindex.org/bikes/1332454",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760158800,
+      "description": "200 Series Alpha Aluminum, Shimano 105 Shifter, Blue Handlebar Wrap, Blue KPED C Pedals, Front Wheel Is a Bontrager AW Wheel with Green Accents",
+      "frame_colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "Domane 2.3",
+      "id": 3214303,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976757/large_IMG20250913154359.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.67,
+        -111.89
+      ],
+      "stolen_location": "Murray, UT 84121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976757/small_IMG20250913154359.jpg",
+      "title": "2014 Trek Domane 2.3",
+      "url": "https://bikeindex.org/bikes/3214303",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759972569,
+      "description": "é uma bike oggy aro 24 preta com decalque vermelho com 21 marcha shimano, tenho nota fiscal dela. ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "55",
+      "id": 3208267,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "oggy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "BR",
+      "thumb": null,
+      "title": "2024 oggy 55",
+      "url": "https://bikeindex.org/bikes/3208267",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759885200,
+      "description": "Front wheel mudguard is off-center and broken at the tip. Bike has Shimano wheels with front wheel ID #: DH-3N30-A",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "Step-thru frame",
+      "id": 3213555,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976428/large_Retail_Photo.JPG",
+      "location_found": null,
+      "manufacturer_name": "Kalkhoff",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "266173002 (ON LABEL UNDER CRANK), D188054 (STAMPED INTO FRAME BEHIND BATTERY), AV000178 (STAMPED INTO FRAME BEHIND BATTERY)",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.38,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02138, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976428/small_Retail_Photo.JPG",
+      "title": "2014 Kalkhoff Step-thru frame",
+      "url": "https://bikeindex.org/bikes/3213555",
+      "year": 2014,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759129200,
+      "description": "Rebuilt and modified mountain bike from Canadian Tire. List of part are as follows.\r\n\r\nNew handlebar and stem (spank spoon 2 stem green)\r\nBottle holder on handle (Rock bros)\r\nAvid brake system (brake levers and calipers)\r\nAlex Ace 17 Rims 26inch (Front and back)\r\nContinental Race Kings Wheel Set\r\n1x8 Drivetrain \r\nDeckas Green Chain ring \r\nRear night light under seat post(green)\r\nManitou Markor QR  (Front air suspension)\r\nRear shock (unknown brand)\r\nLime green pedal (DMX brand?)\r\n\r\nOther notes - The bike original color was black but few years back I had it powder coating to candy lime green. Model number and or serial might have been lost in the process.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3203375,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/972292/large_32009.jpg",
+      "location_found": null,
+      "manufacturer_name": "CCM",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.93,
+        -113.96
+      ],
+      "stolen_location": "Calgary, T2Z 4S3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/972292/small_32009.jpg",
+      "title": "2013 CCM",
+      "url": "https://bikeindex.org/bikes/3203375",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758895200,
+      "description": "Factory standard config (eg Shimano Ultegra DI2)\r\nExcept:  Look Keo 2 Pedals, Ultegra 11-34T cassette\r\nDistinguishing:  white scratches on front rim only",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Aethos Expert",
+      "id": 3210535,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975338/large_AethosPhoto.JPG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004025336T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.79,
+        -117.23
+      ],
+      "stolen_location": "San Diego, CA 92109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975338/small_AethosPhoto.JPG",
+      "title": "2022 Specialized Aethos Expert",
+      "url": "https://bikeindex.org/bikes/3210535",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758726000,
+      "description": "Mechanical disc breaks with Shimano gears and pedals. Frame made of 6061 aluminum, 24 gears,  27.8 lbs, and has a riser bar. Is real with lime green/yellow stripes on bottom of frame. ",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "CTY 1.1 Step Through",
+      "id": 1397992,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970344/large_IMG_2132.jpeg",
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E22011676",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970344/small_IMG_2132.jpeg",
+      "title": "REI Co-op CTY 1.1 Step Through",
+      "url": "https://bikeindex.org/bikes/1397992",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758574800,
+      "description": "Chrome bike with two distinct bright blue water bottle cages and hybrid pedals (clip / non-clip sides)",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Emonda",
+      "id": 3208163,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975114/large_Bike2.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU233XT0104S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.89,
+        -77.07
+      ],
+      "stolen_location": "Arlington, VA 22209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975114/small_Bike2.jpeg",
+      "title": "2021 Trek Emonda",
+      "url": "https://bikeindex.org/bikes/3208163",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758063600,
+      "description": "White Cannondale CAAD9 Series 5 with red logo/details and a black pouch underneath the seat. Black drop bars with black tape. Model year is 2009 or 2010. Stolen from my garage in Chicago on 9/16/25.",
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "Caad9 5",
+      "id": 3206077,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973746/large_IMG_6411.JPG",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.92,
+        -87.7
+      ],
+      "stolen_location": "Chicago, IL 60647, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973746/small_IMG_6411.JPG",
+      "title": "2009 Cannondale Caad9 5",
+      "url": "https://bikeindex.org/bikes/3206077",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

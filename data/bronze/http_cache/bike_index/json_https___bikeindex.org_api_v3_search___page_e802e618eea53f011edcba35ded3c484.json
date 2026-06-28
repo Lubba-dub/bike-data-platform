@@ -1,0 +1,762 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1734048000,
+      "description": "2016 Synapse Women's Disc with Shimano 105 groupset",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Synapse",
+      "id": 2758665,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/893201/large_1000022987.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B-34498",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.28,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78712, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/893201/small_1000022987.jpg",
+      "title": "2016 Cannondale Synapse",
+      "url": "https://bikeindex.org/bikes/2758665",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733558400,
+      "description": "Gray Specialized Diverge E5 Elite Gravel Bike with Shimano Tiagra Groupset",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Diverge E5 Elite",
+      "id": 702389,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/228540/large_IMG-3448.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC602027807P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/228540/small_IMG-3448.jpg",
+      "title": "2020 Specialized Diverge E5 Elite",
+      "url": "https://bikeindex.org/bikes/702389",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733367016,
+      "description": "Pink Fenders and Frame pump. Custom paint with \"N.Macan\" painted under clearcoat on top tube. Groupset is 105. Velo Orange Grand Cru Brakes",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Sportivo",
+      "id": 2734996,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877760/large_Macan_bike_saved.jpg",
+      "location_found": null,
+      "manufacturer_name": "Marinoni",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U155",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.67,
+        -79.38
+      ],
+      "stolen_location": "Toronto, M4Y 3E1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877760/small_Macan_bike_saved.jpg",
+      "title": "2017 Marinoni Sportivo",
+      "url": "https://bikeindex.org/bikes/2734996",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732237200,
+      "description": "SRAM Rival groupset, purple handlebar and frame bags, Shield sticker on top tube",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Search",
+      "id": 2730605,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876151/large_PXL_20241111_211734417.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AJ60101792",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876151/small_PXL_20241111_211734417.jpg",
+      "title": "2016 Norco Bikes Search",
+      "url": "https://bikeindex.org/bikes/2730605",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729677600,
+      "description": "Blue LeMond with bright blue bar tape and drop bars. SRAM groupset (mix of Force and Rival). Ten-speed mechanical. Bontrager wheelset and stem.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2719022,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/869058/large_bike_pic.jpg",
+      "location_found": null,
+      "manufacturer_name": "LeMond",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.9,
+        -87.68
+      ],
+      "stolen_location": "Chicago, IL 60622, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/869058/small_bike_pic.jpg",
+      "title": "LeMond",
+      "url": "https://bikeindex.org/bikes/2719022",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729266300,
+      "description": "Black carbon GT grade gravel/road bike with Shimano Ultegra groupset. The bike is a custom build, every part was purchased separately and I assembled it myself with occasional help from a bike shop in Boston, MA.",
+      "frame_colors": [
+        "Black",
+        "Blue",
+        "Red"
+      ],
+      "frame_model": "Grade Elite",
+      "id": 2716779,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/867689/large_IMG_5309.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AK15-2529",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.1
+      ],
+      "stolen_location": "Cambridge, MA 02139, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/867689/small_IMG_5309.jpeg",
+      "title": "2016 GT Bicycles Grade Elite",
+      "url": "https://bikeindex.org/bikes/2716779",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728889200,
+      "description": "Has blue handlebar tape, an oddly small FSA chain ring, Claris groupset, Mavic Aksium wheels, and the side of the top tube has a fair bit of wear.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "CAAD Optimo Claris",
+      "id": 2715808,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/867021/large_IMG_1110.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.21,
+        -118.12
+      ],
+      "stolen_location": "Altadena, CA 91001, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/867021/small_IMG_1110.jpg",
+      "title": "2018 Cannondale CAAD Optimo Claris",
+      "url": "https://bikeindex.org/bikes/2715808",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727402400,
+      "description": "Red/Orange Hybrid with black groupset",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Quick 7 ARD MD",
+      "id": 2706335,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/860997/large_IMG_4905_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YC03492",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.94,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60657, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/860997/small_IMG_4905_Original.jpeg",
+      "title": "2018 Cannondale Quick 7 ARD MD",
+      "url": "https://bikeindex.org/bikes/2706335",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727125200,
+      "description": "UPGRADED SHIMANO ULTEGRA GROUPSET --- UPGRADED SHIMANO ULTEGRA WHEELS --- BLUE HANDLEBAR TAPE --- LIGHTS INSTALLED ON HANDLEBAR & SEAT TUBE --- BLACK SEAT, BLACK FLAT PETALS W/ TRACTION PINS --- FAIR MARKET VALUE OF BICYCLE: $1,220 --- # OF SPEEDS: 2-FRONT, 9-REAR --- FACTORY STICKER WORN OFF OF FRAME, SERIAL # STAMPED ON UNDERSIDE OF BOTTOM BRACKET, SERIAL # WUD092103556E",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "White"
+      ],
+      "frame_model": "Dolce Elite Compact",
+      "id": 2712035,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/864713/large_461607532_1074932963977110_8728857823304821458_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WUD092103556E",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.87,
+        -87.62
+      ],
+      "stolen_location": "Chicago, IL 60605, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/864713/small_461607532_1074932963977110_8728857823304821458_n.jpg",
+      "title": "2010 Specialized Dolce Elite Compact",
+      "url": "https://bikeindex.org/bikes/2712035",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726650000,
+      "description": "Felt Broam 60, Size 54 Frame, with Shimano 105 Hydraulic groupset. Green bottle cages and single green headset spacer. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Broam 60",
+      "id": 2699447,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.7,
+        -105.04
+      ],
+      "stolen_location": "Denver, CO 80219, US",
+      "thumb": null,
+      "title": "Felt Broam 60",
+      "url": "https://bikeindex.org/bikes/2699447",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724882400,
+      "description": "Green-blue bike with Shimano Tiagra groupset, rear rack, PDW metal front and rear fenders, Brooks saddle. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Saratoga",
+      "id": 2685139,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/848609/large_IMG_2902.JPG",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.76,
+        -111.88
+      ],
+      "stolen_location": "Salt Lake City, UT 84111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/848609/small_IMG_2902.JPG",
+      "title": "Fuji Saratoga",
+      "url": "https://bikeindex.org/bikes/2685139",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724803200,
+      "description": "It is a carbon gravel bike with Ultegra groupset, and Roval wheels. Stolen on 8/27 from 850 W Fulton in Chicago, IL.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aspero",
+      "id": 2684941,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/848534/large_Screenshot_20240828_010627_Gallery.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNB0B6122G084",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.87,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60607, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/848534/small_Screenshot_20240828_010627_Gallery.jpg",
+      "title": "Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/2684941",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722700800,
+      "description": "Epic EVO 2019, XL w SRAM AXS Groupset, including ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Epic EVO",
+      "id": 2667440,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604488317N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.5
+      ],
+      "stolen_location": "San Francisco, CA 94121, US",
+      "thumb": null,
+      "title": "2019 Specialized Epic EVO",
+      "url": "https://bikeindex.org/bikes/2667440",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719438900,
+      "description": "Orange with carbon weave fork. HED Belgium wheelset, Powertap Hub, pizza reflector, silver plastic bottle cages, sram rival groupset, specialized carbon seatpost, bontrager aeolus saddle, trek 100 stem cap.",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Fantom Cross Pro Disc",
+      "id": 2693248,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/853623/large_PXL_20230925_025018457.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "063 US07US690MA52",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.02,
+        -93.24
+      ],
+      "stolen_location": "St Anthony, MN 55418, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/853623/small_PXL_20230925_025018457.jpg",
+      "title": "2015 Motobecane Fantom Cross Pro Disc",
+      "url": "https://bikeindex.org/bikes/2693248",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716876000,
+      "description": "Frame is powder-coated grey, so make/model aren’t visible. Marzocchi Bomber front fork, Shimano Deore groupset (2x10), Michelin Country Rock tires, blue chainstay protector, mirror on left bar end, black/chrome bell, trailer hitch on left rear hub, black seat pack, Kulshan Cycles water bottle.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Rock Hound",
+      "id": 2616260,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/811680/large_IMG_0207b.jpg",
+      "location_found": null,
+      "manufacturer_name": "Gunnar",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G00003",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.85,
+        -122.59
+      ],
+      "stolen_location": "Ferndale, WA 98248, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/811680/small_IMG_0207b.jpg",
+      "title": "2000 Gunnar Rock Hound",
+      "url": "https://bikeindex.org/bikes/2616260",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1715099400,
+      "description": "Green and black All City Super Pro with Apex 1x11 groupset. Has silver Rivendell Bikes 'Tosco' Bars with black grips.",
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "Super Professional Apex",
+      "id": 2599479,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/804548/large_IMG_4235.PNG",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M23042089",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.82,
+        -71.41
+      ],
+      "stolen_location": "Providence, RI 02903, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/804548/small_IMG_4235.PNG",
+      "title": "2023 All City Super Professional Apex",
+      "url": "https://bikeindex.org/bikes/2599479",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714849200,
+      "description": "Orange tape on drop bars, water bottle cage, ultegra groupset, sti shifters",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "AWOL",
+      "id": 2596287,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/803760/large_IMG_20240105_145407838_HDR.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC609 002341I",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/803760/small_IMG_20240105_145407838_HDR.jpg",
+      "title": "2015 Specialized AWOL",
+      "url": "https://bikeindex.org/bikes/2596287",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1713927600,
+      "description": "2019 Cannondale SuperSix EVO Road Bike Frameset 60cm Carbon BB30. FSA Cranks. Sram Force 22 groupset. Zipp handlebar. Blue bar tape. Front wheel: Bontrager. Rear wheel: HED.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SuperSix Evo",
+      "id": 703921,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/799796/large_PXL_20240420_204218219.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FB03283",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.39,
+        -71.09
+      ],
+      "stolen_location": "Somerville, MA 02145, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/799796/small_PXL_20240420_204218219.jpg",
+      "title": "2019 Cannondale SuperSix Evo",
+      "url": "https://bikeindex.org/bikes/703921",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724187600,
+      "description": "• Premium grade gravel race carbon GRX Di2/disc brake bicycle that improves on original design\r\n• Upgraded carbon fiber, and lay-up schedule for stiffer, faster design with aerodynamic improvements\r\n• Use of D-shaped, tapered carbon fork steerer design, with included bar & stem for full wire/housing integration including dropper post\r\n• Change allows for more aero headtube design and reduced drag from integrated routing\r\n• Lower, more stable road-like feel from overall geometry, chainstay length, BB drop\r\n• Accepts 700c x 43mm tires / 650b x 51mm tires; minimum 4mm side clearance\r\n• Trail Mixer fork dropouts can be switched for +/- 5mm selectable fork offset; 62mm optimal Trail\r\n• Forward position=decreased trail=faster handling | Rearward position=increased trail=slower handling\r\n• Squoval.Max tube designs, enlarged and enhanced for rough surfaces; fork/downtube integration\r\n• Large downtube BBright bottom bracket shell w/ oversized dropped chainstays\r\n• Carbon lay-up, round seatpost, larger volume tires contribute to rider comfort\r\n• 1x/2x compatible, with mechanical or electronic shifting systems; removable braze-on FD mount\r\n• Frameset\r\no Frame: Aspero-5 Carbon, full internal routing, Flat Mount caliper interface, 12/142mm TA dropout\r\no Fork: Tapered Áspero-5 Fork, Adjustable Trail; D-Shaped steerer, Flat Mount caliper interface, 12/100mm TA dropout\r\no Headset: FSA IS-2 1¼ x 1½\"\r\no Thru-axles: Cervélo indexed/threaded: 12/100mm, 12/142mm\r\n• Groupset: Shimano GRX 815 Di2 2x11 w/ hydraulic disc braking; internal eTube wiring, seatpost battery\r\no Dual Control levers: Di2 Shifting with mineral oil based hydraulic braking set-up\r\no Brake Calipers/Rotors: Shimano GRX RX815 Hydraulic Disc w/ SM-RT800 CL 160mm rotors\r\no Derailleurs: GRX 815 Di2 Front (braze-on), Rear (up to 34T max cog)\r\no Crankset/BB: GRX 810 48/31T / Cervélo BBright JY-BB 24 bottom bracket\r\no Cassette/Chain: HG800 11-34T / CN701\r\n• Wheelset & Tires\r\no Cervélo Reserve with 32mm Carbon rims (IRW 24mm), TLR, DT350 HG11, CL disc\r\no Panaracer Gravel King SK TLR 700x38\r\n• Cockpit & Accessories\r\no Handlebar: Carbon AB09 16° Flared Carbon, 31.8mm, integrated routing; Cervélo bar tape\r\no Stem: Cervélo ST32 Alloy, 31.8, (for Cervélo D-shaped fork steerer tube, integrated routing)\r\no Seatpost: Cervélo SP19 Carbon 27.2mm round (48-54cm Zero offset, 56-61cm, 25mm setback)\r\no Saddle: Prologo Dimension Nack\r\no Cervélo accessories: Stem Faceplate Computer/Acc mount, Rear Accessory Mount, and Smartpak 400A Top Tube Storage Bag, Downtube Protector\r\n• Component specifics by frame size:\r\no 48cm Bar width: 38c-c, Stem length: 70mm, Crank length: 165mm\r\n• Colors: Five Black\r\n• Sizes: 48 cm\r\n• Weight: 18.69 lbs (56cm)\r\n\r\nGeometry\r\nSize\t48\r\nWheel Size\t700\r\nStack\t505mm\r\nReach\t370mm\r\nHead Angle\t71°\r\nSeat Angle\t74.5°\r\nTop Tube Length\t512mm\r\nHead Tube Length\t83mm\r\nStandover\t690mm\r\nFork Trail\t58.6mm\r\nFork Offset\t52mm\r\nBottom Bracket Drop\t78.5mm\r\nFront Center\t583mm\r\nWheelbase\t990mm\r\nChainstay Length\t420mm\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ASPERO – 5 GRX RX815 Di2",
+      "id": 2576010,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/845056/large_CERVELO.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1454822M019",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.94,
+        -105.18
+      ],
+      "stolen_location": "Louisville, CO 80027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/845056/small_CERVELO.jpg",
+      "title": "2023 Cervélo ASPERO – 5 GRX RX815 Di2",
+      "url": "https://bikeindex.org/bikes/2576010",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1710687600,
+      "description": "Good condition - shows significant scratches, but is in perfect working order. White with trek and model number printed in bright red. Modern stem adapter with modern handlebars - original brake levers. White bar wrap. Original Suntour blaze groupset. Original Downtube shifters. Brooks C17 saddle with red print on top of saddle \"It's not the name of brooks which makes the saddle good, but the saddle and its excellence that makes the name supreme.\" On right chainstay is printed \"matrix equipped\"",
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "1000",
+      "id": 2635233,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/819573/large_IMG_1766_result.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "451898",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.89,
+        -87.78
+      ],
+      "stolen_location": "Oak Park, IL 60302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/819573/small_IMG_1766_result.jpg",
+      "title": "Trek 1000",
+      "url": "https://bikeindex.org/bikes/2635233",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1710442800,
+      "description": "Custom built Rock Lobster road bike for electronic shifting only. Classic sea foam frame and fork. Shimano Ultegra 8050 Di2 groupset, ENVE 130 stem, ENVE 44cm drop bars and ENVE 27.2 seatpost. Wheels are Reynolds Assault carbon clinchers and are setup tubeless with 700x25 Schwalbe Pro One tires. KMC X11 SL gold chain and Blackburn cinch bottle cages",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Team AL Road",
+      "id": 671604,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/774735/large_IMG_1019.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rock Lobster",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AC360",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.46,
+        -122.72
+      ],
+      "stolen_location": "Portland, OR 97219, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/774735/small_IMG_1019.jpeg",
+      "title": "Rock Lobster Team AL Road",
+      "url": "https://bikeindex.org/bikes/671604",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1707076800,
+      "description": "Dura Ace 7800 Groupset \r\nDura Ace C24 wheels\r\nVintage Campagnolo Brakes",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Prestige",
+      "id": 2559561,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/780166/large_IMG_8738.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Masi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.6,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/780166/small_IMG_8738.jpeg",
+      "title": "1984 Masi Prestige",
+      "url": "https://bikeindex.org/bikes/2559561",
+      "year": 1984,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1704974400,
+      "description": "pearl white with black trim, Boyd Altamont ceramic coated wheels, has specialized drop downs, 105/Ultrega groupset, 22 speed",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "EMONDA SL 5",
+      "id": 2553760,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/775615/large_17046827922284321459243445844442.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU022GK0031K",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.07,
+        -118.37
+      ],
+      "stolen_location": "Los Angeles, CA 90048, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/775615/small_17046827922284321459243445844442.jpg",
+      "title": "2016 Trek EMONDA SL 5",
+      "url": "https://bikeindex.org/bikes/2553760",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1704891600,
+      "description": "Cannondale synapse carbon road bike with 56cm frame and shimano tiagra groupset, maddux wheelset, continental 700x25c tyres ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Synapse Carbon",
+      "id": 2554239,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/776029/large_1000028282.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.52,
+        -0.08
+      ],
+      "stolen_location": "London, EC2N4AY, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/776029/small_1000028282.jpg",
+      "title": "2018 Cannondale Synapse Carbon",
+      "url": "https://bikeindex.org/bikes/2554239",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1704742800,
+      "description": "Zephyrus Z800 rim brake frame 59cm painted purple with orange stripes on the fork\r\nTop tube reads \"KMATiKC\"\r\nUltegra R8000 groupset (left crank arm is 105 power meter)\r\nUnmarked 60mm deep carbon wheels wrapped in Continental GP5000 tan wall tires\r\nGold KMC chain & Gold cassette\r\nOil slick kootu Iridescent SPD-SL pedals\r\nOil slick computer/GoPro mount\r\nRXL 130mm carbon stem and RXL 420mm aero carbon handlebars\r\nblue brake brake cables and light purple shift cables\r\nSDG Bel-Air saddle on Roadnado seatpost with black GoPro saddle rail mount\r\nGemstone headset cap\r\nStickers:\r\nstatic shock logo on front on head tube\r\nTakashi Murakami flower on down tube\r\nDC Bike Academy stickers on seat tube\r\nGroove Phi Groove shield logo sticker on seat tube\r\nreflective \"dreadhead\" sticker on seat tube",
+      "frame_colors": [
+        "Purple",
+        "Orange"
+      ],
+      "frame_model": "z800",
+      "id": 2553997,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/775775/large_WhatsApp_Image_2024-01-08_at_19.07.25_1ad55b87.jpg",
+      "location_found": null,
+      "manufacturer_name": "Zephyrus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ZFCV0487",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/775775/small_WhatsApp_Image_2024-01-08_at_19.07.25_1ad55b87.jpg",
+      "title": "2023 Zephyrus z800",
+      "url": "https://bikeindex.org/bikes/2553997",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

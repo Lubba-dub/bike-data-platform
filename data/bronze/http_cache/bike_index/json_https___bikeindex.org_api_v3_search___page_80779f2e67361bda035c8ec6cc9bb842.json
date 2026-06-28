@@ -1,0 +1,758 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1777017600,
+      "description": "Step-Thru E-Bike",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "22CB2702YD",
+      "id": 3374775,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1021143/large_6859.jpg",
+      "location_found": null,
+      "manufacturer_name": "Concord Recreation",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "605231206931",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1021143/small_6859.jpg",
+      "title": "2024 Concord Recreation 22CB2702YD",
+      "url": "https://bikeindex.org/bikes/3374775",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778124892,
+      "description": "It is a blue commutr e-bike with 27.5 inch ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Concord 27.5\" Step-Thru Electric Commuter Bike",
+      "id": 3374215,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020727/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Concord Recreation",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "22MB2702YD",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020727/small_image.jpg",
+      "title": "2024 Concord Recreation Concord 27.5\" Step-Thru Electric Comm...",
+      "url": "https://bikeindex.org/bikes/3374215",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776942000,
+      "description": "Bergamont E-Horizon N7 CB trekking e-bike. Bosch drive system. Original equipment: ABUS Bordo Classic folding lock. Originally purchased 06/2020 at Bikeprofi am Herderplatz, Weimar, Germany. Second owner. Stolen May 2026 from a residential building hallway in Weimar.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "E-Horizon N7 CB",
+      "id": 3392765,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1029730/large_WhatsApp_Image_2026-05-16_at_22.56.55.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bergamont",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BGM7C18G01145",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        50.98,
+        11.32
+      ],
+      "stolen_location": "Weimar, 99423, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1029730/small_WhatsApp_Image_2026-05-16_at_22.56.55.jpeg",
+      "title": "2019 Bergamont E-Horizon N7 CB",
+      "url": "https://bikeindex.org/bikes/3392765",
+      "year": 2019,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776888000,
+      "description": "Green camo step-over e-bike.  Sand camo saddle bag. Phone & water bottle mount. Bell added. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Juggernaut ultra duo 3 step-over 17”",
+      "id": 3374176,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1020699/large_View_recent_photos.png",
+      "location_found": null,
+      "manufacturer_name": "Biktrix",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.41,
+        -113.48
+      ],
+      "stolen_location": "Edmonton, T6X 2H6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1020699/small_View_recent_photos.png",
+      "title": "Biktrix Juggernaut ultra duo 3 step-over 17”",
+      "url": "https://bikeindex.org/bikes/3374176",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776783600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XP Lite 2.0",
+      "id": 3373867,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNCTC25A95402",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.75,
+        -117.17
+      ],
+      "stolen_location": "San Diego, CA 92103, US",
+      "thumb": null,
+      "title": "2025 Lectric eBikes XP Lite 2.0",
+      "url": "https://bikeindex.org/bikes/3373867",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776759661,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "E-Bike SUV Trekkingrad 28 Zoll E-ACTV 100 HF anthrazitgrau",
+      "id": 3373260,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019807/large_135661.jpg",
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.12,
+        8.71
+      ],
+      "stolen_location": "Frankfurt Am Main, 60385, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019807/small_135661.jpg",
+      "title": "2025 Decathlon E-Bike SUV Trekkingrad 28 Zoll E-ACTV...",
+      "url": "https://bikeindex.org/bikes/3373260",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776585600,
+      "description": "Trek E-bike with a pet basket on the back ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Dual sport +2 stagger",
+      "id": 3395603,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1031494/large_Screenshot_2026-05-20_at_8.22.08_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU230C6213T",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.47
+      ],
+      "stolen_location": "Edmonton, T5H 1S9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1031494/small_Screenshot_2026-05-20_at_8.22.08_PM.png",
+      "title": "2025 Trek Dual sport +2 stagger",
+      "url": "https://bikeindex.org/bikes/3395603",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776549600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XPress High-Step 500w",
+      "id": 3371909,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNCTC25B01014",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.01,
+        -117.16
+      ],
+      "stolen_location": "Redlands, CA 92373, US",
+      "thumb": null,
+      "title": "2026 Lectric eBikes XPress High-Step 500w",
+      "url": "https://bikeindex.org/bikes/3371909",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776528000,
+      "description": "It should be super noticeable unless it's been disassembled for parts by now. It's green and looks just like photos but it's missing a pedal and the front is muddy unless it was cleaned. The most important aspect is that it's missing the right pedal.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "DYU 20\" 4.0 Fat Tire Electric Bike for Adults, 750W Electric Mountain Bicycle,48V 15.6AH Removable Battery W/Pedal-Assist E-Bike Shimano 7 Speed Suspension Fork with Fender UL2849",
+      "id": 3372391,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1019028/large_IMG_1442.jpeg",
+      "location_found": null,
+      "manufacturer_name": "DYU",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.47,
+        -73.19
+      ],
+      "stolen_location": "Burlington, VT 05405, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1019028/small_IMG_1442.jpeg",
+      "title": "DYU DYU 20\" 4.0 Fat Tire Electric Bike fo...",
+      "url": "https://bikeindex.org/bikes/3372391",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776247200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3365389,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1017834/large_Screenshot_2026-04-15_123024.png",
+      "location_found": null,
+      "manufacturer_name": "cycrown",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.74,
+        -117.81
+      ],
+      "stolen_location": "Tustin, CA 92780, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1017834/small_Screenshot_2026-04-15_123024.png",
+      "title": "cycrown",
+      "url": "https://bikeindex.org/bikes/3365389",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778500800,
+      "description": "Make: Meelod\r\nModel: DK300 MAX (Anti-Theft GPS Edition)  \r\nStyle: Retro Moped / Scrambler Fat-Tire E-Bike  \r\nColor: Matte Black\r\nFrame Material: Carbon Steel  \r\nMotor: Dual 750W Hub Motors (2400W Peak Total)  \r\nPower: Dual 48V 20Ah Batteries (one top-mounted \"tank\" battery, one frame-mounted)  \r\nWheel/Tire: 20\" x 4.0\" CST Scout Puncture-Resistant Fat Tires  \r\nDistinctive Features: > * Dual-crown front suspension fork and rear coil shock.  \r\nLarge motorcycle-style LED \"halo\" headlight.\r\n* Integrated heavy-duty rear cargo rack with LED brake light.\r\n* Hydraulic disc brakes with gold-accented levers.  \r\nHigh-contrast backlit LCD center display.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "DK300 Max (Dual Motor / Dual Battery version)",
+      "id": 3364532,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Meelod",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "237022024061430",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        40.61,
+        -111.9
+      ],
+      "stolen_location": "Midvale, UT 84047, US",
+      "thumb": null,
+      "title": "2026 Meelod DK300 Max (Dual Motor / Dual Battery ...",
+      "url": "https://bikeindex.org/bikes/3364532",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775775600,
+      "description": "Stolen at 4:17PM today from garage. It is an e-bike. Color is navy blue with brown seats and tires. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Trek Townie Go Step Through",
+      "id": 3362006,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015831/large_IMG_7227.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU278XC1311X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.7,
+        -121.91
+      ],
+      "stolen_location": "Dublin, CA 94568, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015831/small_IMG_7227.jpeg",
+      "title": "2026 Trek Trek Townie Go Step Through",
+      "url": "https://bikeindex.org/bikes/3362006",
+      "year": 2026,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775714400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Quick Haul P9",
+      "id": 3361653,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Tern",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AA240508594",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.6,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98104, US",
+      "thumb": null,
+      "title": "2024 Tern Quick Haul P9",
+      "url": "https://bikeindex.org/bikes/3361653",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1779771600,
+      "description": "I primarily use my bike to go around school (UCSD)",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3361404,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1033392/large_large_IMG_6819.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Haro",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HL020071A",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        32.86,
+        -117.2
+      ],
+      "stolen_location": "La Jolla, CA 92122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1033392/small_large_IMG_6819.jpeg",
+      "title": "2022 Haro",
+      "url": "https://bikeindex.org/bikes/3361404",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775493826,
+      "description": "This is a gray cargo e-bike with the cargo section in the back for young children to ride on.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Abound.2",
+      "id": 3360403,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014709/large_PXL_20250929_153033574.MP.jpg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AG4J0138",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.47,
+        -122.14
+      ],
+      "stolen_location": "East Palo Alto, CA 94303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014709/small_PXL_20250929_153033574.MP.jpg",
+      "title": "2025 Aventón Abound.2",
+      "url": "https://bikeindex.org/bikes/3360403",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1775174400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XP Lite 2.0",
+      "id": 3358970,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013858/large_IMG_0595.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD24J82302",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.25
+      ],
+      "stolen_location": "Minneapolis, MN 55407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013858/small_IMG_0595.jpeg",
+      "title": "2024 Lectric eBikes XP Lite 2.0",
+      "url": "https://bikeindex.org/bikes/3358970",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776060000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Big Sur Sport",
+      "id": 3358633,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018297/large_IMG_6573.jpg",
+      "location_found": null,
+      "manufacturer_name": "AIMA E-Bike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LEUPWC109S4112430",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55414, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018297/small_IMG_6573.jpg",
+      "title": "2026 AIMA E-Bike Big Sur Sport",
+      "url": "https://bikeindex.org/bikes/3358633",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774994400,
+      "description": "Front Light, small odometer screen, light purple lavender colored. ",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "XP Lite",
+      "id": 3357952,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1013291/large_image_1775000274703.png",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "607896 25104X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.7,
+        -117.12
+      ],
+      "stolen_location": "San Diego, CA 92113, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1013291/small_image_1775000274703.png",
+      "title": "2026 Lectric eBikes XP Lite",
+      "url": "https://bikeindex.org/bikes/3357952",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773622800,
+      "description": "Teal/Turquoise Foldable E-Bike with wide tires, black front rack and gray fabric panniers.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Portolla",
+      "id": 3351216,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009403/large_Screenshot_2026-03-15_184633.png",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FVCJ224110100948",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.89,
+        -119.43
+      ],
+      "stolen_location": "Kelowna, V1X 7Y8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009403/small_Screenshot_2026-03-15_184633.png",
+      "title": "2025 Ride1Up Portolla",
+      "url": "https://bikeindex.org/bikes/3351216",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773288000,
+      "description": "This bike is an e-bike conversion with a Bottle Batery and motor wheel on front. Manufacturer is Lvbu.wang as seen on tire. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Bike frame is Marin There is a throttle on handle, bottle battery, motor wheel front tire",
+      "id": 3349958,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1008661/large_IMG_1496.png",
+      "location_found": null,
+      "manufacturer_name": "Lvbu.wang bottle battery and motor wheel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MANUA",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94131, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1008661/small_IMG_1496.png",
+      "title": "2022 Lvbu.wang bottle battery and motor wheel Bike frame is Marin There is a thrott...",
+      "url": "https://bikeindex.org/bikes/3349958",
+      "year": 2022,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773266400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RIDSTAR Q20",
+      "id": 3349273,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1008398/large_IMG_0970.png",
+      "location_found": null,
+      "manufacturer_name": "Ridstar",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.38,
+        -71.1
+      ],
+      "stolen_location": "Somerville, MA 02143, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1008398/small_IMG_0970.png",
+      "title": "2025 Ridstar RIDSTAR Q20",
+      "url": "https://bikeindex.org/bikes/3349273",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772834400,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Turbo Vado",
+      "id": 3349292,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1008412/large_bike__1_.png",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC018424883T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.37,
+        -122.02
+      ],
+      "stolen_location": "Sunnyvale, CA 94086, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1008412/small_bike__1_.png",
+      "title": "2024 Specialized Turbo Vado",
+      "url": "https://bikeindex.org/bikes/3349292",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772827200,
+      "description": "Sage green Long-tail cargo e-bike",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Abound",
+      "id": 3347580,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AG4H0475",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.67,
+        -73.98
+      ],
+      "stolen_location": "Brooklyn, NY 11215, US",
+      "thumb": null,
+      "title": "2024 Aventón Abound",
+      "url": "https://bikeindex.org/bikes/3347580",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772550000,
+      "description": "Silver gray Momentum Citi e-bike. Has a handful of extras, like the foot rests and cargo seat area on the back. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Cito",
+      "id": 3345953,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1005859/large_IMG_4819.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Momentum",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E7JE01100",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "Saint Paul, MN 55104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1005859/small_IMG_4819.jpeg",
+      "title": "2024 Momentum Cito",
+      "url": "https://bikeindex.org/bikes/3345953",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1772298000,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "CUBE NUROAD HYBRID C:62 Race 400X - Carbon Gravel E-Bike",
+      "id": 3352203,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1010003/large_cube.png",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW21183PSGX",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.56,
+        7.59
+      ],
+      "stolen_location": "Basel, 4051, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1010003/small_cube.png",
+      "title": "2025 Cube CUBE NUROAD HYBRID C:62 Race 400X - C...",
+      "url": "https://bikeindex.org/bikes/3352203",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

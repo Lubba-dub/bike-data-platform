@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "giant",
+    "url": "https://www.giant-bicycles.com/int/bikes",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.giant-bicycles.com/int/bikes\nCall log:\n  - navigating to \"https://www.giant-bicycles.com/int/bikes\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "giant",
+    "url": "https://www.giant-bicycles.com/int/bikes/mountain-bikes",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.giant-bicycles.com/int/bikes/mountain-bikes\nCall log:\n  - navigating to \"https://www.giant-bicycles.com/int/bikes/mountain-bikes\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "giant",
+    "url": "https://www.giant-bicycles.com/int/bikes/cross-and-gravel-bikes",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.giant-bicycles.com/int/bikes/cross-and-gravel-bikes\nCall log:\n  - navigating to \"https://www.giant-bicycles.com/int/bikes/cross-and-gravel-bikes\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "giant",
+    "url": "https://www.giant-bicycles.com/gb",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.giant-bicycles.com/gb\nCall log:\n  - navigating to \"https://www.giant-bicycles.com/gb\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "giant",
+    "url": "https://www.giant-bicycles.com/us",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.giant-bicycles.com/us\nCall log:\n  - navigating to \"https://www.giant-bicycles.com/us\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "oyama",
+    "url": "https://www.oyama.com/foldingbike",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.oyama.com/foldingbike\nCall log:\n  - navigating to \"https://www.oyama.com/foldingbike\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "oyama",
+    "url": "https://www.oyama.com/roadbike",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.oyama.com/roadbike\nCall log:\n  - navigating to \"https://www.oyama.com/roadbike\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "brand": "oyama",
+    "url": "https://www.oyama.com/mountainbike",
+    "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.oyama.com/mountainbike\nCall log:\n  - navigating to \"https://www.oyama.com/mountainbike\", waiting until \"domcontentloaded\"\n"
+  }
+]

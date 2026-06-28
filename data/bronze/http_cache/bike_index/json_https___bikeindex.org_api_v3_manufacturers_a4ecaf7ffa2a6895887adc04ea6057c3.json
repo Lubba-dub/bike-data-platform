@@ -1,0 +1,604 @@
+{
+  "manufacturers": [
+    {
+      "name": "24seven",
+      "company_url": "http://www.leisurelakesbikes.com/bikes/bmx-bikes/b/24seven",
+      "short_name": "24seven",
+      "id": 7
+    },
+    {
+      "name": "333Fab",
+      "company_url": "http://www.333fab.com/",
+      "short_name": "333Fab",
+      "id": 1410
+    },
+    {
+      "name": "3G",
+      "company_url": "http://www.3gbikes.com/",
+      "short_name": "3G",
+      "id": 1125
+    },
+    {
+      "name": "3T",
+      "company_url": "https://us.3t.bike/en/",
+      "short_name": "3T",
+      "id": 375
+    },
+    {
+      "name": "3rd Eye",
+      "company_url": "",
+      "short_name": "3rd Eye",
+      "id": 374
+    },
+    {
+      "name": "3rensho",
+      "company_url": "",
+      "short_name": "3rensho",
+      "id": 1112
+    },
+    {
+      "name": "45North",
+      "company_url": "",
+      "short_name": "45North",
+      "id": 376
+    },
+    {
+      "name": "4ZA",
+      "company_url": "https://4za.the-line.nl/",
+      "short_name": "4ZA",
+      "id": 377
+    },
+    {
+      "name": "4iiii",
+      "company_url": "https://4iiii.com/",
+      "short_name": "4iiii",
+      "id": 1781
+    },
+    {
+      "name": "6KU",
+      "company_url": "https://www.6ku.com/",
+      "short_name": "6KU",
+      "id": 1274
+    },
+    {
+      "name": "9 zero 7",
+      "company_url": "https://www.facebook.com/9Zero7Bikes",
+      "short_name": "9 zero 7",
+      "id": 1113
+    },
+    {
+      "name": "A-Class",
+      "company_url": "",
+      "short_name": "A-Class",
+      "id": 378
+    },
+    {
+      "name": "A-bike",
+      "company_url": "http://www.a-bike.co.uk/",
+      "short_name": "A-bike",
+      "id": 8
+    },
+    {
+      "name": "A2B e-bikes",
+      "company_url": "http://www.wearea2b.com/us/",
+      "short_name": "A2B e-bikes",
+      "id": 1212
+    },
+    {
+      "name": "ABI",
+      "company_url": "",
+      "short_name": "ABI",
+      "id": 380
+    },
+    {
+      "name": "ACS",
+      "company_url": "http://www.acsbmx.com/",
+      "short_name": "ACS",
+      "id": 384
+    },
+    {
+      "name": "AGang",
+      "company_url": "http://www.agang.eu",
+      "short_name": "AGang",
+      "id": 1255
+    },
+    {
+      "name": "AIMA E-Bike",
+      "company_url": "https://www.aimatech.us/",
+      "short_name": "AIMA E-Bike",
+      "id": 1777
+    },
+    {
+      "name": "ALAN",
+      "company_url": "http://www.alanbike.it/",
+      "short_name": "ALAN",
+      "id": 24
+    },
+    {
+      "name": "AMF",
+      "company_url": "",
+      "short_name": "AMF",
+      "id": 29
+    },
+    {
+      "name": "AVANTREK",
+      "company_url": "https://iavantrek.com/",
+      "short_name": "AVANTREK",
+      "id": 1743
+    },
+    {
+      "name": "AXA",
+      "company_url": "http://www.axa-stenman.com/en/bicycle-components/locks/frame-locks/defender/",
+      "short_name": "AXA",
+      "id": 1268
+    },
+    {
+      "name": "Aardvark",
+      "company_url": "",
+      "short_name": "Aardvark",
+      "id": 379
+    },
+    {
+      "name": "Abici",
+      "company_url": "http://www.abici-italia.it/en/index.html",
+      "short_name": "Abici",
+      "id": 9
+    },
+    {
+      "name": "Abus",
+      "company_url": "http://www.abus.com/eng/Mobile-Security/Bike-safety-and-security/Locks",
+      "short_name": "Abus",
+      "id": 107
+    },
+    {
+      "name": "Accelerade",
+      "company_url": "",
+      "short_name": "Accelerade",
+      "id": 382
+    },
+    {
+      "name": "Accell",
+      "company_url": "https://www.accell-group.com/en",
+      "short_name": "Accell",
+      "id": 10
+    },
+    {
+      "name": "Access",
+      "company_url": "https://www.performancebike.com/",
+      "short_name": "Access",
+      "id": 1042
+    },
+    {
+      "name": "Acros",
+      "company_url": "https://acros-components.com/en/",
+      "short_name": "Acros",
+      "id": 383
+    },
+    {
+      "name": "Acstar",
+      "company_url": "http://www.acstar.cz/",
+      "short_name": "Acstar",
+      "id": 1293
+    },
+    {
+      "name": "Actbest",
+      "company_url": "https://actbestbike.com/",
+      "short_name": "Actbest",
+      "id": 1775
+    },
+    {
+      "name": "Adams (Trail a bike)",
+      "company_url": "http://www.trail-a-bike.com/",
+      "short_name": "Adams",
+      "id": 1258
+    },
+    {
+      "name": "Addmotor",
+      "company_url": "https://www.addmotor.com/",
+      "short_name": "Addmotor",
+      "id": 1776
+    },
+    {
+      "name": "Adolphe Clément",
+      "company_url": "",
+      "short_name": "Adolphe Clément",
+      "id": 77
+    },
+    {
+      "name": "Advantrek",
+      "company_url": "https://iavantrek.com/",
+      "short_name": "Advantrek",
+      "id": 1742
+    },
+    {
+      "name": "Adventure Medical Kits",
+      "company_url": "",
+      "short_name": "Adventure Medical Kits",
+      "id": 385
+    },
+    {
+      "name": "Advocate",
+      "company_url": "http://advocatecycles.com/",
+      "short_name": "Advocate",
+      "id": 1480
+    },
+    {
+      "name": "Aegis",
+      "company_url": "http://www.aegisbicycles.com/home.html",
+      "short_name": "Aegis",
+      "id": 1260
+    },
+    {
+      "name": "Aerofix Cycles",
+      "company_url": "http://www.aerofixcycles.com/",
+      "short_name": "Aerofix Cycles",
+      "id": 1002
+    },
+    {
+      "name": "Affinity Cycles",
+      "company_url": "http://affinitycycles.com/",
+      "short_name": "Affinity Cycles",
+      "id": 1199
+    },
+    {
+      "name": "AheadSet",
+      "company_url": "",
+      "short_name": "AheadSet",
+      "id": 386
+    },
+    {
+      "name": "Airborne",
+      "company_url": "http://www.airbornebicycles.com/",
+      "short_name": "Airborne",
+      "id": 1133
+    },
+    {
+      "name": "Aladdin",
+      "company_url": "",
+      "short_name": "Aladdin",
+      "id": 387
+    },
+    {
+      "name": "Alchemy",
+      "company_url": "https://alchemybikes.com/",
+      "short_name": "Alchemy",
+      "id": 1718
+    },
+    {
+      "name": "Alcyon",
+      "company_url": "",
+      "short_name": "Alcyon",
+      "id": 25
+    },
+    {
+      "name": "Alex",
+      "company_url": "",
+      "short_name": "Alex",
+      "id": 388
+    },
+    {
+      "name": "Alexander Leutner & Co.",
+      "company_url": "",
+      "short_name": "Alexander Leutner & Co.",
+      "id": 214
+    },
+    {
+      "name": "Alien Bikes",
+      "company_url": "http://alienbikes.com/",
+      "short_name": "Alien Bikes",
+      "id": 1013
+    },
+    {
+      "name": "Alienation",
+      "company_url": "https://www.alienationbmx.com/",
+      "short_name": "Alienation",
+      "id": 389
+    },
+    {
+      "name": "Alite Designs",
+      "company_url": "",
+      "short_name": "Alite Designs",
+      "id": 390
+    },
+    {
+      "name": "All City",
+      "company_url": "http://allcitycycles.com",
+      "short_name": "All City",
+      "id": 371
+    },
+    {
+      "name": "Alldays & Onions",
+      "company_url": "",
+      "short_name": "Alldays & Onions",
+      "id": 26
+    },
+    {
+      "name": "Alliance",
+      "company_url": "http://alliancebicycles.com/",
+      "short_name": "Alliance",
+      "id": 1257
+    },
+    {
+      "name": "Allied Cycle Works",
+      "company_url": "https://alliedcycleworks.com/",
+      "short_name": "Allied Cycle Works",
+      "id": 1559
+    },
+    {
+      "name": "Alter Lock",
+      "company_url": "http://alterlock.net",
+      "short_name": "Alter Lock",
+      "id": 1790
+    },
+    {
+      "name": "Alton",
+      "company_url": "https://www.altonsports.com/en/",
+      "short_name": "Alton",
+      "id": 1366
+    },
+    {
+      "name": "American Bicycle Group",
+      "company_url": "https://americanbicyclegroup.com/",
+      "short_name": "American Bicycle Group",
+      "id": 27
+    },
+    {
+      "name": "American Classic",
+      "company_url": "",
+      "short_name": "American Classic",
+      "id": 391
+    },
+    {
+      "name": "American Machine and Foundry",
+      "company_url": "",
+      "short_name": "American Machine and Foundry",
+      "id": 28
+    },
+    {
+      "name": "American Star Bicycle",
+      "company_url": "",
+      "short_name": "American Star Bicycle",
+      "id": 31
+    },
+    {
+      "name": "Amoeba",
+      "company_url": "http://www.amoebaparts.com/",
+      "short_name": "Amoeba",
+      "id": 1355
+    },
+    {
+      "name": "Ancheer",
+      "company_url": "https://www.ancheer.shop/",
+      "short_name": "Ancheer",
+      "id": 1755
+    },
+    {
+      "name": "And",
+      "company_url": "",
+      "short_name": "And",
+      "id": 392
+    },
+    {
+      "name": "Andiamo",
+      "company_url": "",
+      "short_name": "Andiamo",
+      "id": 393
+    },
+    {
+      "name": "Answer BMX",
+      "company_url": "https://answerbmx.com/",
+      "short_name": "Answer BMX",
+      "id": 394
+    },
+    {
+      "name": "Apache Bicycles",
+      "company_url": "https://apache-bike.cz/en",
+      "short_name": "Apache Bicycles",
+      "id": 1567
+    },
+    {
+      "name": "Apollo",
+      "company_url": "http://www.apollobikes.com/",
+      "short_name": "Apollo",
+      "id": 1099
+    },
+    {
+      "name": "Aqua Sphere",
+      "company_url": "",
+      "short_name": "Aqua Sphere",
+      "id": 396
+    },
+    {
+      "name": "Aquamira",
+      "company_url": "",
+      "short_name": "Aquamira",
+      "id": 397
+    },
+    {
+      "name": "Arai",
+      "company_url": "",
+      "short_name": "Arai",
+      "id": 398
+    },
+    {
+      "name": "Ares",
+      "company_url": "http://www.aresbikes.com/",
+      "short_name": "Ares",
+      "id": 1379
+    },
+    {
+      "name": "Argo Cargo Bike",
+      "company_url": "https://argobikes.com/",
+      "short_name": "Argo Cargo Bike",
+      "id": 1546
+    },
+    {
+      "name": "Argon 18",
+      "company_url": "http://www.argon18bike.com/velo.html",
+      "short_name": "Argon 18",
+      "id": 32
+    },
+    {
+      "name": "Asama",
+      "company_url": "http://www.asamabicycles.com/",
+      "short_name": "Asama",
+      "id": 1081
+    },
+    {
+      "name": "Assos",
+      "company_url": "https://us.assos.com/",
+      "short_name": "Assos",
+      "id": 399
+    },
+    {
+      "name": "Atala",
+      "company_url": "https://www.atala.it/en/",
+      "short_name": "Atala",
+      "id": 17
+    },
+    {
+      "name": "Atomlab",
+      "company_url": "http://www.atomlab.com/",
+      "short_name": "Atomlab",
+      "id": 400
+    },
+    {
+      "name": "Author",
+      "company_url": "http://www.author.eu/",
+      "short_name": "Author",
+      "id": 33
+    },
+    {
+      "name": "Avalon",
+      "company_url": "http://www.walmart.com/",
+      "short_name": "Avalon",
+      "id": 1126
+    },
+    {
+      "name": "Avanti",
+      "company_url": "http://www.avantibikes.com/nz/",
+      "short_name": "Avanti",
+      "id": 34
+    },
+    {
+      "name": "Aventón",
+      "company_url": "http://aventonbikes.com/",
+      "short_name": "Aventón",
+      "id": 1059
+    },
+    {
+      "name": "Avenue",
+      "company_url": "https://avenuetrikes.com/",
+      "short_name": "Avenue",
+      "id": 1699
+    },
+    {
+      "name": "Avid",
+      "company_url": "",
+      "short_name": "Avid",
+      "id": 401
+    },
+    {
+      "name": "Axiom",
+      "company_url": "https://www.axiomgear.com/",
+      "short_name": "Axiom",
+      "id": 402
+    },
+    {
+      "name": "Axle Release",
+      "company_url": "",
+      "short_name": "Axle Release",
+      "id": 403
+    },
+    {
+      "name": "Azonic",
+      "company_url": "https://www.azonic.eu/en/",
+      "short_name": "Azonic",
+      "id": 1156
+    },
+    {
+      "name": "Azor",
+      "company_url": "http://www.azor.nl/",
+      "short_name": "Azor",
+      "id": 1120
+    },
+    {
+      "name": "Aztec",
+      "company_url": "",
+      "short_name": "Aztec",
+      "id": 404
+    },
+    {
+      "name": "Azub",
+      "company_url": "https://azub.eu/",
+      "short_name": "Azub",
+      "id": 1526
+    },
+    {
+      "name": "Azuki",
+      "company_url": "",
+      "short_name": "Azuki",
+      "id": 1744
+    },
+    {
+      "name": "Azzuri",
+      "company_url": "http://www.azzurribikes.com/",
+      "short_name": "Azzuri",
+      "id": 1101
+    },
+    {
+      "name": "BBF",
+      "company_url": "https://bbf.bike/",
+      "short_name": "BBF",
+      "id": 1577
+    },
+    {
+      "name": "BBG Bashguard",
+      "company_url": "https://bbgbashguard.com/",
+      "short_name": "BBG Bashguard",
+      "id": 1536
+    },
+    {
+      "name": "BCA",
+      "company_url": "https://www.bca.bike/",
+      "short_name": "BCA",
+      "id": 410
+    },
+    {
+      "name": "BETD",
+      "company_url": "https://mountainbikecomponents.co.uk/",
+      "short_name": "BETD",
+      "id": 1796
+    },
+    {
+      "name": "BH Bikes (Beistegui Hermanos)",
+      "company_url": "https://www.bhbikes.com/en_GB",
+      "short_name": "BH Bikes",
+      "id": 36
+    },
+    {
+      "name": "BMC (BMC Switzerland)",
+      "company_url": "https://www.bmc-switzerland.com/",
+      "short_name": "BMC",
+      "id": 359
+    },
+    {
+      "name": "BOB",
+      "company_url": "http://www.bobgear.com/bike-trailers",
+      "short_name": "BOB",
+      "id": 424
+    },
+    {
+      "name": "BONT",
+      "company_url": "https://www.bontcycling.com/",
+      "short_name": "BONT",
+      "id": 429
+    },
+    {
+      "name": "BOX",
+      "company_url": "https://boxcomponents.com/",
+      "short_name": "BOX",
+      "id": 431
+    }
+  ]
+}

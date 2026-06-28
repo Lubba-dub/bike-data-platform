@@ -1,0 +1,755 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1764878400,
+      "description": "",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "AC-02-MM",
+      "id": 3203651,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/972130/large_IMG_7561.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8L20K0055",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.4,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02140, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/972130/small_IMG_7561.jpg",
+      "title": "2021 BMC AC-02-MM",
+      "url": "https://bikeindex.org/bikes/3203651",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759058076,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Urs",
+      "id": 3202844,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2R42H0206",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.34,
+        9.44
+      ],
+      "stolen_location": "Kassel, 34128, DE",
+      "thumb": null,
+      "title": "2025 BMC Urs",
+      "url": "https://bikeindex.org/bikes/3202844",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758697200,
+      "description": "Selle Italia Seat",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roadmachine",
+      "id": 3200431,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970341/large_bmc-roadmachine-five-419290-1.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RM-01-512R32I1217",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.99,
+        -83.0
+      ],
+      "stolen_location": "Columbus, OH 43201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970341/small_bmc-roadmachine-five-419290-1.jpg",
+      "title": "2024 BMC Roadmachine",
+      "url": "https://bikeindex.org/bikes/3200431",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758697200,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Roadmachine",
+      "id": 3200435,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970343/large_bmc-roadmachine-four-419289-1.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RM-01-512R32A1283",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.99,
+        -83.0
+      ],
+      "stolen_location": "Columbus, OH 43201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970343/small_bmc-roadmachine-four-419289-1.png",
+      "title": "2024 BMC Roadmachine",
+      "url": "https://bikeindex.org/bikes/3200435",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758275836,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3196937,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968119/large_5E6BACFA-6678-4AB5-8D3C-C8C542B94943.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IR12C0044",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.6,
+        4.7
+      ],
+      "stolen_location": "Heiloo, 1852 CR, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968119/small_5E6BACFA-6678-4AB5-8D3C-C8C542B94943.jpg",
+      "title": "2023 BMC",
+      "url": "https://bikeindex.org/bikes/3196937",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757509200,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Street Racer SR02",
+      "id": 3188603,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965770/large_IMG_2339.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -34.93,
+        138.59
+      ],
+      "stolen_location": "Waymouth St Adelaide, 5000, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965770/small_IMG_2339.jpeg",
+      "title": "2025 BMC Street Racer SR02",
+      "url": "https://bikeindex.org/bikes/3188603",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757169000,
+      "description": null,
+      "frame_colors": [
+        "Orange",
+        "Blue",
+        "White"
+      ],
+      "frame_model": "UnReStricted 01 Three Large",
+      "id": 3184114,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962924/large_IMG_0148.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "URS-LL2R41J0056",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.57,
+        7.75
+      ],
+      "stolen_location": "Strasbourg, 6890, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962924/small_IMG_0148.jpg",
+      "title": "2022 BMC UnReStricted 01 Three Large",
+      "url": "https://bikeindex.org/bikes/3184114",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757037274,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Speedfox AMP AL ONE",
+      "id": 3182609,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962061/large_1000088115.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SFAMA-LL0E10G0029",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.21,
+        6.12
+      ],
+      "stolen_location": "Geneva, 1203, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962061/small_1000088115.jpg",
+      "title": "2021 BMC Speedfox AMP AL ONE",
+      "url": "https://bikeindex.org/bikes/3182609",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757095200,
+      "description": "Roadmachine AMP TWO GRX Di2 TQ HPR50 54cm",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Roadmachine AMP TWO GRX Di2 TQ HPR50 54cm",
+      "id": 3178329,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RM1TQ-54-23-R32L0026",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.33,
+        -75.72
+      ],
+      "stolen_location": "Nepean, CA",
+      "thumb": null,
+      "title": "2025 BMC Roadmachine AMP TWO GRX Di2 TQ HPR50 ...",
+      "url": "https://bikeindex.org/bikes/3178329",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756227600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Timemachine road two 2021",
+      "id": 3068937,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957735/large_WhatsApp_Image_2025-08-26_at_15.22.57.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "9R20B3070",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        55.6,
+        13.0
+      ],
+      "stolen_location": "Malmö, 214 37, SE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957735/small_WhatsApp_Image_2025-08-26_at_15.22.57.jpeg",
+      "title": "2025 BMC Timemachine road two 2021",
+      "url": "https://bikeindex.org/bikes/3068937",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756220400,
+      "description": "angular carbon frame in a deep navy blue that almost looks black in low light. The look is accented by a fork with a gray section and a bold yellow lower leg",
+      "frame_colors": [
+        "Blue",
+        "Silver, gray or bare metal",
+        "Yellow or Gold"
+      ],
+      "frame_model": "URS TWO Gravel Bike - 2023 X-Large",
+      "id": 3069198,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957904/large_IMG_0699.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2R42G0425",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.9,
+        -104.76
+      ],
+      "stolen_location": "Colorado Springs, CO 80918, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957904/small_IMG_0699.png",
+      "title": "2023 BMC URS TWO Gravel Bike - 2023 X-Large",
+      "url": "https://bikeindex.org/bikes/3069198",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755620634,
+      "description": "It's in great condition,like new everything works .",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SLR one",
+      "id": 2867570,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/954099/large_IMG_20250812_221544.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SLR02561R21C2661",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/954099/small_IMG_20250812_221544.jpg",
+      "title": "2024 BMC SLR one",
+      "url": "https://bikeindex.org/bikes/2867570",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755100581,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Road gravel bike",
+      "id": 2929993,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2R31A3107",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.25,
+        1.42
+      ],
+      "stolen_location": "Les Andelys, 27700, FR",
+      "thumb": null,
+      "title": "2021 BMC Road gravel bike",
+      "url": "https://bikeindex.org/bikes/2929993",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754830800,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Alpenchallenge AL Four",
+      "id": 2927140,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/949462/large_20240825_165458.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UC_AL-LL-22-A13D0175",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60640, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/949462/small_20240825_165458.jpg",
+      "title": "2022 BMC Alpenchallenge AL Four",
+      "url": "https://bikeindex.org/bikes/2927140",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754829310,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Alpenchallenge AL Four",
+      "id": 2927138,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "UC-AL-LL 22-A13D0175",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.88,
+        -87.62
+      ],
+      "stolen_location": "Chicago, IL 60601, US",
+      "thumb": null,
+      "title": "2022 BMC Alpenchallenge AL Four",
+      "url": "https://bikeindex.org/bikes/2927138",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759366800,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Racer",
+      "id": 2865733,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GRAVL-SS-22-A24J00024",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": null,
+      "title": "BMC Racer",
+      "url": "https://bikeindex.org/bikes/2865733",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753966800,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Alpine challenge",
+      "id": 2863670,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/945289/large_1000006473.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BL19K0044",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.37,
+        -105.2
+      ],
+      "stolen_location": "Loveland, CO 80537, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/945289/small_1000006473.jpg",
+      "title": "2022 BMC Alpine challenge",
+      "url": "https://bikeindex.org/bikes/2863670",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773972000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Sleek",
+      "id": 2852276,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1010617/large_View_recent_photos.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "3847247",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.62,
+        -96.31
+      ],
+      "stolen_location": "College Station, TX 77840, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1010617/small_View_recent_photos.png",
+      "title": "2025 BMC Sleek",
+      "url": "https://bikeindex.org/bikes/2852276",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753408800,
+      "description": "high end components. perfect condition. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Teamelite 01",
+      "id": 2849788,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943014/large_IMG_7609.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "5M45D0028",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.08
+      ],
+      "stolen_location": "Cambridge, MA 02142, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943014/small_IMG_7609.jpeg",
+      "title": "2016 BMC Teamelite 01",
+      "url": "https://bikeindex.org/bikes/2849788",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753127522,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 2847936,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2050013036181",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.4,
+        -121.96
+      ],
+      "stolen_location": "Santa Clara, CA 95054, US",
+      "thumb": null,
+      "title": "2025 BMC",
+      "url": "https://bikeindex.org/bikes/2847936",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752966000,
+      "description": "The bike has a distinguishing mark in the seaport. A bolt is embedded in one of the holes as a result of a snapped bolt.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "TimeMachine",
+      "id": 2848312,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942059/large_BMC_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.65,
+        -79.38
+      ],
+      "stolen_location": "Toronto, M5W 5M3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942059/small_BMC_bike.jpg",
+      "title": "2022 BMC TimeMachine",
+      "url": "https://bikeindex.org/bikes/2848312",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752796800,
+      "description": "White with Black lettering (BMC in Black) Stolen from a locked bike rack in Porter Square, Cambridge, MA.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Two-stroke AL 01 Five",
+      "id": 2846194,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/940870/large_BMC_Twostroke_AL_FIVE-1-scaled.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2M32H1494",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.4,
+        -71.14
+      ],
+      "stolen_location": "Cambridge, MA 02140, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/940870/small_BMC_Twostroke_AL_FIVE-1-scaled.jpg",
+      "title": "2022 BMC Two-stroke AL 01 Five",
+      "url": "https://bikeindex.org/bikes/2846194",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751686200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "2023",
+      "id": 2834086,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936753/large_WhatsApp_Image_2025-07-05_at_9.22.51_AM.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2R31A2720",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.86,
+        -77.26
+      ],
+      "stolen_location": "Fairfax, VA 22031, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936753/small_WhatsApp_Image_2025-07-05_at_9.22.51_AM.jpeg",
+      "title": "2023 BMC 2023",
+      "url": "https://bikeindex.org/bikes/2834086",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750986000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "TM01",
+      "id": 2827895,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/933321/large_TM01_photo.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7R16H2394",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.74,
+        -105.03
+      ],
+      "stolen_location": "Denver, CO 80204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/933321/small_TM01_photo.jpg",
+      "title": "2016 BMC TM01",
+      "url": "https://bikeindex.org/bikes/2827895",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750383298,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SLR",
+      "id": 2823699,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/930682/large_IMG_1276.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SLR02-56 1R21C661",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5J 4X1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/930682/small_IMG_1276.jpeg",
+      "title": "2023 BMC SLR",
+      "url": "https://bikeindex.org/bikes/2823699",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

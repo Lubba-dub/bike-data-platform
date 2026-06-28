@@ -1,0 +1,185 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1596708000,
+      "description": "This bike has been with me since I was 13 and is still in very good condition! The orange color is a more metallic sheen than bright orange and there is a big spring painted bright white. There is also a black phone holder in the center (in between the handle bars). ",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Factor",
+      "id": 832930,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/303184/large_79448573_614.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kranked",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.59
+      ],
+      "stolen_location": "Edmonton, T5P 2E2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/303184/small_79448573_614.jpg",
+      "title": "Kranked Factor",
+      "url": "https://bikeindex.org/bikes/832930",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1595772000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XC29",
+      "id": 797441,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/294796/large_CBC034AF-CECE-455B-8A49-EAE25758AE48.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Northrock",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.53
+      ],
+      "stolen_location": "Edmonton, T5K 0G6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/294796/small_CBC034AF-CECE-455B-8A49-EAE25758AE48.jpeg",
+      "title": "2019 Northrock XC29",
+      "url": "https://bikeindex.org/bikes/797441",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1556629200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Factor One",
+      "id": 604281,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/154062/large_E4AA1696-B230-4A69-9039-7A9655AB0EC7.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.0,
+        -117.26
+      ],
+      "stolen_location": "Del Mar, CA 92075, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/154062/small_E4AA1696-B230-4A69-9039-7A9655AB0EC7.jpeg",
+      "title": "2018 Other Factor One",
+      "url": "https://bikeindex.org/bikes/604281",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1499580000,
+      "description": "Photo is old, the rear bottle cage is removed and now has a single cage on the frame, and the rear wheel is a Reynolds. 2007 Kuota K-Factor (TT), carbon, red/black, large, serial number RL-25, 03931. Speedplay pedals, Shimano 105 crank, Dura Ace rear derailer, Fulcrum Racing front wheel, Reynolds rear wheel. Stolen right off my front porch around 2 pm today, 07/09/17 (N. Harrison St. Arlington, VA). I had just finished a ride, went inside and 15 minutes later went to bring it inside and it was gone!",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "K-Factor",
+      "id": 276966,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/90627/large_Dave_bike_05-20-12.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kuota",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RL-25, 03931",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.88,
+        -77.14
+      ],
+      "stolen_location": "Arlington, VA 22205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/90627/small_Dave_bike_05-20-12.jpg",
+      "title": "2007 Kuota K-Factor",
+      "url": "https://bikeindex.org/bikes/276966",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1428559200,
+      "description": "Bike had yellow bartape, spd pedals, carbon seatpost, Selle Italia Ldy saddle, wheel and seat post locks.  Purple tail light zip-tied on the left rear seatstay.  Packing tape residue on the downtube.  Kozy's Cyclery sticker on seatpost. The dent on the left side of top tube is the #1 identifying factor.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "TransitionMultisport",
+      "id": 42983,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/22807/large_specialized_bike.JPG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P4HG10571",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/22807/small_specialized_bike.JPG",
+      "title": "2005 Specialized TransitionMultisport",
+      "url": "https://bikeindex.org/bikes/42983",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1310450400,
+      "description": "2007 Trek 2100 with:Shimano PD-A520 Sport SPD Pedal Aftermarket (unsure about brand) CARBON drop bars (purchased to have larger/wider grip - personal preference & distinguishing factor for this particular bike)SHORT stem Chain Reaction Bicycles (sticker I believe) which is store I purchased bike fromRear Rack - Topeak MTXGarmin 310 mount on bars Commuting light mount on bars(picture is generic - shows color of bike)   ZR 9000 Alloy w/TCT Carbon seat stays",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "2100",
+      "id": 21884,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/7689/large_1310825817.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WL3373858",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.31,
+        -122.07
+      ],
+      "stolen_location": "Cupertino, CA 95014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/7689/small_1310825817.jpg",
+      "title": "2007 Trek 2100",
+      "url": "https://bikeindex.org/bikes/21884",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+official_collectors:
+  user_agent: "bike-data-platform/1.0 (+academic research crawler)"
+  max_depth: 2
+  max_products_per_brand: 80
+  request_sleep_seconds: 0.6
+  brands:
+    - brand: "giant"
+      enabled: true
+      base_url: "https://www.giant-bicycles.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://www.giant-bicycles.com/int/bikes"
+        - "https://www.giant-bicycles.com/int/bikes/mountain-bikes"
+        - "https://www.giant-bicycles.com/int/bikes/cross-and-gravel-bikes"
+        - "https://www.giant-bicycles.com/gb"
+        - "https://www.giant-bicycles.com/us"
+      include_patterns:
+        - "/int/bikes"
+        - "/gb/"
+        - "/us/"
+      product_url_patterns:
+        - "/(int|gb|us)/bikes-[a-z0-9\\-]+$"
+        - "/(int|gb|us)/[a-z0-9\\-]+$"
+      exclude_url_patterns:
+        - "/news/"
+        - "/events/"
+        - "/stores"
+        - "/guides/"
+      discovery_regexes:
+        - "https://www\\.giant-bicycles\\.com/(?:int|gb|us)/bikes-[a-z0-9\\-]+"
+    - brand: "merida"
+      enabled: true
+      base_url: "https://www.merida-bikes.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://www.merida-bikes.com/en/bikefinder/tag/bikes-83"
+        - "https://www.merida-bikes.com/en/bikefinder/tag-group/road-bikes-18"
+      include_patterns:
+        - "/en/bike/"
+      product_url_patterns:
+        - "/en/bike/\\d+/"
+      exclude_url_patterns:
+        - "/event"
+        - "/news"
+    - brand: "trek"
+      enabled: true
+      base_url: "https://www.trekbikes.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://www.trekbikes.com/us/en_US/bikes/road-bikes/c/B200/"
+        - "https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/c/B300/"
+        - "https://www.trekbikes.com/us/en_US/bikes/hybrid-bikes/c/B400/"
+      include_patterns:
+        - "/us/en_US/bikes/"
+      product_url_patterns:
+        - "/us/en_US/bikes/[^\"'\\s<]+/p/\\d+(?:\\?[^\"'\\s<]*)?$"
+      discovery_regexes:
+        - "/us/en_US/bikes/[^\"'\\s<]+/p/\\d+(?:\\?[^\"'\\s<]*)?"
+        - "/us/en_US/bikes/[^\"'\\s<]+/f/F[A-Z0-9\\-]+/?"
+      max_discovery_depth: 2
+      exclude_url_patterns:
+        - "/bike-finder/"
+        - "/retailers/"
+        - "/inside_trek/"
+        - "/support/"
+    - brand: "canyon"
+      enabled: true
+      base_url: "https://www.canyon.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://www.canyon.com/en-us/road-bikes/endurance-bikes/endurace/"
+        - "https://www.canyon.com/en-us/road-bikes/race-bikes/"
+        - "https://www.canyon.com/en-us/gravel-bikes/performance/"
+        - "https://www.canyon.com/en-us/mountain-bikes/"
+        - "https://www.canyon.com/en-us/electric-bikes/e-mountain-bikes/"
+      include_patterns:
+        - "/en-us/road-bikes/"
+        - "/en-us/gravel-bikes/"
+        - "/en-us/mountain-bikes/"
+        - "/en-us/electric-bikes/"
+      product_url_patterns:
+        - "/en-us/(road-bikes|gravel-bikes|mountain-bikes|electric-bikes)/[^\"'\\s<]+/[^\"'\\s<]+/[^\"'\\s<]+/\\d{4,}\\.html(?:\\?[^\"'\\s<]*)?$"
+      discovery_regexes:
+        - "/en-us/(road-bikes|gravel-bikes|mountain-bikes|electric-bikes)/[^\"'\\s<]+/[^\"'\\s<]+/[^\"'\\s<]+/\\d{4,}\\.html(?:\\?[^\"'\\s<]*)?"
+    - brand: "specialized"
+      enabled: true
+      base_url: "https://www.specialized.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://www.specialized.com/us/en/shop/bikes/road-bikes"
+        - "https://www.specialized.com/us/en/shop/bikes/gravel-bikes"
+        - "https://www.specialized.com/us/en/shop/bikes/mountain-bikes"
+      include_patterns:
+        - "/us/en/shop/bikes/"
+        - "/us/en/"
+      product_url_patterns:
+        - "/us/en/.+/p/\\d+(?:\\?[^\"'\\s<]+)?$"
+      discovery_regexes:
+        - "https://www\\.specialized\\.com/us/en/.+/p/\\d+(?:\\?[^\"'\\s<]+)?"
+    - brand: "cannondale"
+      enabled: true
+      base_url: "https://www.cannondale.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://www.cannondale.com/en-us/bikes/road/race"
+        - "https://www.cannondale.com/en-us/bikes/road/endurance"
+        - "https://www.cannondale.com/en-us/bikes/road/gravel"
+        - "https://www.cannondale.com/en-us/bikes/mountain/trail-bikes"
+        - "https://www.cannondale.com/en-us/bikes/mountain/cross-country-bikes"
+        - "https://www.cannondale.com/en-us/bikes/electric/e-mountain"
+      include_patterns:
+        - "/en-us/bikes/"
+        - "/en/bikes/road/"
+        - "/en/bikes/mountain/"
+      product_url_patterns:
+        - "/en(?:-us)?/bikes/(road|mountain)/(race|endurance|gravel|cyclocross|trail-bikes|cross-country-bikes|downhill-bikes)/[a-z0-9\\-]+/[a-z0-9\\-]+(?:/\\d{4})?(?:\\?[^\"'\\s<]*)?$"
+        - "/en(?:-us)?/bikes/electric/e-mountain/[a-z0-9\\-]+/[a-z0-9\\-]+(?:/\\d{4})?(?:\\?[^\"'\\s<]*)?$"
+      discovery_regexes:
+        - "/en(?:-us)?/bikes/(?:road|mountain)/(?:race|endurance|gravel|cyclocross|trail-bikes|cross-country-bikes|downhill-bikes)/[a-z0-9\\-]+/[a-z0-9\\-]+(?:/\\d{4})?(?:\\?[^\"'\\s<]*)?"
+        - "/en(?:-us)?/bikes/electric/e-mountain/[a-z0-9\\-]+/[a-z0-9\\-]+(?:/\\d{4})?(?:\\?[^\"'\\s<]*)?"
+    - brand: "brompton"
+      enabled: true
+      base_url: "https://global.brompton.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://global.brompton.com/bikes"
+        - "https://global.brompton.com/electric-bikes"
+      include_patterns:
+        - "/bikes/"
+        - "/-line"
+      product_url_patterns:
+        - "/(a-line|c-line|p-line|t-line|g-line|electric-[a-z\\-]+)$"
+      exclude_url_patterns:
+        - "/find-a-store"
+        - "/legal/"
+    - brand: "shimano"
+      enabled: true
+      base_url: "https://bike.shimano.com"
+      entity_type: "component"
+      start_urls:
+        - "https://bike.shimano.com/products/components.html"
+        - "https://bike.shimano.com/category/mtb.html?navigMW=mm"
+      include_patterns:
+        - "/products/components.html"
+        - "/products/components/pdp."
+        - "/products/series/"
+      product_url_patterns:
+        - "/products/components/pdp\\."
+        - "/products/series/"
+      exclude_url_patterns:
+        - "/service/"
+        - "/technologies/"
+      discovery_regexes:
+        - "https://bike\\.shimano\\.com/products/components/pdp\\.P-[A-Za-z0-9\\-]+\\.html"
+        - "https://bike\\.shimano\\.com/products/series/[A-Za-z0-9\\-]+\\.html"
+    - brand: "sram"
+      enabled: true
+      base_url: "https://www.sram.com"
+      entity_type: "component"
+      start_urls:
+        - "https://www.sram.com/en/sram/mountain/products"
+        - "https://www.sram.com/en/sram/road/products"
+      include_patterns:
+        - "/en/sram/"
+      product_url_patterns:
+        - "/en/sram/.+/(products|series|collections)/"
+      exclude_url_patterns:
+        - "/company/"
+        - "/service/"
+        - "/learn/"
+    - brand: "dahon"
+      enabled: true
+      base_url: "https://de.dahon.com"
+      entity_type: "bike"
+      start_urls:
+        - "https://de.dahon.com/collections/all-products"
+      include_patterns:
+        - "/products/"
+      product_url_patterns:
+        - "/products/[a-z0-9\\-]+$"
+      exclude_url_patterns:
+        - "/blogs/"
+        - "/pages/"
+    - brand: "oyama"
+      enabled: true
+      base_url: "https://www.oyama.com"
+      entity_type: "bike"
+      inline_products: true
+      start_urls:
+        - "https://www.oyama.com/foldingbike"
+        - "https://www.oyama.com/roadbike"
+        - "https://www.oyama.com/mountainbike"
+      include_patterns:
+        - "/product"
+        - "/bike"
+      product_url_patterns:
+        - "/(foldingbike|roadbike|mountainbike|ebike)"
+      exclude_url_patterns:
+        - "/event"
+        - "/contact"
+    - brand: "fnhon"
+      enabled: true
+      base_url: "https://fnhon.sg"
+      entity_type: "bike"
+      start_urls:
+        - "https://fnhon.sg/collections/fnhon-folding-foldable-bike-bicycle"
+      include_patterns:
+        - "/products/"
+      product_url_patterns:
+        - "/products/[a-z0-9\\-]+$"
+      exclude_url_patterns:
+        - "/pages/"
+        - "/blogs/"
+
+market_sources:
+  price_platforms:
+    - "bike_components"
+  quality_platforms:
+    - "bikeradar"

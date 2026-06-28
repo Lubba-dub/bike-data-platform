@@ -1,0 +1,763 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1776573183,
+      "description": "color of the bike is blue with SRAM AXS etap groupset, DT swiss wheelset.it has a bike bag(from cykit)",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "VsRU",
+      "id": 3372104,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025497/large_Messenger_creation_6C154FAD-2E46-4162-AF21-66072CFB779D.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "#136C062764701001 C8 DAR2020 M",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.83,
+        -117.91
+      ],
+      "stolen_location": "Anaheim, CA 92805, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025497/small_Messenger_creation_6C154FAD-2E46-4162-AF21-66072CFB779D.jpeg",
+      "title": "2022 Dare VsRU",
+      "url": "https://bikeindex.org/bikes/3372104",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1776571200,
+      "description": "Bike is color blue with DT swiss wheelset and SRAM Axs etap Rival groupset",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "VsRU",
+      "id": 3372106,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1018841/large_WhatsApp_Image_2026-04-18_at_21.49.07.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "136C062764701001",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.84,
+        -117.91
+      ],
+      "stolen_location": "Anaheim, CA 92805-6703, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1018841/small_WhatsApp_Image_2026-04-18_at_21.49.07.jpeg",
+      "title": "2023 Dare VsRU",
+      "url": "https://bikeindex.org/bikes/3372106",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1774825200,
+      "description": "Custom metalic white colour. Black lettering. Long 200mm black seat mast. Rotor Vegast 165mm crank with spider power meter. Ultegra groupset 12 speed. Hunt Aerodynamist 55-65 wheelset with conti GP500Tlr 30mm tyres. Vel carbon bottle cages. Specialized Power expert Mirror 130mm saddle.\r\nScrape thru to carbon on middle of drive side chainstay.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Madone Gen 7 SLR",
+      "id": 3382118,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1025331/large_IMG_4218.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        51.6,
+        0.0
+      ],
+      "stolen_location": "Woodford Green, IG8 9PH, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1025331/small_IMG_4218.jpeg",
+      "title": "2024 Trek Madone Gen 7 SLR",
+      "url": "https://bikeindex.org/bikes/3382118",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773126000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reacto DA",
+      "id": 3351873,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009745/large_20260317_v%C3%A9lo_vol%C3%A9_Merida_Reacto_DA_pour_petite_annonce.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MF6F9ZK8Z3",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.86,
+        2.45
+      ],
+      "stolen_location": "Montreuil, 93100, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009745/small_20260317_v%C3%A9lo_vol%C3%A9_Merida_Reacto_DA_pour_petite_annonce.jpg",
+      "title": "2016 Merida Bikes Reacto DA",
+      "url": "https://bikeindex.org/bikes/3351873",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766001600,
+      "description": "There’s a Black Lives Matter fist sticker on seat post. Black handlebar tape. Indy Villacorta sticker on the bike below saddle. DT Swiss wheel set. SRAM Red groupset. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Timemachine 01 ROAD THREE (Force AXS) 54",
+      "id": 3251116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/991698/large_IMG_2812.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.2,
+        -118.6
+      ],
+      "stolen_location": "Canoga Park, CA 91303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/991698/small_IMG_2812.png",
+      "title": "2020 BMC Timemachine 01 ROAD THREE (Force AXS) 54",
+      "url": "https://bikeindex.org/bikes/3251116",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762376400,
+      "description": "FSA Handlebar, Original full Shimano Ultegra groupset, cranks, breaks, casette and chain, Wheels Mavic Ksyrium with clincher Serfas  Kevlar tires ",
+      "frame_colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "SLX01 Racemaster",
+      "id": 3224505,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983620/large_BMC2.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.62,
+        -79.77
+      ],
+      "stolen_location": "Toronto, L6Y 0R3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983620/small_BMC2.jpg",
+      "title": "2010 BMC SLX01 Racemaster",
+      "url": "https://bikeindex.org/bikes/3224505",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762368534,
+      "description": "Microshift Advent 9 speed groupset,\r\nCarbon fork,\r\nChild seat clamp on the handle bar",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "CAAD",
+      "id": 3224162,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983103/large_74E0D8AE-25EB-4B35-9AF9-8ED97940249B_1_105_c.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JE B1-0302 11110",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.34,
+        -71.07
+      ],
+      "stolen_location": "Boston, MA 02118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983103/small_74E0D8AE-25EB-4B35-9AF9-8ED97940249B_1_105_c.jpeg",
+      "title": "1998 Cannondale CAAD",
+      "url": "https://bikeindex.org/bikes/3224162",
+      "year": 1998,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760907600,
+      "description": "Bright blue color, the original mechanical 2x11 Shimano 105 groupset and Mavic wheels. It might have Wahoo speed and cadence sensors still attached, as well as two Topeak bottle cages.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Endurace AL DB 7.0",
+      "id": 3219516,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979769/large_IMG_20200706_224324.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R05601B19C0058",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        60.22,
+        24.81
+      ],
+      "stolen_location": "Espoo, 02600, FI",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979769/small_IMG_20200706_224324.jpg",
+      "title": "2019 Canyon bicycles Endurace AL DB 7.0",
+      "url": "https://bikeindex.org/bikes/3219516",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757098800,
+      "description": "Grey Motobecane Mulekick with Green Lettering\r\n\r\n1x11 SRAM Force groupset\r\nDT Swiss R500 wheels\r\n700x32 GP5000 tires\r\n",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mulekick",
+      "id": 3183113,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962355/large_491461268_986832130251505_658011660595898786_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962355/small_491461268_986832130251505_658011660595898786_n.jpg",
+      "title": "Motobecane Mulekick",
+      "url": "https://bikeindex.org/bikes/3183113",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756627200,
+      "description": "A classic 1980's Italian steel-frame road bike, with shifters on the down tube. Shimano 105 groupset. ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": null,
+      "id": 3179447,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960224/large_IMG_9292_3.jpg",
+      "location_found": null,
+      "manufacturer_name": "Tommaso",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960224/small_IMG_9292_3.jpg",
+      "title": "1988 Tommaso",
+      "url": "https://bikeindex.org/bikes/3179447",
+      "year": 1988,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755986400,
+      "description": "11sp force mechanical groupset, brand less wheels with cxray spokes, long stem. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Six13",
+      "id": 3066395,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S096350",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": null,
+      "title": "2008 Cannondale Six13",
+      "url": "https://bikeindex.org/bikes/3066395",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752112800,
+      "description": "",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "Synapse 5",
+      "id": 2835627,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938156/large_IMG_5839_Small.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.04,
+        -118.42
+      ],
+      "stolen_location": "Los Angeles, CA 90064, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938156/small_IMG_5839_Small.jpeg",
+      "title": "2008 Cannondale Synapse 5",
+      "url": "https://bikeindex.org/bikes/2835627",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751799600,
+      "description": "Brief description: Full suspension bike, 26” wheels, white with distinctive Purple brake handles, purple disc brake callipers, purple brake discs and golden wheel hubs. Marin “Bear” logo on front of bike and bar end caps.\r\n\r\nComponents: \r\nForks: \t\tFox Float 120 RL\r\nRear shock:\tFox RP3 - Kashima coated\r\nHandlebars:\tBrandX\r\nSeat Post: \tBrandX dropper post\r\nBrakes: \tHope Tech E4 Callipers (in purple) with Tech 2 brake levers (in purple)\r\nDisc rotors:\tHope 180mm front, 160mm rear (in purple)\r\nWheel hub:\tHope Evo 2 (in gold)\r\nWheel rims: \t26” Mavic XC717 Disc\r\nTires:\r\n\t\t- front: Shwalbe Hans Dampf\r\n\t\t- rear: Specialized (?) \r\nGears:\t\tShimano XT groupset:\r\n\t\t- rear derailleur and cogs: Shimano XT\r\n\t\t- Cranks: Shimano XT (silver)\r\n\t\t- front shifter (right hand handlebar): Shimano XT\r\n\t\t- RaceFace narrow-wide 1x 32t front cog (on crank arm)\r\nAccessories: Black Crud Guard (mountain bike mud guard) on main down tube attached with black rubber bands, small bits of green/yellow tape in places. Green ‘Hope’ sticker on lower part of swing arm by rear gears. Black neoprene/velcro chain protector on lower part of swing arm - right hand side only.\r\nThe bike had significant upgrades from the stock purchase, notably the braking system was added as an upgrade, as were the wheels, dropper seat post, handlebar and front cog. \r\n",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Mount Vision",
+      "id": 2834340,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936945/large_IMG_1994.JPG",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F228BA4003",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.35,
+        -1.39
+      ],
+      "stolen_location": "Newbury, RG20 9XJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936945/small_IMG_1994.JPG",
+      "title": "2008 Marin Bikes Mount Vision",
+      "url": "https://bikeindex.org/bikes/2834340",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749668400,
+      "description": "Stock Triban RC120, I put tanwall gravel tires on it, microshift XLE 2x8 groupset, black bar tape and black saddle, reflectors on both wheels",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Triban RC120",
+      "id": 2818648,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.52
+      ],
+      "stolen_location": "Edmonton, T6G 2L7, CA",
+      "thumb": null,
+      "title": "2025 Decathlon Triban RC120",
+      "url": "https://bikeindex.org/bikes/2818648",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749661200,
+      "description": "Bike was stolen from garage on 11 June 2025. Bike has Bontrager carbon wheels and full mechanical XTR groupset",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Top Fuel",
+      "id": 2831226,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/935197/large_TopFuel99XTR-24-Picture.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU298CT0001U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -111.86
+      ],
+      "stolen_location": "Salt Lake City, UT 84105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/935197/small_TopFuel99XTR-24-Picture.jpg",
+      "title": "2024 Trek Top Fuel",
+      "url": "https://bikeindex.org/bikes/2831226",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749661200,
+      "description": "Full XTR mechanical Groupset",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Top Fuel",
+      "id": 2831240,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU130T0043U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -111.86
+      ],
+      "stolen_location": "Salt Lake City, UT 84105, US",
+      "thumb": null,
+      "title": "2023 Trek Top Fuel",
+      "url": "https://bikeindex.org/bikes/2831240",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748923200,
+      "description": "Orange Hood covers no bar tape, Orange and yellow cable housings, Shimano Ultegra 10sp groupset, Michelin Pro 4 Endurance, blue bottle cages. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "TCR",
+      "id": 2813574,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/923650/large_20250508_140304.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GK16A338",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.05,
+        -87.68
+      ],
+      "stolen_location": "Evanston, IL 60208, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/923650/small_20250508_140304.jpg",
+      "title": "2017 Giant TCR",
+      "url": "https://bikeindex.org/bikes/2813574",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745211600,
+      "description": "I’m sure it has a serial number but I did not register it. My fault there. I only use it for road cycling and leave it inside. I never lock it up outside. I think it’s from 1996-98. Classic Seafoam Green. Clip-In Shimano Pedals. Specialized Front and Rear Lights. Shimano 105 Groupset. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "GIRO",
+      "id": 2784274,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/907691/large_IMG_2051.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/907691/small_IMG_2051.jpeg",
+      "title": "1998 Bianchi GIRO",
+      "url": "https://bikeindex.org/bikes/2784274",
+      "year": 1998,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743814800,
+      "description": "Open U.P. in the stock sage color, a silver-green. Campagnolo EKAR groupset. Stock components, except 110mm stem and 650B HED Emporia GA Pro alloy wheels. Rene Herse 42mm Babyshoe Pass tires. 2 King Cage Iris water bottle holders. RideWrap applied. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "U.P.",
+      "id": 2774005,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/902585/large_IMG_5875.jpeg",
+      "location_found": null,
+      "manufacturer_name": "OPEN",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "POM04D20M22070119N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.42,
+        -122.12
+      ],
+      "stolen_location": "Palo Alto, CA 94306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/902585/small_IMG_5875.jpeg",
+      "title": "2023 OPEN U.P.",
+      "url": "https://bikeindex.org/bikes/2774005",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743163200,
+      "description": "It comes with a mini pump attached on the right side of the downtude, next to an aluminium bottle cage. Size S bike, equipped with Microshift groupset and 27’5 wheel size. There is a stickers saying Black Hills Bicycles above the bottom bracket and under the front derailleur mount",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Rockhopper",
+      "id": 1092487,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/449386/large_4930EC73-653C-4F74-83C2-9866D3C98E0A.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC026026357R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, Alberta, Canada, T5J 4X1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/449386/small_4930EC73-653C-4F74-83C2-9866D3C98E0A.jpeg",
+      "title": "2021 Specialized Rockhopper",
+      "url": "https://bikeindex.org/bikes/1092487",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739754000,
+      "description": "The bike is dark blue and has a Sora groupset. The RX 5.1 logo kinda looks like it says RX S.I",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "RX 5.1",
+      "id": 2757266,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892127/large_drive_side.jpg",
+      "location_found": null,
+      "manufacturer_name": "Mongoose",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "994087801",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.95,
+        145.15
+      ],
+      "stolen_location": "Springvale, 3171, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892127/small_drive_side.jpg",
+      "title": "2002 Mongoose RX 5.1",
+      "url": "https://bikeindex.org/bikes/2757266",
+      "year": 2002,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739354400,
+      "description": "Shimano 105 groupset\r\nX1 black water bottle cage\r\nWhite Shimano SPD pedals\r\nRim Brakes\r\nTubeless PA2 wheels",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Enviliv Advanced 2",
+      "id": 2755769,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/891026/large_1000015232.png",
+      "location_found": null,
+      "manufacturer_name": "Liv",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.61,
+        -121.43
+      ],
+      "stolen_location": "Sacramento, CA 95815, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/891026/small_1000015232.png",
+      "title": "2019 Liv Enviliv Advanced 2",
+      "url": "https://bikeindex.org/bikes/2755769",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738846800,
+      "description": "SRAM Force groupset, Fizik saddle with scuff mark on left side",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Teammachine SLR One",
+      "id": 2754815,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890338/large_IMG_8075.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1R21H6054",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.82,
+        145.0
+      ],
+      "stolen_location": "Richmond, 3121, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890338/small_IMG_8075.jpeg",
+      "title": "2022 BMC Teammachine SLR One",
+      "url": "https://bikeindex.org/bikes/2754815",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735558200,
+      "description": "Custom 2015 Condor Super Acciaio Road Bike.\r\n\r\nSize. 58cm Standard Geometry.\r\nColor. Standard 2015 Black, white panel with black condor on down tube and white panel with London on seat tube. Head badge on head tube.\r\nDecal set. All red and grey decals removed as part of custom build.\r\nWheels. Zonda Black\r\nGroupset. Athena \r\nSaddle. Arione R5 \r\nSeat post. Strada carbon ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Super Acciaio",
+      "id": 2746639,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/884316/large_IMG_0617.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Condor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "12/15/7033",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.75,
+        -118.13
+      ],
+      "stolen_location": "Long Beach, CA 90803, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/884316/small_IMG_0617.jpeg",
+      "title": "2015 Condor Super Acciaio",
+      "url": "https://bikeindex.org/bikes/2746639",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1734570000,
+      "description": "Sram Force groupset, roval Terra CL carbon wheels. ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Diverge",
+      "id": 2747755,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC025052486S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        4.87,
+        -73.88
+      ],
+      "stolen_location": "Guasca, 251210, CO",
+      "thumb": null,
+      "title": "2023 Specialized Diverge",
+      "url": "https://bikeindex.org/bikes/2747755",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

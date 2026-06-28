@@ -1,0 +1,1517 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1775653200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 3361718,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1015631/large_IMG_2087.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW46962KGFX",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.41,
+        -1.83
+      ],
+      "stolen_location": "Birmingham, B90 3GG, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1015631/small_IMG_2087.jpeg",
+      "title": "2026 Cube",
+      "url": "https://bikeindex.org/bikes/3361718",
+      "year": 2026,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767988800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Mountain",
+      "id": 3285928,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.48,
+        -73.21
+      ],
+      "stolen_location": "Burlington, VT 05401, US",
+      "thumb": null,
+      "title": "2026 Specialized Mountain",
+      "url": "https://bikeindex.org/bikes/3285928",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755518400,
+      "description": "The bike was stolen with a large wooden box attached to the back (dimensions: ~2x2x1 [LxWxH]).  It has a black phone holder on the left side of the handle bars.  There is a circular side mirror on the left side of the bike.  Stolen on 08/18/2025 from Renton, WA.  There was a black hand pump located on the lower bike brace attached to a black water bottle holder.  Black bike with orange text on the cross brace (\"Rad Power Bikes\").",
+      "frame_colors": [
+        "Black",
+        "Orange"
+      ],
+      "frame_model": "Rad City 4",
+      "id": 1192628,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CH4D21F0232",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.49,
+        -122.21
+      ],
+      "stolen_location": "Renton, WA 98057, US",
+      "thumb": null,
+      "title": "2020 Rad Power Bikes Rad City 4",
+      "url": "https://bikeindex.org/bikes/1192628",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753848000,
+      "description": "1990ish.  Shimano XT 3 by 9 drivetrain.  Mechanical disc brakes. Alu front basket and red cargo net.  Pedals are flat on one side, Crank brothers on the other.  Very good condition/",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3061052,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/954253/large_gary_fisher_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/954253/small_gary_fisher_bike.jpg",
+      "title": "Gary Fisher",
+      "url": "https://bikeindex.org/bikes/3061052",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747810800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "city 5 st",
+      "id": 1436916,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CU5G21B1314",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.69,
+        -117.19
+      ],
+      "stolen_location": "Coronado, CA 92118, US",
+      "thumb": null,
+      "title": "2022 Rad Power Bikes city 5 st",
+      "url": "https://bikeindex.org/bikes/1436916",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746734400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mr. Pink",
+      "id": 2798844,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914505/large_IMG_4859.jpeg",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M18040047",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.25
+      ],
+      "stolen_location": "Minneapolis, MN 55407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914505/small_IMG_4859.jpeg",
+      "title": "2019 All City Mr. Pink",
+      "url": "https://bikeindex.org/bikes/2798844",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745420400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "725",
+      "id": 2789462,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/908359/large_IMG_1902.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Leader Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.95,
+        -77.03
+      ],
+      "stolen_location": "Washington, DC 20011, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/908359/small_IMG_1902.jpeg",
+      "title": "2018 Leader Bikes 725",
+      "url": "https://bikeindex.org/bikes/2789462",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736604000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Trek-065 Frameset 44365",
+      "id": 2746579,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/884263/large_IMG_4242.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU200QU0058T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.46
+      ],
+      "stolen_location": "San Francisco, CA 94118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/884263/small_IMG_4242.jpeg",
+      "title": "2024 Trek Trek-065 Frameset 44365",
+      "url": "https://bikeindex.org/bikes/2746579",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735948800,
+      "description": "Has the addition of side mirrors and schwalbe replacement tires ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City 5 Plus Electric Commuter Bike",
+      "id": 2745406,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/883424/large_inbound1186894618874113810.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CH5D22B1420",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.76,
+        -122.49
+      ],
+      "stolen_location": "Bellingham, WA 98225, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/883424/small_inbound1186894618874113810.jpg",
+      "title": "2024 Rad Power Bikes Rad City 5 Plus Electric Commuter Bike",
+      "url": "https://bikeindex.org/bikes/2745406",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735726800,
+      "description": "Has a brand new bike rack from Decathlon (not sold in the US), metal ring bell on the right side of the handlebar (very rare, again not sold in the US) and phone holder. U-lock on the frame under the seat.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "City 1.1",
+      "id": 2744419,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1215960002",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -76.98
+      ],
+      "stolen_location": "Washington Dc, DC 20002, US",
+      "thumb": null,
+      "title": "2021 REI Co-op City 1.1",
+      "url": "https://bikeindex.org/bikes/2744419",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733623200,
+      "description": "I came outside this morning 12/7/24 to find my prized commuter had disappeared from my backyard. Near City Park and Mountain. Likely stolen in the night. It was a barn find that I rebuilt and added many non-stock parts parts to, and I haven't seen seen anything similar to it around town. Unfortunately I did not write down the serial number, but I will be filing reports with Bike Index and the city.\r\n\r\n~1994 Red Specialized Crossroads in XL/Large with White Decals\r\n\r\nUPANBIKE butterfly bars Wrapped in Red (Most Distinctive)\r\nBlack Avid Speed Dial Brake Levers\r\nKoski V-Brake front/ Avid Single Digit Rear Calipers\r\nNo-name 3x8 Speed Shifters\r\nShimano Deore LX Rear Derailleur\r\nVintage Shimano Exage? Front Derailleur\r\nPuroma Red Pedals\r\nBlack Easton Front Wheel - Specialized Sawtooth Tire\r\nDura-Ace Hub With Mavic Rim Rear Wheel - Goodyear Transit Speed Tire\r\nSilver Sunrace 11-40t Cassette on the Rear Wheel (Big Gear on back wheel)\r\nBontrager Seat\r\n\r\nOther Stuff:\r\n\r\nFaded Brown REI Flash Pannier on left side\r\nJim Blackburn Bottle Cage and JBlackburn Rear Rack\r\nAdjustable Bottle Cage on seat tube\r\nRockBros Tubetop Bag and Frame Bag\r\nPolar Colorado Water Bottle\r\nRed Phone Mount\r\nBlitzu Bike Light (Paint Heavily Faded)\r\nOnGuard U Lock (Unlocked)",
+      "frame_colors": [
+        "Red",
+        "White"
+      ],
+      "frame_model": "Crossroads",
+      "id": 2735992,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/878232/large_IMG_4516.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.59,
+        -105.14
+      ],
+      "stolen_location": "Fort Collins, CO 80521, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/878232/small_IMG_4516.JPEG",
+      "title": "1994 Specialized Crossroads",
+      "url": "https://bikeindex.org/bikes/2735992",
+      "year": 1994,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730454000,
+      "description": "RadCity bike, in pretty rough condition. Evidently was stolen, I purchased from a second(?) owner after searching on BikeIndex + reporting to RadPower to match serial number to original owner (but there was no record).\r\n\r\nBack rack sheared on one side of fram. Bad re-paint job over frame of bike, with white spray paint on the serial number. Bike stolen without battery. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City",
+      "id": 2722643,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/871435/large_IMG_2576.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CH4C21F0106",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/871435/small_IMG_2576.jpeg",
+      "title": "Rad Power Bikes Rad City",
+      "url": "https://bikeindex.org/bikes/2722643",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728810000,
+      "description": "My bike got stolen either Friday (October 11) at night or anytime Saturday (October 12th) from the 4th level parking garage of my apartment complex on the east side.\r\nIt’s an all city bike model: SPACE HORSE TIAGRA https://allcitycycles.com/bikes/space_horse_tiagra \r\nI just had taken it to get a tune up at DogSpeed Cycle and got new tires installed: Vitorria urbano: https://vittoria.com/products/urbano?variant=46921118187808&utm_source=google&utm_medium=organic&utm_campaign=Vittoria%20US%20Google%20Feed&utm_content=Urbano&gad_source=1&gbraid=0AAAAADOK2zf6DNdcqUBHd-xWtAzJBNH3B&gclid=Cj0KCQiA_qG5BhDTARIsAA0UHSILBCDrWQq_IbBOyyN5rJyV1NR__YbA7RxYjsVey-m9hiflIPhg2TwaAslDEALw_wcB\r\nBought it at cycle east in December 2023 before they closed. Any help locating it is greatly appreciated.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Space Horse Tiagra",
+      "id": 2723009,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/871971/large_a77d9acc-dfd6-43cf-9c10-4a3688da32b7_2.JPG",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.26,
+        -97.71
+      ],
+      "stolen_location": "Austin, TX 78702, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/871971/small_a77d9acc-dfd6-43cf-9c10-4a3688da32b7_2.JPG",
+      "title": "2023 All City Space Horse Tiagra",
+      "url": "https://bikeindex.org/bikes/2723009",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726869600,
+      "description": "A typical black Dutch city bike with a typical Dutch ring lock attached to the back of the frame to lock the back wheel and black bike bag with a white fluorescent stripe at either side of the back luggage carrier. Stolen at Santa Rosa North railway station.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Typical Dutch Bike Frame",
+      "id": 2717200,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/867915/large_IMG_1320.jpg",
+      "location_found": null,
+      "manufacturer_name": "Batavus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.47,
+        -122.75
+      ],
+      "stolen_location": "Santa Rosa, CA 95403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/867915/small_IMG_1320.jpg",
+      "title": "2011 Batavus Typical Dutch Bike Frame",
+      "url": "https://bikeindex.org/bikes/2717200",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726466400,
+      "description": "Black Rad Power \"City 5\" bike. Roughly 3200 miles on the odometer. Significant scratches and scrapes on the frame, mostly on the right side, from a previous fall. Had a black caribeaner on the handlebars. Standard rear rack and standard (small) headlight. Nearly brand new chain and gear cassette. Separate rechargable headlight on the handlebars.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "City 5 High-Step",
+      "id": 2697742,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": null,
+      "title": "2022 Rad Power Bikes City 5 High-Step",
+      "url": "https://bikeindex.org/bikes/2697742",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1725908400,
+      "description": "E-bike, class 2, 20mph, 750Watt, step-through, upright seating position, seat locked onto bike, headlight, taillight, side mirror, matt black with orange lettering, lime green water bottle holder, black basket over back wheel, broken green basket on front, Protected  by micro technology GPS tracker sticker.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City Step Through",
+      "id": 1503389,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/687195/large_PXL_20230414_180839054.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H20112CS",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.27,
+        -71.85
+      ],
+      "stolen_location": "Worcester, MA 01602, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/687195/small_PXL_20230414_180839054.jpg",
+      "title": "Rad Power Bikes Rad City Step Through",
+      "url": "https://bikeindex.org/bikes/1503389",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722981600,
+      "description": "Black bike. Orange lettering. Side mirror. Comfort seat",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City 4",
+      "id": 1339938,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CH4H21F0294",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.09,
+        -117.05
+      ],
+      "stolen_location": "Escondido, CA 92025, US",
+      "thumb": null,
+      "title": "Rad Power Bikes Rad City 4",
+      "url": "https://bikeindex.org/bikes/1339938",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722121200,
+      "description": "My bike was stolen in July 2024. It was all black but was repainted all orange. It is a single speed bike with a single brake in the front. Rear tire is red with a line of green on the wear area. Rear wheel bearing are not good and the wheel is set on the freewheel side (the wheel can be reversed to get a freewheel or no freewheel).",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Old",
+      "id": 2834947,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/937355/large_IMG_1408.PNG",
+      "location_found": null,
+      "manufacturer_name": "Ibke",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5J 4X1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/937355/small_IMG_1408.PNG",
+      "title": "Ibke Old",
+      "url": "https://bikeindex.org/bikes/2834947",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721602800,
+      "description": "Matt black, manufacturing date: 10/20/2020 (Taiwan),  Satin Nearly Black / Black Reflective / Medium ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Vado Turbo SL",
+      "id": 984922,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/833692/large_Turbo-Vado-4-SL.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC025040043R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/833692/small_Turbo-Vado-4-SL.jpg",
+      "title": "2020 Specialized Vado Turbo SL",
+      "url": "https://bikeindex.org/bikes/984922",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721077200,
+      "description": "All Black Cannondale Mountainbike. Has a rear mountain pannier rack as well as a clamp mounted around the front handlebar on the left side.\r\n\r\nFrame also has a water bottle holder mounted on the front bar, and a pump clasp on the straight up bar",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Trail 7",
+      "id": 2653710,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/831912/large_IMG_3240.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AE07372",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.32
+      ],
+      "stolen_location": "Seattle, WA 98102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/831912/small_IMG_3240.jpeg",
+      "title": "2023 Cannondale Trail 7",
+      "url": "https://bikeindex.org/bikes/2653710",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724652000,
+      "description": "Aspero GRX RX600 build\r\nBare carbon Repair on non-drive side seat stay \r\nMakeshifter snackhole stem bag x2, jandd half frame bag, swift industries zeitgeist handlebar bag, fjallraven front rack, Abraham's water bottle, simworks water bottle\r\nRiver city bicycles rainbow sticker on seat tube, bike farm sticker on down tube,  my other bike is existential dread sticker on drive side chainstays.\r\n",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Aspero GRX RX600",
+      "id": 2634878,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/847531/large_IMG_9564.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNB0B5621C254",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/847531/small_IMG_9564.jpeg",
+      "title": "2022 Cervélo Aspero GRX RX600",
+      "url": "https://bikeindex.org/bikes/2634878",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716030000,
+      "description": "Ambition helps motivate us. It helps us strive for more and reach new goals.\r\n\r\nThe X Ambition is built for more. More miles, more adventures, more smiles! You may know the Poseidon X and the X Ambition is the more improved version. We focused on improved comfort with a more upright riding position and a new saddle design. We increased braking power by adding the same brakes as the Redwood and completed the build with 700 x 40 Kenda Happy Medium tires for good speed on the road and grip on gravel.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Prowheel gravel",
+      "id": 2600352,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/808044/large_poseidon.jpg",
+      "location_found": null,
+      "manufacturer_name": "Poseidon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PC200602813",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.66,
+        -78.68
+      ],
+      "stolen_location": "Raleigh, NC 27603, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/808044/small_poseidon.jpg",
+      "title": "2024 Poseidon Prowheel gravel",
+      "url": "https://bikeindex.org/bikes/2600352",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714964400,
+      "description": "Asking for help recovering my bike, in case anyone sees anything please reach out! I use it as my primary form of transportation and it was stolen out of a locked car last night on 145th NE in Seattle. It’s a Liv BeLiv women’s small bike teal frame. It has brown with dark circles handle bar tape, an emerald city ride outrider support rider bib on the front from Cascade Bicycle Club, a teal flower pattern handle bar bag, front handlebar headlight rear light on seat post, colorful light son the front and rear tires, a brown brooks leather saddle and reflective adhesive strips on the front and rear forks. It has both drop and upper handle bar breaks and older starting to crack on the side wall brown commuter tires that are smoother in the center and knobby on the edges. It down shifts rough in the mid gears due to a bent derailleur which has not yet been repaired and has single sided spd clear pedals and black plastic fenders. The rear fender is held on with zip ties. there’s an extra waterbottle holder also zip tied on the top cross bar and a handlebar phone mount bag. \r\n\r\nThe first image is an older photo before I put the commuter bits on it but it’s the clearest I have.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Beliv",
+      "id": 2598933,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/804237/large_IMG_8525.png",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.76,
+        -122.3
+      ],
+      "stolen_location": "Shoreline, WA 98155, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/804237/small_IMG_8525.png",
+      "title": "Giant Beliv",
+      "url": "https://bikeindex.org/bikes/2598933",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1710007200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Marlin 5 S",
+      "id": 2570073,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU307XC2395U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.42,
+        -119.71
+      ],
+      "stolen_location": "Santa Barbara, CA 93101, US",
+      "thumb": null,
+      "title": "2023 Trek Marlin 5 S",
+      "url": "https://bikeindex.org/bikes/2570073",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1709924400,
+      "description": "Has heavy wear on the top tube near the handles due to rubbing from bike lock.\r\n\r\nBike was bought secondhand in 2017.\r\n",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": null,
+      "id": 2570400,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/787433/large_IMG_9079.JPG",
+      "location_found": null,
+      "manufacturer_name": "Myka",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.04,
+        -87.92
+      ],
+      "stolen_location": "Milwaukee, WI 53203, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/787433/small_IMG_9079.JPG",
+      "title": "Myka",
+      "url": "https://bikeindex.org/bikes/2570400",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1693926000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "29+ Bikepack",
+      "id": 1654274,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/743665/large_IMG-7210.jpg",
+      "location_found": null,
+      "manufacturer_name": "Hunt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TNFK003708",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.81,
+        -111.84
+      ],
+      "stolen_location": "Salt Lake City, UT 84103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/743665/small_IMG-7210.jpg",
+      "title": "Hunt 29+ Bikepack",
+      "url": "https://bikeindex.org/bikes/1654274",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1690819200,
+      "description": "REI Co-op Cycles DRT 1.1 Mountain Bike. Color is 'pirate black', looks black/gray in person. Says 'co-op' in white lettering on the side. Has a white waterbottle holder and a kick stand. At the time it was stolen it had an old cable bike lock attached to the handle bars/frame. Also had a phone mount attached to handle bars. Wheel size is 27.5 inches, bike has 21 gears. Stolen from bike rack on car in hotel parking lot in downtown Salt Lake City, Utah.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "DRT 1.1 Mountain Bike",
+      "id": 1565192,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/728742/large_rei_bike_reference_photo.png",
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "I21058987",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.76,
+        -111.9
+      ],
+      "stolen_location": "Salt Lake City, UT 84101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/728742/small_rei_bike_reference_photo.png",
+      "title": "2022 REI Co-op DRT 1.1 Mountain Bike",
+      "url": "https://bikeindex.org/bikes/1565192",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1689498000,
+      "description": "TREK 2022 Dual Sport 3 XL Matte Trek Black\r\n(red) trim lining, (red) 3 on top bar by seat post\r\n\r\nHidden Feature - Placed written owner information inside the seat post connecting to bike frame.\r\n\r\nadded features:\r\n\r\nErgon Grips GP2 Lg\r\n\r\nBontrager Back Rack Deluxe (Black) Sm MIK\r\n\r\n(x2) Ortlieb Sport Roller Classic QL 2.125 L (Ashphalt Black) Roll top feature. \r\n\r\nBontrager Rear Side Mount Kick Stand\r\n\r\n49N Alloy Water bottle Cage (Black)\r\n\r\nBontrager Ion Light Comp R/Flare R City Rechargeable (Front and Back)\r\n\r\n(x2) OneUp Composite Pedals (Black)",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Alpha Gold Aluminium, Duo Trap S-compatible",
+      "id": 1249110,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/723290/large_27EADBEA-9A00-46FF-B7AC-DB925C69655C.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU216XC2485S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.09,
+        -114.2
+      ],
+      "stolen_location": "Calgary, T3B 2T6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/723290/small_27EADBEA-9A00-46FF-B7AC-DB925C69655C.jpeg",
+      "title": "2022 Trek Alpha Gold Aluminium, Duo Trap S-comp...",
+      "url": "https://bikeindex.org/bikes/1249110",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688576400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Step Through",
+      "id": 1554612,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/721921/large_E5AFA4D6-297D-4174-8C46-DBDCD8F4875B.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Infinity Cycle Works",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/721921/small_E5AFA4D6-297D-4174-8C46-DBDCD8F4875B.jpeg",
+      "title": "Infinity Cycle Works Step Through",
+      "url": "https://bikeindex.org/bikes/1554612",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688454000,
+      "description": "Black bell on the left side. Broken bell and phone holder on the right side. Handlebars are missing handlebar plugs. Some scratches on battery and body of bike.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Rad City 5",
+      "id": 1549844,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/718799/large_-6619197899337866704.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CU5H21B3089",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.99,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60660, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/718799/small_-6619197899337866704.jpg",
+      "title": "2022 Rad Power Bikes Rad City 5",
+      "url": "https://bikeindex.org/bikes/1549844",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1687186800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "RAD City Electric Commuter Bike V4",
+      "id": 1290389,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/712650/large_20230619_113909.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CH4J21F0836",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.06,
+        -92.81
+      ],
+      "stolen_location": "Stillwater, MN 55082, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/712650/small_20230619_113909.jpg",
+      "title": "2021 Rad Power Bikes RAD City Electric Commuter Bike V4",
+      "url": "https://bikeindex.org/bikes/1290389",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1682460000,
+      "description": "it's quite old been around town for a long time, has a rounded red light on the back,\r\n a little scratched up and has little paint from an old coating that was orange. It's a light weight bike so easy to pick up,\r\n the gears are fixed to one gear even though the back wheel has several speeds\r\n (it can potentially shift into (couldn't afford a gear shift)).\r\n The front tire has a tiny hole that gives out after a certain amount of hours about 4-6 hours and \r\nhas a air valve converter attached to the front tire and a layer to underneath the tire to protect the tire from thorns/glass/ etc. \r\n The tires gives out again in 4-6 hours (High pressured tire 110-120 PSI ).",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 1509773,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/691469/large_Bike_2018_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Quintana Roo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.53,
+        -119.81
+      ],
+      "stolen_location": "Reno, NV 89501, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/691469/small_Bike_2018_.jpg",
+      "title": "2001 Quintana Roo",
+      "url": "https://bikeindex.org/bikes/1509773",
+      "year": 2001,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1682280000,
+      "description": "Black step-thru ebike, stolen without battery. Left and right side mirrors on the handlebars. Phone mount on the handlebars. Metal bottle cage on the right-hand side. \"See you space cowboy...\" sticker on the left-hand side, some anime stickers on the right hand side, a \"Spread the the love\" sticker on the rear fender. Paint on the rear rack is a little worn. Bike is otherwise clean and in good conditon. Black metal front basket with wood panel. Black kryptonite U-lock attached to rear rack. Attached photos are several months old.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City 5 Plus",
+      "id": 1508968,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/690887/large_20220809_184046.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CU5G21B0383",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.81,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60609, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/690887/small_20220809_184046.jpg",
+      "title": "2021 Rad Power Bikes Rad City 5 Plus",
+      "url": "https://bikeindex.org/bikes/1508968",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1673323200,
+      "description": "Ancheer 16 Inch Wheel 250W Folding City Commuter Electric Bike with customization. Black with blue letters.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding 16\" 250w commuter ebike",
+      "id": 1453639,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/667959/large_IMG_20220710_140102.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ancheer",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IDX. 774271004 2006 0Y05R007074300093",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.02,
+        -121.92
+      ],
+      "stolen_location": "Pittsburg, CA 94565, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/667959/small_IMG_20220710_140102.jpg",
+      "title": "2019 Ancheer Folding 16\" 250w commuter ebike",
+      "url": "https://bikeindex.org/bikes/1453639",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1667682000,
+      "description": "Single speed. Fixie. Wide riser handlebar with Vans grips\r\n\r\n",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "6061 Black Label",
+      "id": 1437066,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/656525/large_pic.PNG",
+      "location_found": null,
+      "manufacturer_name": "State Bicycle Co.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SBCAT2007818",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.65,
+        -79.38
+      ],
+      "stolen_location": "Toronto, M5B 2M8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/656525/small_pic.PNG",
+      "title": "2021 State Bicycle Co. 6061 Black Label",
+      "url": "https://bikeindex.org/bikes/1437066",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1666881000,
+      "description": "It is a 2018 Giant Trance 2 size M matte grey with neon yellow and green highlights and pink grips and pedals. It has 27.5\" wheels, tubeless tires with pink valve stems, maxxis tires, fox suspension with Giant's signature Maestro pivot system and a saddle pouch on the bottom side of the seat.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Yellow or Gold",
+        "Pink"
+      ],
+      "frame_model": "Trance 2",
+      "id": 1431166,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/652243/large_20181222_175751.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GZ1707329",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.77,
+        -111.84
+      ],
+      "stolen_location": "Salt Lake City, UT 84112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/652243/small_20181222_175751.jpg",
+      "title": "2018 Giant Trance 2",
+      "url": "https://bikeindex.org/bikes/1431166",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1666677600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mavaro NEO City",
+      "id": 1430598,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/651748/large_cannondale-mavaro-neo-city-1-2020.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D000010",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/651748/small_cannondale-mavaro-neo-city-1-2020.jpg",
+      "title": "Cannondale Mavaro NEO City",
+      "url": "https://bikeindex.org/bikes/1430598",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1663041600,
+      "description": "Olive Green Bike with black accents ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Beatnik",
+      "id": 1038953,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/420564/large_E5CBF009-46A0-45CE-B836-F74D1F6FB58B.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M20F004634",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.92,
+        -78.89
+      ],
+      "stolen_location": "Buffalo, NY 14213, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/420564/small_E5CBF009-46A0-45CE-B836-F74D1F6FB58B.jpeg",
+      "title": "2021 Jamis Beatnik",
+      "url": "https://bikeindex.org/bikes/1038953",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1661353200,
+      "description": "Grey water cage, mounted basket on the back, front and back lights with a smiley bell on the left hand side. Flat handles. Front and rear fenders.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Escape 2 City Disc S",
+      "id": 1382754,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/627645/large_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K3GK60820",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.08,
+        -114.07
+      ],
+      "stolen_location": "Calgary, Alberta, T2M 4V2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/627645/small_Bike.jpg",
+      "title": "2019 Giant Escape 2 City Disc S",
+      "url": "https://bikeindex.org/bikes/1382754",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1659346200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Escape City Disc 3",
+      "id": 1019430,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PAFP02006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.11,
+        -118.36
+      ],
+      "stolen_location": "West Hollywood, CA 90046, US",
+      "thumb": null,
+      "title": "2021 Giant Escape City Disc 3",
+      "url": "https://bikeindex.org/bikes/1019430",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1655521200,
+      "description": null,
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Mateo 2.0",
+      "id": 1326496,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/593836/large_B1BDE0AF-C86B-42ED-A9A5-8FFB3D05C771.png",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.09,
+        -118.33
+      ],
+      "stolen_location": "Los Angeles, CA 90038, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/593836/small_B1BDE0AF-C86B-42ED-A9A5-8FFB3D05C771.png",
+      "title": "2014 Raleigh Mateo 2.0",
+      "url": "https://bikeindex.org/bikes/1326496",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1654839300,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Stumpjumper",
+      "id": 1319702,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/589794/large_E2B4046F-D535-4276-B7DC-EF4437BB9C37.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.76,
+        -111.88
+      ],
+      "stolen_location": "Salt Lake City, UT 84111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/589794/small_E2B4046F-D535-4276-B7DC-EF4437BB9C37.jpeg",
+      "title": "1991 Specialized Stumpjumper",
+      "url": "https://bikeindex.org/bikes/1319702",
+      "year": 1991,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1647309600,
+      "description": "Looks like a regular Rad City but has (had) a yellow 'USA FACTS' sticker on the left side of the battery.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad City",
+      "id": 1247761,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TFE3017K0469",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.65,
+        -122.41
+      ],
+      "stolen_location": "Seattle, WA 98199, US",
+      "thumb": null,
+      "title": "2018 Rad Power Bikes Rad City",
+      "url": "https://bikeindex.org/bikes/1247761",
+      "year": 2018,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1646161200,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Space Horse",
+      "id": 1239813,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/542785/large_95a0wxm7rtk81.jpg",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M20120591",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.23,
+        -97.71
+      ],
+      "stolen_location": "Austin, TX 78741, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/542785/small_95a0wxm7rtk81.jpg",
+      "title": "2021 All City Space Horse",
+      "url": "https://bikeindex.org/bikes/1239813",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1644264000,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "CrossTrail Hydraulic Disc (Medium size)",
+      "id": 1217605,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/513904/large_IMG_20201030_170240.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC920420568P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.89,
+        -87.64
+      ],
+      "stolen_location": "Chicago, IL 60654, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/513904/small_IMG_20201030_170240.jpg",
+      "title": "2019 Specialized CrossTrail Hydraulic Disc (Medium size)",
+      "url": "https://bikeindex.org/bikes/1217605",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1643526000,
+      "description": "city bike, hybrid, high bar, cruiser type.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Hi-ten",
+      "id": 1213746,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/511804/large_Screen_Shot_2022-01-30_at_12.08.32_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HS1000760",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.51,
+        -113.54
+      ],
+      "stolen_location": "Edmonton, T6G 1V9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/511804/small_Screen_Shot_2022-01-30_at_12.08.32_AM.png",
+      "title": "2021 Diamondback Hi-ten",
+      "url": "https://bikeindex.org/bikes/1213746",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1642629600,
+      "description": "This was given to me the bike had not a scratch on it I put chrome Handel bars and upgraded shitters",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Miyata",
+      "id": 1210540,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/509963/large_IMG_20211207_141742.jpg",
+      "location_found": null,
+      "manufacturer_name": "Miyata",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.59,
+        -113.54
+      ],
+      "stolen_location": "Edmonton, T5L 0Y7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/509963/small_IMG_20211207_141742.jpg",
+      "title": "1993 Miyata Miyata",
+      "url": "https://bikeindex.org/bikes/1210540",
+      "year": 1993,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1635638400,
+      "description": "E-bike by Rad Power Bike.  Brown Grips.  Serial Number on front of bike.",
+      "frame_colors": [
+        "White",
+        "Orange"
+      ],
+      "frame_model": "Rad City 3 Step Through",
+      "id": 712333,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/295014/large_IMG_1407.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SC019F1000113",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.28,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78712, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/295014/small_IMG_1407.jpeg",
+      "title": "2020 Rad Power Bikes Rad City 3 Step Through",
+      "url": "https://bikeindex.org/bikes/712333",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1631635200,
+      "description": null,
+      "frame_colors": [
+        "Teal",
+        "Blue"
+      ],
+      "frame_model": "City 2",
+      "id": 1157185,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/480002/large_20DF2C57-017D-4149-BC6F-8F41BC25D818.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "K57023677",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.68,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/480002/small_20DF2C57-017D-4149-BC6F-8F41BC25D818.jpeg",
+      "title": "2018 Giant City 2",
+      "url": "https://bikeindex.org/bikes/1157185",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1631538000,
+      "description": "This is the exact bike https://www.sefiles.net/images/library/zoom/giant-escape-3-city-disc-381491-1.jpg Had a caddy bag on one side of the carrier frame",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "escape city disc 3",
+      "id": 1161101,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.08
+      ],
+      "stolen_location": "Mountain View, CA 94043, US",
+      "thumb": null,
+      "title": "2021 Giant escape city disc 3",
+      "url": "https://bikeindex.org/bikes/1161101",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

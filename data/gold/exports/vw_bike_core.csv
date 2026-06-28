@@ -1,0 +1,402 @@
+﻿bike_variant_id,brand_name,family_name,model_name,model_year,variant_name,colorway,msrp_value,currency,official_url,lifecycle_status,description
+1,brompton,A,A Line,,A Line,,995.0,GBP,https://global.brompton.com/a-line,,"Brompton A Line. The essential Brompton. The ride, the compact fold, the easy-to-store. Shop now. Free Delivery."
+2,brompton,Electric,Electric,,Brompton Electric,,,,https://global.brompton.com/electric-bikes,,"With a range of 45 miles, shop the range of Brompton Electric Folding Bikes. Arrive in effortless style with a folding e-bike."
+3,brompton,Support,Support | Electric Bikes,,Brompton Support | Electric Bikes,,,,https://global.brompton.com/support/electric-bikes,,Discover our electric bikes and get expert support for your urban adventures. Browse our support page now.
+4,brompton,C,C Line,,C Line,,,,https://global.brompton.com/c-line,,"Discover the Brompton C Line, your perfect city companion. A foldable bike designed for convenience, reliability, and everyday commuting."
+5,brompton,Electric,Electric App terms & conditions,,Electric App terms & conditions,,100.0,GBP,https://global.brompton.com/legal/electric-app-terms,,"Folding Bikes, Fold Up City Bicycles, Mens & Ladies Folding Road Bikes | Brompton Bikes"
+6,brompton,Electric,Electric C Line,,Electric C Line,,,,https://global.brompton.com/electric-c-line,,"Foldable electric bike from Brompton - the C Line electric. Compact, light and powerful you'll arrive in style on a C Line folding e-bike. Shop Now."
+7,brompton,Electric,Electric P Line,,Electric P Line,,,,https://global.brompton.com/electric-p-line,,Brompton Electric P Line folding bike - next level freedom with our lightweight folding e-bike. Lighter. Faster. Even more portable. Shop Now.
+8,brompton,G,G Line,,G Line,,,,https://global.brompton.com/g-line,,"G Line is the first ever Brompton with the ride feel of a full-size bike. Brand-new geometry, 20"" wheels, game-changing comfort and capability. Find a store."
+9,brompton,P,P Line,,P Line,,,,https://global.brompton.com/p-line,,"Lightweight folding bike - Introducing the P Line. High performance, lightweight design. A mix of performance & portability, meticulously engineered for city roads. Shop Now."
+10,brompton,T,T Line,,T Line,,,,https://global.brompton.com/t-line,,"Brompton T Line is the ultimate solution for a super lightweight, ultra-compact & highly efficient fold-up bike. Ride the lightest bike out there. Shop Now."
+11,canyon,Endurace,Endurace AllRoad,,Endurace AllRoad,,1499.0,USD,https://www.canyon.com/en-us/road-bikes/endurance-bikes/endurace/allroad/endurace-allroad/4164.html?dwvar_4164_pv_rahmenfarbe=R138_P01,,"Relaxed geometry, a sleek yet durable alumnium frame, and the control of hydraulic disc brakes. This comfortable, fast aluminium endurance bike is ready for all your rides."
+12,canyon,Endurace,Endurace CF 5,,Endurace CF 5,,2299.0,USD,https://www.canyon.com/en-us/road-bikes/endurance-bikes/endurace/cf/endurace-cf-5/4551.html?dwvar_4551_pv_rahmenfarbe=R129_P01,,Versatile carbon all-road endurance bike. 38 mm tyre clearance. VCLS Technology: comfort meets speed. Shimano CUES mechanical groupset. DT Swiss Endurance LN aluminium wheels.
+13,canyon,Endurace,Endurace CF 7 Di2,,Endurace CF 7 Di2,,3799.0,USD,https://www.canyon.com/en-us/road-bikes/endurance-bikes/endurace/cf/endurace-cf-7-di2/4421.html?dwvar_4421_pv_rahmenfarbe=R129_P01,,Versatile carbon all-road endurance bike. 38 mm tyre clearance. VCLS Technology: iconic comfort seatpost. Shimano 105 Di2 electronic groupset. DT Swiss Endurance LN aluminum wheels.
+14,dahon,Briza,Briza D8,,Briza D8,,30000.0,EUR,https://de.dahon.com/products/briza-d8,,"Full-size ride, compact fold - The ultimate low-step city folding bike."
+15,dahon,Curl,Curl Ei4,,Curl Ei4,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/curl-ei4,,"A compact, electric trifold built for effortless city rides."
+16,dahon,Dream,Dream D6,,Dream D6,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/dream-d6,,"Named for its potential to make your life easier, the DAHON Dream is a tidy ride with 6 speeds via a compact rear derailleur."
+17,dahon,E-Hemingway,E-Hemingway,,E-Hemingway,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/e-hemingway,,A foldable electric SUV bike that combines off-road capability with urban portability.
+18,dahon,HIT,HIT D6,,HIT D6,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/hit-d6,,Take back the streets! The Hit folding bike is the ultimate blend of portability and performance. 
+19,dahon,HIT,HIT i3,,HIT i3,,30000.0,EUR,https://de.dahon.com/products/hit-i3,,"Eco-friendly folding bike with DAHON-V tech, offering speed, comfort, and a smooth internal gear hub with 3-speed shifting for urban rides."
+20,dahon,K9,K9,,K9,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/k9,,"10.4kg folding bike, DELTECH, with 15% higher frame rigidity, suitable for urban travel."
+21,dahon,Mu,Mu Pro,,Mu Pro,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/mu-pro,,"Ultra-light, responsive, built for speed and thrilling city rides."
+22,dahon,Route,Route,,Route,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/route,,"Aluminum-frame  bicycle with a sporty design, available in many colors. Fun for the whole family, whether for sports, touring, shopping, or group outings – it handles everything with ease. "
+23,dahon,Vybe,Vybe D7,,Vybe D7,,30000.0,EUR,https://de.dahon.com/collections/all-products/products/vybe-d7,,"Lightweight and durable with classic design, offering smooth, flexible urban rides."
+24,fnhon,Custom,Custom Build / Add On / Upgrading / Shipping Fee,,Custom Build / Add On / Upgrading / Shipping Fee,,1.0,,https://fnhon.sg/products/add-on-upgrade-shipping-topup,,"Add-On for Bicycle Upgrades, Extra Shipping, or Custom Charges – Flexible Top-Up Option – Customise My Bicycle Skip to content Hot Deals This Month Home 🔥 Hot Deals Designs Designs What's New What's New 🆕 Newly Listed 🌈 New Colours 🆕 New Frame Frame Colour Frame Colour ⬛️ Black ⬛️🟨 Black Gold ⬛️🟥 Black Red 💛 Beige 🟦 Blue 🟨 Gold 🟩 Green ⏺️ Grey 🌈 Oil Slick 🟧 Orange 🌸 Pink 🟪 Purple 🟥 Red 🟫 Rose Gold ⬜️ Silver ⭐️ Titanium Gold ⬜️ White 🟨 Yellow Theme Theme ⬛️💖 Black & Pink 🤍 Clean 🦇 Dark 🤪 Funky 👩🏻‍💼 Women 📣 Loud 🔇 Low Key 🎀 Pastel 🌏 Pop Culture 💾 Retro 🚴🏼‍♂️ Roadie 🤖 Superheroes 🔆 Vibrant Purpose Purpose 🍜 Food Delivery 🏋🏻 Overweight-Friendly Models Models What's New What's New 🆕 Newly Listed 🌈 New Colours 🆕 New Frame 20/22"" 20/22"" 3️⃣ GT20 20"" 💥 Blast 20/22"" 🌬️ Gale 20/22"" 💨 Gust 20/22"" 🌧️ "
+25,fnhon,Blast,Blast 20” • Shimano 10s • Chameleon Blue & Gold,,Fnhon Blast 20” • Shimano 10s • Chameleon Blue & Gold,,1044.0,,https://fnhon.sg/products/foldable-bicycle-fnhon-blast-20-inch-chameleon-blue-hydraulic-brake-shimano-10-speeds,,"
+🚀 Lightweight aluminium alloy body
+⛔️ LITEPRO/ZOOM hydraulic brake
+🛞 LITEPRO Aero high wall wheels
+⚫️ CONTINENTAL Contact Urban 2.0 tyres
+📶 SHIMANO 10 gears Tiagra
+⚙️ FNHON Hollowtech cranks
+🎚️ HAOOI/FNHON adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 FNHON straight handle bar
+🦶🏻 LITEPRO quick release 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 11kg
+"
+26,fnhon,Blast,Blast 20” • Shimano 9s • Polished Silver,,Fnhon Blast 20” • Shimano 9s • Polished Silver,,787.0,,https://fnhon.sg/products/folding-bike-fnhon-blast-20-inch-polished-silver-shimano-9-gears-lightweight-aluminium,,"
+🪶 Lightweight aluminium alloy body 
+
+⛔️ Mechanical wired disc brake 
+🛞 LITEPRO Aero smooth wheels 
+
+⚫️ CST fast rolling tyres 
+
+📶 Shimano 9 gears 
+
+⚙️ LITEPRO/FNHON Hollowtech cranks 
+
+🎚️ FNHON/HAOOI adjustable seat post 
+
+🔃 FNHON adjustable handle post 
+
+🔁 LITEPRO straight handle bar 
+
+🦶🏻 WELLGO durable pedals 
+
+😌 Customised comfy saddle 
+
+⚖️ Weight around 10.6kg 
+"
+27,fnhon,Gale,Gale 20” • Shimano 9s • Battleship Grey & Red,,Fnhon Gale 20” • Shimano 9s • Battleship Grey & Red,,868.0,,https://fnhon.sg/products/foldable-bicycle-fnhon-gale-20-inch-battleship-grey-shimano-9-speeds-schwalbe-marathon,,"
+💪🏻 Strong chromoly steel body frame
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ SCHWALBE Marathon heavy duty tyres
+📶 Shimano 9 gears
+⚙️ LITEPRO/FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 LITEPRO riser handle bar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised thick comdy saddle
+
+⚖️ Weight around 11kg
+"
+28,fnhon,Gust,Gust 18” • Shimano 9s • Matte Black,,Fnhon Gust 18” • Shimano 9s • Matte Black,,878.0,,https://fnhon.sg/products/folding-bike-fnhon-gust-18-inch-matte-black-shimano-9-speeds-litepro-aero-wheels,,"
+💪🏻 Strong chromoly steel body frame
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ CST fast rolling tyres
+📶 Shimano 9 gears
+⚙️ LITEPRO/FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 LITEPRO straight handle bar
+🦶🏻 PROMEND bearings pedals
+😌 Customised comfy saddle
+⚖️ Weight around 9.8kg
+"
+29,fnhon,Gust,Gust 22” • Shimano 9s • Battleship Grey,,Fnhon Gust 22” • Shimano 9s • Battleship Grey,,1722.0,,https://fnhon.sg/products/folding-bike-fnhon-gust-22-inch-shimano-9-gears-battleship-grey-chromoly-steel-drop-bar-sport-bike,,"
+🪶 Strong chromoly steel body frame
+⛔️ Mechanical wired disc brake
+🛞 HAOOI Carbon Ultra trispokes wheels
+⚫️ SCHWALBE One fast rolling tyres
+📶 SHIMANO 9 gears hand shift
+⚙️ FNHON Hollowtech cranks
+🎚️ HAOOI adjustable seat post
+🔃 FNHON outfold handle post
+🔁 UNO aluminium dropbar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 11kg
+"
+30,fnhon,Monsoon,Monsoon 22” • Shimano 12s SLX • Dolphine Grey & Red,,Fnhon Monsoon 22” • Shimano 12s SLX • Dolphine Grey & Red,,1199.0,,https://fnhon.sg/products/fmd20-g006v2,,"
+🪶 Lightweight aluminium alloy body
+⛔️ SHIMANO MT200 hydraulic disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ MAXXIS Torch all terrain tyres
+📶 Shimano 12 gears SLX M7100
+⚙️ LITEPRO/FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 LITEPRO straight handle bar
+🦶🏻 GINEYEA bearings pedals
+😌 Customised comfy saddle
+⚖️ Weight around 10.6kg
+"
+31,fnhon,Thunderstorm,Thunderstorm 22” • Shimano 9s • Bianchi Green,,Fnhon Thunderstorm 22” • Shimano 9s • Bianchi Green,,848.0,,https://fnhon.sg/products/foldable-bicycle-fnhon-thunderstorm-22-inch-bianchi-green-shimano-9-speeds-urban-commuter-bike,,"
+💪🏻 Strong chromoly steel body frame
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ KENDA/CST balanced city tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 FNHON straight handle bar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 11kg
+"
+32,fnhon,Tornado,Tornado 22” • EDS Wireless 12s • Carbon Grey,,Fnhon Tornado 22” • EDS Wireless 12s • Carbon Grey,,1188.0,,https://fnhon.sg/products/foldable-bicycle-fnhon-tornado-22-inch-carbon-grey-wireless-12-speed-disc-brake-lightweight,,"
+🚀 Aerodynamic aluminium alloy body
+4️⃣ Grade 4 frame locking mechanism
+⛔️ Mechanical wired disc brake
+🛞 HAOOI Max smooth wheels
+⚫️ SCHWALBE Marathon heavy duty tyres
+📶 WHEELTOP EDS OX2.0 wireless 12 gears
+⚙️ LITEPRO/FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 LITEPRO riser handle bar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised thick comdy saddle
+
+⚖️ Weight around 10.8kg
+"
+33,fnhon,Tornado,Tornado 22” • Shimano 9s • Chameleon Blue & Purple,,Fnhon Tornado 22” • Shimano 9s • Chameleon Blue & Purple,,939.0,,https://fnhon.sg/products/folding-bike-fnhon-tornado-22-inch-chameleon-blue-shimano-9-speeds-hydraulic-brake,,"
+🚀 Aerodynamic aluminium alloy body
+4️⃣ Grade 4 frame locking mechanism
+⛔️ LITEPRO/ZOOM hydraulic brake
+🛞 LITEPRO Aero high wall wheels
+⚫️ KENDA/CST fast rolling tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON Hollowtech cranks
+🎚️ HAOOI/FNHON adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 FNHON straight handle bar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 10.8kg
+"
+34,fnhon,Tornado,Tornado 22” • Shimano 9s • Royale Blue,,Fnhon Tornado 22” • Shimano 9s • Royale Blue,,878.0,,https://fnhon.sg/products/folding-bike-fnhon-tornado-22-inch-royale-blue-shimano-9-speeds-aluminium-foldable-bicycle,,"
+🚀 Aerodynamic aluminium alloy body
+4️⃣ Grade 4 frame locking mechanism
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ KENDA/CST balanced city tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 FNHON straight handle bar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 10.8kg
+"
+35,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Gust 18” • Shimano 9s • Rose Gold,,🔥HOT DEALS🔥 Fnhon Gust 18” • Shimano 9s • Rose Gold,,855.0,,https://fnhon.sg/products/fnhon-gust-18-shimano-9s-rose-gold,,"
+🚀  Strong chromoly steel body frame
+🚴🏻  LITEPRO Aero 349 wheelset
+🟤  SILVEROCK/INNOVA brown tyres
+⛔️  LITEPRO hydraulic disc brake
+📍  LITEPRO lightweight carbon bar
+🈳 LITEPRO hollowtech cranks
+⚙️ LITEPRO 54t hollow chainring
+📶  SHIMANO 9 gears Sora
+🪑  LITEPRO/FNHON seat post
+🚴🏻  LITEPRO 54T hollow chainring
+
+⚖️  Weight is around 9.7kg
+"
+36,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Gust 22” • Shimano 9s • Rose Gold,,🔥HOT DEALS🔥 Fnhon Gust 22” • Shimano 9s • Rose Gold,,838.0,,https://fnhon.sg/products/fnhon-gust-20-inch-folding-bike-premium-rose-gold-colour,,"
+
+💪🏻 Strong steel alloy body
+
+🛞 LITEPRO Aero loud hub wheelset
+
+🟡 SCHWALBE One fast 451 tyres
+
+🈳 LITEPRO hollowtech crankset
+
+🦷 LITEPRO 54t hollow chainring
+
+✊🏻 LITEPRO retro handgrips
+
+⚙️ SHIMANO 9 gears
+
+⛔️ LITEPRO hydraulic brake
+
+🎚️ FNHON adjustable seat post
+
+⚖️ Weight around 11kg
+"
+37,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Thunderstorm 22” • Shimano 9s • Battleship Grey,,🔥HOT DEALS🔥 Fnhon Thunderstorm 22” • Shimano 9s • Battleship Grey,,775.0,,https://fnhon.sg/products/fnhon-thunderstorm-22-inch-chromoly-steel-frame-shimano-9-speeds-foldable-bicycle,,"
+💪🏻 Strong chromoly steel body frame
+⛔️ Mechanical wired disc brake
+🛞 HAOOI low profile wheels
+⚫️ KENDA/CST all terrain tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON/LITEPRO Hollowtech crank
+🦷 FNHON/LITEPRO hollow 54t chainring
+🎚️ FNHON/LITEPRO adjustable seat post
+🔃 FNHON adjustable handle post
+🦶🏻 PROMEND bearings pedals
+🧽 Customised comfy saddle
+"
+38,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Thunderstorm 22” • Shimano 9s • Emerald Green,,🔥HOT DEALS🔥 Fnhon Thunderstorm 22” • Shimano 9s • Emerald Green,,795.0,,https://fnhon.sg/products/folding-bike-fnhon-thunderstorm-22-inch-emerald-green-shimano-9-gears,,"
+💪🏻 Strong chromoly steel body frame
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ INNOVA Pro fast rolling tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON/LITEPRO Lightweight crank
+🦷 LITEPRO hollow 54t chainring
+🎚️ FNHON/LITEPRO adjustable seat post
+🔃 FNHON adjustable handle post
+🦶🏻 GINEYEA bearings pedals
+😌 Customised leather saddle
+"
+39,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Tornado 22” • Shimano 9s • Beige & Green,,🔥HOT DEALS🔥 Fnhon Tornado 22” • Shimano 9s • Beige & Green,,838.0,,https://fnhon.sg/products/folding-bike-fnhon-tornado-22-inch-beige-shimano-9-speeds-litepro-aero-wheels,,"
+🚀 Aerodynamic aluminium alloy body
+4️⃣ Grade 4 frame locking mechanism
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ KENDA/CST balanced city tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON Hollowtech cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🔁 FNHON straight handle bar
+🦶🏻 PROMEND 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 10.8kg
+"
+40,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Tornado 22” • Shimano 9s • Champagne Red,,🔥HOT DEALS🔥 Fnhon Tornado 22” • Shimano 9s • Champagne Red,,825.0,,https://fnhon.sg/products/folding-bike-fnhon-tornado-22-inch-champagne-red-shimano-9-speeds-lightweight-aluminium,,"
+🚀 Aerodynamic aluminium alloy body
+4️⃣ Grade 4 frame locking mechanism
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO Aero smooth wheels
+⚫️ KENDA fast rolling tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON/LITEPRO Lightweight crank
+🦷 LITEPRO hollow 54t chainring
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON adjustable handle post
+🦶🏻 GINEYEA bearings pedals
+😌 Customised comfy saddle
+"
+41,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Tornado 22” • Shimano 9s • Matte Black • Batman,,🔥HOT DEALS🔥 Fnhon Tornado 22” • Shimano 9s • Matte Black • Batman,,848.0,,https://fnhon.sg/products/fnhon-tornado-22-inch-matte-black-shimano-9-gears-aluminium-folding-bike,,"
+🚀 Aerodynamic aluminium alloy body
+4️⃣ Grade 4 frame locking mechanism
+⛔️ Mechanical wired disc brake
+🛞 HAOOI high profile smooth wheels
+⚫️ KENDA/CST all terrain tyres
+📶 SHIMANO 9 gears
+⚙️ FNHON/LITEPRO Hollowtech crank
+🦷 FNHON/LITEPRO 54t chainring
+🎚️ FNHON/LITEPRO adjustable seat post
+🔃 FNHON adjustable handle post
+🦶🏻 PROMEND bearings pedals
+🧽 Customised comfy saddle
+"
+42,fnhon,🔥HOT,🔥HOT DEALS🔥 Fnhon Zephyr 18” • Ltwoo 9s • Tiffany Blue,,🔥HOT DEALS🔥 Fnhon Zephyr 18” • Ltwoo 9s • Tiffany Blue,,695.0,,https://fnhon.sg/products/fnhon-zephyr-18-inch-tiffany-blue-ltwoo-9-speeds-folding-bike,,"
+🪶 Lightweight aluminium alloy body
+⛔️ Mechanical wired disc brake
+🛞 LITEPRO smooth wheels
+⚫️ KENDA durable tyres
+📶 LTwoo 9 gears
+⚙️ FNHON/LITEPRO Hollowtech crank
+🦷 FNHON/LITEPRO 54t chainring
+🎚️ FNHON/LITEPRO adjustable seat post
+🔃 FNHON adjustable handle post
+🦶🏻 PROMEND bearings pedals
+🧽 Customised comfy saddle
+"
+43,fnhon,🔥PRE-ORDER🔥,🔥PRE-ORDER🔥 Fnhon GT20 20” • 10s • Polished Silver & Black & Gold,,🔥PRE-ORDER🔥 Fnhon GT20 20” • 10s • Polished Silver & Black & Gold,,1686.0,,https://fnhon.sg/products/folding-bike-fnhon-gt20-20-inch-polished-silver-10-speed-dedicated-gear-hydraulic-disc-brake,,"
+🚢 Kindly note this is a preorder item.
+🇸🇬🇲🇾 Estimated stock arrival for Singapore and Malaysia: mid-June.
+
+
+🚀 Aerodynamic aluminium alloy body
+
+⛔️ IIIPRO 4-pistons hydraulic disc brake
+🛞 HAOOI Max fast rolling premium wheels
+⚫️ CONTINENTAL Contact Urban high volume tyres
+📶 GT20-dedicated 10 gears
+⚙️ HAOOI Hollowtech lightweight cranks
+🎚️ FNHON/HAOOI adjustable seat post
+🔃 FNHON fixed handle post
+🔁 FNHON riser handle bar
+🦶🏻 HAOOI quick release 3-bearings pedals
+😌 Customised comdy saddle
+
+⚖️ Weight around 10.8kg
+"
+44,fnhon,🔥PRE-ORDER🔥,🔥PRE-ORDER🔥 Fnhon GT20 20” • Dedicated 10s • Bumblebee Limited Edition,,🔥PRE-ORDER🔥 Fnhon GT20 20” • Dedicated 10s • Bumblebee Limited Edition,,1599.0,,https://fnhon.sg/products/fgt20-by001,,"
+Preorder. Singapore and Malaysia will receive around mid of June
+🪶 Lightweight aluminium alloy body
+⛔️ IIIPRO Ivar hydraulic brake
+🛞 HAOOI Max high profile wheels
+⚫️ CONTINENTAL Contact Urban 2.0 tyres
+📶 Dedicated SHIMANO/HAOOI 10 gears
+⚙️ FNHON Hollowtech crank
+🦷 FNHON 54t chainring
+🎚️ FNHON fixed handle post
+🔃 FNHON adjustable seat post
+🦶🏻 HAOOI left-quick release pedals
+🧽 Customised comfy saddle
+⚖️ Weight ~10.8kg
+"
+45,fnhon,🔥PRE-ORDER🔥,🔥PRE-ORDER🔥 Fnhon GT20 20” • Dedicated 10s • Metallic Titanium (New Colour),,🔥PRE-ORDER🔥 Fnhon GT20 20” • Dedicated 10s • Metallic Titanium (New Colour),,1686.0,,https://fnhon.sg/products/fgt20-mt001,,"
+
+🚢 Kindly note this is a preorder item.
+🇸🇬🇲🇾 Estimated stock arrival for Singapore and Malaysia: mid-June.
+
+
+🪶 Lightweight aluminium alloy body
+⛔️ IIIPRO Ivar hydraulic brake
+🛞 HAOOI Max high profile wheels
+⚫️ CONTINENTAL Contact Urban 2.0 tyres
+📶 Dedicated SHIMANO/HAOOI 10 gears
+⚙️ FNHON Hollowtech crank
+🦷 FNHON 54t chainring
+🎚️ FNHON fixed handle post
+🔃 FNHON adjustable seat post
+🦶🏻 HAOOI left-quick release pedals
+🧽 Customised comfy saddle
+⚖️ Weight ~10.8kg
+"
+46,merida,NINETY-SIX,NINETY-SIX 400,,NINETY-SIX 400,,,,https://www.merida-bikes.com/en/bike/5764/ninety-six-400,,NINETY-SIX 400 - MERIDA BIKES Toggle navigation Toggle navigation E-BIKE HIGHLIGHTS ETMO eONE-SIXTY SL eONE-EIGHTY eFLOAT eONE-SIXTY eONE-FORTY eBIG.NINE eBIG.TOUR eSPRESSO eSPRESSO CITY eSPRESSO CC eSCULTURA eSILEX eSPEEDER BIKE HIGHLIGHTS ONE-TWENTY ONE-SIXTY ONE-SIXTY FR ONE-FORTY NINETY-SIX BIG.NINE BIG.NINE / BIG.SEVEN TFS BIG.TRAIL DIRT REACTO SCULTURA SCULTURA ENDURANCE MISSION SILEX ABOUT US OUR MISSION OUR PRINCIPLES CODE OF CONDUCT ESG REPORT OUR MILESTONES INVESTORS INFO TECHNOLOGY CARBON TECHNOLOGY FRAME-TECHNOLOGIES TEAMS & PARTNER AMBASSADORS PARTNERSHIPS & ATHLETES SERVICE DISTRIBUTORS WORLDWIDE FRAME SIZE CALCULATOR INSTRUCTION MANUALS RECALLS MERIDA WORLD ONE OF A KIND BEST IN TEST STORIES Find your Bike global Login DEALER SEARCH Query Search Query Search BIKES MOUNTAINBI
+47,merida,NINETY-SIX,NINETY-SIX 6000,,NINETY-SIX 6000,,,,https://www.merida-bikes.com/en/bike/5763/ninety-six-6000,,NINETY-SIX 6000 - MERIDA BIKES Toggle navigation Toggle navigation E-BIKE HIGHLIGHTS ETMO eONE-SIXTY SL eONE-EIGHTY eFLOAT eONE-SIXTY eONE-FORTY eBIG.NINE eBIG.TOUR eSPRESSO eSPRESSO CITY eSPRESSO CC eSCULTURA eSILEX eSPEEDER BIKE HIGHLIGHTS ONE-TWENTY ONE-SIXTY ONE-SIXTY FR ONE-FORTY NINETY-SIX BIG.NINE BIG.NINE / BIG.SEVEN TFS BIG.TRAIL DIRT REACTO SCULTURA SCULTURA ENDURANCE MISSION SILEX ABOUT US OUR MISSION OUR PRINCIPLES CODE OF CONDUCT ESG REPORT OUR MILESTONES INVESTORS INFO TECHNOLOGY CARBON TECHNOLOGY FRAME-TECHNOLOGIES TEAMS & PARTNER AMBASSADORS PARTNERSHIPS & ATHLETES SERVICE DISTRIBUTORS WORLDWIDE FRAME SIZE CALCULATOR INSTRUCTION MANUALS RECALLS MERIDA WORLD ONE OF A KIND BEST IN TEST STORIES Find your Bike global Login DEALER SEARCH Query Search Query Search BIKES MOUNTAINB
+48,merida,NINETY-SIX,NINETY-SIX 9000,,NINETY-SIX 9000,,,,https://www.merida-bikes.com/en/bike/5761/ninety-six-9000,,NINETY-SIX 9000
+49,merida,NINETY-SIX,NINETY-SIX XT,,NINETY-SIX XT,,,,https://www.merida-bikes.com/en/bike/5762/ninety-six-xt,,NINETY-SIX XT
+50,merida,ONE-FORTY,ONE-FORTY 400 - MERIDA BIKES,,ONE-FORTY 400 - MERIDA BIKES,,,,https://www.merida-bikes.com/en/bike/5757/one-forty-400,,ONE-FORTY 400
+51,merida,ONE-FORTY,ONE-FORTY 6000,,ONE-FORTY 6000,,,,https://www.merida-bikes.com/en/bike/5755/one-forty-6000,,ONE-FORTY 6000
+52,merida,ONE-FORTY,ONE-FORTY 700,,ONE-FORTY 700,,,,https://www.merida-bikes.com/en/bike/5756/one-forty-700,,ONE-FORTY 700
+53,merida,ONE-FORTY,ONE-FORTY 7000,,ONE-FORTY 7000,,,,https://www.merida-bikes.com/en/bike/5754/one-forty-7000,,ONE-FORTY 7000
+54,merida,ONE-SIXTY,ONE-SIXTY 10K,,ONE-SIXTY 10K,,,,https://www.merida-bikes.com/en/bike/5745/one-sixty-10k,,ONE-SIXTY 10K
+55,merida,ONE-SIXTY,ONE-SIXTY 400,,ONE-SIXTY 400,,,,https://www.merida-bikes.com/en/bike/5751/one-sixty-400,,ONE-SIXTY 400
+56,merida,ONE-SIXTY,ONE-SIXTY 500,,ONE-SIXTY 500,,,,https://www.merida-bikes.com/en/bike/5750/one-sixty-500,,ONE-SIXTY 500
+57,merida,ONE-SIXTY,ONE-SIXTY 6000,,ONE-SIXTY 6000,,,,https://www.merida-bikes.com/en/bike/5748/one-sixty-6000,,ONE-SIXTY 6000
+58,merida,ONE-SIXTY,ONE-SIXTY 700,,ONE-SIXTY 700,,,,https://www.merida-bikes.com/en/bike/5749/one-sixty-700,,ONE-SIXTY 700
+59,merida,ONE-SIXTY,ONE-SIXTY 7000,,ONE-SIXTY 7000,,,,https://www.merida-bikes.com/en/bike/5747/one-sixty-7000,,ONE-SIXTY 7000
+60,merida,ONE-SIXTY,ONE-SIXTY 8000,,ONE-SIXTY 8000,,,,https://www.merida-bikes.com/en/bike/5746/one-sixty-8000,,ONE-SIXTY 8000
+61,merida,ONE-SIXTY,ONE-SIXTY FR 400,,ONE-SIXTY FR 400,,,,https://www.merida-bikes.com/en/bike/5753/one-sixty-fr-400,,ONE-SIXTY FR 400
+62,merida,ONE-SIXTY,ONE-SIXTY FR 800,,ONE-SIXTY FR 800,,,,https://www.merida-bikes.com/en/bike/5752/one-sixty-fr-800,,ONE-SIXTY FR 800
+63,merida,ONE-TWENTY,ONE-TWENTY 300,,ONE-TWENTY 300,,,,https://www.merida-bikes.com/en/bike/5760/one-twenty-300,,ONE-TWENTY 300
+64,merida,ONE-TWENTY,ONE-TWENTY 600,,ONE-TWENTY 600,,,,https://www.merida-bikes.com/en/bike/5759/one-twenty-600,,ONE-TWENTY 600
+65,merida,ONE-TWENTY,ONE-TWENTY 700,,ONE-TWENTY 700,,,,https://www.merida-bikes.com/en/bike/5758/one-twenty-700,,ONE-TWENTY 700
+66,oyama,E-BIKE,E-BIKE | TAJONG,,E-BIKE | TAJONG,,,,https://www.oyama.com/ebike,,"E-BIKE | TAJONG top of page HOME ABOUT US PRODUCT E-BIKE MOUNTAIN BIKES ROAD BIKES FOLDING BIKES GRAVEL YOUTH & KIDS CONTACT US EVENT More Use tab to navigate through the menu items. MOUNTAIN E-BIKE TMT-2902AE Rocky Frame：29"" Alloy Full-Suspension E-Motor：Bafang M510 36V 95Nm E-Battery：Phylion IT-21 36V/ 7Ah Front Fork：Suntour XCR34X-Boost Transmission：Shimano SLX 12S F/Derailleur：N/A R/Derailleur：Shimano SLX RD-M7100 12S Chainwheel：Bafang G522 32T Cassettes：Shimano SLX CS-M7100 10-51T Tire：Kenda K-1227 29""*2.4"" 30TPi Brakes：Shimano SLX BR-M7100 Hydraulic Bike Weight：23.10 KGs EPA-M350M 27.5 PLUS Frame：OYAMA / 27.5"" ALLOY 6061 Fork：RST / ALPHA-27.5+PLUS-TNL-T100 Derailleur：SHIMANO DEORE / 3*10 Speed / 11-34T Brake：SHIMANO M365 / Disc Brake Wheels：27.5"" (650B)*2.125""*13G*36H ALLOY Tires：DURO / 650B*3.0"" / W / OYAMA Weight：24.7 KG E system Battery：36V / 10.4A Controller：N / A Motor：BAFANG MAX 36V / 350W Disply：BAFANG C966 36V TMT-2702AE Hardtail Frame：27.5"" Alloy Hardtail E-Motor：Bafang "
+67,oyama,FOLDING,FOLDING BIKES | TAJONG,,FOLDING BIKES | TAJONG,,,,https://www.oyama.com/foldingbike,,"FOLDING BIKES | TAJONG top of page HOME ABOUT US PRODUCT E-BIKE MOUNTAIN BIKES ROAD BIKES FOLDING BIKES GRAVEL YOUTH & KIDS CONTACT US EVENT More Use tab to navigate through the menu items. COMMUTER FOLDING TFD-2029C Frame：OYAMA 20”STEEL W/MS JOINT Fork：OYAMA 20”STEEL FORK Derailleur：SHIMANO TOURNEY 6 SPEED Stem：STEEL W/SI JOINT Weight：16 KGS TFD-2031D Frame：20"" ALLOY W/LU JOINT Fork：20"" ALLOY Derailleur：SHIMANO ALTUS 8 SPEED Stem：ALLOY W/MP JOIN Weight：12.8KG TFD-2031E Frame：20"" ALLOY W / LF JOINT Fork：20"" STEEL Derailleur：SHIMANO ALTUS 8 SPEED Stem：ALLOY W/MQ JOINT Weight：13.5 KG Connect SWAN Frame：Alloy 6061 Frame with LF Joint Fork：Steel Rigid Fork Folding Stem：MP Joint Derailleur System: SHIMANO Nexus 7 Speeds Brake：PROMAX V-Brake Wheelset：Alloy 20” Tire：MAXXIS POAMER 20”x1.65” Weight：14.5 KG CITY FOLDING TFD-2033G Frame：20"" ALLOY W/AA JOINT Fork：20"" STEEL Derailleur：SHIMANO NEXUS 3SPEED Stem：ALLOY W/ MP JOINT Weight：13.75 KG TFD-2033H Frame：OYAMA 20”ALLOY W/LV JOINT Fork：OYAMA 20"
+68,oyama,MOUNTAIN,MOUNTAIN BIKES | TAJONG,,MOUNTAIN BIKES | TAJONG,,,,https://www.oyama.com/mountainbike,,"MOUNTAIN BIKES | TAJONG top of page HOME ABOUT US PRODUCT E-BIKE MOUNTAIN BIKES ROAD BIKES FOLDING BIKES GRAVEL YOUTH & KIDS CONTACT US EVENT More Use tab to navigate through the menu items. MOUNTAIN BIKE TMT-2901B Frame：OYAMA 29"" x 18"" ALLOY Fork：RST FIRST 29 AIR Derailleur：SHIMANO SLX/DEORE 27S Stem：RITCHEY OE SERIES Brake：SHIMANO HYDRAULIC DISC Tire：SCHWALBE RAPID ROB Weight：12.8KG TMT-2751A Frame：OYAMA 27.5"" X 19"" ALLOY Fork：SUNTOUR SUS. SF14-XCT Derailleur：SHIMANO ACERA RD-M360 COMB. 24S Brake：TEKTRO NOVELA MECHANICAL DISC Chainwheel：SHIMANO FC-M131 42/34/24T Tire：KENDA 27.5 X 2.2BK Weight：14.98KG TMT-2602A Frame：OYAMA 26"" X 18"" ALLOY Fork：RST SUS. CAPA-T-26 Derailleur：SHIMANO ALTUS RD-M280 21S Brake：PROMAX ALLOY V BRAKE Chainwheel：SHIMANO FC-M131 42/34/24T Tire：KENDA 26""X 2.1 BK Weight：13.09 KG Connect TA JONG INDUSTRIAL CO., LTD. TEL：886-6-2534-117 ADD：No.556,Chung-Cheng Road,Yung-Kang District, Tainan City,Taiwan,R.O.C. Copyright ©TA JONG INDUSTRIAL CO., LTD. 2026 bottom of pag"
+69,oyama,ROAD,ROAD BIKES | TAJONG,,ROAD BIKES | TAJONG,,,,https://www.oyama.com/roadbike,,"ROAD BIKES | TAJONG top of page HOME ABOUT US PRODUCT E-BIKE MOUNTAIN BIKES ROAD BIKES FOLDING BIKES GRAVEL YOUTH & KIDS CONTACT US EVENT More Use tab to navigate through the menu items. ROAD BIKE BYRON Frame：700C LIGHTWEIGHT CARBON Fork：700C*540MM ULTRALIGHT CARBON Brakes：SRAM FORCE DISC Shifters：SRAM FORCE 2*11S Derailleur：SRAM FORCE Cranks：SRAM FORCE 50*34T Tires：VICTORIA ZAFFIRO PRO 700CX25C Seatpost：FSA UD CARBON SHAFT W/ALLOY HEAD 31.6 X350mm Handlebar：UD CARBON 31.8MM CROSS Frame：Lightweight Alloy 6061 Fork：SR SUNTOUR NEX-HLO-DS Shock：N/A Shifters：SHIMANO DEORE 30 SPEEDS Brake：TEKTRO Hydraulic Disc Brake Wheelset：Alloy 700C Tires：KENDA K-1065, 700x35 C Weight：13 KG TARA Frame：OYAMA 700C 3D carbon frame Fork：OYAMA light weight carbon fork Brakes：SHIMANO ULTEGRA Hydraulic Disc Brake Shifters：SHIMANO ULTEGRA （F2 / R11） Derailleur：SHIMANO ULTEGRA Rims:American Classic wheel set Tires：CST 700C*40C Seatpost：Ritchey light weight carbon seat post w/ Fizik Arione R5 saddle Handlebar：Ritc"
+70,specialized,Aethos,Aethos 2 Expert,,Aethos 2 Expert,,6999.99,USD,https://www.specialized.com/us/en/aethos-2-expert-sram-force-axs/p/4293660?color=5466389-4293660,,"With a 705g frame, the Aethos 2 is the lightest bike in its class . But weight was never the point. Built by breaking racing’s rules to deliver pure roa..."
+71,specialized,Aethos,Aethos 2 Pro,,Aethos 2 Pro,,8499.99,USD,https://www.specialized.com/us/en/aethos-2-pro-shimano-ultegra-di2/p/4279155?color=5446309-4279155,,"With a 705g frame, the Aethos 2 is the lightest bike in its class . But weight was never the point. Built by breaking racing’s rules to deliver pure roa..."
+72,specialized,S-Works,S-Works Aethos 2,,S-Works Aethos 2,,13999.99,USD,https://www.specialized.com/us/en/s-works-aethos-2-sram-red-axs/p/4221563?color=5446308-4221563,,"At just 595 grams, the S-Works Aethos 2 is the lightest production road frame in the world. But that was never the point. Built by breaking the rules of..."
+73,specialized,S-Works,S-Works Turbo Creo 2,,S-Works Turbo Creo 2,,14399.99,USD,https://www.specialized.com/us/en/s-works-turbo-creo-2-sram-red--xx1-eagle-axs/p/4221805?color=5383380-4221805,,Road or Gravel? 5 miles or 5 hours? Climb or Descend? Suffer or Smile? More power or less weight? Creo 2 isn’t about having to choose. It’s about having...
+74,specialized,Tarmac,Tarmac SL8 Pro,,Tarmac SL8 Pro,,8499.99,USD,https://www.specialized.com/us/en/tarmac-sl8-pro-shimano-ultegra-di2/p/4221576?color=5460161-4221576,,"Nothing is faster than the Tarmac SL8 thanks to a combination of aerodynamics, lightweight, and ride quality previously thought impossible. After eight ..."
+75,Sram,EAGLE,EAGLE 70 TRANSMISSION,,EAGLE 70 TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/eagle-70-transmission,,"Eagle 70 Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-S"
+76,Sram,EAGLE,EAGLE DRIVETRAIN,,EAGLE DRIVETRAIN,,,,https://www.sram.com/en/sram/mountain/series/eagle-drivetrain,,"Eagle Drivetrain | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-Series"
+77,Sram,EAGLE,EAGLE POWERTRAIN,,EAGLE POWERTRAIN,,,,https://www.sram.com/en/sram/mountain/collections/eagle-powertrain,,"Eagle Powertrain | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-Series"
+78,Sram,EAGLE,EAGLE TRANSMISSION,,EAGLE TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/collections/eagle-transmission,,"Eagle Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-Seri"
+79,Sram,GX,GX EAGLE TRANSMISSION,,GX EAGLE TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/gx-eagle-transmission,,"GX Eagle Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-S"
+80,Sram,Ochain,Ochain | SRAM,,Ochain | SRAM,,,,https://www.sram.com/en/sram/mountain/series/ochain,,"Ochain | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-Series XX1 Eagle"
+81,Sram,BRAKES,BRAKES,,SRAM BRAKES,,,,https://www.sram.com/en/sram/mountain/collections/brakes,,"Brakes | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-Series XX1 Eagle"
+82,Sram,EAGLE,EAGLE 90 TRANSMISSION,,SRAM EAGLE 90 TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/eagle-90-transmission,,"Eagle 90 Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-S"
+83,Sram,X0,X0 EAGLE TRANSMISSION,,X0 EAGLE TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/x0-eagle-transmission,,"X0 Eagle Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-S"
+84,Sram,XX,XX DH TRANSMISSION,,XX DH TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/xx-dh-transmission,,"XX DH Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-Seri"
+85,Sram,XX,XX EAGLE TRANSMISSION,,XX EAGLE TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/xx-eagle-transmission,,"XX Eagle Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle S-S"
+86,Sram,XX,XX SL EAGLE TRANSMISSION,,XX SL EAGLE TRANSMISSION,,,,https://www.sram.com/en/sram/mountain/series/xx-sl-eagle-transmission,,"XX SL Eagle Transmission | SRAM {{ data.msg }} Your browser does not support all of our website’s functionality. For an improved shopping experience, we recommend that you use the most recent versions of Google Chrome, Safari, or Firefox. Either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires JavaScript to be enabled or to use the most recent versions of Google Chrome, Safari, or Firefox. SRAM Rockshox Truvativ Zipp Quarq TIME Sport Hammerhead Velocio Ochain World Bicycle Relief EN English Change Region Mountain Systems Systems Eagle Transmission Eagle Powertrain Eagle Drivetrain Brakes Ochain Series Series Transmission XX SL Eagle XX Eagle XX DH X0 Eagle GX Eagle Eagle 90 Eagle 70 Eagle 1987 - Limited Edition Drivetrain Eagle "
+87,trek,CheckOUT,CheckOUT full suspension gravel bike,,CheckOUT full suspension gravel bike,,,,https://www.trekbikes.com/us/en_US/bikes/road-bikes/gravel-bikes/check-out/check-out-sl-7-axs/p/57828,,"The all-new CheckOUT is a full suspension drop-bar gravel bike that's smooth and fast on pavement, confident on singletrack, and made for big days off the beaten path."
+88,trek,Madone,Madone SLR 9 AXS Gen 8 - The First 50 ICON,,Madone SLR 9 AXS Gen 8 - The First 50 ICON,,15999.99,USD,https://www.trekbikes.com/us/en_US/bikes/road-bikes/performance-road-bikes/madone/madone-slr/madone-slr-9-axs-gen-8--the-first-50-icon/p/81617,,Discover your next great ride with Madone SLR 9 AXS Gen 8. See the bike and visit your local Trek retailer. Shop now!
+89,trek,Ticket,Ticket DJ Frameset - Trek Bikes,,Ticket DJ Frameset - Trek Bikes,,26.99,USD,https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/downhill-mountain-bikes/ticket/ticket-dj-frameset/p/29757/,,Discover your next great ride with Ticket DJ Frameset. See the bike and visit your local Trek retailer. Shop now!

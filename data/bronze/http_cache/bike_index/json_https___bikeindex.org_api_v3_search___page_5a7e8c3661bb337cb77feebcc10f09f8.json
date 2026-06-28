@@ -1,0 +1,762 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1757804400,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad expand 5 folding bike",
+      "id": 1336247,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/967335/large_IMG_8231.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RE5J21T2068",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/967335/small_IMG_8231.jpeg",
+      "title": "2022 Rad Power Bikes Rad expand 5 folding bike",
+      "url": "https://bikeindex.org/bikes/1336247",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757804400,
+      "description": "Trek Marlin 5 Gen 2 Volt to Miami Green Fade. Has reflective arrow stickers on branding, and add on kickstand and bottle holder.",
+      "frame_colors": [
+        "Blue",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Marlin 5 Gen 2",
+      "id": 3226124,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984483/large_PXL_20240719_201243473.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "175JV5730T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.1,
+        -92.77
+      ],
+      "stolen_location": "Oppelo, AR 72110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984483/small_PXL_20240719_201243473.jpg",
+      "title": "2021 Trek Marlin 5 Gen 2",
+      "url": "https://bikeindex.org/bikes/3226124",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757545200,
+      "description": "\"Asphalt Green\" bike with reflective silver sticker on frame of bird/ flowers. Has a Burley tow attachment on rear hub. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Voya E+3",
+      "id": 3187209,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964973/large_Bike.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Momentum",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2203226157",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.96,
+        -93.26
+      ],
+      "stolen_location": "Minneapolis, MN 55404, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964973/small_Bike.JPEG",
+      "title": "2024 Momentum Voya E+3",
+      "url": "https://bikeindex.org/bikes/3187209",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757525400,
+      "description": "It is a gray Specialized bike with a rear rack attached. At the time it was stolen, it had two Kryptonite locks (one folding lock and one cable lock) and my white Specialized helmet secured to it. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Diverge E5 size 54",
+      "id": 3186928,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965095/large_photo_2025-09-11_02.47.00.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC025056140S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.94,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60657, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965095/small_photo_2025-09-11_02.47.00.jpeg",
+      "title": "2023 Specialized Diverge E5 size 54",
+      "url": "https://bikeindex.org/bikes/3186928",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758236400,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Jetson Bolt Folding Electric Ride-On Bike Easy-Folding Built-in Carrying Handle",
+      "id": 3185512,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968008/large_vle3463ob0qf1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Jetson",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "22732223102",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.08,
+        -114.13
+      ],
+      "stolen_location": "Calgary, AB T2N 1N4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968008/small_vle3463ob0qf1.jpeg",
+      "title": "2022 Jetson Jetson Bolt Folding Electric Ride-On ...",
+      "url": "https://bikeindex.org/bikes/3185512",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757282400,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 3214296,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976754/large_MyBikeNow1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Campus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "812380357",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.21,
+        -122.92
+      ],
+      "stolen_location": "New Westminster, V3L 3B9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976754/small_MyBikeNow1.jpg",
+      "title": "2010 Campus",
+      "url": "https://bikeindex.org/bikes/3214296",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757108954,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Brompton Folding Bike C Line",
+      "id": 3183237,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Brompton Bicycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2112221021",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": null,
+      "title": "2022 Brompton Bicycle Brompton Folding Bike C Line",
+      "url": "https://bikeindex.org/bikes/3183237",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756785600,
+      "description": "- Black folding e-bike with blue \"LECTRIC\" logo on upper side of frame.\r\n- Over 1,200 miles on odometer.\r\n- Noticeably squeaky/dry front suspension, no oil, rust stains around rubber gaskets.\r\n- Rear tire replaced! Has a completely different, tighter tread pattern.\r\n- Pedal assist settings on left handle, throttle on right handle.\r\n- Been in several low-speed accidents. Obvious damage: dent on bell, slightly downward-bent left brake lever, paint scratches, askew front mudguard, small surface-level tear on the textured part of the seat. \r\n- Handlebar stem and seat post lengths were maximized at time of theft.\r\n- Plastic film still on circular headlight.\r\n- Fold lock lever fairly tight; requires effort to open.\r\n- Accessories: Silver bell, phone holder overlapping with LCD screen, bike lock holder on rear of seat post, rear-mounted rack, mesh water bottle holder Velcroed to rack.",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "XP™ Step-Thru 3.0",
+      "id": 3180338,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/963696/large_image1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric Cycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD22J86725",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.05,
+        -118.34
+      ],
+      "stolen_location": "Los Angeles, CA 90019, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/963696/small_image1.jpg",
+      "title": "2022 Lectric Cycles XP™ Step-Thru 3.0",
+      "url": "https://bikeindex.org/bikes/3180338",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756591200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX 2 Disk",
+      "id": 3178485,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU189XC1245S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60640, US",
+      "thumb": null,
+      "title": "2023 Trek FX 2 Disk",
+      "url": "https://bikeindex.org/bikes/3178485",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756576800,
+      "description": "material: aluminum, double shock absorber ",
+      "frame_colors": [
+        "White",
+        "Blue"
+      ],
+      "frame_model": "M026TGB",
+      "id": 1686741,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/966088/large_IMG_1324.JPG",
+      "location_found": null,
+      "manufacturer_name": "Vivi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SF21030500607",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.68,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/966088/small_IMG_1324.JPG",
+      "title": "2020 Vivi M026TGB",
+      "url": "https://bikeindex.org/bikes/1686741",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756238400,
+      "description": "Chili Red folding ebike 48V 750W 20\" frame, 4.0 fat tire, 13Ah lithium-ion battery, Shimano 7-speed, with Smart LCD display, and black insulated Mosiso waterproof bag behind rider. ViaVelo Bike U Lock, Meachow handlebar right side bicycle mirror. Several locations on metal frame engraved with name - Travis Mackie",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "FW11 KT-D05 Z-LXD25-SD",
+      "id": 1230470,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958003/large_E-Bike_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Fucare",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "209922127700006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.06,
+        -122.15
+      ],
+      "stolen_location": "Marysville, WA 98270, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958003/small_E-Bike_1.jpg",
+      "title": "2022 Fucare FW11 KT-D05 Z-LXD25-SD e-scooter",
+      "url": "https://bikeindex.org/bikes/1230470",
+      "year": 2022,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "e-scooter"
+    },
+    {
+      "date_stolen": 1756085400,
+      "description": "Small 14 inch wheel folding step through bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding step through",
+      "id": 3187524,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965137/large_Bike.jpeg",
+      "location_found": null,
+      "manufacturer_name": "PORORO",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN_CF7F61E0",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        44.96,
+        -93.26
+      ],
+      "stolen_location": "Minneapolis, MN 55404, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965137/small_Bike.jpeg",
+      "title": "2025 PORORO Folding step through",
+      "url": "https://bikeindex.org/bikes/3187524",
+      "year": 2025,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756026000,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "EK4 Folding Electric Bike",
+      "id": 3067333,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957050/large_IMG_5058.png",
+      "location_found": null,
+      "manufacturer_name": "CYBERVELO",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.75,
+        -117.17
+      ],
+      "stolen_location": "San Diego, CA 92103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957050/small_IMG_5058.png",
+      "title": "2024 CYBERVELO EK4 Folding Electric Bike",
+      "url": "https://bikeindex.org/bikes/3067333",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756008000,
+      "description": "Red Envo electric bike. Black Rear rack. 20 inch tires with a folding metal frame",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Lynx",
+      "id": 3068485,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957492/large_1000018918.jpg",
+      "location_found": null,
+      "manufacturer_name": "Envo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "317922112100241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.5
+      ],
+      "stolen_location": "Edmonton, T6E 4B4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957492/small_1000018918.jpg",
+      "title": "Envo Lynx",
+      "url": "https://bikeindex.org/bikes/3068485",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755810000,
+      "description": "dark green folding bike",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "paratrooper",
+      "id": 3063962,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955399/large_IMG_6997.jpg",
+      "location_found": null,
+      "manufacturer_name": "Montague",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S7AGRL00072",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.66,
+        -104.83
+      ],
+      "stolen_location": "Aurora, CO 80014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955399/small_IMG_6997.jpg",
+      "title": "2007 Montague paratrooper",
+      "url": "https://bikeindex.org/bikes/3063962",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755806400,
+      "description": "folding bike, dark green, folding pedals, stolen from campground",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Paratrooper",
+      "id": 3063981,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955398/large_IMG_6997.jpg",
+      "location_found": null,
+      "manufacturer_name": "Montague",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S7AGRL00011",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.66,
+        -104.83
+      ],
+      "stolen_location": "Aurora, CO 80014, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955398/small_IMG_6997.jpg",
+      "title": "2007 Montague Paratrooper",
+      "url": "https://bikeindex.org/bikes/3063981",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755334800,
+      "description": "My bicycle is a  red Raleigh Mojave 2.0 Mountain bike. The frame size is large/20 inches. It has 26 inch wheels. It has black fenders as well as folding pannier baskets, although any accessories may have been removed or modified since it was stolen from behind my apartment patio on the morning of August 16, 2025.  The seat color is black and the material of the seat shows wear and tear.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Mojave 2.0",
+      "id": 3061568,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959671/large_Raleigh_Mohave_2006_stolen_fenders.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U5YK37048",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.48,
+        -71.44
+      ],
+      "stolen_location": "Acton, MA 01720, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959671/small_Raleigh_Mohave_2006_stolen_fenders.jpeg",
+      "title": "2006 Raleigh Mojave 2.0",
+      "url": "https://bikeindex.org/bikes/3061568",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755313200,
+      "description": "This e-bike is white with orange details and it was stolen on aug 15, 2025 in Washington DC",
+      "frame_colors": [
+        "White",
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 3067553,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/957075/large_IMG_5207.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8137LD-220316-12193",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -76.98
+      ],
+      "stolen_location": "Washington, DC 20002, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/957075/small_IMG_5207.jpeg",
+      "title": "2024 Rad Power Bikes",
+      "url": "https://bikeindex.org/bikes/3067553",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755210600,
+      "description": "2022 Black Surly Midnight Special, recently replaced rear wheel with a Quality Wheels RS505/DT R500. Fenders and rear rack.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Midnight Special",
+      "id": 2935446,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/952476/large_Screenshot_2025-08-14_at_8.46.29_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M21096821",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -73.99
+      ],
+      "stolen_location": "New York, NY 10003, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/952476/small_Screenshot_2025-08-14_at_8.46.29_PM.png",
+      "title": "2022 Surly Midnight Special",
+      "url": "https://bikeindex.org/bikes/2935446",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755201600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "DJ Folding Bike Step Thru",
+      "id": 2931022,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/951744/large_DJ_Bike-HG.jpg",
+      "location_found": null,
+      "manufacturer_name": "DJ Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HE005FS2106292",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.9,
+        -114.04
+      ],
+      "stolen_location": "Calgary, T2X ON5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/951744/small_DJ_Bike-HG.jpg",
+      "title": "2022 DJ Bikes DJ Folding Bike Step Thru",
+      "url": "https://bikeindex.org/bikes/2931022",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755201600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "DJ Folding Bike Step Thru",
+      "id": 2931046,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/951762/large_DJ_Bike-HG.jpg",
+      "location_found": null,
+      "manufacturer_name": "DJ Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HE005FS2107669",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.88,
+        -114.03
+      ],
+      "stolen_location": "Calgary, T2X 0N5, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/951762/small_DJ_Bike-HG.jpg",
+      "title": "2022 DJ Bikes DJ Folding Bike Step Thru",
+      "url": "https://bikeindex.org/bikes/2931046",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755140400,
+      "description": null,
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "Scoria",
+      "id": 2930559,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/951478/large_BikePhotoReference.jpg",
+      "location_found": null,
+      "manufacturer_name": "Mokwheel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BAWS4G0174",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.56,
+        -123.26
+      ],
+      "stolen_location": "Corvallis, OR 97330, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/951478/small_BikePhotoReference.jpg",
+      "title": "2024 Mokwheel Scoria",
+      "url": "https://bikeindex.org/bikes/2930559",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777986000,
+      "description": "Silver folding bike from Dahon",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mariner",
+      "id": 2928370,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D605600375",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.7
+      ],
+      "stolen_location": "Chicago, IL 60625, US",
+      "thumb": null,
+      "title": "Dahon Mariner",
+      "url": "https://bikeindex.org/bikes/2928370",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754892000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX-3",
+      "id": 3007161,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU096XC2913T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": null,
+      "title": "2023 Trek FX-3",
+      "url": "https://bikeindex.org/bikes/3007161",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754892000,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "FX-3",
+      "id": 3007147,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/953236/large_IMG_6453.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU210XC8873T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/953236/small_IMG_6453.jpg",
+      "title": "2023 Trek FX-3",
+      "url": "https://bikeindex.org/bikes/3007147",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="100%" height="100%" fill="#f8fbff"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5a7eb5"/></marker></defs>
+<text x="60" y="70" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">?3 ??????????????</text>
+<rect x="90" y="140" rx="22" ry="22" width="280" height="180" fill="#eef5ff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="114" y="178" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">raw ?</text>
+<text x="114" y="214" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?? JSONL / HTML / ?? / ????</text>
+<text x="114" y="242" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">????????</text>
+<text x="114" y="270" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">????? manifest ?????</text>
+<rect x="420" y="140" rx="22" ry="22" width="280" height="180" fill="#f2fbf5" stroke="#9fb6d9" stroke-width="2"/>
+<text x="444" y="178" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">bronze / silver ?</text>
+<text x="444" y="214" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?????</text>
+<text x="444" y="242" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">???????????</text>
+<text x="444" y="270" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">????????????</text>
+<rect x="750" y="140" rx="22" ry="22" width="320" height="180" fill="#fff8ef" stroke="#9fb6d9" stroke-width="2"/>
+<text x="774" y="178" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">gold ?</text>
+<text x="774" y="214" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">bike_variant</text>
+<text x="774" y="242" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">component_catalog</text>
+<text x="774" y="270" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">offer_snapshot / review_target</text>
+<text x="774" y="298" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">image_item / annotation_set / annotated_object</text>
+<rect x="1120" y="140" rx="22" ry="22" width="320" height="180" fill="#f5f1ff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="1144" y="178" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">??????</text>
+<text x="1144" y="214" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">website_bikes_api</text>
+<text x="1144" y="242" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">website_parts_api</text>
+<text x="1144" y="270" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">engine payload</text>
+<text x="1144" y="298" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">??????????</text>
+<rect x="300" y="430" rx="22" ry="22" width="340" height="210" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="324" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">??????</text>
+<text x="324" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">part_taxonomy</text>
+<text x="324" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">PART_SLOT_RULES</text>
+<text x="324" y="560" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">???? / ????</text>
+<text x="324" y="588" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">mountain / road ????????</text>
+<rect x="730" y="430" rx="22" ry="22" width="420" height="210" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="754" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">??????</text>
+<text x="754" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">??????</text>
+<text x="754" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">seatpost / shock ????</text>
+<text x="754" y="560" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?????????</text>
+<text x="754" y="588" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">?? mountain ????????</text>
+<line x1="370" y1="230" x2="420" y2="230" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="700" y1="230" x2="750" y2="230" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1070" y1="230" x2="1120" y2="230" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="910" y1="320" x2="940" y2="430" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="640" y1="535" x2="730" y2="535" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+</svg>

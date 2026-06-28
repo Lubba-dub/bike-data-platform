@@ -1,0 +1,754 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1747954800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Orbea Ordu Triathlon",
+      "id": 2824846,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/931361/large_thumbnail_3C6A62E1-810F-4492-BA88-64EEF2A5DACF.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNMAT5HOC005",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -104.87
+      ],
+      "stolen_location": "Denver, CO 80238, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/931361/small_thumbnail_3C6A62E1-810F-4492-BA88-64EEF2A5DACF.jpg",
+      "title": "2012 Orbea Orbea Ordu Triathlon",
+      "url": "https://bikeindex.org/bikes/2824846",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747605600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 2804712,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNXDS23D00395",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        59.27,
+        15.25
+      ],
+      "stolen_location": "Örebro, 70215, SE",
+      "thumb": null,
+      "title": "2024 Orbea",
+      "url": "https://bikeindex.org/bikes/2804712",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747580700,
+      "description": "Velo gris marqué ORBEA EN GROS sur le coté et fourche décorées.\r\nporte gourde fois 2\r\nsonnette a l'arrière éventuellement très classique et reconnaissable a son \"DRING\".",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "taille 57 carbon",
+      "id": 2812806,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/923175/large_Screenshot_20250518_181155_Gallery.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01191110460",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.76,
+        4.86
+      ],
+      "stolen_location": "Lyon, 69003, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/923175/small_Screenshot_20250518_181155_Gallery.jpg",
+      "title": "2023 Orbea taille 57 carbon",
+      "url": "https://bikeindex.org/bikes/2812806",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746979200,
+      "description": "Its a black golden Bike, one of a Kind, under the Water bottle on the frame ist my Name Felix written. The Wheels also have a a golden Spot ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Orca Aero",
+      "id": 2800717,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/915823/large_1000016199.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01180582948",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.2,
+        6.88
+      ],
+      "stolen_location": "Düsseldorf, 40627, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/915823/small_1000016199.jpg",
+      "title": "2024 Orbea Orca Aero",
+      "url": "https://bikeindex.org/bikes/2800717",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746940982,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "orca",
+      "id": 2799929,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "NL",
+      "thumb": null,
+      "title": "2025 Orbea orca",
+      "url": "https://bikeindex.org/bikes/2799929",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746813600,
+      "description": "Rallon M20 Metallic Mulberry (Gloss) - Black (Matte) XL\r\nPedals are now a metallic Orange\r\nScratch of left fork tube",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Rallon M20",
+      "id": 2799026,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914642/large_IMG_20250509_101821.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01170230448",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.71,
+        -111.85
+      ],
+      "stolen_location": "Salt Lake City, UT 84106, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914642/small_IMG_20250509_101821.jpg",
+      "title": "2023 Orbea Rallon M20",
+      "url": "https://bikeindex.org/bikes/2799026",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746471600,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Orca M30",
+      "id": 2796694,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913061/large_WhatsApp_Image_2025-05-04_at_20.18.36_d34eb864.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01190669449",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94158, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913061/small_WhatsApp_Image_2025-05-04_at_20.18.36_d34eb864.jpg",
+      "title": "2022 Orbea Orca M30",
+      "url": "https://bikeindex.org/bikes/2796694",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746028159,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Pink"
+      ],
+      "frame_model": "Rallon M10",
+      "id": 2793616,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/910981/large_IMG_6437.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ST1549",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.4,
+        8.58
+      ],
+      "stolen_location": "Zürich, 8051, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/910981/small_IMG_6437.jpeg",
+      "title": "2019 Orbea Rallon M10",
+      "url": "https://bikeindex.org/bikes/2793616",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745125200,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Rise H30",
+      "id": 2791054,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/909285/large_1000013002.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "011911323878",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.05,
+        16.32
+      ],
+      "stolen_location": "Guntramsdorf, 2353, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/909285/small_1000013002.jpg",
+      "title": "2024 Orbea Rise H30",
+      "url": "https://bikeindex.org/bikes/2791054",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745085600,
+      "description": null,
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Rise",
+      "id": 2790644,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/909150/large_1000013003.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01190970241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.05,
+        16.32
+      ],
+      "stolen_location": "Guntramsdorf, 2353, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/909150/small_1000013003.jpg",
+      "title": "2023 Orbea Rise",
+      "url": "https://bikeindex.org/bikes/2790644",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744581600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Alma",
+      "id": 2780330,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/905506/large_1000001149.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0118......",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.27,
+        -121.17
+      ],
+      "stolen_location": "Redmond, OR 97756, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/905506/small_1000001149.jpg",
+      "title": "2024 Orbea Alma",
+      "url": "https://bikeindex.org/bikes/2780330",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743797656,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Lauffey h10",
+      "id": 2773734,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01180341230",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.53,
+        -113.45
+      ],
+      "stolen_location": "Edmonton, T6C 1R1, CA",
+      "thumb": null,
+      "title": "2022 Orbea Lauffey h10",
+      "url": "https://bikeindex.org/bikes/2773734",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742810400,
+      "description": null,
+      "frame_colors": [
+        "Orange",
+        "Red"
+      ],
+      "frame_model": "Gain Urban",
+      "id": 2769071,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/899549/large_fiets2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OB000001190239323",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.08,
+        4.3
+      ],
+      "stolen_location": "Den Haag, 2518XR, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/899549/small_fiets2.jpg",
+      "title": "2020 Orbea Gain Urban",
+      "url": "https://bikeindex.org/bikes/2769071",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742567706,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Occam",
+      "id": 2767860,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P 4K7, CA",
+      "thumb": null,
+      "title": "2023 Orbea Occam",
+      "url": "https://bikeindex.org/bikes/2767860",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742414400,
+      "description": "Type: MTB Hardtail\r\nFork: Rockshox Recon Gold Debon Air 100 mm, 42 mm offset\r\nDT swiss 350 front hub, 110 mm through axle\r\nSELLE Italia Gravel seat",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "H30 XL",
+      "id": 2767146,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898395/large_photo_2025-03-17_16-24-36.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNARA920 004141 B1-1709 29",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.64,
+        22.94
+      ],
+      "stolen_location": "Θεσσαλονίκη, 54632, GR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898395/small_photo_2025-03-17_16-24-36.jpg",
+      "title": "2022 Orbea H30 XL",
+      "url": "https://bikeindex.org/bikes/2767146",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741798800,
+      "description": "Purple and black orbea",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Rise",
+      "id": 2764850,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896979/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01191148926",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.36,
+        -122.13
+      ],
+      "stolen_location": "Island C Ounty, WA 98274, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896979/small_bike.jpg",
+      "title": "2023 Orbea Rise",
+      "url": "https://bikeindex.org/bikes/2764850",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758340800,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Black"
+      ],
+      "frame_model": "Terra H30-D 19 xs Negro",
+      "id": 2758097,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892797/large_IMG_20250221_153422533.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01180125958",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.72,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98125, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892797/small_IMG_20250221_153422533.jpg",
+      "title": "2021 Orbea Terra H30-D 19 xs Negro",
+      "url": "https://bikeindex.org/bikes/2758097",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1740027600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Wild",
+      "id": 2757621,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892383/large_IMG_0263.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01190532273",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.57,
+        -112.45
+      ],
+      "stolen_location": "Waddell, AZ 85355, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892383/small_IMG_0263.jpeg",
+      "title": "2022 Orbea Wild",
+      "url": "https://bikeindex.org/bikes/2757621",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739367410,
+      "description": "",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": null,
+      "id": 2755776,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2025 Orbea",
+      "url": "https://bikeindex.org/bikes/2755776",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739272200,
+      "description": "",
+      "frame_colors": [
+        "Purple",
+        "Black",
+        "White"
+      ],
+      "frame_model": "Orca Dama",
+      "id": 2755664,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890934/large_IMG_8718.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01101638411",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.16,
+        -117.16
+      ],
+      "stolen_location": "San Marcos, CA 92069, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890934/small_IMG_8718.jpg",
+      "title": "Orbea Orca Dama",
+      "url": "https://bikeindex.org/bikes/2755664",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737867600,
+      "description": "Serial number on sticker: 01160209246\r\n",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Avant H50",
+      "id": 709139,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "03007SNSUR16G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": null,
+      "title": "2017 Orbea Avant H50",
+      "url": "https://bikeindex.org/bikes/709139",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736769300,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Oiz",
+      "id": 2753629,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889321/large_20240831_102522.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01191242369",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.65,
+        23.34
+      ],
+      "stolen_location": "Sofia, 1700, BG",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889321/small_20240831_102522.jpg",
+      "title": "2024 Orbea Oiz",
+      "url": "https://bikeindex.org/bikes/2753629",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736322300,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Orca Aero M20Team 51",
+      "id": 2746323,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/885660/large_IMG_7879.JPG",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "J14651AM",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.07,
+        -87.91
+      ],
+      "stolen_location": "Milwaukee, WI 53212, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/885660/small_IMG_7879.JPG",
+      "title": "2018 Orbea Orca Aero M20Team 51",
+      "url": "https://bikeindex.org/bikes/2746323",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736109000,
+      "description": "2023 wild with brand new Fox coil orange, new Schwabe radio tires, new Hayes brakes.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Wild",
+      "id": 2755633,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890972/large_IMG_0402.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01180455036",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.99,
+        -122.59
+      ],
+      "stolen_location": "Fairfax, CA 94930, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890972/small_IMG_0402.jpeg",
+      "title": "2023 Orbea Wild",
+      "url": "https://bikeindex.org/bikes/2755633",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735534800,
+      "description": "Small adult e-bike. Light blue, black accents",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Vibe Mid H30",
+      "id": 2743292,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/881764/large_IMG_3103_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "01180301000",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/881764/small_IMG_3103_2.jpg",
+      "title": "2024 Orbea Vibe Mid H30",
+      "url": "https://bikeindex.org/bikes/2743292",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1405317600,
+      "description": "Broken handlebar stem quick release clamp\r\ncrank brothers Eggbeater pedals\r\nNexus 8 rear hub.\r\nFront wheel dynamo.\r\nv-brakes\r\nblack 175mm cranks (longer than stock cranks)\r\nRear rack\r\nDouble kickstand\r\nDynamo driven Busch & Muller LED head and tail lights.\r\nThudbuster seat post\r\nTerry saddle (black)",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "mu xl",
+      "id": 28504,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D207636618",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA CA, US",
+      "thumb": null,
+      "title": "Dahon mu xl",
+      "url": "https://bikeindex.org/bikes/28504",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1404626400,
+      "description": "this is a folding bike---mainframe, handlebars & pedals are all collapsible; heavy frame, city bike, 30 lbs.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Espresso",
+      "id": 28205,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/10434/large_20131103_115304.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DR31260177",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.0,
+        -83.02
+      ],
+      "stolen_location": "Columbus, OH 43210, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/10434/small_20131103_115304.jpg",
+      "title": "2004 Dahon Espresso",
+      "url": "https://bikeindex.org/bikes/28205",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1404540000,
+      "description": "Standard Dahon folding bike. Rack on back",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Folding",
+      "id": 28645,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": null,
+      "title": "Dahon Folding",
+      "url": "https://bikeindex.org/bikes/28645",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1399442400,
+      "description": "s fold bike is very distinct from the other Dahon Vitesse models: In order to increase visibility, I covered the entire frame with 3M REFLECTIVE VINYL TAPE, so at NIGHT the bike will GLOW like a stop sign. During the day, the bike looks black, as if it were covered with black electrical tape. Yet with any little hint of light reflecting off of it, it will GLOW. The CARGO RACK REMOVED The bike CHAIN PROTECTOR REMOVED The CAP at the bottom of the BIKE POST that houses the inner tire pump REMOVED. The serial number is etched at the bottom of the bike where the crank set is installed which reads DU07705083  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Vitesse",
+      "id": 7932,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3246/large_1399783918.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DU07705083",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.02,
+        -80.16
+      ],
+      "stolen_location": "Hollywood, FL 33020, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3246/small_1399783918.jpg",
+      "title": "2011 Dahon Vitesse",
+      "url": "https://bikeindex.org/bikes/7932",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1398146400,
+      "description": "Red, Dahon Folding Bicycle, Steel Frame, Black Leather Seat, Three Speed  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 11105,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4229/large_1398217069.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.34,
+        -71.09
+      ],
+      "stolen_location": "Boston, MA 02115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4229/small_1398217069.jpg",
+      "title": "Dahon",
+      "url": "https://bikeindex.org/bikes/11105",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1390165200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Folding",
+      "id": 1114250,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/462238/large_s-l300.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.95,
+        -90.07
+      ],
+      "stolen_location": "New Orleans, LA 70118-0000, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/462238/small_s-l300.jpg",
+      "title": "Dahon Folding",
+      "url": "https://bikeindex.org/bikes/1114250",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1380866400,
+      "description": "Bike, helmet, lock & lights stolen while locked to monitored bike rack in parking garage in Financial District.  Bike removed and replaced with another.  Thief returned to claim replacement bike as well  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mu XL Sport",
+      "id": 10214,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3942/large_1392836564.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D711707648",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.39
+      ],
+      "stolen_location": "San Francisco, CA 94105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3942/small_1392836564.jpg",
+      "title": "2010 Dahon Mu XL Sport",
+      "url": "https://bikeindex.org/bikes/10214",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1380002400,
+      "description": "Rare silver Dahon Espresso full size folding bike.  Stolen while chain-locked to a 5\"x5\" wooden sign post in parking lot.  Perps broke entire sign.  Seat has built in tire pump. Wire drink holder attached to seat. Broken right thumb shifter assembly. Kryptonite chain lock may still be attached  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Espresso",
+      "id": 17936,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/6423/large_1380074146.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.24
+      ],
+      "stolen_location": "Oakland, CA 94610, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/6423/small_1380074146.jpg",
+      "title": "2007 Dahon Espresso",
+      "url": "https://bikeindex.org/bikes/17936",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1376805600,
+      "description": "red dahon d3 curve folding bicycle with small bell, water bottle holder on the side and basket holder in front  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "D3 Curve Folding Bike",
+      "id": 15871,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.44,
+        -98.48
+      ],
+      "stolen_location": "San Antonio, TX 78215, US",
+      "thumb": null,
+      "title": "2011 Dahon D3 Curve Folding Bike",
+      "url": "https://bikeindex.org/bikes/15871",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1374127200,
+      "description": "it was on a bike rack near San Diego Marriott Gaslamp, stolen between 8:30am and 7pm 7/18/13  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "flo",
+      "id": 16605,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5990/large_1374205729.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SC01987",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.73,
+        -117.16
+      ],
+      "stolen_location": "San Diego, CA 92101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5990/small_1374205729.jpg",
+      "title": "2008 Dahon flo",
+      "url": "https://bikeindex.org/bikes/16605",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1370239200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Vitesse D7",
+      "id": 15366,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -74.0
+      ],
+      "stolen_location": "New York, NY 10012, US",
+      "thumb": null,
+      "title": "Dahon Vitesse D7",
+      "url": "https://bikeindex.org/bikes/15366",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1367992800,
+      "description": "Dahon Formula S18 folding bike  ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Formula S18",
+      "id": 20580,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D111704739",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "Fresno, CA 93710, US",
+      "thumb": null,
+      "title": "2012 Dahon Formula S18",
+      "url": "https://bikeindex.org/bikes/20580",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1366696800,
+      "description": "folding bike with 20\" wheels.  Attached photo is from Dahon website.  My bike is blue in color.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "\\\\\"Speed D7\\\\\"",
+      "id": 17638,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/6335/large_1366774474.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D704T12610",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/6335/small_1366774474.jpg",
+      "title": "2008 Dahon \\\\\"Speed D7\\\\\"",
+      "url": "https://bikeindex.org/bikes/17638",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1364968800,
+      "description": "E 4th St @ Ave B. with black trunk bag, cable lock, grey Giro Atmos helmet, bell and lights.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Speed 7",
+      "id": 17824,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/6390/large_18384.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D810706887",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -73.98
+      ],
+      "stolen_location": "New York, NY 10009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/6390/small_18384.jpg",
+      "title": "2010 Dahon Speed 7",
+      "url": "https://bikeindex.org/bikes/17824",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1357106400,
+      "description": "Grey folding bike stolen outside of Landmark Theatre on Van Ness. Bike had a lock-holder screwed to the frame, possibly still there. The front wheel was left as was the lock (poorly locked I must admit). My boyfriend's bike was locked to mine so got stolen too  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Vitesse D7",
+      "id": 6682,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D711708386",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94102, US",
+      "thumb": null,
+      "title": "2008 Dahon Vitesse D7",
+      "url": "https://bikeindex.org/bikes/6682",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1355292000,
+      "description": "Black Dahon Boardwalk folding bike, has big lettering stickers on it saying \"glob\"  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Boardwalk",
+      "id": 24699,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DA41H0350",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": null,
+      "title": "2006 Dahon Boardwalk",
+      "url": "https://bikeindex.org/bikes/24699",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1350712800,
+      "description": "Parked bike while unloading recylables turned aroun for 30 seconds and it was gone. Right at Aborn and Capitol, across from the Subway and auto repair shop at the recycling center drop off. RED, DAHON FOLDING BIKE, BLACK RACK ON BACK, 8 SPEED, BRAND NEW  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "P8 FOLDING BIKE",
+      "id": 12301,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4586/large_1350970465.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D008T02602",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.3,
+        -121.81
+      ],
+      "stolen_location": "San Jose, CA 95121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4586/small_1350970465.jpg",
+      "title": "2012 Dahon P8 FOLDING BIKE",
+      "url": "https://bikeindex.org/bikes/12301",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1350626400,
+      "description": "The mostly gray dahon folding bike has a 8 speed internal hub, a golden bell, looking almost new with original tires. If you see it somewhere Please contact me at tanyingc@gmail.com. Rewards!  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MU XL Sport folding bike",
+      "id": 23081,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": null,
+      "title": "2009 Dahon MU XL Sport folding bike",
+      "url": "https://bikeindex.org/bikes/23081",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1350280800,
+      "description": "Folding commuter, store must have been watched, left two bikes for no more than 30-60 seconds  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "speed d7",
+      "id": 18362,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D812TU1691",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -121.92
+      ],
+      "stolen_location": "San Jose, CA 95110, US",
+      "thumb": null,
+      "title": "2009 Dahon speed d7",
+      "url": "https://bikeindex.org/bikes/18362",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1345701600,
+      "description": "It was locked (cable + ulock) onto a car meter right in front of SFMOMA (151 Third Street / between Mission + Howard) August 23rd, 8:20 pm. When I returned around 9:30pm, it was gone. Nothing was left there.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "LXA472",
+      "id": 25540,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "500019244348",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": null,
+      "title": "2010 Dahon LXA472",
+      "url": "https://bikeindex.org/bikes/25540",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1343887200,
+      "description": "Folding bike.  With rear rack.  Brand new rear tire.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Speed D7",
+      "id": 25920,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8987/large_1343970513.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8987/small_1343970513.jpg",
+      "title": "2010 Dahon Speed D7",
+      "url": "https://bikeindex.org/bikes/25920",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1341295200,
+      "description": "Dahon Broadway folding bike. Black frame and rear rack, silver fenders, 20\" wheels, fix gear, steel toe clips w/o straps. Reflector on rack. Converted from straight bars to drop bars with a MTB stem mounted to slant down toward the front wheel. blue handle bar tape. front brake only, V-brake. alloy rims. Cable is mounted through the seat and frame  to prevent theft of the seat and post. The conversion is what absolutely identifies this as my bike. I bought it used and will contact the seller to obtain a bill of sale and with luck a copy of his original receipt.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Broadway",
+      "id": 25023,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D805T01837",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "Chicago, IL 60618, US",
+      "thumb": null,
+      "title": "Dahon Broadway",
+      "url": "https://bikeindex.org/bikes/25023",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1334901600,
+      "description": "A full size folding bike that is light grey in color and looks heavily used. I still have the seat to it as it was stolen with out it. It has a yellow Skydiving sticker on it with black fenders and with several nicks in the paint. Any info or sightings will be rewarded and appreciated. It was left outside with a New York chain to a pole. The bike is on the right in the photo and is more worn.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Espresso",
+      "id": 25974,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/9015/large_1337630248.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D903702148",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.78,
+        -73.91
+      ],
+      "stolen_location": "Astoria, NY 11105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/9015/small_1337630248.jpg",
+      "title": "2010 Dahon Espresso",
+      "url": "https://bikeindex.org/bikes/25974",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1326348000,
+      "description": "It's a folding bicycle.\r\nPurchased on 12/18/2011 for $393 from Sid's Bike Shop on 235 East 34th Street, New York, NY 10016.\r\nNot sure about wheel size.\r\n",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Dahon Eco C6",
+      "id": 1093,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/626/large_IMG00072-20111218-1748.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D010T03797",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.74,
+        -74.03
+      ],
+      "stolen_location": "Hoboken, NJ 7030, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/626/small_IMG00072-20111218-1748.jpg",
+      "title": "Dahon Dahon Eco C6",
+      "url": "https://bikeindex.org/bikes/1093",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1323583200,
+      "description": "Blue Dahon Speed D7 Folding Bike bought 7/2/2010.  Stolen between Dec 11 and 27,2011  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Speed D7",
+      "id": 24464,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon Folding",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D812T01470",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": null,
+      "title": "2010 Dahon Folding Speed D7",
+      "url": "https://bikeindex.org/bikes/24464",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

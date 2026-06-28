@@ -1,0 +1,756 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1747616400,
+      "description": "I didn't record the serial number before it was stolen. It had a shop sticker, near bottom of seat tube, from \"Back Bay Bicycles\" (a shop later known as Papa Wheelies).",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "F7",
+      "id": 2805061,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/918351/large_CannondaleF7_2.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.35,
+        -71.1
+      ],
+      "stolen_location": "Boston, MA 02215, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/918351/small_CannondaleF7_2.jpeg",
+      "title": "2008 Cannondale F7",
+      "url": "https://bikeindex.org/bikes/2805061",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746061200,
+      "description": "shimano clip on pedals\r\nFull suspension mtb color red with a black phone holder\r\nFrame Serial #: 1je151142\r\nFork Serial #: 31t10339206",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Fluid FS 4",
+      "id": 2793881,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/911310/large_WhatsApp_Image_2025-04-30_at_20.39.14_b663c583.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1JE151142",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/911310/small_WhatsApp_Image_2025-04-30_at_20.39.14_b663c583.jpg",
+      "title": "2023 Norco Bikes Fluid FS 4",
+      "url": "https://bikeindex.org/bikes/2793881",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745119800,
+      "description": "Liv Vall E+ 0 Pro Women's Mountain E-Bike - 2017, Small\r\n\r\nBlack ROCKBROS MTB Pedals\r\n\r\nTires upgraded to tubeless, orange Muc-off stem valves ( screw on cap missing from one valve)",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Vall E+ 0 Pro",
+      "id": 1506629,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/689372/large_BMT30401_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Liv",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E8CA6272",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.91,
+        -118.35
+      ],
+      "stolen_location": "Hawthorne, CA 90250, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/689372/small_BMT30401_PH_2.jpg",
+      "title": "2017 Liv Vall E+ 0 Pro",
+      "url": "https://bikeindex.org/bikes/1506629",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742414400,
+      "description": "Type: MTB Hardtail\r\nFork: Rockshox Recon Gold Debon Air 100 mm, 42 mm offset\r\nDT swiss 350 front hub, 110 mm through axle\r\nSELLE Italia Gravel seat",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "H30 XL",
+      "id": 2767146,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898395/large_photo_2025-03-17_16-24-36.jpg",
+      "location_found": null,
+      "manufacturer_name": "Orbea",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNARA920 004141 B1-1709 29",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.64,
+        22.94
+      ],
+      "stolen_location": "Θεσσαλονίκη, 54632, GR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898395/small_photo_2025-03-17_16-24-36.jpg",
+      "title": "2022 Orbea H30 XL",
+      "url": "https://bikeindex.org/bikes/2767146",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742412600,
+      "description": "Time ADHX 45 with Winspace Lun Wheelset.\r\nQ-rings with power meter from Rotor\r\nShimano GRX Shifters\r\nShimano XT MTB Rear Derailleur.\r\n1x shifting system\r\nDeda gravel handlebars\r\nGolden bottle cages\r\nGolden Wolftooth Disc brake lock rings\r\nShimano XT pedals (gravel/mtb)\r\nALMSTHRE saddle pack.\r\nPurchased in Dec 2024 at La Bicicletta in Toronto.\r\n\r\nStolen near Tartine in Santa Monica, CA. \r\nFiled a police report with Santa Monica PD: PD2025-700228",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ADHX 45",
+      "id": 2769148,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/899608/large_PXL_20241209_204443155.jpg",
+      "location_found": null,
+      "manufacturer_name": "Time",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "55222401",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.47
+      ],
+      "stolen_location": "Santa Monica, CA 90404, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/899608/small_PXL_20241209_204443155.jpg",
+      "title": "2024 Time ADHX 45",
+      "url": "https://bikeindex.org/bikes/2769148",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741084740,
+      "description": "A bike for very tall people (6'6''-6'10'') - 24.5 in / XXXL frame - 200 mm cranks - labeled \"designed by Lennard Zinn\", \"TWENTY NINE BNT\"",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "BNT 29",
+      "id": 2761323,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/894914/large_IMG_7788.jpg",
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U22000493",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.08
+      ],
+      "stolen_location": "Mountain View, CA 94043, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/894914/small_IMG_7788.jpg",
+      "title": "2024 KHS Bicycles BNT 29",
+      "url": "https://bikeindex.org/bikes/2761323",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739761200,
+      "description": "It has a flat bar, 24 inch wheels, MTB pedals, SQ Lab saddle, Saddle bag",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Unknown",
+      "id": 2757593,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892363/large_IMG_0065.JPG",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C157FSE494",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892363/small_IMG_0065.JPG",
+      "title": "Marin Bikes Unknown",
+      "url": "https://bikeindex.org/bikes/2757593",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739530299,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "MTB",
+      "id": 2756189,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "501300-551-WOW96794RGKT",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.95,
+        1.99
+      ],
+      "stolen_location": "Issoudun, 36100, FR",
+      "thumb": null,
+      "title": "2022 Cube MTB",
+      "url": "https://bikeindex.org/bikes/2756189",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736064000,
+      "description": "It's a all white 26\" mountain bike with UPS coloring and tagging labels",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "26\" Master mtb",
+      "id": 1546554,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Kent",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G2103000245",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.33,
+        -121.94
+      ],
+      "stolen_location": "Vacaville, CA 95687, US",
+      "thumb": null,
+      "title": "Kent 26\" Master mtb",
+      "url": "https://bikeindex.org/bikes/1546554",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735790400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "MTB Riff Blue",
+      "id": 2743802,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/882015/large_1D3604F0-23AA-4D7F-8363-3B7342D29F21.JPG",
+      "location_found": null,
+      "manufacturer_name": "Soma frame w custom ebike build out",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97232, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/882015/small_1D3604F0-23AA-4D7F-8363-3B7342D29F21.JPG",
+      "title": "2024 Soma frame w custom ebike build out MTB Riff Blue",
+      "url": "https://bikeindex.org/bikes/2743802",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1734418800,
+      "description": "2022 Pivot Switchblade Race XT 29\" Mojave S with aftermarket seat. White, small frame full suspension mtb",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Switchblade",
+      "id": 2754842,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890360/large_1000027814.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pivot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KT09JAK00026SM",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.05,
+        -106.48
+      ],
+      "stolen_location": "Albuquerque, NM 87123-3941, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890360/small_1000027814.jpg",
+      "title": "2022 Pivot Switchblade",
+      "url": "https://bikeindex.org/bikes/2754842",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736793000,
+      "description": "MTB silver alfha aluminum yellow/green marlin 5 Trek hard tail M/L frame.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Trek Marlin 5",
+      "id": 2738114,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/879189/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU035XC1282V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.13,
+        -115.13
+      ],
+      "stolen_location": "Las Vegas, NV 89169, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/879189/small_image.jpg",
+      "title": "2019 Trek Trek Marlin 5",
+      "url": "https://bikeindex.org/bikes/2738114",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733223594,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "MTB",
+      "id": 2733672,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877463/large_c4f2435f-5e4e-4a18-abb7-06b9acde540d.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW53539PVFS",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        52.78,
+        6.9
+      ],
+      "stolen_location": "Emmen, 7811XV, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877463/small_c4f2435f-5e4e-4a18-abb7-06b9acde540d.jpeg",
+      "title": "2021 Cube MTB",
+      "url": "https://bikeindex.org/bikes/2733672",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744505883,
+      "description": "All black frame red lettering on top of top tube and, white/red leterring on bottom of bottom tube. Red anodized stem and red anodized seat clamp. Hydraulic disc breaks 160mm/160mm. 3 chain ring and 10 on rear cassette. 27.5\" wheels/tires. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MTB",
+      "id": 2730975,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876393/large_Screenshot_20241103_073626_Facebook.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L007818",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876393/small_Screenshot_20241103_073626_Facebook.jpg",
+      "title": "2016 Diamondback MTB",
+      "url": "https://bikeindex.org/bikes/2730975",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1731711600,
+      "description": "Hybrid hard-tail e-MTB / urban e-bike with Bosch motor and frame integrated battery",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Moustache Samedi 27 Xroad 3 XL58cm",
+      "id": 1024487,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/411860/large_mb-s10-05-3-xroad-3-f-670x503.jpg",
+      "location_found": null,
+      "manufacturer_name": "Moustache bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H1IZM47640",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/411860/small_mb-s10-05-3-xroad-3-f-670x503.jpg",
+      "title": "2021 Moustache bikes Moustache Samedi 27 Xroad 3 XL58cm",
+      "url": "https://bikeindex.org/bikes/1024487",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1731283200,
+      "description": "SANTA CRUZ STIGMATA 4 CC FORCE 1X RSV BIKE SN: Y23K1P1STAMDCC1207\r\nReserve wheels SN:\r\nY23F1P1 and Y23G2P1 \r\nHas a full matte Ridewrap protection on it.\r\nOrange.\r\nRed and black water bottle cages.\r\nElectronic shifting.\r\nAlso had Favero Assioma PRO MX-2 MTB pedals on it.",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Stigmata V4",
+      "id": 2736289,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/878352/large_IMG_6450.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Y23K1P1STAMDCC1207",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98109, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/878352/small_IMG_6450.jpeg",
+      "title": "2024 Santa Cruz Stigmata V4",
+      "url": "https://bikeindex.org/bikes/2736289",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735243200,
+      "description": "OTHER NUMBER IDENTIFIERS: BAFANG 52V 30A 1000W CRR10M5230E105022. 6/ CR R10M.1000.SN.U 1.5/ MM G510.1000 12/ 027F5W4010500 (FOUND UNDER MOTOR/ CRANK) K20211125025 (FOUND AT TOP OF FORK) APPLE AIRTAG INSERTED WITH EMAIL ADDRESS ON IT (SGNLRNR@GMAIL.COM) ALSO REGISTERED AT: OPERATIONS.CHICAGOPOLICE.ORG AND BIKTRIX.COM (MANUFACTURERS WEBSITE)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Juggernaut Ultra FS Pro 3 MTB",
+      "id": 2725520,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/902064/large_3.jpg",
+      "location_found": null,
+      "manufacturer_name": "Biktrix",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BTN2021061821",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.88,
+        -87.62
+      ],
+      "stolen_location": "Chicago, IL 60601, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/902064/small_3.jpg",
+      "title": "2024 Biktrix Juggernaut Ultra FS Pro 3 MTB",
+      "url": "https://bikeindex.org/bikes/2725520",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1731013200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Talon 4 MTB",
+      "id": 2724852,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/872872/large_IMG_7750.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "H2HK24652",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.87,
+        -77.39
+      ],
+      "stolen_location": "Fairfax, VA 22033, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/872872/small_IMG_7750.jpeg",
+      "title": "2024 Giant Talon 4 MTB",
+      "url": "https://bikeindex.org/bikes/2724852",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730394000,
+      "description": "Trek MTB, blue frame with red and grey highlights.  Red suspension fork.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "820",
+      "id": 2722049,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/871027/large_IMG_5175.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TBT-0415, C13A6501",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.88,
+        -79.41
+      ],
+      "stolen_location": "Richmond Hill, L4C 2L4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/871027/small_IMG_5175.jpeg",
+      "title": "Trek 820",
+      "url": "https://bikeindex.org/bikes/2722049",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729483200,
+      "description": "It has a added seat cushion and a pink and blue bell with a flower on it. ",
+      "frame_colors": [
+        "Blue",
+        "Purple"
+      ],
+      "frame_model": "NAKAMURA INSPIRE 26 MTB (Q121) PURPLE 50 PURPLE S PURPLE",
+      "id": 2718181,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/868487/large_InShot_20241021_224228779.jpg",
+      "location_found": null,
+      "manufacturer_name": "Nakamura",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EZ211020951",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.96,
+        -114.06
+      ],
+      "stolen_location": "Calgary, T2J 0J7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/868487/small_InShot_20241021_224228779.jpg",
+      "title": "2022 Nakamura NAKAMURA INSPIRE 26 MTB (Q121) PURPLE...",
+      "url": "https://bikeindex.org/bikes/2718181",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727384400,
+      "description": "Bright green MTB, 27.5” wheel, disk brakes, holes on right handlebar grip. Equipped with grey-blue pack attached to seat post when stolen. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Trail X1",
+      "id": 2706144,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/860918/large_IMG_0508.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "208002648",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.07,
+        -70.76
+      ],
+      "stolen_location": "Portsmouth, NH 03801, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/860918/small_IMG_0508.jpeg",
+      "title": "Jamis Trail X1",
+      "url": "https://bikeindex.org/bikes/2706144",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727337600,
+      "description": "27.5\" full suspension cross country MTB",
+      "frame_colors": [
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Thunderbolt 750",
+      "id": 2712215,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/864865/large_2016_Rocky_Mountain_Thunderbolt_750-2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rocky Mountain Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.01
+      ],
+      "stolen_location": "Calgary, T2G 0V6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/864865/small_2016_Rocky_Mountain_Thunderbolt_750-2.jpg",
+      "title": "2016 Rocky Mountain Bicycles Thunderbolt 750",
+      "url": "https://bikeindex.org/bikes/2712215",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727258400,
+      "description": "It is just the frame and forks that is the MTB",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Avalanche 2.0",
+      "id": 1438653,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0021120216",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.21,
+        -115.18
+      ],
+      "stolen_location": "North Las Vegas, NV 89032, US",
+      "thumb": null,
+      "title": "2000 GT Bicycles Avalanche 2.0",
+      "url": "https://bikeindex.org/bikes/1438653",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1727071200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "MTB",
+      "id": 2703662,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW93085ACMN",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.43,
+        26.1
+      ],
+      "stolen_location": "Bucharest, 500168, RO",
+      "thumb": null,
+      "title": "2019 Cube MTB",
+      "url": "https://bikeindex.org/bikes/2703662",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726722987,
+      "description": null,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Juggernaut FS Step Thru - MTB | Juggernaut Series - Biktrix",
+      "id": 2700424,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Biktrix",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.51,
+        -113.39
+      ],
+      "stolen_location": "Edmonton, T6P 1T4, CA",
+      "thumb": null,
+      "title": "2023 Biktrix Juggernaut FS Step Thru - MTB | Jugge...",
+      "url": "https://bikeindex.org/bikes/2700424",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

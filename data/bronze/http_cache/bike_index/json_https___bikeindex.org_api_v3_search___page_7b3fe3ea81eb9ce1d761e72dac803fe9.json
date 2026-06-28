@@ -1,0 +1,755 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1741572000,
+      "description": "Scratch on V3 logo on upper tube, SRAM force etap, Continental tires, black „Top auer“ sticker on upper tube, two bottle holders black/white",
+      "frame_colors": [
+        "Black",
+        "Red",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "V3",
+      "id": 2768806,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/899275/large_IMG_4538.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "YT19K10354",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.25,
+        9.6
+      ],
+      "stolen_location": "Feldkirch, 6800, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/899275/small_IMG_4538.jpeg",
+      "title": "Colnago V3",
+      "url": "https://bikeindex.org/bikes/2768806",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741201200,
+      "description": "Front fender removed, aftermarket studded tires, gel seat, pinhead locks on wheels and seat, chrome riser handlebar, SRAM brakes, Gates CDX belt drive, L-brackets with webbing mounted on rear panier.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Continuum Onyx",
+      "id": 2761885,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/895246/large_PXL_20240622_224159012.MP.jpg",
+      "location_found": null,
+      "manufacturer_name": "Priority Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.53,
+        -113.46
+      ],
+      "stolen_location": "Edmonton, T6C 3E8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/895246/small_PXL_20240622_224159012.MP.jpg",
+      "title": "2022 Priority Bicycles Continuum Onyx",
+      "url": "https://bikeindex.org/bikes/2761885",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1740918600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Substance VRS",
+      "id": 2760629,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Vitus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80303-2847, US",
+      "thumb": null,
+      "title": "2023 Vitus Substance VRS",
+      "url": "https://bikeindex.org/bikes/2760629",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1740562315,
+      "description": "Nukeproof mega 2023 size small\r\nHAS GRIP END CAPS WITH WORD WOOSTER PRINTED ON THEM \r\nBlack with silver decals \r\nFox 38 kashima forks HAVE TROPHY OF NATIONS STICKER ON THE TOP OF THEM- that is immovable \r\nRockshox shock (black) \r\nSram rsc brakes \r\nSram t type XO1 drivetrain (electric gears) \r\nContinental Tyres \r\nNukeproof wheels (one oil slick colour valve, one black)\r\nBlack water bottle (Kendal Mint Cake company bottle) \r\nSILK CYCLES STICKER ON SEAT TUBE",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mega 297",
+      "id": 2759116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/893660/large_WhatsApp_Image_2025-02-25_at_12.31.50__3_.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Nukeproof",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/893660/small_WhatsApp_Image_2025-02-25_at_12.31.50__3_.jpeg",
+      "title": "2023 Nukeproof Mega 297",
+      "url": "https://bikeindex.org/bikes/2759116",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739606400,
+      "description": "Gloss Smoke / Ice Papaya / Carbon\r\nSRAM Rival shifters, derailleurs, rim brakes; Praxis Alba crank",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Yellow or Gold",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Allez E5",
+      "id": 3185351,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/963785/large_image001__1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC006062142R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.66,
+        -91.53
+      ],
+      "stolen_location": "Iowa, IA 52240, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/963785/small_image001__1_.jpg",
+      "title": "2022 Specialized Allez E5",
+      "url": "https://bikeindex.org/bikes/3185351",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739181600,
+      "description": "Triathlon bike. SRAM Force eTap AXS Quarq 2x. Kona derailleur cover. ",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Speed Concept SLR 7",
+      "id": 2755532,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890823/large_1000017067.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU081T0012V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.59,
+        -121.41
+      ],
+      "stolen_location": "Sacramento, CA 95825, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890823/small_1000017067.jpg",
+      "title": "2024 Trek Speed Concept SLR 7",
+      "url": "https://bikeindex.org/bikes/2755532",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738846800,
+      "description": "SRAM Force groupset, Fizik saddle with scuff mark on left side",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Teammachine SLR One",
+      "id": 2754815,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890338/large_IMG_8075.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1R21H6054",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.82,
+        145.0
+      ],
+      "stolen_location": "Richmond, 3121, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890338/small_IMG_8075.jpeg",
+      "title": "2022 BMC Teammachine SLR One",
+      "url": "https://bikeindex.org/bikes/2754815",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738278000,
+      "description": "Nickel-plated steel frame (grayish) with carbon front fork.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "n/a",
+      "id": 2752565,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/888418/large_view1.jpg",
+      "location_found": null,
+      "manufacturer_name": "GEOS",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GEOS 198",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -105.25
+      ],
+      "stolen_location": "Boulder, CO 80305, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/888418/small_view1.jpg",
+      "title": "2024 GEOS n/a",
+      "url": "https://bikeindex.org/bikes/2752565",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737968400,
+      "description": "Black EPIC",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Epic SW Carbon SRAM AXS 29",
+      "id": 2751863,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/887788/large_IMG_6852.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC604210820P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.65,
+        -105.19
+      ],
+      "stolen_location": "Morrison, CO 80465, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/887788/small_IMG_6852.jpeg",
+      "title": "2020 Specialized Epic SW Carbon SRAM AXS 29",
+      "url": "https://bikeindex.org/bikes/2751863",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737619200,
+      "description": "Trek FX (exact model year unknown, but earlier than 2020), either L or XL size, black frame, fenders on both wheels, rim brakes. The most distinctive feature is bright yellow pedals (the photos show different pedals, because I just changed them before the bike got stolen - see the picture of the pedals separately).",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX",
+      "id": 2750517,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/886951/large_61HfRYcTQPL._AC_SX466_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.1
+      ],
+      "stolen_location": "Cambridge, MA 02139, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/886951/small_61HfRYcTQPL._AC_SX466_.jpg",
+      "title": "Trek FX",
+      "url": "https://bikeindex.org/bikes/2750517",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1737277200,
+      "description": "Specialized FACT 10r carbon, FACT IS construction, compact race design, 1-1/2\" lower HS bearing, OSBB",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Tarmac SL3 Pro SRAM",
+      "id": 2757420,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892250/large_Screenshot_20250119_091731_Instagram_1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "400000239307",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.66,
+        -112.02
+      ],
+      "stolen_location": "Phoenix, AZ 85050, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892250/small_Screenshot_20250119_091731_Instagram_1_.jpg",
+      "title": "2011 Specialized Tarmac SL3 Pro SRAM",
+      "url": "https://bikeindex.org/bikes/2757420",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736874000,
+      "description": "bike in good condition, with traces of use, characteristic white scratches on the front of the frame\r\n\r\nEinsatzgebiet\tEnduro\r\nRahmenmaterial / -grösse\tAlu / XL\r\nGewicht (ohne Pedalen)\t±14 kg\r\nBremsen\tSRAM Code R\r\nGabel / Federweg\tRockShox Lyrik Select+ 160mm, 27.5\"\r\nDämpfer / Federweg\tRockShox Super Deluxe\r\nSteuersatz\tCane Creek\r\nVorbau / Lenker\tRaceface\r\nKurbel\tSRAM Stylo 7K 148 DUB, 32t\r\nKassette\tSRAM XG1275 Eagle, 12spd, 10-50t\r\nSchaltwerk\tSRAM GX Eagle, 12spd\r\nLaufräder\tRaceFace AR Offset 30, Alu, 27.5 Zoll\r\nPneus\tMaxxis Minion DHR / DHF\r\nSattelstütze / Sattel\tRockShox Reverb Stealth, 1X Lever, MatchMaker / WTB Silverado Pro Saddle\r\n",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Bronson 3 C",
+      "id": 2748528,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/885714/large_IMG_1017_bikeandclimbup.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "620526 001",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.39,
+        8.48
+      ],
+      "stolen_location": "Zürich, 8048, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/885714/small_IMG_1017_bikeandclimbup.jpg",
+      "title": "2020 Santa Cruz Bronson 3 C",
+      "url": "https://bikeindex.org/bikes/2748528",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736445600,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Domane SL7 eTap Sram",
+      "id": 2746653,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/884386/large_IMG_5673.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.97,
+        0.49
+      ],
+      "stolen_location": "Robertsbridge, TN32 5BJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/884386/small_IMG_5673.jpeg",
+      "title": "2021 Trek Domane SL7 eTap Sram",
+      "url": "https://bikeindex.org/bikes/2746653",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759194000,
+      "description": "Lime green.  Stickers from bike shops running down seat post.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "U.P.",
+      "id": 2745921,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/972234/large_2018_01_LeanGreenRideAnywhereMachine_01.jpg",
+      "location_found": null,
+      "manufacturer_name": "OPEN",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OPEN-U.P.-2217",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.74,
+        -117.12
+      ],
+      "stolen_location": "San Diego, CA 92104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/972234/small_2018_01_LeanGreenRideAnywhereMachine_01.jpg",
+      "title": "2017 OPEN U.P.",
+      "url": "https://bikeindex.org/bikes/2745921",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1736154000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Tuscany",
+      "id": 2745899,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/883580/large_IMG_0188.JPG",
+      "location_found": null,
+      "manufacturer_name": "Litespeed",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/883580/small_IMG_0188.JPG",
+      "title": "2001 Litespeed Tuscany",
+      "url": "https://bikeindex.org/bikes/2745899",
+      "year": 2001,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735635600,
+      "description": "Black YT Jeffsy Core 4 \r\nLyric Ultimate \r\nSuper delux \r\nSRAM GX transmission \r\nCRank brothers synthesis wheels \r\nODI Fat grips \r\nFid Lock water bottle cage ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Jeffsy",
+      "id": 2743468,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/881827/large_IMG_2879.JPG",
+      "location_found": null,
+      "manufacturer_name": "YT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN:100000038006/FN: V2310C0284;",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.12,
+        -118.29
+      ],
+      "stolen_location": "Los Angeles, CA 90027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/881827/small_IMG_2879.JPG",
+      "title": "2024 YT Jeffsy",
+      "url": "https://bikeindex.org/bikes/2743468",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744941600,
+      "description": "Has rock shocks recon  \r\nBrakes are level T sram \r\nGrips bontrager \r\nHas a big C on the frontvwith cannondale on the top right side \r\nHas maxxis 29 in tires \r\nRei cup holder \r\nRacefact seat post \r\nAn in middle deluxe select rock shock \r\nRaceface peddels \r\nMadevin taiwan \r\nHA57622\r\nFront shocks # 4018107 120s\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Cannondale habit",
+      "id": 2743084,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/881662/large_1000001111.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IOS4210",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -121.88
+      ],
+      "stolen_location": "San Jose, CA 95112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/881662/small_1000001111.jpg",
+      "title": "2024 Cannondale Cannondale habit",
+      "url": "https://bikeindex.org/bikes/2743084",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1734732000,
+      "description": "White front shock, full suspension, SRAM eagle, drop post",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Superfly 100",
+      "id": 2740054,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/880470/large_IMG_4171.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU309QU5022H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -105.25
+      ],
+      "stolen_location": "Boulder, CO 80305, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/880470/small_IMG_4171.jpeg",
+      "title": "2014 Trek Superfly 100",
+      "url": "https://bikeindex.org/bikes/2740054",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1734570000,
+      "description": "Sram Force groupset, roval Terra CL carbon wheels. ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Diverge",
+      "id": 2747755,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC025052486S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        4.87,
+        -73.88
+      ],
+      "stolen_location": "Guasca, 251210, CO",
+      "thumb": null,
+      "title": "2023 Specialized Diverge",
+      "url": "https://bikeindex.org/bikes/2747755",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733587200,
+      "description": "My specialized enduro is a gray and red bike that has limited edition red splatter sram maven brakes and a fox 38 grip 2 kashima coating fork with a fox float x 2 shock with kashima coating. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Enduro",
+      "id": 2735830,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/878147/large_IMG_2023.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004C03758T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.54,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/878147/small_IMG_2023.jpeg",
+      "title": "2022 Specialized Enduro",
+      "url": "https://bikeindex.org/bikes/2735830",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733378400,
+      "description": "This is a black bike with white accents and many after market parts such as,Rockshox Pike dual position air 150mm/120mm fork\r\nRockshox Monarch RT3 shock 120mm w/rebound adjust and lockout\r\n1x SRAM GX Eagle 12 speed drivetrain with Sunrace cassette and oval chainring\r\nSRAM G2 RSC brakes with 180mm rotors\r\nNukeproof Horizon V2 wheels with Hope Pro 4 hubs\r\nMaxxis Minion DHF/DHR2 tires setup tubeless\r\nPNW Cascade dropper post",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Norco fluid 9.2",
+      "id": 2735094,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877807/large_20241204_200325.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A31017747",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.11,
+        -122.73
+      ],
+      "stolen_location": "Surrey, V3S 4E7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877807/small_20241204_200325.jpg",
+      "title": "2014 Norco Bikes Norco fluid 9.2",
+      "url": "https://bikeindex.org/bikes/2735094",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733004000,
+      "description": "Size Small frame - unusal in UK\r\nENVE handlebars\r\nFox 36 Forks \r\nRockshock reverb dropper post\r\nSRAM GX electronic gears/groupset\r\nDT SWiss wheels ( 27.5 rear and 29 front) and DT Swiss 360 hubs \r\n",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Bronson CC size Small",
+      "id": 2732094,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877039/large_Santa_Cruz_IMG_20211024_203158.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.51,
+        -0.34
+      ],
+      "stolen_location": "London, W7 3HZ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877039/small_Santa_Cruz_IMG_20211024_203158.jpg",
+      "title": "2022 Santa Cruz Bronson CC size Small",
+      "url": "https://bikeindex.org/bikes/2732094",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733004000,
+      "description": "Make and model = Pivot Mach429\r\nColour =  Grey with White logo and blue decals with Reynolds Carbon Wheels - white Reynolds decals\r\n\r\nUnique features = \r\nAnnodised blue alloy hubs\r\nFox 36 Forks\r\nBlue anodised Horizon handlebar clamp\r\nSRAM X01 cranks, Shimano XTR Shifters and gears\r\nRock shock reverb dropper post \r\nWhite nylon pedals\r\nFizik saddle",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mach429 Carbon",
+      "id": 2732096,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/877038/large_PIVOT_PXL_20220820_140235185.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pivot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.51,
+        -0.34
+      ],
+      "stolen_location": "London, W7 3HZ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/877038/small_PIVOT_PXL_20220820_140235185.jpg",
+      "title": "2018 Pivot Mach429 Carbon",
+      "url": "https://bikeindex.org/bikes/2732096",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732309200,
+      "description": "This bike is a Gary Fisher mountain bike frame, but it has been completely rebuilt as a city bike, with the fork and all components replaced from their original.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Piranha",
+      "id": 2729776,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/875700/large_IMG_2669.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.06,
+        -123.08
+      ],
+      "stolen_location": "Eugene, OR 97401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/875700/small_IMG_2669.jpeg",
+      "title": "2008 Gary Fisher Piranha",
+      "url": "https://bikeindex.org/bikes/2729776",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732240800,
+      "description": "It has a little SRAM sticker on the lower back of the frame.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Checkpoint ALR4 52 Matte Galactic Grey",
+      "id": 2729654,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU125AF0438U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.1,
+        -118.06
+      ],
+      "stolen_location": "Templce City, CA 91780, US",
+      "thumb": null,
+      "title": "Trek Checkpoint ALR4 52 Matte Galactic Grey",
+      "url": "https://bikeindex.org/bikes/2729654",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

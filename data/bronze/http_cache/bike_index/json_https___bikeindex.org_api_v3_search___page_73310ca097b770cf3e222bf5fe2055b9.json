@@ -1,0 +1,753 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1753455600,
+      "description": "Serial number is engraved where the pedal connects",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Metrix 40",
+      "id": 2837113,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938681/large_IMG_5373.JPG",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "101230488",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.51,
+        -113.48
+      ],
+      "stolen_location": "Edmonton, T6E 1N3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938681/small_IMG_5373.JPG",
+      "title": "2015 SCOTT Metrix 40",
+      "url": "https://bikeindex.org/bikes/2837113",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752144300,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "290665",
+      "id": 2836022,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938039/large_IMG_1673.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNU30AA0L22070053N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938039/small_IMG_1673.jpeg",
+      "title": "SCOTT 290665",
+      "url": "https://bikeindex.org/bikes/2836022",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753405200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 2835790,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WCR1107789H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.97,
+        -82.41
+      ],
+      "stolen_location": "Sarnia, Ontario, N7T 7N2, CA",
+      "thumb": null,
+      "title": "2025 SCOTT",
+      "url": "https://bikeindex.org/bikes/2835790",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757185200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aspect 910 large black",
+      "id": 2835778,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS20641048",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5H 2J2, CA",
+      "thumb": null,
+      "title": "2023 SCOTT Aspect 910 large black",
+      "url": "https://bikeindex.org/bikes/2835778",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751918400,
+      "description": "Red pedals, computer, lights on at time stolen",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Team",
+      "id": 2845302,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/940549/large_IMG_6453.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EN14781",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.69,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/940549/small_IMG_6453.jpeg",
+      "title": "2020 SCOTT Team",
+      "url": "https://bikeindex.org/bikes/2845302",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751817600,
+      "description": "",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "SCO22C37132",
+      "id": 2862964,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/945238/large_IMG_2519.PNG",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BIKE SCOTT CONTESSA ACTIVE ERIDE 930 M 286536008 02 NGW.",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.99,
+        0.2
+      ],
+      "stolen_location": "Le Mans, 72100, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/945238/small_IMG_2519.PNG",
+      "title": "2023 SCOTT SCO22C37132",
+      "url": "https://bikeindex.org/bikes/2862964",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751817600,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "SCO22C19955",
+      "id": 2863585,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/945245/large_my_stolen_bike.png",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BIKE SCOTT CONTESSA ACTIVE ERIDE 930 S 286536006 NGW.",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.99,
+        0.2
+      ],
+      "stolen_location": "Le Mans, 72100, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/945245/small_my_stolen_bike.png",
+      "title": "2023 SCOTT SCO22C19955",
+      "url": "https://bikeindex.org/bikes/2863585",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751745600,
+      "description": "the bike was all black with black 29 inch tires. the hand grips are tan and the pedals are bright orange. there is a dropper post on the bike with a black Ergon seat/saddle. there is also a bell on the handle bars.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "spark 960",
+      "id": 2832996,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936152/large_2025-07-05_15.34.38.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DONT HAVE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.2,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78744, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936152/small_2025-07-05_15.34.38.jpg",
+      "title": "2023 SCOTT spark 960",
+      "url": "https://bikeindex.org/bikes/2832996",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751706000,
+      "description": "the bike is all black with red cranks, red pedals, red water bottle cage. front tire is tan walled, rear tire is black with yellow letters \"MAXXIS\". bike has a One-Up components seat dropper post and a Fabric brand saddle.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "HAL boost",
+      "id": 2833004,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936157/large_2025-07-05_15.34.48.jpg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DONT HAVE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.2,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78744, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936157/small_2025-07-05_15.34.48.jpg",
+      "title": "Motobecane HAL boost",
+      "url": "https://bikeindex.org/bikes/2833004",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752814800,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": null,
+      "id": 2832486,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GL201644",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5J 4X1, CA",
+      "thumb": null,
+      "title": "SCOTT",
+      "url": "https://bikeindex.org/bikes/2832486",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751409519,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Speedster",
+      "id": 2830830,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.01,
+        -84.53
+      ],
+      "stolen_location": "Lexington, KY 40503, US",
+      "thumb": null,
+      "title": "2018 SCOTT Speedster",
+      "url": "https://bikeindex.org/bikes/2830830",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751403990,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Scott",
+      "id": 2830804,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.29,
+        7.19
+      ],
+      "stolen_location": "Wuppertal, 42281, DE",
+      "thumb": null,
+      "title": "2020 SCOTT Scott",
+      "url": "https://bikeindex.org/bikes/2830804",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751392771,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Scale 970",
+      "id": 2830721,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SJM10AA0M22070016A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.41,
+        -113.45
+      ],
+      "stolen_location": "Edmonton, T6X 0V4, CA",
+      "thumb": null,
+      "title": "2022 SCOTT Scale 970",
+      "url": "https://bikeindex.org/bikes/2830721",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751378400,
+      "description": "Scale Small 27.5 alt",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Scale Small 27.5 alt",
+      "id": 718396,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/238113/large_20200425_203116.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C9DV5723",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.56,
+        -114.47
+      ],
+      "stolen_location": "Wabamun, T0E 0A3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/238113/small_20200425_203116.jpg",
+      "title": "2019 SCOTT Scale Small 27.5 alt",
+      "url": "https://bikeindex.org/bikes/718396",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777521600,
+      "description": "",
+      "frame_colors": [
+        "Purple",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Ironman Dave Scott Expert",
+      "id": 2829426,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934213/large_IMG_8065.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Centurion",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "N7A5169",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934213/small_IMG_8065.jpeg",
+      "title": "Centurion Ironman Dave Scott Expert",
+      "url": "https://bikeindex.org/bikes/2829426",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751364000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Contessa Spark RC700",
+      "id": 2827062,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "STM21D20S15060048G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.61
+      ],
+      "stolen_location": "Edmonton, T5P 4E8, CA",
+      "thumb": null,
+      "title": "SCOTT Contessa Spark RC700",
+      "url": "https://bikeindex.org/bikes/2827062",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750730400,
+      "description": "Contessa 20 Rigid Teal 20\"",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Contessa 20 Rigid Teal 20\"",
+      "id": 716369,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS90907026",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.44
+      ],
+      "stolen_location": "Edmonton, T6A 2Z6, CA",
+      "thumb": null,
+      "title": "2020 SCOTT Contessa 20 Rigid Teal 20\"",
+      "url": "https://bikeindex.org/bikes/716369",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750618800,
+      "description": "All Black, Carbon Fibre framed mountain bike with light wear.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Scale 940",
+      "id": 2825942,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/931952/large_Potential_Listing_Of_Stolen_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SCM31D10M23020108N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.0,
+        -96.84
+      ],
+      "stolen_location": "Dallas, TX 75287, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/931952/small_Potential_Listing_Of_Stolen_Bike.jpg",
+      "title": "2023 SCOTT Scale 940",
+      "url": "https://bikeindex.org/bikes/2825942",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750380992,
+      "description": "Sub Cross 40 Men Large Flake",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Sub Cross 40 Men Large Flake",
+      "id": 1440365,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS10960678",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": null,
+      "title": "2022 SCOTT Sub Cross 40 Men Large Flake",
+      "url": "https://bikeindex.org/bikes/1440365",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751148000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "CR 10 COMP CYBERCROSS",
+      "id": 2820945,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EN 14781",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": null,
+      "title": "2025 SCOTT CR 10 COMP CYBERCROSS",
+      "url": "https://bikeindex.org/bikes/2820945",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749859200,
+      "description": "A Scott aspect dark gray color has a little bit scratches for locking it up on the side back of bike basically brand new. Front shocks only 26 inch.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Aspect",
+      "id": 2820300,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/928459/large_1000010691.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS10973533",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.04,
+        -123.23
+      ],
+      "stolen_location": "Eugene, OR 97402, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/928459/small_1000010691.jpg",
+      "title": "2025 SCOTT Aspect",
+      "url": "https://bikeindex.org/bikes/2820300",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": null,
+      "id": 2819695,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Minneapolis, MN 55419, United States",
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "2012 SCOTT",
+      "url": "https://bikeindex.org/bikes/2819695",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749492000,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Sub Cross Alloy 6061",
+      "id": 2817539,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/926420/large_unnamed.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.53
+      ],
+      "stolen_location": "Edmonton, T6G 2G8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/926420/small_unnamed.jpg",
+      "title": "2011 SCOTT Sub Cross Alloy 6061",
+      "url": "https://bikeindex.org/bikes/2817539",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749373200,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Addict RC15",
+      "id": 2817325,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/926247/large_IMG_1456.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.39,
+        -122.14
+      ],
+      "stolen_location": "Los Altos, CA 94022, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/926247/small_IMG_1456.jpg",
+      "title": "2020 SCOTT Addict RC15",
+      "url": "https://bikeindex.org/bikes/2817325",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749162223,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Genius 720",
+      "id": 2814835,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/924501/large_IMG_7812.JPG",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "NOT AVAILABLE",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.08
+      ],
+      "stolen_location": "Calgary, T2N 1S8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/924501/small_IMG_7812.JPG",
+      "title": "2013 SCOTT Genius 720",
+      "url": "https://bikeindex.org/bikes/2814835",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

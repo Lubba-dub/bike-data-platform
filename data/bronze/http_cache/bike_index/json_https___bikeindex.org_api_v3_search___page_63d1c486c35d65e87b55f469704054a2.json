@@ -1,0 +1,758 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1754323200,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "SB LR SRAM",
+      "id": 2866381,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7ESFD510017",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -105.25
+      ],
+      "stolen_location": "Boulder, CO 80305, US",
+      "thumb": null,
+      "title": "2018 Yeti SB LR SRAM",
+      "url": "https://bikeindex.org/bikes/2866381",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768302000,
+      "description": "Fork: CYC9\r\nShock: CZNM\r\nCrank: FC-M615",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Fluid 7.1",
+      "id": 2865962,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/946729/large_20190425_135519.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A310405",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        46.09,
+        -64.68
+      ],
+      "stolen_location": "Dieppe, E1K 0A2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/946729/small_20190425_135519.jpg",
+      "title": "2016 Norco Bikes Fluid 7.1",
+      "url": "https://bikeindex.org/bikes/2865962",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753923600,
+      "description": "TRIBAN GRVL 520 SRAM APEX",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 2863787,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/945422/large_WhatsApp_Image_2025-07-31_at_17.58.09.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "721529",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.21,
+        16.42
+      ],
+      "stolen_location": "Vienna, 1020, AT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/945422/small_WhatsApp_Image_2025-07-31_at_17.58.09.jpeg",
+      "title": "Decathlon",
+      "url": "https://bikeindex.org/bikes/2863787",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753713000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Scale 710 Plus",
+      "id": 2851805,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/944102/large_IMG_3753.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/944102/small_IMG_3753.jpeg",
+      "title": "2017 SCOTT Scale 710 Plus",
+      "url": "https://bikeindex.org/bikes/2851805",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753290240,
+      "description": "it is a 2025 specialized enduro s - works frames (glossy black with slight sparkle) has large silver decals on both sides reading \"S=WORKS\" and has an oil slick chain and cassette ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Enduro S-WORKS S3",
+      "id": 2849689,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942955/large_E7E489BA-DD8A-4D7D-830E-4D1B54EA2B8F_4_5005_c.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004309082R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.36,
+        -122.1
+      ],
+      "stolen_location": "Los Altos, CA 94024, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942955/small_E7E489BA-DD8A-4D7D-830E-4D1B54EA2B8F_4_5005_c.jpeg",
+      "title": "2025 Specialized Enduro S-WORKS S3",
+      "url": "https://bikeindex.org/bikes/2849689",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753135200,
+      "description": "Blue pedals and handle bars. Had an orange hub cap on the handle bars. Also contained a SRAM derailer",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Specialized Stump Jumper S5",
+      "id": 2848007,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/941888/large_IMG_8428.PNG",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004467697S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.96,
+        -75.15
+      ],
+      "stolen_location": "Philadelphia, PA 19123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/941888/small_IMG_8428.PNG",
+      "title": "2021 Specialized Specialized Stump Jumper S5",
+      "url": "https://bikeindex.org/bikes/2848007",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753084800,
+      "description": "Rama Scott spark rc pro 2022 \r\n- Amortyzator fox 34 kashima/ Damper fox nude 5 EVOL\r\n- Koła 29 accent exe evo boost v2(głośne) z oponami maxxis recon race 2.4 na tarczach galfera \r\n- Hamulce shimano xtr w wersji 9020 \r\n- Napęd sram x01 i nowy łańcuch xx1 \r\n- Sztyca regulowana fox transfer performance elite 31.6 150mm\r\n- Kierownica syncros fraser integrowana z mostkiem i gripy esi",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Spark RC PRO",
+      "id": 2847706,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/941707/large_IMG-20250721-WA0010.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "STM29D10L21050558N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        17.0
+      ],
+      "stolen_location": "Wroclaw, 53-004, PL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/941707/small_IMG-20250721-WA0010.jpg",
+      "title": "2022 SCOTT Spark RC PRO",
+      "url": "https://bikeindex.org/bikes/2847706",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753070400,
+      "description": "SRAM XXSL, Shimano XTR Brakes, Crankbrothers Egg Beaters, ESI\r\nGrips, Maxxis Aspens\r\nSerial: WTU 341QU 0002 U",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Supercaliber Factory Racing",
+      "id": 2847919,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/941811/large_IMG_0225.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 341QU 0002 U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -105.22
+      ],
+      "stolen_location": "Golden, CO 80401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/941811/small_IMG_0225.jpeg",
+      "title": "2024 Trek Supercaliber Factory Racing",
+      "url": "https://bikeindex.org/bikes/2847919",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752958800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MADONE SLR 7",
+      "id": 2846746,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/941216/large_tempImageDBCO5z.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU070QU0017R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.26,
+        -122.5
+      ],
+      "stolen_location": "Tacoma, WA 98406, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/941216/small_tempImageDBCO5z.jpg",
+      "title": "2020 Trek MADONE SLR 7",
+      "url": "https://bikeindex.org/bikes/2846746",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752919200,
+      "description": "Black with orange decals on frame and SID fork.  I REMOVED THE DROPPER POST.  It is a black carbon Whiskey Parts Co. seatpost.  2 water bottle cages meant to be removed by a left-handed rider, not right-handed.  Selle Italia SLR Boost Superflow Saddle with Ti rails.  SRAM GX cabled components, not AXS.  Deore XTR pedals.  Lezyne tire plug tool is the handlebar plug in either the left or right side, I can't remember which.  Maxxis Aspen tires, 29\" x 2.25\".  Rear tire needs more sealant or to be replaced as it loses air quickly.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Blur Carbon S",
+      "id": 2848420,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/942173/large_Santa_Cruz_Blur_S_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S21D2P1BL4LGC0032",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.66,
+        -111.84
+      ],
+      "stolen_location": "Holladay, UT 84117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/942173/small_Santa_Cruz_Blur_S_2.jpg",
+      "title": "2021 Santa Cruz Blur Carbon S",
+      "url": "https://bikeindex.org/bikes/2848420",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752760800,
+      "description": "M5 fully manipulated alloy, 29\" geometry, tapered HT, PF30 BB, PM 140mm rear brake, 135mm dropouts, replaceable derailleur hanger",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Stumpjumper FSR Comp 29",
+      "id": 2878119,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948025/large_IMG_5912.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC601053494G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.21,
+        -123.34
+      ],
+      "stolen_location": "Roseburg, OR 97470, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948025/small_IMG_5912.jpeg",
+      "title": "2012 Specialized Stumpjumper FSR Comp 29",
+      "url": "https://bikeindex.org/bikes/2878119",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752487200,
+      "description": "with blue handlebars, 2015 Specialized Demo 8 frame. \r\nCromags handle bar. \r\nRockShox BoXXer RC 27.5 fork and FOX VAN RC rear shock for suspension. \r\nSRAM Guide RS hydraulic disc brakes. \r\n7 speed SRAM drivetrain. \r\nDHR Maxxis wheels 27.5 x 50 front and DHF Maxxis wheels 27.5 x 30 rear. \r\nRaceface crankset and Stamp 2 pedal.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Demo 8",
+      "id": 2838835,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/939710/large_att._R_6vNcEJNAkMPn71CM3oo8Rffj5K7bW4LdIE0Jz9t0.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.51
+      ],
+      "stolen_location": "Edmonton, T5J 5E4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/939710/small_att._R_6vNcEJNAkMPn71CM3oo8Rffj5K7bW4LdIE0Jz9t0.jpeg",
+      "title": "2015 Specialized Demo 8",
+      "url": "https://bikeindex.org/bikes/2838835",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752102000,
+      "description": "Specs:\r\nFrame: Medium, Carbon Fiber\r\nFork: Rockshox Zeb Ultimate 170MM Travel, has the Charger 3 damper with adjustments for rebound and Compression\r\nShock: Rockshox Vivid Ultimate with adjustments for rebound and compression Derailleur/Shifter/Cranks/Cassette/Chain:\r\nNew Shimano XT 12 Speed with Clutch Wheels: Raceface Aeffect\r\nTires: Maxxis Assegai 2.5 (f), Maxxis Minion\r\nDHF (R)\r\nBrakes: Sram Code RSC\r\nBars: Oneup Carbon Fiber Riser\r\nGrips: PNW Loam",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Sentinel",
+      "id": 2835998,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/938047/large_IMG_8470.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Transition Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TBC4329336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.84,
+        -122.29
+      ],
+      "stolen_location": "Lynnwood, WA 98037, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/938047/small_IMG_8470.jpeg",
+      "title": "2023 Transition Bikes Sentinel",
+      "url": "https://bikeindex.org/bikes/2835998",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751815800,
+      "description": "Upgraded 2013 Surly Moonlander (Large, 20\" seat tube). Dark (Space?) black/gray metallic paint (white decals), some rust at headset, mounts and bottom bracket. Offset fork (slight \"S' bend) due to narrow wheel hubs. Front hub has additional threading on one side. Original Clown Shoe rims w black rim liner. Bontrager Barbegazi (?) tires 27.5 x 4.5\" (prob have red iron dust on them). Upgraded gruppo: single front ring (orig was double ring), massive rear 11 or 12 speed cassette with \"stump puller\" type cog. Sram Level T hydraulic disc brakes (o.g. were cable actuated Shimano). Ergo grips on flat mountain style handlebar. 45North pedals, black with orange spikes/teeth (some worn and broken off). orig WTB saddle.\r\n\r\nPosted photos are prior to upgrades.\r\n\r\nSurly Moonlander, Surly 4130 CroMoly steel. Main triangle double-butted. TIG-welded",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Moonlander",
+      "id": 2834710,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/937148/large_DSC_0153.JPG",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M12066595",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.34
+      ],
+      "stolen_location": "Minneapolis, MN 55416, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/937148/small_DSC_0153.JPG",
+      "title": "2013 Surly Moonlander",
+      "url": "https://bikeindex.org/bikes/2834710",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751598000,
+      "description": "Orange bar tape, Terra carbon wheels 38mm Pathfinder pros. Black spurcycle bell, quad lock pro mount with red tab, one roval tubeless valve with tool cap, one mucoff black tubeless valestem, orange Waterbottle cages, water bottle tool kit orange strapped in with my name Tyler Oshnock printed on it. Topeak micro rocket pump, crank bothers pedals, sram apex, literally a completely worn out drive train, selle Italia super boost saddle, red reflector on seat post, fox sticker on headtube, handup stickers matching on each side of seat post tube, faded party time sticker inside of rear stansions, downtube protector peeling off bottom, hand written note inside seat post \"this is my bike bitch - Tyler Oshnock\" damage through out, 20k miles on the frame every piece of it is scratched and chipped paint throughout, distinct wear \"strips\" from touring frame bags, seat post clamp is reversed. The whole bike is basically used up besides the frame tires and wheels, It's been over 20,000 miles all over the united states. I miss it dearly already. ",
+      "frame_colors": [
+        "Red",
+        "Orange"
+      ],
+      "frame_model": "Diverge",
+      "id": 2833134,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936252/large_683.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC614023661P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.49,
+        -83.13
+      ],
+      "stolen_location": "Royal Oak, MI 48067, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936252/small_683.jpg",
+      "title": "2020 Specialized Diverge",
+      "url": "https://bikeindex.org/bikes/2833134",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750896000,
+      "description": "Bike was stolen from the back of my parked car in the PSU Blumel Hall garage. Noticed stolen at 14:20 on Wednesday, June 25, 2025.\r\n\r\nFrame & Fork:\r\n\r\n- Frame: ICAN X-Gravel (54cm / Medium)\r\n- Fork: ICAN X-Gravel (included)\r\n- Purchase: January 2023 ($860 incl. shipping)\r\n\r\nDrivetrain:\r\n\r\n- Crankset: FSA SL-K Team Issue 386evo (172.5mm)\r\n- Chainring: Raceface 38t Narrow-Wide\r\n- Cassette: SRAM XX1 11-speed\r\n- Shifter/Derailleur: Shimano SLX\r\n- Bottom Bracket: FSA\r\n\r\nWheels & Tires:\r\n\r\n- Rims: WTB i19\r\n- Hubs:\r\n    - Front: Shimano 105\r\n    - Rear: Stans 3.30\r\n- Spokes: Sapim Laser\r\n- Tires: Maxxis DTR-1 (650b x 47mm)\r\n\r\nBrakes:\r\n\r\n- Brakes: Shimano Metrea (flat mount)\r\n- Rotors: Shimano XTR (140mm front/rear)\r\n\r\nCockpit:\r\n\r\n- Handlebars: Renthal Fatbar Carbon Lite (690mm, 20mm rise, 31.8mm clamp)\r\n- Stem: Kona (60mm)\r\n- Grips: ODI Vapor\r\n\r\nSeating:\r\n\r\n- Seatpost: FSA XC-190 (27.2mm diameter)\r\n- Saddle: WTB Volt (Kona-branded)\r\n\r\nExtras:\r\n\r\n- Fenders: Planet Bike Cascadia\r\n- Pedals: Kona JS2 pedals",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 2827315,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/932944/large_signal-2025-06-23-210316_009.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/932944/small_signal-2025-06-23-210316_009.jpeg",
+      "title": "Kona",
+      "url": "https://bikeindex.org/bikes/2827315",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752076800,
+      "description": "Clay in color: sort of a grey with a slight tint of pink or purple depending on how you see it. Has black/ grey camo frame protection.\r\n\r\nRaised Diety handlebars with Race Face grips, XO1 shifter, One Industries dropper lever, and a black bell. Headset cap says \"UNFUCK YOURSELF\" w/ blue titanium hardware\r\n\r\nThis mullet is running on Specialized Butcher tires, 2.6 wide w/ Cush Core inserts front and rear. Front wheel is a Industry Nine 29\" and the rear is a stock Specialized 27.5\" wheel, both with blue anodized Muc Off tubless stems.\r\n\r\nSram drive train and brakes, the backside (wheelside) of the NX derailleur has blue paint on it, just for looks. Sram GX crank arms with Race Face Turbine pedals.\r\n\r\nFox 36 Rhythm 140mm forks with the stickers removed. Fox Float DPX2 140mm shock\r\n\r\nSelle Italia saddle",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "Status",
+      "id": 2821706,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/929347/large_IMG_5971.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC001071818R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.4
+      ],
+      "stolen_location": "Troutdale, OR 97060, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/929347/small_IMG_5971.jpeg",
+      "title": "2021 Specialized Status",
+      "url": "https://bikeindex.org/bikes/2821706",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749942000,
+      "description": "Cervelo Aspero with SRAM Apex",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Aspero",
+      "id": 1655313,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B0B5123B028",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.04
+      ],
+      "stolen_location": "Calgary, T2G 2E9, CA",
+      "thumb": null,
+      "title": "2023 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/1655313",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749459600,
+      "description": "brown/copper color; SRAM group-set; like new condition; Brooks saddle; have original receipt.",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Sutra Unlimited",
+      "id": 2830101,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934602/large_kona_sutra_ultd_photo.png",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F10AL2925",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.39,
+        -122.14
+      ],
+      "stolen_location": "Los Altos, CA 94022, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934602/small_kona_sutra_ultd_photo.png",
+      "title": "2021 Kona Sutra Unlimited",
+      "url": "https://bikeindex.org/bikes/2830101",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748739735,
+      "description": "6061 T6 aluminum, butted & hydroformed tubing, cold-forged dropouts  &  bottom bracket , G2 29\" Geometry Frame & Fork\r\nFrame  Construction\tTIG - welded\r\nFrame  Material\t Alloy\r\nFork\tSR  Suntour SF11  XCT  V3, 100mm  travel\r\n\r\nComponents\r\nComponent Group\tMountain Mix\r\n Brakeset \tTektro  Novela\r\nShift  Levers\tSRAM X.4\r\nFront  Derailleur\tShimano  Altus\r\nRear Derailleur\tSRAM  X..4\r\n Crankset\tShimano  Altus,  22/32/42 teeth\r\nPedals\tWellgo ATB\r\nBottom Bracket\tUnspecified\r\nBB Shell Width\tUnspecified\r\nRear Cogs\t8-speed, 11 - 32 teeth\r\nSeatpost\tBontrager SSR, 27.2mm diameter\r\nSaddle\tBontrager Evoke 1\r\nHandlebar\r\nHandlebars\tBontrager Approved Big Sweep\r\nHandlebar Stem\tBontrager Approved\r\nHeadset\t1 1/8\" threadless Semi\r\nWheel Size\t29\" wheels\r\nHubs\tFront : Formula  DC20, Rear: Shimano M475\r\nRims\tBontrager Ranger, 32-hole",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Marlin",
+      "id": 1104093,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/456230/large_20210715_180915.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 274C0635F",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/456230/small_20210715_180915.jpg",
+      "title": "2011 Trek Marlin",
+      "url": "https://bikeindex.org/bikes/1104093",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748703600,
+      "description": "2021 Specialized Status 160 mullet (29\" front / 27.5\" rear) in charcoal. Blue Deity composite pedals, Kids Ride Shotgun child seat on top tube, Fox 36 Rhythm 160 mm fork, Fox Float DPX2 shock, SRAM NX Eagle drivetrain.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Status 160 (S4)",
+      "id": 2811501,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/922478/large_b75960e4-0dd1-42ad-b2f7-9c6c300b2d0d.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC001024604S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/922478/small_b75960e4-0dd1-42ad-b2f7-9c6c300b2d0d.jpg",
+      "title": "2021 Specialized Status 160 (S4)",
+      "url": "https://bikeindex.org/bikes/2811501",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748487600,
+      "description": "Black fenders, dark blue saddle under the seat, black spoke reflectors ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "specialized sirrus x 4.0",
+      "id": 1651622,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/742433/large_IMG_1473.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC024050822T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.32
+      ],
+      "stolen_location": "Seattle, WA 98102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/742433/small_IMG_1473.jpeg",
+      "title": "2022 Specialized specialized sirrus x 4.0",
+      "url": "https://bikeindex.org/bikes/1651622",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748095200,
+      "description": "Black on black, disk breaks, SRAM ETAP electronic shifting, a quarter sized scuff mark on the handlebars by the fork stem, DT Swiss carbon wheels, black carbon bottle cage and silver aluminum bottle cage, under seat saddle bag, black bell on the right handlebar",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Endurace CF SLX",
+      "id": 2815274,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/924727/large_IMG_3592.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07702AC23E5355",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.92,
+        -122.34
+      ],
+      "stolen_location": "Richmond, CA 94804, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/924727/small_IMG_3592.jpeg",
+      "title": "2023 Canyon bicycles Endurace CF SLX",
+      "url": "https://bikeindex.org/bikes/2815274",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747972800,
+      "description": "Scott Patron 920 e-ride\r\nSRAM XO1 Transmission \r\nENVE Carbon Rims\r\nWolf tooth Dropper Lever",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": null,
+      "id": 2811225,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/922295/large_69049895460__DDF38A83-EA1B-4D97-A01B-7CA87755741E.jpeg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SGM12FA0L22040196",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.95,
+        -122.02
+      ],
+      "stolen_location": "Concord, CA 94518, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/922295/small_69049895460__DDF38A83-EA1B-4D97-A01B-7CA87755741E.jpeg",
+      "title": "2022 SCOTT",
+      "url": "https://bikeindex.org/bikes/2811225",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747785600,
+      "description": "SRAM RED ETAP\r\nVision Trimax KB25 Wheels\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ultimate CF SL 9.0 ETAP",
+      "id": 2805862,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/918935/large_DSC_2681.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R2218H17G00423",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.0,
+        2.84
+      ],
+      "stolen_location": "Girona, 17007, ES",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/918935/small_DSC_2681.jpeg",
+      "title": "2018 Canyon bicycles Ultimate CF SL 9.0 ETAP",
+      "url": "https://bikeindex.org/bikes/2805862",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

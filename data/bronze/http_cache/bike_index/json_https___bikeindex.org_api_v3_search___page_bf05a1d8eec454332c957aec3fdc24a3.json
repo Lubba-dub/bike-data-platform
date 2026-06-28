@@ -1,0 +1,755 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1775318400,
+      "description": "My stolen bike is a white (with black/gold accents) 2022-2024 Trek Domane AL 4 that is in good condition other than cosmetic wear/tear (eg, scratches on pedals/handlebars, etc). Notable bike modifications/accessories that are currently installed or are also missing include:\r\na) 3 bike bags: \r\ni. repair bag/kit (black saddle bag)\r\nii. split colored orange/grey oveja negra forward top tube bag\r\niii. black Almsthre Stem Bag with blue waterproof interior (last fixed on stem's left side)\r\nb) Specialized Romin Evo Pro 3D-printed saddle (black)\r\nc) black Shimano clipless road pedals\r\nd) bike essentially otherwise outfitted with the model's stock gear/parts\r\ne) other/accessories missing at time of theft:\r\ni.  Giro Aries Spherical helmet (notable for its ball-in-socket Mips design)\r\nii. white Giro racing gloves with fingertip cutaways",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Domane AL Era White Gen 4",
+      "id": 3359473,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1014197/large_white_Trek_Domane_AL_4.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU074XC1042X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.78,
+        -104.87
+      ],
+      "stolen_location": "Denver, CO 80238, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1014197/small_white_Trek_Domane_AL_4.png",
+      "title": "2024 Trek Domane AL Era White Gen 4",
+      "url": "https://bikeindex.org/bikes/3359473",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771454100,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Marlin 7 Gen 3",
+      "id": 3340261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1003909/large_IMG_8146.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU028 XC 0520 X",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.42,
+        -111.95
+      ],
+      "stolen_location": "Tempe, AZ 85281, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1003909/small_IMG_8146.jpg",
+      "title": "2025 Trek Marlin 7 Gen 3",
+      "url": "https://bikeindex.org/bikes/3340261",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1778338800,
+      "description": "Bike has brown side walls and a matching brown seat and is like new donation ",
+      "frame_colors": [
+        "Blue",
+        "Brown",
+        "Black"
+      ],
+      "frame_model": "M20",
+      "id": 3254784,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/993867/large_PXL_20260101_035217399.jpg",
+      "location_found": null,
+      "manufacturer_name": "Enguie",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WM20240603M200072",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        30.26,
+        -97.71
+      ],
+      "stolen_location": "Austin, TX 78702, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/993867/small_PXL_20260101_035217399.jpg",
+      "title": "2025 Enguie M20",
+      "url": "https://bikeindex.org/bikes/3254784",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "White with tritone blue design and lettering. Has a black cargo rack on the back. Tires are somewhere between 20 and 24 inches. Built in battery.\r\nFound over Christmas/winter break, December 2025. Was \"abandoned\" along centre Ave and was lying unlocked and unattended in the grass between the road and the bike trail on the west side of Centre. After looking around and waiting 45 minutes or so, I decided to move it against the fence and put a note on it. The note basically called for the attention of the owner to claim the bike or risk forfeiture. I walked by the bike daily for 5 days, making sure it was still visible from the road and trail and that my note with phone number were still attached. On day 5, I was so excited that it was still there and it was like a Christmas present from the universe!!\r\nAlthough the students aren't all back from their vacations, im pretty sure that it is still abandoned or unclaimed as there is no CSU registration sticker on it so must have had a non-student owner.\r\nAnyway, it is now day 7 and I have brought the bike home to register and officially adopt !! :) yay",
+      "frame_colors": [
+        "White",
+        "Blue"
+      ],
+      "frame_model": "XP foldable",
+      "id": 3254233,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Fort Collins, CO 80526, United States",
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Lectric eBikes XP foldable",
+      "url": "https://bikeindex.org/bikes/3254233",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767049200,
+      "description": "Black and white Tommaso Superleggera, lightweight road bike, black and white with some stickers on it. Super lightweight frame. It was my partners bike before he died.  Origional handle bars, shifters, and cool black and white bar tape. 27 gears https://www.youtube.com/watch?v=5SIIqH7KcKg it's very similar to this bike ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Superleggera",
+      "id": 3254201,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/993488/large_IMG_20220911_202843_751.jpg",
+      "location_found": null,
+      "manufacturer_name": "Tommaso",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/993488/small_IMG_20220911_202843_751.jpg",
+      "title": "2009 Tommaso Superleggera",
+      "url": "https://bikeindex.org/bikes/3254201",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766181600,
+      "description": "Light blue electric Radster Road Bike with black metal basket w/ black velcro sack on the back and side black saddle on the left side of the bike that contains another lock & bungie cord.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "05501A",
+      "id": 3251305,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RT1B24V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": null,
+      "title": "2025 Rad Power Bikes 05501A",
+      "url": "https://bikeindex.org/bikes/3251305",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761800400,
+      "description": "Red road bike with dropped handle bars with black bar tape, black bike rack, silver rims and silver bell. There is a faded sticker from a bike shop in San Antonio, Texas on the tube.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Tourmalet",
+      "id": 3222086,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981829/large_IMG_3638.jpg",
+      "location_found": null,
+      "manufacturer_name": "LeMond",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TU225108323053",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.6,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98104, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981829/small_IMG_3638.jpg",
+      "title": "1999 LeMond Tourmalet",
+      "url": "https://bikeindex.org/bikes/3222086",
+      "year": 1999,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761253200,
+      "description": "Extremely large frame as I am 6'4\" and it is big for me.  I have Key and charger so Battery will no last long.  Bike has black fenders, back carry rack, disc brakes, and stickers for Apple  on back fender and happy 'everyone needs a banner stickers on front of frame. One of 2 bike stolen from Mayfair is SW  Calgary. Recovered one road bike to date.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "EX large Black Fat tire bike from Costco. Very large bike",
+      "id": 3219217,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979751/large_IMG_4628.jpeg",
+      "location_found": null,
+      "manufacturer_name": "iGo Electric Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.0,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2V 2G1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979751/small_IMG_4628.jpeg",
+      "title": "2020 iGo Electric Bikes EX large Black Fat tire bike from Cos...",
+      "url": "https://bikeindex.org/bikes/3219217",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758675600,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Degree 24 inch",
+      "id": 3362512,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1016365/large_nakamura-degree-24-junior-mountain-bike-3b4374ce-b0a4-42c2-ba77-4d64b50d5f6c-jpgrendition.jpg",
+      "location_found": null,
+      "manufacturer_name": "Nakamura",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "334488229",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.69
+      ],
+      "stolen_location": "Edmonton, T5T 6Y8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1016365/small_nakamura-degree-24-junior-mountain-bike-3b4374ce-b0a4-42c2-ba77-4d64b50d5f6c-jpgrendition.jpg",
+      "title": "Nakamura Degree 24 inch",
+      "url": "https://bikeindex.org/bikes/3362512",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758528000,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Radcity St 5 Plus",
+      "id": 1685566,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974442/large_741e268f-b539-4e7c-8160-d3ea2cd8aaa0.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CU5H21B3911",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.45,
+        -122.28
+      ],
+      "stolen_location": "Seattle, WA 98188, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974442/small_741e268f-b539-4e7c-8160-d3ea2cd8aaa0.jpeg",
+      "title": "2021 Rad Power Bikes Radcity St 5 Plus",
+      "url": "https://bikeindex.org/bikes/1685566",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758456000,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Dolce",
+      "id": 3198398,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/969108/large_IMG_3258.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/969108/small_IMG_3258.jpeg",
+      "title": "2016 Specialized Dolce",
+      "url": "https://bikeindex.org/bikes/3198398",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757469600,
+      "description": "The GT Transeo 4.0 is a hybrid bike designed for riders who want something versatile — comfortable for commuting and fitness rides, but also capable of handling light trails and gravel. Here are the main details about it:\r\nOverview\r\nCategory: Hybrid / Fitness / Commuter\r\nBrand: GT Bicycles \r\nFrame: Aluminum (lightweight, durable, upright geometry)\r\nFork: Equipped with a front suspension fork with a lockout option for efficient road riding\r\nWheels: 700c wheels (like a road bike, but wider tires for stability and comfort)\r\nSpeeds/Drivetrain: Typically a 3x8 (24-speed) Shimano or microSHIFT drivetrain\r\nBrakes: Mechanical disc brakes (reliable stopping power in all weather, but not hydraulic)\r\nTires: 700x40c (good balance of speed and shock absorption)\r\nOther features: Rack and fender mounts, blue MEC carrying panniers.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Transeo 4.0",
+      "id": 3186042,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964219/large_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM14M540336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.05
+      ],
+      "stolen_location": "Calgary, T2E 7W2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964219/small_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "title": "GT Bicycles Transeo 4.0",
+      "url": "https://bikeindex.org/bikes/3186042",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756227180,
+      "description": "Gray tilt 120 Btwin gray/navy colour. Dent on the gear change. There is a broken mobile phone holder on the right side of the handle bar.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Tilt 120",
+      "id": 3069841,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959899/large_IMG_4103.jpeg",
+      "location_found": null,
+      "manufacturer_name": "b'Twin",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0000 0229 0386",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.55,
+        -0.11
+      ],
+      "stolen_location": "London, N7 8DJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959899/small_IMG_4103.jpeg",
+      "title": "2023 b'Twin Tilt 120",
+      "url": "https://bikeindex.org/bikes/3069841",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754910000,
+      "description": "Giant Revel 3. Black with Red & White colouring on frame & forks. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mens",
+      "id": 2928717,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.46,
+        -0.98
+      ],
+      "stolen_location": "Reading, RG1 7RH, GB",
+      "thumb": null,
+      "title": "2020 Giant Mens",
+      "url": "https://bikeindex.org/bikes/2928717",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754884800,
+      "description": "The back tire axle had a Thule Axle Mount EzHitch to attach a bike trailer to. Handlebar tape is mismatched side to side.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Alto TiB7005",
+      "id": 2928490,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/950209/large_Screenshot_2025-08-11_at_8.12.40_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Opus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.53,
+        -113.47
+      ],
+      "stolen_location": "Edmonton, T6C 4E1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/950209/small_Screenshot_2025-08-11_at_8.12.40_PM.png",
+      "title": "Opus Alto TiB7005",
+      "url": "https://bikeindex.org/bikes/2928490",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746435600,
+      "description": "Bike is a gravel bike. It has upgraded deep dish LIGHT road rims.  Pedals are flat on one side and spd on the other ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "E9 RDO RLT",
+      "id": 2798548,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914353/large_IMG_5139.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Niner",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2500000006241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914353/small_IMG_5139.jpeg",
+      "title": "2023 Niner E9 RDO RLT",
+      "url": "https://bikeindex.org/bikes/2798548",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743627600,
+      "description": "Old styled road bike, I think size small. Probably from 1980s. Yellow miele written down side",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Road Champion",
+      "id": 1649308,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/902072/large_IMG_3734.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Miele bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AS550584",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.52
+      ],
+      "stolen_location": "Edmonton, T6G 2S2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/902072/small_IMG_3734.jpeg",
+      "title": "Miele bicycles Road Champion",
+      "url": "https://bikeindex.org/bikes/1649308",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Found frame on side of road was curious about what kind of bike it is\r\n",
+      "frame_colors": [
+        "Stickers tape or other cover-up"
+      ],
+      "frame_model": "Not sure",
+      "id": 2755779,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "Pekin, IL 61554, United States",
+      "manufacturer_name": "Not sure",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "2025 Not sure Not sure",
+      "url": "https://bikeindex.org/bikes/2755779",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758664800,
+      "description": "A black Lectric XP 3.0 with blue accents.  Has rear cargo rack installed along with fenders and headlight, a cargo net over the cargo rack, phone mount on handlebar.  There is a rub mark on the blue lectric  logo on the left hand side of the bike.  I removed the front wheel reflector after purchase. ",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "xp 3.0 Step Over",
+      "id": 2751698,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/970184/large_20250210_183209.jpg",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD24JB9793",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80310, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/970184/small_20250210_183209.jpg",
+      "title": "2025 Lectric eBikes xp 3.0 Step Over",
+      "url": "https://bikeindex.org/bikes/2751698",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735941600,
+      "description": "62 Rivendell road custom. Blue frame with cream head tube. A few black swift industries bags. 700cx38 panaracer tires. with jones loop bars. Stem is a quill to threadless stem with a chromag mountain bike stem.  2 Joe bell signatures one under the bike says 7/27/98and one on the lower rear frame. Says JB. Brooks leather saddle, Ritchie seat post. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Road 62 custom Joe bell/ zeller boys.",
+      "id": 2744230,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/882304/large_IMG_0002.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Rivendell Bicycle Works",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JS9833",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.45,
+        -122.28
+      ],
+      "stolen_location": "Tukwila, WA 98188, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/882304/small_IMG_0002.jpeg",
+      "title": "1998 Rivendell Bicycle Works Road 62 custom Joe bell/ zeller boys.",
+      "url": "https://bikeindex.org/bikes/2744230",
+      "year": 1998,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728115200,
+      "description": "Drop handles, 2 bottle cages on frame, Salsa anything cage on front left side, front and rear flashing lights, color changing lights in both spokes.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "6061 All Road",
+      "id": 1199627,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/863723/large_IMG_6122.jpeg",
+      "location_found": null,
+      "manufacturer_name": "State Bicycle Co.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SBCAT2100369",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98144, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/863723/small_IMG_6122.jpeg",
+      "title": "2021 State Bicycle Co. 6061 All Road",
+      "url": "https://bikeindex.org/bikes/1199627",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752285600,
+      "description": "Color: Dark blue frame with a glossy finish. The paint shows minor scuffs and wear, particularly near the bottom bracket and chainstay, reflecting typical usage.\r\n\r\nFrame Size & Design: The bike features a medium-sized frame with a slightly slanted top tube. The tube joints are visibly welded and reinforced, providing extra durability for off-road or urban riding.\r\n\r\nGears & Drivetrain: Equipped with a standard multi-speed gear setup. It has a triple chainring in the front and a 7-speed cassette in the rear, allowing for smooth shifting over a range of terrains. The derailleurs and shifters are operational but show minor signs of use.\r\n\r\nBrakes: The bike uses traditional rim brakes, both front and rear, which are in good working order. The brake levers on the handlebars are black and slightly worn from use.\r\n\r\nHandlebars: The handlebars are flat, straight, and black, with wear visible on the grips. The right grip end has a small cap missing, exposing the inner handlebar tube. The handlebar stem shows slight rust and wear, while the cables for the brakes and shifters are externally routed, curving smoothly toward the frame.\r\n\r\nTires & Wheels: The tires are thick, knobby, and designed for multi-surface riding, with a deep tread pattern ideal for gravel or rough urban surfaces. The tires are mounted on aluminum rims, which appear to be in good shape. Both wheels are secured with standard quick-release mechanisms.\r\n\r\nSaddle: The saddle is a basic black vinyl model, showing slight wear but no visible damage. It's supported by a standard seat post with a quick-release mechanism for easy height adjustments.\r\n\r\nWater Bottle & Holder: White water bottle that says 'Silvera for Seniors' is a sipper style 500 ml bottle and is on a metal bottle cage that is located in the vertical rod of the bike just above the front gear chain\r\n\r\nAccessories:\r\n\r\nLock: A black coiled cable lock is attached around the frame, securing the bike when parked.\r\nGreen Bag: A small green bag is mounted on the handlebar stem, possibly used for small items or tools.\r\nReflectors: There are red rear reflectors and front-mounted white reflectors for visibility.\r\nBar Code: The bike features a barcode sticker on the frame near the handlebar with the number \"70410 01847.\"\r\n\r\nDistinctive Marks: The handlebar stem has visible rust and slight wear, while the grips show signs of extended use.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "BREEZE",
+      "id": 2696823,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/856073/large_Screenshot_2024-09-14_180131.png",
+      "location_found": null,
+      "manufacturer_name": "Supercycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7041601841",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2M 0M9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/856073/small_Screenshot_2024-09-14_180131.png",
+      "title": "Supercycle BREEZE",
+      "url": "https://bikeindex.org/bikes/2696823",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1725972000,
+      "description": "Fixed gear / single speed road bike with black LizardSkin bar tape. A little dinged up from regular use, and only has the rear brake installed with the brake lever on the left hand side of the stock drop handlebars",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Kilo WT",
+      "id": 2694041,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/854204/large_Image_from_iOS.jpg",
+      "location_found": null,
+      "manufacturer_name": "Mercier",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U19000373",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.35,
+        -71.1
+      ],
+      "stolen_location": "Boston, MA 02215, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/854204/small_Image_from_iOS.jpg",
+      "title": "Mercier Kilo WT",
+      "url": "https://bikeindex.org/bikes/2694041",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723309200,
+      "description": "Race / road bike. White seat. Black hand wraps, with duct tape on right side of handle bars. Bontrager wheels and tires. Shimano peddles. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Emonda",
+      "id": 2670737,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/840994/large_IMG_4383.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EN14781",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.63,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5Z 3L1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/840994/small_IMG_4383.png",
+      "title": "2016 Trek Emonda",
+      "url": "https://bikeindex.org/bikes/2670737",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722067200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Black",
+      "id": 2671190,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Super73",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "NAT40046484",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        33.72,
+        -84.34
+      ],
+      "stolen_location": "Atlanta, GA 30316, US",
+      "thumb": null,
+      "title": "2022 Super73 Black",
+      "url": "https://bikeindex.org/bikes/2671190",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "output_path": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\template_heatmap_showcase\\index.html",
+  "inkscape_detected": false,
+  "exported_pngs": [],
+  "template_variants": {
+    "road": {
+      "saddle": [
+        "saddle"
+      ],
+      "shiftlever": [
+        "shift_lever"
+      ],
+      "handlebar": [
+        "steam_cap",
+        "handlebar"
+      ],
+      "seatpost": [
+        "seat_post"
+      ],
+      "brake": [
+        "brake_lever",
+        "brake"
+      ],
+      "tire": [
+        "back_tire_0",
+        "back_rim_0",
+        "back_tire_1",
+        "front_rim",
+        "back_rim",
+        "front_tire",
+        "back_tire"
+      ],
+      "freewhile": [
+        "freewheel_1",
+        "freewheel_0",
+        "freewheel_2"
+      ],
+      "fork": [
+        "fork"
+      ],
+      "frame": [
+        "frame"
+      ],
+      "rearderailleur": [
+        "rearderailleur"
+      ],
+      "chainwheel": [
+        "chainwheel"
+      ],
+      "crank": [
+        "crank"
+      ],
+      "pedal": [
+        "padal"
+      ]
+    },
+    "mountain": {
+      "shiftlever": [
+        "shift_lever_right",
+        "shift_lever_left"
+      ],
+      "brake": [
+        "brake_lever_right",
+        "brake_lever_left",
+        "brake",
+        "front_brake"
+      ],
+      "handlebar": [
+        "handlebar",
+        "steam_cap"
+      ],
+      "saddle": [
+        "saddle"
+      ],
+      "seatpost": [
+        "seatpost"
+      ],
+      "shock": [
+        "Shock_Absorber",
+        "rear_shock_absorber"
+      ],
+      "frame": [
+        "frame_top_tube",
+        "frame_down_tube",
+        "frame_seat_stay",
+        "frame_chain_stay"
+      ],
+      "tire": [
+        "back_tire_0",
+        "back_tire_1",
+        "back_tire_3",
+        "back_tire",
+        "front_tire"
+      ],
+      "fork": [
+        "fork"
+      ],
+      "pedal": [
+        "padal"
+      ],
+      "chainwheel": [
+        "chainwheel"
+      ],
+      "freewhile": [
+        "freewheel",
+        "free_wheel"
+      ],
+      "rearderailleur": [
+        "rearderailleur"
+      ]
+    }
+  },
+  "showcase_bike_count": 48,
+  "default_bike_id": "brompton-a-line"
+}

@@ -1,0 +1,749 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1778436000,
+      "description": "Velotric Discover 1 High-Step e-bike, yellow. Aluminum high-step frame (one size), integrated battery, front suspension fork, disc brakes.",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "6061 Aluminum Alloy Step-Through Frame with Integrated Battery",
+      "id": 3251615,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/992059/large_1000055133.jpg",
+      "location_found": null,
+      "manufacturer_name": "Velotric",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0182203485",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        38.61,
+        -121.51
+      ],
+      "stolen_location": "Sacramento, CA 95833, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/992059/small_1000055133.jpg",
+      "title": "Velotric 6061 Aluminum Alloy Step-Through Fram...",
+      "url": "https://bikeindex.org/bikes/3251615",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765933200,
+      "description": "It’s the upgraded Version of the XG with two batteries has 48 miles of charge and goes atleast 28 mph looks like a BMX bike just no pedaling only has pegs and a throttle. Has a headlight and taillight mind you the the tail light goes in and out at random speeds",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "XG Pro",
+      "id": 3253462,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/992975/large_IMG_0168.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Jack Rabbit E-Bike by RidePanda",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "020466",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 9410, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/992975/small_IMG_0168.jpeg",
+      "title": "2025 Jack Rabbit E-Bike by RidePanda XG Pro",
+      "url": "https://bikeindex.org/bikes/3253462",
+      "year": 2025,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "E-BIKE",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "ROCKCREEK",
+      "id": 3245735,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "750 Meridian Ave, Fort Collins, CO 80523, United States",
+      "manufacturer_name": "Huffy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "impounded",
+      "for_sale": false,
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Huffy ROCKCREEK",
+      "url": "https://bikeindex.org/bikes/3245735",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764164160,
+      "description": "Black Rad Wagon 4 Cargo ebike with caboose, running boards, front-mounted basket.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad Wagon 4",
+      "id": 3231112,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987557/large_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RW4A21B3610",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.54,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97212-1707, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987557/small_Bike.jpg",
+      "title": "Rad Power Bikes Rad Wagon 4 cargo bike rear",
+      "url": "https://bikeindex.org/bikes/3231112",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "cargo-rear"
+    },
+    {
+      "date_stolen": 1764064800,
+      "description": "My Bike was a customized for me, the seat pole, the pedals, the wheels are unique , a stages power meter on the arm of left pedal brand Stages",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "Super Six Evo Hi Mod 1 Dura Ace",
+      "id": 3236304,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/988328/large_1797f62b-5d27-441c-9671-4beec5ccbd47.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.71,
+        -104.96
+      ],
+      "stolen_location": "Denver, CO 80209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/988328/small_1797f62b-5d27-441c-9671-4beec5ccbd47.jpeg",
+      "title": "2013 Cannondale Super Six Evo Hi Mod 1 Dura Ace",
+      "url": "https://bikeindex.org/bikes/3236304",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763888400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Velotric Fold 1",
+      "id": 3230725,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Velotric",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "3152500271W",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.28
+      ],
+      "stolen_location": "Alameda, CA 94501, US",
+      "thumb": null,
+      "title": "Velotric Velotric Fold 1",
+      "url": "https://bikeindex.org/bikes/3230725",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763449200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad Runner Plus",
+      "id": 3228926,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "VP4B25H03111A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.02,
+        -93.3
+      ],
+      "stolen_location": "Minneapolis, MN 55412, US",
+      "thumb": null,
+      "title": "2025 Rad Power Bikes Rad Runner Plus",
+      "url": "https://bikeindex.org/bikes/3228926",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763125200,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Neuron Al 7.0",
+      "id": 3227427,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985341/large_IMG_3741.png",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985341/small_IMG_3741.png",
+      "title": "2019 Canyon bicycles Neuron Al 7.0",
+      "url": "https://bikeindex.org/bikes/3227427",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762938000,
+      "description": "Front-loader cargo bike with rain cover. Bosch e-bike drive.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "FamilyNext Pro",
+      "id": 3227041,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986112/large_signal-2025-11-18-110752_002.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Urban Arrow",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2404756RFGP",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986112/small_signal-2025-11-18-110752_002.jpeg",
+      "title": "2025 Urban Arrow FamilyNext Pro",
+      "url": "https://bikeindex.org/bikes/3227041",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762912800,
+      "description": "Black Jack Rabbit e-bike that my daughter uses to get around USF Campus",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Jack Rabbit",
+      "id": 3226443,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984703/large_IMG_2462.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Jack Rabbit",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "000517",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        28.06,
+        -82.41
+      ],
+      "stolen_location": "Tampa, FL 33620, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984703/small_IMG_2462.jpeg",
+      "title": "2025 Jack Rabbit Jack Rabbit",
+      "url": "https://bikeindex.org/bikes/3226443",
+      "year": 2025,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762560000,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Cafe Cruiser",
+      "id": 3225178,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983898/large_IMG_2444.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ3230801006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.65,
+        -79.39
+      ],
+      "stolen_location": "Toronto, M5V 1J2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983898/small_IMG_2444.jpg",
+      "title": "2023 Ride1Up Cafe Cruiser",
+      "url": "https://bikeindex.org/bikes/3225178",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762559848,
+      "description": "Light blue Electra e-bike stolen on UCSC Campus, says “Electra” on the frame. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Loft Go! 7D Step Over US",
+      "id": 3224950,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Electra",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU228XC0512T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2025 Electra Loft Go! 7D Step Over US",
+      "url": "https://bikeindex.org/bikes/3224950",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762495200,
+      "description": "The E-Bike is a Black RadRover 6 plus, which is a 75 pound fat tire electric bike. The bike includes a large front basket, which has scraped metal and paint on one side from an old wipeout. There is a black \"car horn\" added to the bike in the center of the front wheel stem. There is also a wheel lock added to the frame around the back tire, and a pine green saddlebag attached under the bike seat. Also stolen was a black and gray bike helmet, and a 5' long bike chain, compatible with the wheel lock. The bike had around 1100 - 1200 miles on it.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rad Rover 6 Plus",
+      "id": 3224868,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983693/large_Screenshot_20251107_105813_Photos.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "RR6F21V2431",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -104.97
+      ],
+      "stolen_location": "Denver, CO 80205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983693/small_Screenshot_20251107_105813_Photos.jpg",
+      "title": "2023 Rad Power Bikes Rad Rover 6 Plus",
+      "url": "https://bikeindex.org/bikes/3224868",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762488000,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "36v Folding e-Bike",
+      "id": 3224666,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983539/large_f591ba80-e82b-4b3a-abc6-1563a19c4d66.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Huffy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P 0R8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983539/small_f591ba80-e82b-4b3a-abc6-1563a19c4d66.jpeg",
+      "title": "2025 Huffy 36v Folding e-Bike",
+      "url": "https://bikeindex.org/bikes/3224666",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762214400,
+      "description": null,
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "MTB E-bike",
+      "id": 3223689,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982740/large_IMG_1664.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Liv",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G8HA14893 T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        63.83,
+        20.33
+      ],
+      "stolen_location": "Umeå, 90657, SE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982740/small_IMG_1664.jpeg",
+      "title": "2022 Liv MTB E-bike",
+      "url": "https://bikeindex.org/bikes/3223689",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762023600,
+      "description": "Bike was stolen either late september or october -E-CELLS SUPER MONARCH 1000w AWD off-road E-Bike. \r\nSpecial parts/ features of my ebike - it has a passenger seat. If the seat is taken off, the back battery will have scratch marks on the top. It does not have a front mud flap - it broke when I hit a deer... right handle is frayed. The LED lights would be easy to take off. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ECAWD20542",
+      "id": 3228627,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985875/large_IMG_3724.jpg",
+      "location_found": null,
+      "manufacturer_name": "e-Cells",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ECAWD20542",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.14,
+        -89.35
+      ],
+      "stolen_location": "Madison, WI 53704, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985875/small_IMG_3724.jpg",
+      "title": "2021 e-Cells ECAWD20542",
+      "url": "https://bikeindex.org/bikes/3228627",
+      "year": 2021,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761404400,
+      "description": "E BIKE\r\nLIKE NEW\r\nWITH REAR SEAT AND REAR FOOTREST\r\nbike stolen in the street in front of 131 East 78 Street, New York NY 10075, \r\nSaturday October 25 between 10 an and 1PM\r\nlock has been cut",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "E+ 2 GTS 28MPH M",
+      "id": 3222681,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E7FE00871",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.77,
+        -73.96
+      ],
+      "stolen_location": "New York, NY 10075, US",
+      "thumb": null,
+      "title": "2023 Giant E+ 2 GTS 28MPH M",
+      "url": "https://bikeindex.org/bikes/3222681",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761336000,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Folding Cargo E-bike",
+      "id": 3220236,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Radio Flyer",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F860KF231880380",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": null,
+      "title": "2024 Radio Flyer Folding Cargo E-bike",
+      "url": "https://bikeindex.org/bikes/3220236",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "E-BIKE",
+      "id": 3219572,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979805/large_IMG_1036_1_.JPG",
+      "location_found": "Lloydminster, T9V 3H5, Canada",
+      "manufacturer_name": "E-BIKE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979805/small_IMG_1036_1_.JPG",
+      "title": "E-BIKE E-BIKE",
+      "url": "https://bikeindex.org/bikes/3219572",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761303600,
+      "description": "Teal color Velotric Go 1 e-bike with front & rear baskets, phone mount, left mirror, and missing black rear mesh panel. Also has fenders, throttle + pedal assist. In very good condition.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Go 1",
+      "id": 3220907,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Velotric",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0172301182",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.33
+      ],
+      "stolen_location": "Seattle, WA 98154, US",
+      "thumb": null,
+      "title": "2024 Velotric Go 1",
+      "url": "https://bikeindex.org/bikes/3220907",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761267800,
+      "description": "Trek e-bike, well used with many dings on frame.\r\n",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Allant + 8S",
+      "id": 3219290,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979621/large_IMG_0702.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.67,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979621/small_IMG_0702.jpeg",
+      "title": "2023 Trek Allant + 8S",
+      "url": "https://bikeindex.org/bikes/3219290",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761188400,
+      "description": "The e-bike is Gray and black super73 Z1 long back seat with upgraded Super73 GRZLY Tire w/ Override 20x5\" and upgraded Odi Reflex V2.1 Lock-On Grips - Black",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Super73, ZX",
+      "id": 3219097,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979470/large_Screenshot_20251023-072939.png",
+      "location_found": null,
+      "manufacturer_name": "Super73",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F11BY2520 21Y-05",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.55,
+        -117.64
+      ],
+      "stolen_location": "Ladera Ranch, CA 92694, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979470/small_Screenshot_20251023-072939.png",
+      "title": "2022 Super73 Super73, ZX",
+      "url": "https://bikeindex.org/bikes/3219097",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761030000,
+      "description": "Class 3 electric bike, 500W, 8 speed, 27.5\" wheels, hydraulic fork, hydraulic brakes, color display, 14 ah Samsung cells, Schwalbe Super Moto X tires, aluminum frame.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "700 Series XR",
+      "id": 959460,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/376113/large_20201206_084651.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FLZ20051780",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.68,
+        -117.83
+      ],
+      "stolen_location": "Irvine, CA 92614, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/376113/small_20201206_084651.jpg",
+      "title": "2020 Ride1Up 700 Series XR",
+      "url": "https://bikeindex.org/bikes/959460",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760904000,
+      "description": "Silver e-bike TREK peddle assist \r\nNon standard saddle- it’s gel ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Allant + 8S",
+      "id": 3219165,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979557/large_IMG_1864.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU149JV0416T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        21.31,
+        -157.85
+      ],
+      "stolen_location": "Honolulu, HI 96813, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979557/small_IMG_1864.jpeg",
+      "title": "2025 Trek Allant + 8S",
+      "url": "https://bikeindex.org/bikes/3219165",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760801100,
+      "description": "moped style e-bike with passenger kit, one foot peg on the right side (the left is missing), center storage cage, broken tail light that is zip-tied on",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Revv 1",
+      "id": 3221197,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981074/large_Revv_1_e-bike_pic.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ5230900065",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981074/small_Revv_1_e-bike_pic.jpeg",
+      "title": "2024 Ride1Up Revv 1",
+      "url": "https://bikeindex.org/bikes/3221197",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

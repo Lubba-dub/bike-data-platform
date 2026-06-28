@@ -1,0 +1,575 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1415599200,
+      "description": "Just replaced the rear tire so its brand does not match the front tire's brand. The metallic part holding the handlebar used to be black but the Arizona sun has faded the color and it is now bronze-like. There is a bell attached to the right hand side handlebar and a little hook to hold the lock to the left hand side.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "folding",
+      "id": 34548,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.25,
+        -110.94
+      ],
+      "stolen_location": "Tucson, AZ 85719, US",
+      "thumb": null,
+      "title": "Dahon folding",
+      "url": "https://bikeindex.org/bikes/34548",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1415167200,
+      "description": "Red large frame. Black back rack with silver folding basket hanging off the left side. Blue bungee cord. Saddle tied to main frame with small cable lock. Red  bumper sticker on upper main frame reading \"Fijese Que ..., guatemala\" - probably hard to remove.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Larkspur",
+      "id": 34440,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/16089/large_Marin_Larkspur_2010_Red.jpg",
+      "location_found": null,
+      "manufacturer_name": "Marin Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JA10642HJF041",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.85,
+        -122.27
+      ],
+      "stolen_location": "Berkeley, CA 94703, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/16089/small_Marin_Larkspur_2010_Red.jpg",
+      "title": "2010 Marin Bikes Larkspur",
+      "url": "https://bikeindex.org/bikes/34440",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1414216800,
+      "description": "Black rims.  Rear view mirror extending from left handlebar. Two silver steel Wald folding baskets attached pannier-style to black Topeak rack.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Coda",
+      "id": 38467,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U11U06220",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.92,
+        -122.34
+      ],
+      "stolen_location": "Richmond, CA 94804, US",
+      "thumb": null,
+      "title": "2011 Jamis Coda",
+      "url": "https://bikeindex.org/bikes/38467",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1406354400,
+      "description": "It has 8 gears total; not sure how many in front and how many in back. Has Nexus 8 speed internal hub, roller brakes front and rear, Schwalbe Fat Frank balloon tires, SKS silver fenders P65 26\" x 65 mm, Electra Townie silver rear rack on right side, Azor classic handlebars that curve back towards seat (not standard model that came with bike), ABUS black 75 cm folding combo lock with holder, Princeton Tec EOS high output Rebel LED mounted on right front handlebar and missing the rubber piece that points it straight forward, Reelights SL100 mounted on front and rear (on when riding, off when stopped), Nutcase solid street black helmut S/M, Wald 582 Rear Folding Basket in chrome",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Townie Balloon 8i, step-through",
+      "id": 29080,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Electra",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ELS 0E01177",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": null,
+      "title": "2010 Electra Townie Balloon 8i, step-through",
+      "url": "https://bikeindex.org/bikes/29080",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1392357600,
+      "description": "Women's 26\" 7-speed bright pink cruiser,double folding baskets on each side,all black foam handle bars,black bike bell w/breast cancer ribbon  ",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "7-speed cruiser",
+      "id": 10167,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Caloi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.02,
+        -80.18
+      ],
+      "stolen_location": "Hollywood, FL 33021, US",
+      "thumb": null,
+      "title": "2008 Caloi 7-speed cruiser",
+      "url": "https://bikeindex.org/bikes/10167",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1377064800,
+      "description": "Trek step-through cruiser, powder blue with flowers.  21 speed, twist grip, rear-view mirror on left handlebar.  Wald chrome rear rack with chrome folding baskets on either side.  Wired for computer, but computer not on bike when taken.  Regular seat, a chunk missing out of the back of it.  Bike was obtained from Craigslist, I had it 3 weeks before it was taken.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 21705,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.54,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98108, US",
+      "thumb": null,
+      "title": "Trek",
+      "url": "https://bikeindex.org/bikes/21705",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1376805600,
+      "description": "red dahon d3 curve folding bicycle with small bell, water bottle holder on the side and basket holder in front  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "D3 Curve Folding Bike",
+      "id": 15871,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.44,
+        -98.48
+      ],
+      "stolen_location": "San Antonio, TX 78215, US",
+      "thumb": null,
+      "title": "2011 Dahon D3 Curve Folding Bike",
+      "url": "https://bikeindex.org/bikes/15871",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1360821600,
+      "description": "Ergonomic handle bars,w/handlebar extension  Breast Cancer bike bright pink,all black handlebars[black foam],black folding baskets on each side,black bike bell w/breast cancer ribbon  (I am a breast cancer survivor X2)  ",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "7-speed ladies",
+      "id": 9572,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Caloi Beach Cruiser",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.02,
+        -80.18
+      ],
+      "stolen_location": "Hollywood, FL 33021, US",
+      "thumb": null,
+      "title": "2008 Caloi Beach Cruiser 7-speed ladies",
+      "url": "https://bikeindex.org/bikes/9572",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1352786400,
+      "description": "White frame decals are blue dropshadowed with pink. The bike was originally a mountain bike but has been converted to an all purpose commuting/touring bike. Black fork, it doesn't match the frame, unicrownDynamo lighting, silver Busch & Muller \"CYO\" headlight attached to the left-side of the fork and there is clear packing tape holding the lens on the body. The tail light is also a Busch & Muller, it is red and black, the model is \"Seculite\". It is mounted on the rear fender.The saddle is a very unique Gilles Berthoud Aspin in the cork finish. It is leather on hard, grey plastic rails. It is very hard when pushed on. It is on top of a black straight-top seatpost.Silver, Shimano Deore mountain bike crank-set with black, Easton BMX pedals.Silver, Shimano Deore rear derailleur.Shimano XT, bolt on rear hub laced to a black Mavic X317. Shimano 8-speed cassette.Shimano matte-grey dynamo hub laced two-leading two-trailing (also very unique) to a Sun Rhyno Lite.Panaracer Pasaela Tourguard tires. Folding bead. 26x1.5\". Nitto Mustache handlebars with black Easton handlebar tape. There is a lot of electrical tape on the handlebars. Suntour bar-end shifters. Blue quill-type stem. The headset is silver, made by Ritchey and has cartridge bearings. It is intended for threadless forks, I cludged it together.Silver SKS chromoplastic fenders with a mudflap in the front. Tail light mounted on rear fender. Silver rear rack, has a Ortlieb QL3 bracket attached to the right side.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "930",
+      "id": 12695,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "507000",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97202, US",
+      "thumb": null,
+      "title": "1991 Trek 930",
+      "url": "https://bikeindex.org/bikes/12695",
+      "year": 1991,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1350626400,
+      "description": "The mostly gray dahon folding bike has a 8 speed internal hub, a golden bell, looking almost new with original tires. If you see it somewhere Please contact me at tanyingc@gmail.com. Rewards!  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "MU XL Sport folding bike",
+      "id": 23081,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": null,
+      "title": "2009 Dahon MU XL Sport folding bike",
+      "url": "https://bikeindex.org/bikes/23081",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1348034400,
+      "description": "Year 2009 black \"Breezer Uptown 8\" bike stolen during afternoon. Locked at bike rack (with a U-lock) at corner of 8th and Kelly, next to building entrance.  Bike, lock and helmet were all gone when I arrived at 6 pm after work (last seen at 1 pm, securely locked). The bike looks like this: http://www.ecovelo.info/2009/09/20/road-test-breezer-uptown-8/It's a diamond-frame bike with an 8-speed internal gear hub, front dynamo with lights, and a full chaincase and rear rack. Also attached were a Wald folding wire basket (on the right side of the rack), a Pletscher folding kickstand, and a gray bar over the top of the top tube, for mounting a WeeRide kid's seat. The rear brake was replaced with a rollerbrake. Handlebars, seatpost and brake levers are non-stock. The saddle was a black Velo Orange leather saddle, covered with a rain cover. The rear wheel was locked with a frame-mounted \"O\" lock (ABUS brand). There are several distinctive scratches, including a mark on the right seat tube from where the kids' trailer attaches. I have the original receipt and many photos with the bike. This was my main form of transportation for 2 years.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Uptown 8",
+      "id": 17662,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/6343/large_8005385060_3505137809_b.jpg",
+      "location_found": null,
+      "manufacturer_name": "Breezer",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "000101B802",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.42
+      ],
+      "stolen_location": "Gresham, OR 97030, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/6343/small_8005385060_3505137809_b.jpg",
+      "title": "2009 Breezer Uptown 8",
+      "url": "https://bikeindex.org/bikes/17662",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1320300000,
+      "description": "Stolen from bike rack at Target by Mace BLVD Davis at 11:35am by kid of roughly 11-14 years of age.  Police have video.  Note:  options may easily be removed by thief...  Bike had black folding basket on back right side, LED front light, regular red rear light, new heavy duty rear wheel that clicks more loudly than stock wheel as you turn it or coast, and new rear tire.  Both tubes are slime, slow leak in back tube.  Bike is all red, coloring same as other pictures of a red 2007 Rockhopper.  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Rock Hopper",
+      "id": 23853,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P6IC31977",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95618, US",
+      "thumb": null,
+      "title": "2007 Specialized Rock Hopper",
+      "url": "https://bikeindex.org/bikes/23853",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1315116000,
+      "description": "My blue Specialized Sirrus â€šÃ„ÃºCompâ€šÃ„Ã¹ - a flat-handle-bar road bike/commuter bike was stolen Sunday morning Sept 4th right in front of the Great Outdoors Nursery 2730 South Congress - a snatch-and-ride while I was off the bike for less than one minute. Iâ€šÃ„Ã´ve had this bike since 2006 and have put more than 7,000 miles on it.Identifying features:- Dark Blue- Carbon fork- Black leather Brooks seat. A B17 model - the â€šÃ„Ãºclassicâ€šÃ„Ã¹- Thudbuster compression seat post, (the ST, not LT, model)- Cane Creek ergonomic bar ends on the handlebars.- A \"Look\" brand adjustable headset with double linkage.- A Jandd black rear rack. (Expedition model)- Black SKS Thermoplastic fenders front and rear. (pretty skinny)- An Abus 6000 folding bike lock, of course not deployed.-- Cateye rear lights- non-matching wheels. One black, one not.- Specialized Nimbus Armadillo tires 700x28- Serial Number P6AE20006- APD case # 112-470-669- â€šÃ„ÃºCampusâ€šÃ„Ã¹ pedals - Shimano (one side rat-trap, other side clip-in)- a rear cassette (Shimano) slightly larger than original equipment- Freewheeling Bike shop sticker (like that'll still be there!)   Specialized A1 Premium Aluminum, fully double-butted tubing, compact design with fender and rack braze-ons",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Sirrus Comp",
+      "id": 23122,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/5677/06SirrusComp_Blk_l.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P6AE20006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.25,
+        -97.77
+      ],
+      "stolen_location": "Austin, TX 78704, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/5677/small_06SirrusComp_Blk_l.jpg",
+      "title": "2006 Specialized Sirrus Comp",
+      "url": "https://bikeindex.org/bikes/23122",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1291528800,
+      "description": "This is an older Fuji Steel bike with at least 18 gears.  Bike had a black folding bike basquet on the right side, a red oval shaped Cat-EYE brand blinking tail light, old style metal toe clips with straps, handle bars that are the upward variety curving towards the driver, taped handle bar, front handle bar bracket for removal LED headlight. The police officer who took the report is listed in this notice. Officer Mendoza will notify the party if the bicycle is recovered  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "America",
+      "id": 17340,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.45,
+        -122.18
+      ],
+      "stolen_location": "Menlo Park, CA 94025, US",
+      "thumb": null,
+      "title": "Fuji America",
+      "url": "https://bikeindex.org/bikes/17340",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1269237600,
+      "description": "folding bike, with front and rear racks, black Brooks Seat, handle bar bag, pump, underseat kit bad, and my name on a silver plaque on side of drop bar.  ",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Pocket Llama",
+      "id": 15029,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Bike Friday",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "61619",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97202, US",
+      "thumb": null,
+      "title": "2008 Bike Friday Pocket Llama",
+      "url": "https://bikeindex.org/bikes/15029",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1228111200,
+      "description": "Crank-forward (semi-recumbent) with folding black baskets attached to a black rack. Black leather seat. It is wired for a wireless bike computer (but I have the computer). It had a brass bell and left side view mirror.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Suede",
+      "id": 8937,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C57K2694",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": null,
+      "title": "2007 Giant Suede",
+      "url": "https://bikeindex.org/bikes/8937",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1223186400,
+      "description": "Grey bike with front shocks, rack on back with side folding basket. Disc breaks.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "F7",
+      "id": 8650,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F080217980",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.11,
+        -88.21
+      ],
+      "stolen_location": "Urbana, IL 61801, US",
+      "thumb": null,
+      "title": "2008 Cannondale F7",
+      "url": "https://bikeindex.org/bikes/8650",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1205733600,
+      "description": "Black with a few gold lines, Dahon folding bike w/20\" Wheels.  I had added after market \"Freddy Fenders.\" They were attached on one side on the back with black tape.  ",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Helios XL",
+      "id": 7386,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3084/large_1206062402.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.9,
+        -77.02
+      ],
+      "stolen_location": "Washington, DC 20004, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3084/small_1206062402.jpg",
+      "title": "2005 Dahon Helios XL",
+      "url": "https://bikeindex.org/bikes/7386",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1136527200,
+      "description": "Orignal Dahon seat has a small tear on the left rear side.  Paint scraped off on the clip that holds the brake cable on the top tube.  It got scraped a couple od times when the the bike is folded and the crank shaft hits thr clip.  The head tube has a warning sticker peeled off.  One protective black rubber cap missing on one of the metal bars that hold up the mud guards.  The folding pedal grey rubber got damaged from scrapping the ground.   Accessories:Cat Eye EL-400 front light, generic rear light.  Krytonite mini 2000 attached to seat post.  ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Boardwalk",
+      "id": 3934,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.72,
+        -118.0
+      ],
+      "stolen_location": "Huntington Beach, CA 92647, US",
+      "thumb": null,
+      "title": "2005 Dahon Boardwalk",
+      "url": "https://bikeindex.org/bikes/3934",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

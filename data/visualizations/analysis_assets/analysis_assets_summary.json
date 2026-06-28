@@ -1,0 +1,16 @@
+{
+  "brand_bike_count": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\analysis_assets\\brand_bike_count.png",
+  "component_part_distribution": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\analysis_assets\\component_part_distribution.png",
+  "brand_part_matrix_heatmap": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\analysis_assets\\brand_part_matrix_heatmap.png",
+  "bike_part_metric_3d": null,
+  "brand_growth_gif": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\analysis_assets\\brand_growth.gif",
+  "bike_part_metric_3d_html": null,
+  "summary": {
+    "bike_rows": 71,
+    "component_rows": 103,
+    "heatmap_rows": 115,
+    "parts_api_rows": 115,
+    "brand_count": 5,
+    "part_category_count": 13
+  }
+}

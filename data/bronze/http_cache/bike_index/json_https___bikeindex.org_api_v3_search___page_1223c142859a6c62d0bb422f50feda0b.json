@@ -1,0 +1,756 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1758103200,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3215817,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977146/large_RockyMountainBike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Rocky Mountain Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R97CB160",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.71,
+        -79.39
+      ],
+      "stolen_location": "Toronto, Ontario, M4P 1V4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977146/small_RockyMountainBike.jpg",
+      "title": "2013 Rocky Mountain Bicycles",
+      "url": "https://bikeindex.org/bikes/3215817",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757703600,
+      "description": "Black hybrid-style e-bike with white \"Spinciti\" logo prominently on the frame. Very lightweight for an e-bike. Bell on left side of handle bar; missing bolt from front fender/light. ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Spinciti",
+      "id": 3187774,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/965362/large_IMG_2127.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/965362/small_IMG_2127.jpeg",
+      "title": "Other Spinciti",
+      "url": "https://bikeindex.org/bikes/3187774",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757469600,
+      "description": "The GT Transeo 4.0 is a hybrid bike designed for riders who want something versatile — comfortable for commuting and fitness rides, but also capable of handling light trails and gravel. Here are the main details about it:\r\nOverview\r\nCategory: Hybrid / Fitness / Commuter\r\nBrand: GT Bicycles \r\nFrame: Aluminum (lightweight, durable, upright geometry)\r\nFork: Equipped with a front suspension fork with a lockout option for efficient road riding\r\nWheels: 700c wheels (like a road bike, but wider tires for stability and comfort)\r\nSpeeds/Drivetrain: Typically a 3x8 (24-speed) Shimano or microSHIFT drivetrain\r\nBrakes: Mechanical disc brakes (reliable stopping power in all weather, but not hydraulic)\r\nTires: 700x40c (good balance of speed and shock absorption)\r\nOther features: Rack and fender mounts, blue MEC carrying panniers.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Transeo 4.0",
+      "id": 3186042,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964219/large_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM14M540336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.05
+      ],
+      "stolen_location": "Calgary, T2E 7W2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964219/small_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "title": "GT Bicycles Transeo 4.0",
+      "url": "https://bikeindex.org/bikes/3186042",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757365200,
+      "description": "Hybrid bike, 2 inch tires, matte black, Rampar brand",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Rp Sm 27.5 One",
+      "id": 3185153,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rampar",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNHTB22K01066",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.94,
+        -93.22
+      ],
+      "stolen_location": "Minneapolis, MN 55406, US",
+      "thumb": null,
+      "title": "2025 Rampar Rp Sm 27.5 One",
+      "url": "https://bikeindex.org/bikes/3185153",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768377600,
+      "description": "It’s an electric city bike with two posterior waterproof red bags. The colour of my bike is blue metallic. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "hybrid pro 625",
+      "id": 3183743,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962742/large_250d5fdd-0f4c-4f13-a2af-d490b9b90894.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WOW19223XSKW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.83,
+        5.71
+      ],
+      "stolen_location": "Maastricht, 6229HD, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962742/small_250d5fdd-0f4c-4f13-a2af-d490b9b90894.jpeg",
+      "title": "2025 Cube hybrid pro 625",
+      "url": "https://bikeindex.org/bikes/3183743",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756918800,
+      "description": "My dad had just recently gifted me and my middle child his Schwinn hybrid bycicle. An SR Suntour. 29in. With front and Seat suspension.\r\nToday, sometime between 9am and 5pm, it was stolen out of our driveway. Our security cameras somehow caught nothing.\r\nIts black and dark gold, 21 speed hybrid bike with a water bottle holder and a detachable tire pump. The tire pump is mostly the dark gold color.\r\nThere are 2 identifying things on bike. Right hand shifter thumb control has a cracked mount with a piece of cover plastic missing. The water bottle mount has aftermarket webbing strap w/plastic clip-together buckle. Both can be seen in one of the pics.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal",
+        "Yellow or Gold"
+      ],
+      "frame_model": "SR SUNTOUR",
+      "id": 3182066,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/961797/large_1000030385.jpg",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -123.0
+      ],
+      "stolen_location": "Salem, OR 97301, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/961797/small_1000030385.jpg",
+      "title": "Schwinn SR SUNTOUR",
+      "url": "https://bikeindex.org/bikes/3182066",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756576800,
+      "description": "My bike was stolen on August 30, 2025, from the bicycle storage room in the building where my family and I live in Dietikon, Switzerland. It is a Cube Stereo Hybrid HPC SLX 750, black color, with some minor scratches on the frame.\r\nPlease contact me if you have any information. We still hope to recover it.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "WOWS18551 LS KO",
+      "id": 3197603,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/968737/large_%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_WhatsApp__%D0%B4%D0%B0%D1%82%D0%B0__2025-09-20_%D0%BE_20.21.35_04d383ae.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "28029-0208-53-A01-01-0020",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.4,
+        8.4
+      ],
+      "stolen_location": "Dietikon, 8953, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/968737/small_%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_WhatsApp__%D0%B4%D0%B0%D1%82%D0%B0__2025-09-20_%D0%BE_20.21.35_04d383ae.jpg",
+      "title": "2024 Cube WOWS18551 LS KO",
+      "url": "https://bikeindex.org/bikes/3197603",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756486800,
+      "description": "Trek Verve 1 Lowstep with 8 gears in the back and 2 gears in the front. Hybrid bike, dark grey with \"Trek\" written in bronze color along the side. Black bell in front and kickstand on back wheel. White bike light in front and red bike light in back. The top of the gear shift on the front left of the bike fell off, so this part is slightly broken. There is an attachment on the side for a u-lock, but the lock is not currently there. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Verve 1",
+      "id": 3075732,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/959252/large_IMG_4553.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU222XD2776",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.39,
+        -71.09
+      ],
+      "stolen_location": "Somerville, MA 02145, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/959252/small_IMG_4553.jpg",
+      "title": "2024 Trek Verve 1",
+      "url": "https://bikeindex.org/bikes/3075732",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763441940,
+      "description": "Hybrid bike, has red bottle holder, orange seat pocket, and back wheel tray. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX1",
+      "id": 3068522,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU147XC2263S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.74,
+        -84.52
+      ],
+      "stolen_location": "Lansing, MI 48912, US",
+      "thumb": null,
+      "title": "2019 Trek FX1",
+      "url": "https://bikeindex.org/bikes/3068522",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756022400,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Rad mission electric hybrid bike mid step",
+      "id": 3070196,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958433/large_IMG_7609.png",
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MS1J21V0643",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.8,
+        -122.37
+      ],
+      "stolen_location": "Edmonds, WA 98020, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958433/small_IMG_7609.png",
+      "title": "2022 Rad Power Bikes Rad mission electric hybrid bike mid ...",
+      "url": "https://bikeindex.org/bikes/3070196",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755950400,
+      "description": "Blue bike : Lakeview 700C - Men's Hybrid. Black seat, A little dirty. But I bought it in April 2025.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Lakeview 700C - Men's Hybrid Bike",
+      "id": 3065160,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955910/large_21D06BB8-510C-4527-8AD6-AA6D8D37FDB7.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -73.58
+      ],
+      "stolen_location": "Montreal, H4C 1P2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955910/small_21D06BB8-510C-4527-8AD6-AA6D8D37FDB7.jpeg",
+      "title": "Diamondback Lakeview 700C - Men's Hybrid Bike",
+      "url": "https://bikeindex.org/bikes/3065160",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1779897600,
+      "description": "Hawrelak 700C Bike, 24 Speed Hybrid Bike, Aluminum Frame",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Hawrelak 700C Hybrid",
+      "id": 3064782,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955760/large_Diamondback.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "123090494",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.5
+      ],
+      "stolen_location": "Edmonton, T5J 0B3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955760/small_Diamondback.jpg",
+      "title": "2024 Diamondback Hawrelak 700C Hybrid",
+      "url": "https://bikeindex.org/bikes/3064782",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755698400,
+      "description": "It was a black hybrid bike with a single twist/gear shift. It had an Igor Does My Bike sticker on the frame. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Crosstown 2.3",
+      "id": 3061949,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60640, US",
+      "thumb": null,
+      "title": "Fuji Crosstown 2.3",
+      "url": "https://bikeindex.org/bikes/3061949",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755673200,
+      "description": "It's a dark green (almost black) hybrid bike with twist/grip shifts. It had a Working Bikes sticker on the frame, and a rear rack with panniers.",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Crosstown 2.0",
+      "id": 3061948,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ICF5L10124",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60640, US",
+      "thumb": null,
+      "title": "Fuji Crosstown 2.0",
+      "url": "https://bikeindex.org/bikes/3061948",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754949600,
+      "description": "This is a hybrid e-bike that has a back rack and lights on the front and back. It is a shimmery dark blue color.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 3061993,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/954647/large_bike_pic.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU355C6319S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.25,
+        -122.48
+      ],
+      "stolen_location": "Tacoma, WA 98405, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/954647/small_bike_pic.jpg",
+      "title": "2023 Trek",
+      "url": "https://bikeindex.org/bikes/3061993",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754548066,
+      "description": "Hybrid Bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX 7.5",
+      "id": 2876356,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU146C1004E",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "Trek FX 7.5",
+      "url": "https://bikeindex.org/bikes/2876356",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754510400,
+      "description": "Electric Hybrid Style Bike ",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "Urban Ryder",
+      "id": 1080124,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948020/large_1000001806.jpg",
+      "location_found": null,
+      "manufacturer_name": "Green Light Cycle Ltd.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HR2101367",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.65,
+        -113.55
+      ],
+      "stolen_location": "Edmonton, T6V 1B1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948020/small_1000001806.jpg",
+      "title": "2021 Green Light Cycle Ltd. Urban Ryder",
+      "url": "https://bikeindex.org/bikes/1080124",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754474400,
+      "description": "The 2024 Bird Adult A-frame 28\" ebike is a sleek and modern electric hybrid bike designed for urban commutes and leisure rides. It features a robust aluminum alloy frame, puncture-resistant 28-inch Kenda tires, and a powerful 500W Bafang rear hub motor capable of reaching speeds of up to 20 mph.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Adult A",
+      "id": 3062104,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/954686/large_Screenshot_2025-08-20_094013.png",
+      "location_found": null,
+      "manufacturer_name": "Bird",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.05,
+        -118.3
+      ],
+      "stolen_location": "Los Angeles, CA 90006, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/954686/small_Screenshot_2025-08-20_094013.png",
+      "title": "2024 Bird Adult A",
+      "url": "https://bikeindex.org/bikes/3062104",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": null,
+      "description": "Grey older giant cypress hybrid bike that was looks as it was hardly used or missed maybe a ditch bike. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Cypress",
+      "id": 2866857,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": "San Rafael, CA 94901, United States",
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Hidden",
+      "status": "found",
+      "stolen": false,
+      "stolen_coordinates": null,
+      "stolen_location": null,
+      "thumb": null,
+      "title": "Giant Cypress",
+      "url": "https://bikeindex.org/bikes/2866857",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754348400,
+      "description": "Hybrid Bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "DUAL SPORT",
+      "id": 2874485,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU190C5415R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.57,
+        -105.09
+      ],
+      "stolen_location": "Fort Collins, CO 80523, US",
+      "thumb": null,
+      "title": "Trek DUAL SPORT",
+      "url": "https://bikeindex.org/bikes/2874485",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754290800,
+      "description": "Hybrid E-Bike with removable battery. This bike currently has brake issues, makes a loud squeaking noise when you try to use the brakes. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Open Frame; Bulls Cross E Lite (Hybrid/City e-bike)",
+      "id": 2866332,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/946863/large_Screenshot_2025-08-04_at_9.50.11_AM.png",
+      "location_found": null,
+      "manufacturer_name": "BULLS Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AA60118046",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.69,
+        -73.93
+      ],
+      "stolen_location": "Brooklyn, NY 11221, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/946863/small_Screenshot_2025-08-04_at_9.50.11_AM.png",
+      "title": "2017 BULLS Bikes Open Frame; Bulls Cross E Lite (Hybri...",
+      "url": "https://bikeindex.org/bikes/2866332",
+      "year": 2017,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753495200,
+      "description": "There’s a small bike light on the handle bars with a white reflector, then has a tail light which is dead with a red reflector on it, the seat on one of the sides is torn, ",
+      "frame_colors": [
+        "Purple",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Step-Through Hybrid,",
+      "id": 2851055,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943701/large_IMG_2594.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Schwinn Trailway",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD13D10224",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.34,
+        -80.08
+      ],
+      "stolen_location": "Boca Raton, FL 33432, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943701/small_IMG_2594.jpeg",
+      "title": "2013 Schwinn Trailway Step-Through Hybrid,",
+      "url": "https://bikeindex.org/bikes/2851055",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752645600,
+      "description": "Manufacturer color name: riptide\r\n\r\nBike is in really good shape, has hybrid pedals with SPD cleat receivers.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Renegade S4",
+      "id": 2845735,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/940610/large_docrop.jpg",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WAKBK0008",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94131, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/940610/small_docrop.jpg",
+      "title": "2021 Jamis Renegade S4",
+      "url": "https://bikeindex.org/bikes/2845735",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758009600,
+      "description": "its an electric bike, all black, new, made on china,\r\nelectric,\r\nwith bsytery, very common",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "hybrid 16 inch",
+      "id": 2838511,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Jetson",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ADX240805095",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.28,
+        -120.66
+      ],
+      "stolen_location": "Slo, CA 93401, US",
+      "thumb": null,
+      "title": "Jetson hybrid 16 inch",
+      "url": "https://bikeindex.org/bikes/2838511",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752249600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Barron Plus Comfort Hybrid Bike",
+      "id": 2836430,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Retrospec",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HK231202394",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.38,
+        -71.1
+      ],
+      "stolen_location": "Somerville, MA 02143, US",
+      "thumb": null,
+      "title": "2024 Retrospec Barron Plus Comfort Hybrid Bike",
+      "url": "https://bikeindex.org/bikes/2836430",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_name": "geobiked",
+  "source_url": "https://drive.google.com/drive/folders/1s2gILDboW2S66XxS2TtkOdsEYOMqe1TH?usp=sharing",
+  "status": "repo_only",
+  "repo": "https://github.com/Phillip-M97/GeoBIKED",
+  "repo_dir": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\datasets\\geobiked\\repo",
+  "gdrive_dir": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\raw\\datasets\\geobiked\\gdrive",
+  "gdown_stdout": "",
+  "gdown_stderr": "设置环境变量 GEOBIKED_GDOWN=1 后可尝试下载 Google Drive 数据文件。",
+  "downloaded_at": "2026-05-21T08:17:16.083376+00:00"
+}

@@ -1,0 +1,752 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1684054800,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "Vybe D7",
+      "id": 696322,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/698435/large_FB_IMG_1684057673600.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R701605194",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.0,
+        -122.19
+      ],
+      "stolen_location": "Everett, WA 98201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/698435/small_FB_IMG_1684057673600.jpg",
+      "title": "Dahon Vybe D7",
+      "url": "https://bikeindex.org/bikes/696322",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1681664400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Speed D7",
+      "id": 1174128,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/489466/large_20211011_161030.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D010T01174",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/489466/small_20211011_161030.jpg",
+      "title": "2010 Dahon Speed D7",
+      "url": "https://bikeindex.org/bikes/1174128",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1661439600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding",
+      "id": 1381933,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/627071/large_Screenshot_20220825-104203_Gallery.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.95,
+        -90.07
+      ],
+      "stolen_location": "New Orleans, LA, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/627071/small_Screenshot_20220825-104203_Gallery.jpg",
+      "title": "Dahon Folding",
+      "url": "https://bikeindex.org/bikes/1381933",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1659505104,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Speed 7",
+      "id": 1356880,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/615590/large_inbound1304926781294613269.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -77.04
+      ],
+      "stolen_location": "Washington Dc, DC 200005, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/615590/small_inbound1304926781294613269.jpg",
+      "title": "2020 Dahon Speed 7",
+      "url": "https://bikeindex.org/bikes/1356880",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1659380400,
+      "description": "Folding bike",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "Impulse",
+      "id": 1356351,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/615167/large_68C44B56-D968-4C3C-A223-1F9E2ABDDB35.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D607T08707",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        12.23
+      ],
+      "stolen_location": "Venice, 30171, IT",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/615167/small_68C44B56-D968-4C3C-A223-1F9E2ABDDB35.jpeg",
+      "title": "Dahon Impulse",
+      "url": "https://bikeindex.org/bikes/1356351",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1653062374,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Broadwalk",
+      "id": 1299583,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/570403/large_20210920_194614.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DA37H2581",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.1,
+        -114.94
+      ],
+      "stolen_location": "Henderson, NV 89011, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/570403/small_20210920_194614.jpg",
+      "title": "Dahon Broadwalk",
+      "url": "https://bikeindex.org/bikes/1299583",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1651168800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Speed uno",
+      "id": 1279451,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/561102/large_IMG_0617.JPG",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.58,
+        -121.49
+      ],
+      "stolen_location": "Sacramento, CA 95814, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/561102/small_IMG_0617.JPG",
+      "title": "Dahon Speed uno",
+      "url": "https://bikeindex.org/bikes/1279451",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1647567000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Folding bike",
+      "id": 1250225,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/547201/large_B7A92FDF-036F-4B2F-95D2-04B572E0FD12.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D703703789",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2P1M6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/547201/small_B7A92FDF-036F-4B2F-95D2-04B572E0FD12.jpeg",
+      "title": "Dahon Folding bike",
+      "url": "https://bikeindex.org/bikes/1250225",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1644854400,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Vitesse D7HG",
+      "id": 1164398,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/538908/large_dahon_vitesse.png",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D201700682",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA CA, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/538908/small_dahon_vitesse.png",
+      "title": "2013 Dahon Vitesse D7HG",
+      "url": "https://bikeindex.org/bikes/1164398",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1638982800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Vybe",
+      "id": 1197220,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/502769/large_PXL_20210813_010935230_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D508602210",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.31
+      ],
+      "stolen_location": "Oakland, CA 94607, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/502769/small_PXL_20210813_010935230_Original.jpeg",
+      "title": "Dahon Vybe",
+      "url": "https://bikeindex.org/bikes/1197220",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1634756451,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Foldable bike",
+      "id": 1178033,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/491910/large_c4dd10bd-907a-4a72-bde8-eba738d6696d.JPG",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95616, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/491910/small_c4dd10bd-907a-4a72-bde8-eba738d6696d.JPG",
+      "title": "Dahon Foldable bike",
+      "url": "https://bikeindex.org/bikes/1178033",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1633489335,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Red"
+      ],
+      "frame_model": "Mu D10",
+      "id": 1171260,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D510601964",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.13
+      ],
+      "stolen_location": "Calgary, T3c1n2, CA",
+      "thumb": null,
+      "title": "Dahon Mu D10",
+      "url": "https://bikeindex.org/bikes/1171260",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720148400,
+      "description": "Gray body with metal bars and black seat/handel/wheel rain fenders.\r\nBattery powered light, Pink compass/bell attached to handles. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Dahon Speed D7 Folding Bike - 2011",
+      "id": 1161787,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D811T03044",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98105, US",
+      "thumb": null,
+      "title": "2011 Dahon Dahon Speed D7 Folding Bike - 2011",
+      "url": "https://bikeindex.org/bikes/1161787",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1628541648,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Espresso",
+      "id": 1118280,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/464919/large_IMG_1152.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D810704129",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/464919/small_IMG_1152.jpg",
+      "title": "2016 Dahon Espresso",
+      "url": "https://bikeindex.org/bikes/1118280",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1628503200,
+      "description": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Curl I8",
+      "id": 1127515,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/469560/large_Curl_I8_red.png",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "600073",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.78,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94102, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/469560/small_Curl_I8_red.png",
+      "title": "2019 Dahon Curl I8",
+      "url": "https://bikeindex.org/bikes/1127515",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1627828792,
+      "description": "Photo is stock photo. Our Bike is circa 2000 discontinued tall frame by Dahon - Dahon is written in white on our bike. It also has a faded yellow and worn/ peeling sticker that reads \"TO TOKYO\"  and \"TEAM relocations\" from when it was shipped by us there in 2006. The back mudguard is a \"quick/easy release\" mudguard over the back wheel. Original seat is worn. Fair amount of knicks and scratches on the bike. Stolen in MidCity.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Bike Radar or Jack",
+      "id": 1113767,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/461907/large_stolen_dahon.png",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/461907/small_stolen_dahon.png",
+      "title": "2000 Dahon Bike Radar or Jack",
+      "url": "https://bikeindex.org/bikes/1113767",
+      "year": 2000,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1619730000,
+      "description": "Folding commuter bike.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Mariner",
+      "id": 779118,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D80961130",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": null,
+      "title": "2018 Dahon Mariner",
+      "url": "https://bikeindex.org/bikes/779118",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1614807732,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Uybed7",
+      "id": 1013070,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R701602014",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -122.03
+      ],
+      "stolen_location": "Sunnyvale, CA 94087, US",
+      "thumb": null,
+      "title": "2019 Dahon Uybed7",
+      "url": "https://bikeindex.org/bikes/1013070",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1614474000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Vybe D7",
+      "id": 1011347,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "901035369212",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.4
+      ],
+      "stolen_location": "Los Angeles, CA 90034, US",
+      "thumb": null,
+      "title": "Dahon Vybe D7",
+      "url": "https://bikeindex.org/bikes/1011347",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1611352800,
+      "description": "black folding bike with 20\" wheels and a silver handlebar post",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 993904,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/391498/large_dahon.jpg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "307035230540",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        26.16,
+        -80.11
+      ],
+      "stolen_location": "Fort Lauderdale, FL 33306, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/391498/small_dahon.jpg",
+      "title": "2020 Dahon",
+      "url": "https://bikeindex.org/bikes/993904",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1609581600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Allegro road bike",
+      "id": 987673,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/386643/large_39C2AEAC-F317-4B33-A493-C29DD28E6067.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.83,
+        -117.26
+      ],
+      "stolen_location": "San Diego, CA 92037, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/386643/small_39C2AEAC-F317-4B33-A493-C29DD28E6067.jpeg",
+      "title": "Dahon Allegro road bike",
+      "url": "https://bikeindex.org/bikes/987673",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1604602800,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Speed D7",
+      "id": 944679,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": null,
+      "title": "Dahon Speed D7",
+      "url": "https://bikeindex.org/bikes/944679",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1598144414,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 843762,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R701602050",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "Dahon",
+      "url": "https://bikeindex.org/bikes/843762",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1597561200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "D8 (sp16)",
+      "id": 840559,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/311113/large_IMG_5293.PNG",
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.12,
+        -118.05
+      ],
+      "stolen_location": "Arcaida, CA 91007, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/311113/small_IMG_5293.PNG",
+      "title": "Dahon D8 (sp16)",
+      "url": "https://bikeindex.org/bikes/840559",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1596056329,
+      "description": "",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "D902600210",
+      "id": 827278,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Dahon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BX012378",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "Dahon D902600210",
+      "url": "https://bikeindex.org/bikes/827278",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

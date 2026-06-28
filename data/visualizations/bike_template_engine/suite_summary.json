@@ -1,0 +1,23 @@
+{
+  "engine_output": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\bike_template_engine\\index.html",
+  "template_studio_output": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\bike_template_engine\\template_studio.html",
+  "dataset_mapper_output": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\visualizations\\bike_template_engine\\dataset_mapper.html",
+  "engine_payload_output": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\gold\\exports\\bike_template_engine_payloads.json",
+  "template_package_dir": "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages",
+  "template_package_files": [
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\road\\package.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\road\\mapping.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\road\\theme.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\road\\schema.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\road\\template.svg",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\road\\preview.svg",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\mountain\\package.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\mountain\\mapping.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\mountain\\theme.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\mountain\\schema.json",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\mountain\\template.svg",
+    "E:\\cocoon\\study\\复习资料\\数据可视化\\bike_data_platform\\data\\template_packages\\mountain\\preview.svg"
+  ],
+  "bike_count": 48,
+  "default_bike_id": "brompton-a-line"
+}

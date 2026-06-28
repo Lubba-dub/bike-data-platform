@@ -1,0 +1,51 @@
+{
+  "saddle": [
+    "saddle"
+  ],
+  "shiftlever": [
+    "shift_lever"
+  ],
+  "handlebar": [
+    "steam_cap",
+    "handlebar"
+  ],
+  "seatpost": [
+    "seat_post"
+  ],
+  "brake": [
+    "brake_lever",
+    "brake"
+  ],
+  "tire": [
+    "back_tire_0",
+    "back_rim_0",
+    "back_tire_1",
+    "front_rim",
+    "back_rim",
+    "front_tire",
+    "back_tire"
+  ],
+  "freewhile": [
+    "freewheel_1",
+    "freewheel_0",
+    "freewheel_2"
+  ],
+  "fork": [
+    "fork"
+  ],
+  "frame": [
+    "frame"
+  ],
+  "rearderailleur": [
+    "rearderailleur"
+  ],
+  "chainwheel": [
+    "chainwheel"
+  ],
+  "crank": [
+    "crank"
+  ],
+  "pedal": [
+    "padal"
+  ]
+}

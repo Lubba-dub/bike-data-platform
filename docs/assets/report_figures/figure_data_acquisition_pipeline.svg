@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="100%" height="100%" fill="#f8fbff"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5a7eb5"/></marker></defs>
+<text x="60" y="70" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">?2 ??????????</text>
+<rect x="90" y="160" rx="22" ry="22" width="220" height="130" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="114" y="198" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">????</text>
+<text x="114" y="234" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">sources.yaml</text>
+<text x="114" y="262" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">official_sites.yaml</text>
+<rect x="370" y="160" rx="22" ry="22" width="220" height="130" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="394" y="198" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">??????</text>
+<text x="394" y="234" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">download_datasets.py</text>
+<text x="394" y="262" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">crawl_sources.py</text>
+<text x="394" y="290" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">crawl_sources_incremental.py</text>
+<rect x="650" y="160" rx="22" ry="22" width="240" height="130" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="674" y="198" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">???????</text>
+<text x="674" y="234" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">crawl_brand_officials_browser.py</text>
+<text x="674" y="262" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">??? URL ?????</text>
+<rect x="960" y="160" rx="22" ry="22" width="220" height="130" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="984" y="198" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">????</text>
+<text x="984" y="234" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">data/raw/datasets</text>
+<text x="984" y="262" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">data/raw/crawl/*.jsonl</text>
+<rect x="1240" y="160" rx="22" ry="22" width="220" height="130" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="1264" y="198" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">???</text>
+<text x="1264" y="234" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">???????????</text>
+<text x="1264" y="262" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">???????</text>
+<rect x="250" y="430" rx="22" ry="22" width="260" height="150" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="274" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">?????</text>
+<text x="274" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">build_brand_warehouse.py</text>
+<text x="274" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">official_bike_warehouse.db</text>
+<rect x="590" y="430" rx="22" ry="22" width="260" height="150" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="614" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">?????</text>
+<text x="614" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">build_unified_warehouse.py</text>
+<text x="614" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">part taxonomy / snapshots</text>
+<rect x="930" y="430" rx="22" ry="22" width="320" height="150" fill="#ffffff" stroke="#9fb6d9" stroke-width="2"/>
+<text x="954" y="468" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700" fill="#17324d">????</text>
+<text x="954" y="504" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">export_project_data.py</text>
+<text x="954" y="532" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">website_bikes_api / website_parts_api</text>
+<text x="954" y="560" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#5f7288">bike_template_engine_payloads.json</text>
+<line x1="310" y1="225" x2="370" y2="225" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="590" y1="225" x2="650" y2="225" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="890" y1="225" x2="960" y2="225" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1180" y1="225" x2="1240" y2="225" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1350" y1="290" x2="1090" y2="430" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="510" y1="505" x2="590" y2="505" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="850" y1="505" x2="930" y2="505" stroke="#5a7eb5" stroke-width="4" marker-end="url(#arrow)"/>
+</svg>

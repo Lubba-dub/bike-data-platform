@@ -1,0 +1,750 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1599620400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "RoAD",
+      "id": 865488,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/325296/large_IMG_5773.jpeg",
+      "location_found": null,
+      "manufacturer_name": "K2",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.23,
+        -111.66
+      ],
+      "stolen_location": "Provo, UT 84604, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/325296/small_IMG_5773.jpeg",
+      "title": "2020 K2 RoAD",
+      "url": "https://bikeindex.org/bikes/865488",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1599548400,
+      "description": "Black road bike with new silver clip-in pedals. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Z70",
+      "id": 865082,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/325008/large_IMG-8206__1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20036, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/325008/small_IMG-8206__1_.jpg",
+      "title": "2007 Felt Z70",
+      "url": "https://bikeindex.org/bikes/865082",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1598871600,
+      "description": "The picture i have is a bit old - currently (or before it was stolen) it had a AAA sticker on one side of the frame, and a \"I bike here\" sticker from the washington bikers association.",
+      "frame_colors": [
+        "Blue",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Volare",
+      "id": 849236,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/319908/large_IMG_7461.JPG",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.89,
+        -77.07
+      ],
+      "stolen_location": "Arlington, VA 22209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/319908/small_IMG_7461.JPG",
+      "title": "Schwinn Volare",
+      "url": "https://bikeindex.org/bikes/849236",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1598745600,
+      "description": "Its missing tape on one side and has electrical tape as a replacement. There is also a back rack and the pedal straps are word from dragging on the ground",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "TUONO Aluminum Road Bike 21 Speed Shimano",
+      "id": 849667,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Vilano",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.55,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97212, US",
+      "thumb": null,
+      "title": "2018 Vilano TUONO Aluminum Road Bike 21 Speed Shi...",
+      "url": "https://bikeindex.org/bikes/849667",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1595797200,
+      "description": "Perfect condition.  Front reflector is loose on top.  Blue paint in treads on back tore.  Holder for cell phone.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "20 inch Corso",
+      "id": 798048,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Diadora",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L151108033",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.5
+      ],
+      "stolen_location": "Edmonton, T5H 4M4, CA",
+      "thumb": null,
+      "title": "2016 Diadora 20 inch Corso",
+      "url": "https://bikeindex.org/bikes/798048",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1595221200,
+      "description": "Matte black road bike with grey and red accents\r\n54cm road bike",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Roadmachine 03 ONE",
+      "id": 793574,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/290295/large_IMG_0176.jpeg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7R57I0037",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.32,
+        -121.94
+      ],
+      "stolen_location": "San Jose, CA 95128, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/290295/small_IMG_0176.jpeg",
+      "title": "2018 BMC Roadmachine 03 ONE",
+      "url": "https://bikeindex.org/bikes/793574",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1595072667,
+      "description": "  aftermarket parts DMR Death Grips -Snow Camo KORE TORSION RISER BAR black chainstay protector dmr bikes sticker on left side  \r\nTheft Description\r\n\r\nbike taken from garden on cranhill close and road away on hollybrook way street at 10:30 pm",
+      "frame_colors": [
+        "Orange",
+        "Yellow or Gold"
+      ],
+      "frame_model": "Avalanche sport",
+      "id": 791793,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/288056/large_IMG_0164.JPEG",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/288056/small_IMG_0164.JPEG",
+      "title": "2018 GT Bicycles Avalanche sport",
+      "url": "https://bikeindex.org/bikes/791793",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1593180000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Silhouette",
+      "id": 775104,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBD062L04660",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -76.41
+      ],
+      "stolen_location": "Brooktondale, NY 14817, US",
+      "thumb": null,
+      "title": "Fuji Silhouette",
+      "url": "https://bikeindex.org/bikes/775104",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1593180000,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Silhouette",
+      "id": 775106,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBD313L0919P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -76.41
+      ],
+      "stolen_location": "Brooktondale, NY 14817, US",
+      "thumb": null,
+      "title": "Fuji Silhouette",
+      "url": "https://bikeindex.org/bikes/775106",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1592661600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 768233,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/269309/large_86267CD9-DA32-4A16-B89C-B89D9A1E0DB7.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.92,
+        -90.11
+      ],
+      "stolen_location": "New Orleans, LA 70115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/269309/small_86267CD9-DA32-4A16-B89C-B89D9A1E0DB7.jpeg",
+      "title": "1980 Diamondback",
+      "url": "https://bikeindex.org/bikes/768233",
+      "year": 1980,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591707600,
+      "description": "Think of our Hudson as part Explorer and part Earth Cruiser. Capable but cool. Casual but on it. We blended the flowing curves and shaped tubes of seemingly disparate platforms like our carbon Dakota 29’ers and our aluminum DXT’s and came up with a smart frame design that rides comfortably, casually and efficiently while making a bold statement all at the same time.\r\n\r\nHudson Lite\r\nWhen it comes to recreational riding on a so-called comfort bike, nothing gets more uncomfortable faster than having to pedal more weight than necessary. Which is why the Hudson Sport is built with lightweight 6061 aluminum tubing. We design comfort into the naturally stiffer ride of the aluminum tubes by specifying large volume tires and lengthening the chainstays and wheelbase for a stretch-limo sort of ride.\r\n\r\nEasy Rider\r\nSpecially designed for flat-footed starts and stops. With your weight evenly distributed over the crank for comfortable and efficient pedaling on the saddle or off. The Hudson’s laid back seat tube and lowered bottom bracket height allows riders to position their saddles for efficient leg extension and still easily reach the ground while seated for balance when stopped. The longer chainstays and wheelbase in tandem with the lower center of gravity offers a very smooth, stable ride.\r\n\r\nStep Right In\r\nOur step-through version is exceptionally easy to mount thanks to the low BB DROP and super-low position of the S-bent top tube. No more swinging a leg over the rear wheel, or pulling a knee up to the chest to step over the top tube to mount a bike.\r\n\r\nGet Fit\r\nAll frame sizes offer an extra-long head tube and hi- rise handlebars for a comfortable, upright ride position.\r\n\r\nWhere's The Other Brake Lever?\r\nThe SureStop braking system simplifies stopping by requiring only one brake lever to operate both front & rear brakes. It makes riding safer too by reducing the risk of front wheel lock-up. SureStop uses the momentum of the rear wheel to actively modulate the front brake, enabling smooth, controlled stopping. With only one hand!\r\n\r\nBest In Class Comfort\r\nOur super-plush saddle features Memory Foam padding for optimum support with maximum comfort. The slip-resistant suede-like top prevents sliding and the burnished side panels reduce leg friction while pedaling. Elastomer springs also help to soak up road vibrations. Offered in gender-specific sizes.\r\n\r\nPump Up The Volume\r\nOur Hudson tires are ready to roll, coming in a tall 27.5” diameter with a bump-chewing 2.35” width. The big benefit of that footprint is larger air volume in the tire and tube, which results in lower air pressure for a more comfortable ride than tires with smaller volumes and higher air pressures.\r\n\r\nClean And Simple\r\nThe Hudson’s alloy crankset features an outer-ring chainguard, with another full-length chainguard running the length of the chain from seatstay to chainring. So socks, slacks, skirts and dresses are well-protected from the chain.\r\n\r\n- 6061 TIG-welded aluminum frame\r\n- Hi-tensile unicrown fork\r\n- Alex DC25 alloy double-wall wheel set\r\n- 7-Speed Shimano Altus components",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Hudson Step-Thru",
+      "id": 756452,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/260640/large_jamis-hudson-step-thru-grape_jelly.jpg",
+      "location_found": null,
+      "manufacturer_name": "Jamis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Y19L016634",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.9,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20036, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/260640/small_jamis-hudson-step-thru-grape_jelly.jpg",
+      "title": "2020 Jamis Hudson Step-Thru",
+      "url": "https://bikeindex.org/bikes/756452",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591574400,
+      "description": "Yellow Bar tape with black \"paired\" spoke lace Xero Elemnt C3 wheelset, Bontrager R4 aero 700x22 tires. Gold KMC Super Lite chain, has hollow pins and cut plates. There was some red electrical tape neatly wrapped one time around the right side of the forkswhere i had a Cat Eye Quick wireless bike computer reciever transmitter zip-tied to. There is also only one black plastic bottle cage right now, and a mount for a small tire pump zip-tied to the top tube.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "FR60",
+      "id": 755809,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/260089/large_my_stolen_Felt.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F88FK5341",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.04,
+        -122.93
+      ],
+      "stolen_location": "Olympia, WA 98501, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/260089/small_my_stolen_Felt.jpeg",
+      "title": "2018 Felt FR60",
+      "url": "https://bikeindex.org/bikes/755809",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1591329600,
+      "description": "FULL DESCRIPTION OF BIKE:\r\nBlack Surly CRossCheck 50cm, \r\nTRP CX 9 Brakes,\r\nChris King Headset,\r\nAlex Wheels, With flower pattern on rims,\r\nBell Antitheft lights on the front left side of the saddle is wide foam not traditional for road bike ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Surly CrossCheck 50cm",
+      "id": 756361,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/260577/large_6030770081.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M10070159",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.6
+      ],
+      "stolen_location": "Portland, OR 97218, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/260577/small_6030770081.jpg",
+      "title": "Surly Surly CrossCheck 50cm",
+      "url": "https://bikeindex.org/bikes/756361",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1589500800,
+      "description": "Road-racing bike, carbon fibre  dark blue frame.  Shimano Ultegra components.  Selle Italia C2 Gel Flow Black Saddle W135xL278.  Vredestein Fortezza 700x23c Tri Comp clincher tires.  Recently installed canary yellow handlebar taping.  Shimano Ultegra two-bolt system clip in pedals.  Triple front sprocket\r\n",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "5200 Carbon 120",
+      "id": 788944,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/285082/large_gerald_radke_police_file_20197798_additional_pictures_1_fix.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -114.15
+      ],
+      "stolen_location": "Calgary, T2B 1C7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/285082/small_gerald_radke_police_file_20197798_additional_pictures_1_fix.jpg",
+      "title": "2004 Trek 5200 Carbon 120",
+      "url": "https://bikeindex.org/bikes/788944",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1588442400,
+      "description": "BMC Teammachine SLR02 Ultegra Di2 Mexico Blue Size 56\r\n\r\nBuild:  Ultegra DIi Electronic Shifting, Disc Brakes, Quarq Riken Power Meter, Rotor Chainrings (50t/36), Specialized Romin Evo Pro Saddle, Shimano Ultegra 6800 Pedals, 28mm Vitoria Tires\r\n\r\nAccessories Mounted:  Garmin Varia Radar, Garmin 1030 Bike Computer, Xlab Gorilla Black Bottle Cages (2x), Louis Garneu Flat Kit Bag Hanging from Saddle\r\n\r\nNotes:  Has a Beyond Aero logo (large white B) at Base of Frame.   \"Rotor\" is engraved in white on chain rings.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Teammachine SLR02",
+      "id": 724509,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/241562/large_IMG_0266.JPG",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "8R27G0212",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.6,
+        -121.95
+      ],
+      "stolen_location": "Castro Valley, CA 94546, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/241562/small_IMG_0266.JPG",
+      "title": "2017 BMC Teammachine SLR02",
+      "url": "https://bikeindex.org/bikes/724509",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1588395600,
+      "description": "All black - with a silver Spurcycle bell on handlebars, black bike rack over rear frame, and silver clip-in Shimano pedals. Two small circular paint chips on top side of bar, showing aluminum frame.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Metrix 10",
+      "id": 723909,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/241175/large_IMG_1758.JPG",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A551003401",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/241175/small_IMG_1758.JPG",
+      "title": "2016 SCOTT Metrix 10",
+      "url": "https://bikeindex.org/bikes/723909",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1586826000,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Steel, Road bike",
+      "id": 710640,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/233499/large_IMG_20200131_090623923.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.14,
+        -118.13
+      ],
+      "stolen_location": "Pasadena, CA 91101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/233499/small_IMG_20200131_090623923.jpg",
+      "title": "2020 Trek Steel, Road bike",
+      "url": "https://bikeindex.org/bikes/710640",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1586826000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Basic AF road bike model",
+      "id": 710918,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/233654/large_IMG_8008.jpg",
+      "location_found": null,
+      "manufacturer_name": "Virtue",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/233654/small_IMG_8008.jpg",
+      "title": "2015 Virtue Basic AF road bike model",
+      "url": "https://bikeindex.org/bikes/710918",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1586563200,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Bandiziol",
+      "id": 710282,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Bandiziol",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.22,
+        -122.97
+      ],
+      "stolen_location": "Burnaby, V5e1j8 , CA",
+      "thumb": null,
+      "title": "Bandiziol Bandiziol",
+      "url": "https://bikeindex.org/bikes/710282",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1594983600,
+      "description": "Neko 2 Women's is a go-anywhere hybrid bike that performs on a variety of surfaces. It's efficient on the road, stable on rougher terrain like gravel paths and comfortable wherever you ride it. A lightweight frame with a lower top tube for easy mounting and dismounting, suspension fork, all-terrain tyres, hydraulic disc brakes and touchpoints designed for women make it a great choice for riders who want to explore beyond smooth city streets.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Neko 2",
+      "id": 699153,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/226277/large_IMG_20200304_162122.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU231C0994M",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.57,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5G 1P3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/226277/small_IMG_20200304_162122.jpg",
+      "title": "2018 Trek Neko 2",
+      "url": "https://bikeindex.org/bikes/699153",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1577901600,
+      "description": "Red and black Specialized road bike, good condition. At the time of theft, it had a U-lock bracket, metal water bottle holder and rear rack with a spring-loaded cargo clasp attached. The handlebar tape is torn on the right side.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 684462,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC711005081P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": null,
+      "title": "2018 Specialized",
+      "url": "https://bikeindex.org/bikes/684462",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1576292400,
+      "description": "52 cm road bike. Dark green frame with white tape on drop bars. there is a small bit of neo green duck tape on one end. there is a saddle bag and rear rack. the seat is terry brand and has a butterfly stiched on it.",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "tirreno razza 3.0",
+      "id": 680045,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/211901/large_Screenshot_20191218-055450_Chrome.jpg",
+      "location_found": null,
+      "manufacturer_name": "Performance",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.52,
+        -122.68
+      ],
+      "stolen_location": "Portland, OR 97204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/211901/small_Screenshot_20191218-055450_Chrome.jpg",
+      "title": "2007 Performance tirreno razza 3.0",
+      "url": "https://bikeindex.org/bikes/680045",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1576098000,
+      "description": "bike description:  single speed roadbike, flipflop hub on the freewheel cog side currently set up. all black with I took an angle grinder to the paint on every part that i could from the frame to the fork to the seat post to the rims ev en the sprocket and pedals son it's black and chrome with angle grinder scuffmarks in between the black and chrome. its got bullhorn handlebars with black bar tape a brake lever on the left side that goes to a chrome caliper brake on the front wheel and its got a black seat with a white stripe going. halfway from the top to the bottom, horizontally on both left and right sides of the seat.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "road bike",
+      "id": 679742,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/210735/large_a.botto_sroadbike2.JPG",
+      "location_found": null,
+      "manufacturer_name": "road bike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.97,
+        -90.03
+      ],
+      "stolen_location": "New Orleans, LA 70117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/210735/small_a.botto_sroadbike2.JPG",
+      "title": "road bike road bike",
+      "url": "https://bikeindex.org/bikes/679742",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1572627600,
+      "description": "Fire engine red standard geometry road frame on the smaller side. It had 700c wheels with deep v rims and gum wall tires. It has a white seat and chrome road bars with white rubber grips. Instead of a standard roadbike type crankset it has a single chrome bmx chainring.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 679744,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Murray",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.98,
+        -90.08
+      ],
+      "stolen_location": "New Orleans, LA 70119, US",
+      "thumb": null,
+      "title": "Murray",
+      "url": "https://bikeindex.org/bikes/679744",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1568220204,
+      "description": "Black frame, white rims, owl sticker on front, sticker that says \"OVO\" on left side, right under the seat",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Road Bike",
+      "id": 646233,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/184201/large_2019_6KU_Fixie_InkIvory_StudioPhotos_001_2000x.jpg",
+      "location_found": null,
+      "manufacturer_name": "6KU",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "6SF19E217",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/184201/small_2019_6KU_Fixie_InkIvory_StudioPhotos_001_2000x.jpg",
+      "title": "2019 6KU Road Bike",
+      "url": "https://bikeindex.org/bikes/646233",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1773108000,
+      "description": "It is a 2019 model with some wear. Includes a peeling \"dirty kitten gravel\" sticker on the top tube. Somewhat dirty had a seat post bag and a bag on the top tube. Handlebar tape on the left side frayed due to a recent accident. and shifters also scraped. Selle Italia Diva saddle. Two bottle cages, black or blue",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Domane",
+      "id": 3348806,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1008341/large_IMG_0427.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU285QU0135N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.02,
+        -77.0
+      ],
+      "stolen_location": "Silver Spring, MD 20901, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1008341/small_IMG_0427.JPEG",
+      "title": "2019 Trek Domane",
+      "url": "https://bikeindex.org/bikes/3348806",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767481200,
+      "description": "Gravel bike with very prominent orange color. When stolen, a Ortlieb Quick Rack was installed on the back, as well as a small black/beige pouch screwed to the front of the top tube. The bike also had reflectors installed on most of the spokes, and it had hybrid pedals (one side normal, one side Shimano-type clips) installed.",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Speedster Gravel 30",
+      "id": 3255535,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/994574/large_rad2.jpg",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CAHE7490",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.16,
+        11.43
+      ],
+      "stolen_location": "München, 81245, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/994574/small_rad2.jpg",
+      "title": "SCOTT Speedster Gravel 30",
+      "url": "https://bikeindex.org/bikes/3255535",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766541600,
+      "description": "Matte black with gold/orange lettering on the side. Gravel bike. SL 6 Disc in 58cm.\r\nNote: photo is not exact - lettering is more gold/bronze",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Domane",
+      "id": 3336471,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1001035/large_Karen_s_bike.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU184QU0097N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2T 1S2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1001035/small_Karen_s_bike.png",
+      "title": "2019 Trek Domane",
+      "url": "https://bikeindex.org/bikes/3336471",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757469600,
+      "description": "The GT Transeo 4.0 is a hybrid bike designed for riders who want something versatile — comfortable for commuting and fitness rides, but also capable of handling light trails and gravel. Here are the main details about it:\r\nOverview\r\nCategory: Hybrid / Fitness / Commuter\r\nBrand: GT Bicycles \r\nFrame: Aluminum (lightweight, durable, upright geometry)\r\nFork: Equipped with a front suspension fork with a lockout option for efficient road riding\r\nWheels: 700c wheels (like a road bike, but wider tires for stability and comfort)\r\nSpeeds/Drivetrain: Typically a 3x8 (24-speed) Shimano or microSHIFT drivetrain\r\nBrakes: Mechanical disc brakes (reliable stopping power in all weather, but not hydraulic)\r\nTires: 700x40c (good balance of speed and shock absorption)\r\nOther features: Rack and fender mounts, blue MEC carrying panniers.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Transeo 4.0",
+      "id": 3186042,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/964219/large_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CM14M540336",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.06,
+        -114.05
+      ],
+      "stolen_location": "Calgary, T2E 7W2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/964219/small_1de989f7-46b2-4642-bbe3-ad0a83337430.img.jpeg",
+      "title": "GT Bicycles Transeo 4.0",
+      "url": "https://bikeindex.org/bikes/3186042",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749668400,
+      "description": "Stock Triban RC120, I put tanwall gravel tires on it, microshift XLE 2x8 groupset, black bar tape and black saddle, reflectors on both wheels",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Triban RC120",
+      "id": 2818648,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.52,
+        -113.52
+      ],
+      "stolen_location": "Edmonton, T6G 2L7, CA",
+      "thumb": null,
+      "title": "2025 Decathlon Triban RC120",
+      "url": "https://bikeindex.org/bikes/2818648",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1748952000,
+      "description": "Black frame with very noticeable bright blue Mtn biking pedals (clips on one side) and blue constellations bike seat from Terri",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Topstone Carbon Gravel Bike",
+      "id": 2829381,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934180/large_IMG_9936.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TC39875",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934180/small_IMG_9936.jpeg",
+      "title": "2021 Cannondale Topstone Carbon Gravel Bike",
+      "url": "https://bikeindex.org/bikes/2829381",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1747908000,
+      "description": "Gravel Bike from Stevens, Type Camino Pro. First version with only one Sprocket (newer one have two). Primary Color is Silver, secondary Black. On the left side of the Frame was (is) a sticker with the Logo of the trader.\r\nThe Bag under the sattle was not mounted.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "Camino Pro",
+      "id": 2809072,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/920830/large_WhatsApp_Bild_2025-05-27_um_14.21.38_257ff7a3.jpg",
+      "location_found": null,
+      "manufacturer_name": "Stevens",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22RBBFLM1035",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.14,
+        5.72
+      ],
+      "stolen_location": "Echirolles, 38310, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/920830/small_WhatsApp_Bild_2025-05-27_um_14.21.38_257ff7a3.jpg",
+      "title": "2022 Stevens Camino Pro",
+      "url": "https://bikeindex.org/bikes/2809072",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746435600,
+      "description": "Bike is a gravel bike. It has upgraded deep dish LIGHT road rims.  Pedals are flat on one side and spd on the other ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "E9 RDO RLT",
+      "id": 2798548,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/914353/large_IMG_5139.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Niner",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2500000006241",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.29
+      ],
+      "stolen_location": "Minneapolis, MN 55408, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/914353/small_IMG_5139.jpeg",
+      "title": "2023 Niner E9 RDO RLT",
+      "url": "https://bikeindex.org/bikes/2798548",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739012400,
+      "description": "A light beige Canyon Grizl 7 gravel bike purchased September 2024. Stolen in Darmstadt February 2025.\r\n\r\n- Light scratching on side of top pipe\r\n- Small box on top pipe\r\n- Canyon side loader bottle holder on bottom pipe\r\n- Clamp for ABUS Bordo lock on back pipe\r\n- Wahoo clamp and M-Wave noisemaker on handlebar\r\n- Tool bag under saddle",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Grizl 7",
+      "id": 2757407,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892243/large_5280687304777789637.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07501B24C0570",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.91,
+        8.71
+      ],
+      "stolen_location": "Darmstadt, 64289, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892243/small_5280687304777789637.jpg",
+      "title": "2021 Canyon bicycles Grizl 7",
+      "url": "https://bikeindex.org/bikes/2757407",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733846400,
+      "description": "Sea breeze blue, camp and go slow western rattler bar tape (brown diamond pattern), blue tiger sticker on RH side of down tube. scuffs inside forks and chain stays from mud rub. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Aspero",
+      "id": 2736773,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/878602/large_1000007761.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNB0B6120C110",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.05,
+        -118.24
+      ],
+      "stolen_location": "Los Angeles, CA 90012, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/878602/small_1000007761.jpg",
+      "title": "2020 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/2736773",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1731200400,
+      "description": "Kona steel gravel bike in mint green color. Specialized Pathfinder Pro Byway Tires (700x38). Copper colored bottle cages. Silver rear rack. Shimano 1x11. Kona WTB Saddle. Black flat pedals. Disc brakes. Behind Bars shop sticker on bottom of seat tube behind bottle cage. No handlebar tape plug on right side.\r\n",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Rove ST",
+      "id": 2725834,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/873391/large_IMG_4152.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F1604C1878",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.93,
+        -93.28
+      ],
+      "stolen_location": "Minneapolis, MN 55409, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/873391/small_IMG_4152.jpg",
+      "title": "2016 Kona Rove ST",
+      "url": "https://bikeindex.org/bikes/2725834",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1726941600,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Topstone 4",
+      "id": 2703199,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/859219/large_IMG_3766.png",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FC21417",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.54,
+        -122.39
+      ],
+      "stolen_location": "Seattle, WA 98136, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/859219/small_IMG_3766.png",
+      "title": "2021 Cannondale Topstone 4",
+      "url": "https://bikeindex.org/bikes/2703199",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752285600,
+      "description": "Color: Dark blue frame with a glossy finish. The paint shows minor scuffs and wear, particularly near the bottom bracket and chainstay, reflecting typical usage.\r\n\r\nFrame Size & Design: The bike features a medium-sized frame with a slightly slanted top tube. The tube joints are visibly welded and reinforced, providing extra durability for off-road or urban riding.\r\n\r\nGears & Drivetrain: Equipped with a standard multi-speed gear setup. It has a triple chainring in the front and a 7-speed cassette in the rear, allowing for smooth shifting over a range of terrains. The derailleurs and shifters are operational but show minor signs of use.\r\n\r\nBrakes: The bike uses traditional rim brakes, both front and rear, which are in good working order. The brake levers on the handlebars are black and slightly worn from use.\r\n\r\nHandlebars: The handlebars are flat, straight, and black, with wear visible on the grips. The right grip end has a small cap missing, exposing the inner handlebar tube. The handlebar stem shows slight rust and wear, while the cables for the brakes and shifters are externally routed, curving smoothly toward the frame.\r\n\r\nTires & Wheels: The tires are thick, knobby, and designed for multi-surface riding, with a deep tread pattern ideal for gravel or rough urban surfaces. The tires are mounted on aluminum rims, which appear to be in good shape. Both wheels are secured with standard quick-release mechanisms.\r\n\r\nSaddle: The saddle is a basic black vinyl model, showing slight wear but no visible damage. It's supported by a standard seat post with a quick-release mechanism for easy height adjustments.\r\n\r\nWater Bottle & Holder: White water bottle that says 'Silvera for Seniors' is a sipper style 500 ml bottle and is on a metal bottle cage that is located in the vertical rod of the bike just above the front gear chain\r\n\r\nAccessories:\r\n\r\nLock: A black coiled cable lock is attached around the frame, securing the bike when parked.\r\nGreen Bag: A small green bag is mounted on the handlebar stem, possibly used for small items or tools.\r\nReflectors: There are red rear reflectors and front-mounted white reflectors for visibility.\r\nBar Code: The bike features a barcode sticker on the frame near the handlebar with the number \"70410 01847.\"\r\n\r\nDistinctive Marks: The handlebar stem has visible rust and slight wear, while the grips show signs of extended use.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "BREEZE",
+      "id": 2696823,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/856073/large_Screenshot_2024-09-14_180131.png",
+      "location_found": null,
+      "manufacturer_name": "Supercycle",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "7041601841",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.07,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2M 0M9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/856073/small_Screenshot_2024-09-14_180131.png",
+      "title": "Supercycle BREEZE",
+      "url": "https://bikeindex.org/bikes/2696823",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1725339600,
+      "description": "Serial # impression is faint, difficult to discern, stamped on the bottom of bottom bracket\r\n\r\nAftermarket accessories:\r\n--handlebars are double wrapped with black bar tape\r\n--80mm Redshift ShockStop stem\r\n--pewter Blackburn Outpost Cargo Cages on each side of fork\r\n--Black Axiom DLX Streamliner Disc Rear Rack\r\n--Shimano PD-EH500 dual SPD/Platform pedals\r\n--matte black plastic SKS front and rear fenders with mudflaps\r\n--Black Jamis saddle\r\n--one headlight\r\n--one red LED strobe rear light\r\n--two silver aluminum bottle cages\r\n--an intertube wrapped around chain stay to prevent wear from chain slap\r\n--Bits of innertube were fastened with electrical tape to protect common wear points on the fork and frame.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Gravel X3",
+      "id": 1029285,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/414446/large_MotobecaneGravelX3_1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Motobecane",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "L201100888",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.9,
+        -87.74
+      ],
+      "stolen_location": "Chicago, IL 60651, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/414446/small_MotobecaneGravelX3_1.jpeg",
+      "title": "2021 Motobecane Gravel X3",
+      "url": "https://bikeindex.org/bikes/1029285",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724666400,
+      "description": "The attached photos are old. The below description is for the current appearance.\r\nIt is a dark grey colour ADV (gravel) bike, with an orange accent colour. \r\nIt has a U shape heavy lock on the left side from ABUS with a red-head\r\nThe seat booster rod has an accessory to attach a kid's seat to the bike, it is no longer attached to the bike frame as in the picture.\r\nThe Cateye front white and back red flashers.\r\n",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "ADV 8.6",
+      "id": 2683053,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/847452/large_IMG20240224171442.jpg",
+      "location_found": null,
+      "manufacturer_name": "Boardman Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AA00734226",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        55.88,
+        -4.26
+      ],
+      "stolen_location": "Glasgow, G22 5PR, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/847452/small_IMG20240224171442.jpg",
+      "title": "Boardman Bikes ADV 8.6",
+      "url": "https://bikeindex.org/bikes/2683053",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1723914000,
+      "description": "It is a Salsa Journeyer Advent 650b. It is all black with \"Salsa\" written in blue on the bottom tube. It has a small dent on the top tube. It has a peak design magnet phone mount on the handlebar. It has curved drop down handlebars that are wrapped with black wraps. It has dual clip on/flat crank brothers pedals. It has 4 mounting spots on it. It has one black and one blue water bottle holder on the bottom tube. It has a lizard skin chain protector underneath the chain. It has hybrid 650 gravel tires with knobs on the side and smooth tread in the middle.",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "Journeyer Advent 650b",
+      "id": 2676094,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/843919/large_1000003312.png",
+      "location_found": null,
+      "manufacturer_name": "Salsa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A21073427",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.83,
+        -86.15
+      ],
+      "stolen_location": "Indianapolis, IN 46205, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/843919/small_1000003312.png",
+      "title": "2022 Salsa Journeyer Advent 650b",
+      "url": "https://bikeindex.org/bikes/2676094",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1718841600,
+      "description": "White bike with drops bars. Stock seat. Gravel tires. Small frame. At the time of theft it had a mount for a bike computer, a black bell, a rear red light, rearview mirror on left side, and a center bottle cage.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Checkpoint ALR 5",
+      "id": 2636791,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/820844/large_PXL_20240601_155723164.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU165JC0063T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.35,
+        -71.06
+      ],
+      "stolen_location": "Boston, MA 02111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/820844/small_PXL_20240601_155723164.jpg",
+      "title": "2023 Trek Checkpoint ALR 5",
+      "url": "https://bikeindex.org/bikes/2636791",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1716030000,
+      "description": "Ambition helps motivate us. It helps us strive for more and reach new goals.\r\n\r\nThe X Ambition is built for more. More miles, more adventures, more smiles! You may know the Poseidon X and the X Ambition is the more improved version. We focused on improved comfort with a more upright riding position and a new saddle design. We increased braking power by adding the same brakes as the Redwood and completed the build with 700 x 40 Kenda Happy Medium tires for good speed on the road and grip on gravel.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Prowheel gravel",
+      "id": 2600352,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/808044/large_poseidon.jpg",
+      "location_found": null,
+      "manufacturer_name": "Poseidon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PC200602813",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.66,
+        -78.68
+      ],
+      "stolen_location": "Raleigh, NC 27603, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/808044/small_poseidon.jpg",
+      "title": "2024 Poseidon Prowheel gravel",
+      "url": "https://bikeindex.org/bikes/2600352",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1724187600,
+      "description": "• Premium grade gravel race carbon GRX Di2/disc brake bicycle that improves on original design\r\n• Upgraded carbon fiber, and lay-up schedule for stiffer, faster design with aerodynamic improvements\r\n• Use of D-shaped, tapered carbon fork steerer design, with included bar & stem for full wire/housing integration including dropper post\r\n• Change allows for more aero headtube design and reduced drag from integrated routing\r\n• Lower, more stable road-like feel from overall geometry, chainstay length, BB drop\r\n• Accepts 700c x 43mm tires / 650b x 51mm tires; minimum 4mm side clearance\r\n• Trail Mixer fork dropouts can be switched for +/- 5mm selectable fork offset; 62mm optimal Trail\r\n• Forward position=decreased trail=faster handling | Rearward position=increased trail=slower handling\r\n• Squoval.Max tube designs, enlarged and enhanced for rough surfaces; fork/downtube integration\r\n• Large downtube BBright bottom bracket shell w/ oversized dropped chainstays\r\n• Carbon lay-up, round seatpost, larger volume tires contribute to rider comfort\r\n• 1x/2x compatible, with mechanical or electronic shifting systems; removable braze-on FD mount\r\n• Frameset\r\no Frame: Aspero-5 Carbon, full internal routing, Flat Mount caliper interface, 12/142mm TA dropout\r\no Fork: Tapered Áspero-5 Fork, Adjustable Trail; D-Shaped steerer, Flat Mount caliper interface, 12/100mm TA dropout\r\no Headset: FSA IS-2 1¼ x 1½\"\r\no Thru-axles: Cervélo indexed/threaded: 12/100mm, 12/142mm\r\n• Groupset: Shimano GRX 815 Di2 2x11 w/ hydraulic disc braking; internal eTube wiring, seatpost battery\r\no Dual Control levers: Di2 Shifting with mineral oil based hydraulic braking set-up\r\no Brake Calipers/Rotors: Shimano GRX RX815 Hydraulic Disc w/ SM-RT800 CL 160mm rotors\r\no Derailleurs: GRX 815 Di2 Front (braze-on), Rear (up to 34T max cog)\r\no Crankset/BB: GRX 810 48/31T / Cervélo BBright JY-BB 24 bottom bracket\r\no Cassette/Chain: HG800 11-34T / CN701\r\n• Wheelset & Tires\r\no Cervélo Reserve with 32mm Carbon rims (IRW 24mm), TLR, DT350 HG11, CL disc\r\no Panaracer Gravel King SK TLR 700x38\r\n• Cockpit & Accessories\r\no Handlebar: Carbon AB09 16° Flared Carbon, 31.8mm, integrated routing; Cervélo bar tape\r\no Stem: Cervélo ST32 Alloy, 31.8, (for Cervélo D-shaped fork steerer tube, integrated routing)\r\no Seatpost: Cervélo SP19 Carbon 27.2mm round (48-54cm Zero offset, 56-61cm, 25mm setback)\r\no Saddle: Prologo Dimension Nack\r\no Cervélo accessories: Stem Faceplate Computer/Acc mount, Rear Accessory Mount, and Smartpak 400A Top Tube Storage Bag, Downtube Protector\r\n• Component specifics by frame size:\r\no 48cm Bar width: 38c-c, Stem length: 70mm, Crank length: 165mm\r\n• Colors: Five Black\r\n• Sizes: 48 cm\r\n• Weight: 18.69 lbs (56cm)\r\n\r\nGeometry\r\nSize\t48\r\nWheel Size\t700\r\nStack\t505mm\r\nReach\t370mm\r\nHead Angle\t71°\r\nSeat Angle\t74.5°\r\nTop Tube Length\t512mm\r\nHead Tube Length\t83mm\r\nStandover\t690mm\r\nFork Trail\t58.6mm\r\nFork Offset\t52mm\r\nBottom Bracket Drop\t78.5mm\r\nFront Center\t583mm\r\nWheelbase\t990mm\r\nChainstay Length\t420mm\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ASPERO – 5 GRX RX815 Di2",
+      "id": 2576010,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/845056/large_CERVELO.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1454822M019",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.94,
+        -105.18
+      ],
+      "stolen_location": "Louisville, CO 80027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/845056/small_CERVELO.jpg",
+      "title": "2023 Cervélo ASPERO – 5 GRX RX815 Di2",
+      "url": "https://bikeindex.org/bikes/2576010",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1685642400,
+      "description": "Bullhorn handle bars, rear rack with side bag. Large scratch on top bar. Front road tire is blue, rear is yellow/tan.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Roadster V2, Gravel",
+      "id": 1342168,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/705723/large_IMG_2766.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ5220400652",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.07,
+        -118.31
+      ],
+      "stolen_location": "Los Angeles, CA 90020, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/705723/small_IMG_2766.jpg",
+      "title": "2022 Ride1Up Roadster V2, Gravel",
+      "url": "https://bikeindex.org/bikes/1342168",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1684386000,
+      "description": "Black REI bike with a behind the seat basket that has orange connectors. Back tire doesn’t match the front and is a continental brand gravel tire. A kryptonite bike chain is locked around the frame. And a black kickstand. A silver bell is on the right side of the handlebars. The handlebars are brown from the sun.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Road",
+      "id": 1523552,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/700549/large_E72107EE-8FB7-4B04-9FD8-5B30F75872AB.jpeg",
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "I21024585",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.7,
+        -105.04
+      ],
+      "stolen_location": "Denver, CO 80219, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/700549/small_E72107EE-8FB7-4B04-9FD8-5B30F75872AB.jpeg",
+      "title": "2022 REI Co-op Road",
+      "url": "https://bikeindex.org/bikes/1523552",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1683604800,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Grizl CF SL 7 1BY",
+      "id": 1517480,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/696946/large_70063076949__10811DC4-4C71-4770-9033-71E185E03C55__1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R09501AD22H0391",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.5,
+        -121.96
+      ],
+      "stolen_location": "Fremont, CA 94538, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/696946/small_70063076949__10811DC4-4C71-4770-9033-71E185E03C55__1_.jpg",
+      "title": "2023 Canyon bicycles Grizl CF SL 7 1BY",
+      "url": "https://bikeindex.org/bikes/1517480",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1676653200,
+      "description": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "AWOL",
+      "id": 1464788,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/675957/large_06047096-A64A-453C-BE4E-C18266FB21E4.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.34,
+        -71.03
+      ],
+      "stolen_location": "Boston, MA 02127, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/675957/small_06047096-A64A-453C-BE4E-C18266FB21E4.jpeg",
+      "title": "2016 Specialized AWOL",
+      "url": "https://bikeindex.org/bikes/1464788",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1664391600,
+      "description": "Gravel Bike",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Rando",
+      "id": 1407743,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/642469/large_IMG_0837.JPG",
+      "location_found": null,
+      "manufacturer_name": "Twin Six",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M20032109",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.71,
+        -104.96
+      ],
+      "stolen_location": "Denver, CO 80209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/642469/small_IMG_0837.JPG",
+      "title": "2020 Twin Six Rando tandem",
+      "url": "https://bikeindex.org/bikes/1407743",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "tandem"
+    },
+    {
+      "date_stolen": 1664289271,
+      "description": "An XL blue commuter bike that is moderately used and has a few scratches near the front of the body due to an earlier theft attempt. It has a small bag on the top bar, a u-lock attached to the left side of the frame and gravel tires with tan walls.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Dew Plus (Commuter)",
+      "id": 1407082,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/641871/large_Bike_pic.jpg",
+      "location_found": null,
+      "manufacturer_name": "Kona",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "IN21021422",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/641871/small_Bike_pic.jpg",
+      "title": "2021 Kona Dew Plus (Commuter)",
+      "url": "https://bikeindex.org/bikes/1407082",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

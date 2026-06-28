@@ -1,0 +1,760 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1767326033,
+      "description": "It's a nishiki bravo with a rack on the back and the back tire need a replacement the spokes are snapped",
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Bravo",
+      "id": 3254976,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Nishiki",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "T 9703 1617",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "Nishiki Bravo",
+      "url": "https://bikeindex.org/bikes/3254976",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766484000,
+      "description": "Dura-Ace crank, SL-K saddle post, DT Swiss p1800 tires, Syntace stem post, SRAM shifters, and black taped handlebars ",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Infinito Corse",
+      "id": 3254168,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/993457/large_FullSizeRender.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.84,
+        -119.83
+      ],
+      "stolen_location": "Fresno, CA 93711, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/993457/small_FullSizeRender.JPEG",
+      "title": "Bianchi Infinito Corse",
+      "url": "https://bikeindex.org/bikes/3254168",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766401200,
+      "description": "29\" wheels, SRAM electronic shifting, mountain bike, Shimano XT Enduro PD-M8120 Pedals, purchased from Cripple Creek Bike & Backcountry\r\n358 Blue River Parkway Suite F\r\nSilverthorne, CO 80498\r\n(970) 485-6907\r\ninfo@cripplecreekbc.com\r\n\r\nSales Receipt\r\n08/15/2025 11:43 am ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Specialized Epic 8 Comp Evo Xtra Large",
+      "id": 3252400,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/992470/large_1000008890.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004050874V",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.98,
+        -105.25
+      ],
+      "stolen_location": "Boulder, CO 80305, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/992470/small_1000008890.jpg",
+      "title": "2025 Specialized Specialized Epic 8 Comp Evo Xtra Large",
+      "url": "https://bikeindex.org/bikes/3252400",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766001600,
+      "description": "There’s a Black Lives Matter fist sticker on seat post. Black handlebar tape. Indy Villacorta sticker on the bike below saddle. DT Swiss wheel set. SRAM Red groupset. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Timemachine 01 ROAD THREE (Force AXS) 54",
+      "id": 3251116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/991698/large_IMG_2812.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.2,
+        -118.6
+      ],
+      "stolen_location": "Canoga Park, CA 91303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/991698/small_IMG_2812.png",
+      "title": "2020 BMC Timemachine 01 ROAD THREE (Force AXS) 54",
+      "url": "https://bikeindex.org/bikes/3251116",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764140400,
+      "description": "My Santa Cruz Chameleon has upgraded Deity handle bars, Atlas Race Face cobalt blue pedals, SRAM 3 piece crank, 34 rhythm Fox shocks front, 27.5 in MAXX tubeless tires, WTB 27.5 in rims. It's a real color like the san jose sharks color, black rims, black crank and handle bars, it also has splash back protector on the front rim",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Santa Cruz chameleon",
+      "id": 3237213,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/988933/large_17648352340548976566745419917419.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CA81203817",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.8
+      ],
+      "stolen_location": "Beaverton, OR 97005, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/988933/small_17648352340548976566745419917419.jpg",
+      "title": "2021 Santa Cruz Santa Cruz chameleon",
+      "url": "https://bikeindex.org/bikes/3237213",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763614800,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "6061 ALL-ROAD SRAM APEX XPLR",
+      "id": 3229660,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/986611/large_3945.jpg",
+      "location_found": null,
+      "manufacturer_name": "State Bicycle Co.",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SBCAT2116510",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.92,
+        -87.7
+      ],
+      "stolen_location": "Chicago, IL 60647, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/986611/small_3945.jpg",
+      "title": "2024 State Bicycle Co. 6061 ALL-ROAD SRAM APEX XPLR",
+      "url": "https://bikeindex.org/bikes/3229660",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763330400,
+      "description": null,
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "Sight A2 SRAM",
+      "id": 3228323,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985644/large_IMG_3766_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "NSA90919XL",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.31,
+        -97.73
+      ],
+      "stolen_location": "Austin, TX 78751, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985644/small_IMG_3766_Original.jpeg",
+      "title": "2023 Norco Bikes Sight A2 SRAM",
+      "url": "https://bikeindex.org/bikes/3228323",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763172000,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Ripmo",
+      "id": 3227426,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987633/large_20210726_161048.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ibis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TFFA0418L",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.76,
+        -105.22
+      ],
+      "stolen_location": "Golden, CO 80403, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987633/small_20210726_161048.jpg",
+      "title": "2020 Ibis Ripmo",
+      "url": "https://bikeindex.org/bikes/3227426",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762135200,
+      "description": "CAAD12 with Sram Force mechanical group set. DT Swiss aluminum wheels",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "CAAD12",
+      "id": 3224531,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983400/large_6e827b0b-19f5-42a6-b682-f640ae97c7e7-1_all_59892.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "HA00437",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.66,
+        -78.68
+      ],
+      "stolen_location": "Raleigh, NC 27603, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983400/small_6e827b0b-19f5-42a6-b682-f640ae97c7e7-1_all_59892.jpg",
+      "title": "2016 Cannondale CAAD12",
+      "url": "https://bikeindex.org/bikes/3224531",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762135200,
+      "description": "Specialized E5 aluminum, fully manipulated tubing, smooth weld, semi-compact race design, shaped TT, 1-1/2\" lower bearing, internal cable routing, integrated headset, threaded BB\r\n\r\nI9 wheels and hubs ( red)\r\n1x drivetrain with mix of Sram Apex and Rival",
+      "frame_colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "frame_model": "CruX Elite",
+      "id": 3224537,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983434/large_6e827b0b-19f5-42a6-b682-f640ae97c7e7-1_all_59893.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        35.66,
+        -78.68
+      ],
+      "stolen_location": "Raleigh, NC 27603, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983434/small_6e827b0b-19f5-42a6-b682-f640ae97c7e7-1_all_59893.jpg",
+      "title": "2011 Specialized CruX Elite",
+      "url": "https://bikeindex.org/bikes/3224537",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761019200,
+      "description": "Bike is in great condition, currently has orange pedals on it.  It was stolen in North Portland, at Jubitz, on 10/20/2025.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Top Fuel 9.9 AXS XX1",
+      "id": 3219426,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979967/large_IMG_0063.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU 145 CT 0030 T 0624",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979967/small_IMG_0063.jpeg",
+      "title": "2022 Trek Top Fuel 9.9 AXS XX1",
+      "url": "https://bikeindex.org/bikes/3219426",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760860800,
+      "description": "SHIMANO SLX 9 SPEED, SRAM TRIGGER SHIFTER, HAYES CODE 5 HYDRAULIC BRAKES, SDG IBEAM SADDLE AND SEATPOST,BLACKSPIRE SUPERGUARD BASHGUARD, BLAKSPIRE CHAIN TENSIONER, MARCOZZI DROP OFF III FRONT FORK, WELGO PEDALS, SUN S TYPE RIMS",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": "YAKUZA",
+      "id": 3218871,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979305/large_BIKE_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ironhorse Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.6,
+        -113.39
+      ],
+      "stolen_location": "Edmonton, T5A 0E3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979305/small_BIKE_1.jpg",
+      "title": "2006 Ironhorse Bicycles YAKUZA",
+      "url": "https://bikeindex.org/bikes/3218871",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763670414,
+      "description": "Black and red rockshox \r\nSram pedals \r\n",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "0B29DE11O1",
+      "id": 3217086,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "34T83586938",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "CA",
+      "thumb": null,
+      "title": "Norco Bikes 0B29DE11O1",
+      "url": "https://bikeindex.org/bikes/3217086",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760814000,
+      "description": "Diamondback Overdrive Carbon Pro 29. Red carbon fiber frame. 29 inch wheels. Frame size Large. SRAM GX components with 1x11gear configuration. I just changed the rear derailleur cable and the end is coiled, not trimmed.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Overdrive Carbon Pro 29",
+      "id": 3219645,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979862/large_PXL_20250718_015554706.jpg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.02,
+        -105.27
+      ],
+      "stolen_location": "Boulder, CO 80302, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979862/small_PXL_20250718_015554706.jpg",
+      "title": "Diamondback Overdrive Carbon Pro 29",
+      "url": "https://bikeindex.org/bikes/3219645",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766952000,
+      "description": "Frame is yellow/green, depending on the light. Black fork. ",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Green",
+        "Black"
+      ],
+      "frame_model": "Outback Breakaway",
+      "id": 3214252,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976721/large_IMG_1773.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ritchey",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "OB2BS2023",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.23,
+        -122.32
+      ],
+      "stolen_location": "Napa, CA 94559, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976721/small_IMG_1773.jpg",
+      "title": "2023 Ritchey Outback Breakaway",
+      "url": "https://bikeindex.org/bikes/3214252",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760270880,
+      "description": "Bare Titanium, no decals except \"E\" on head tube,  One small dent in top tube.  Custom build with Look Carbon Fork, SRAM Rival components",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Phoenix",
+      "id": 3213396,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977155/large_20220817_094522.jpg",
+      "location_found": null,
+      "manufacturer_name": "Everti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "0R07030895",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.32,
+        -121.94
+      ],
+      "stolen_location": "San Jose, CA 95128, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977155/small_20220817_094522.jpg",
+      "title": "2007 Everti Phoenix",
+      "url": "https://bikeindex.org/bikes/3213396",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767909600,
+      "description": "DEMO FSR frame. Super low center of gravity and standover with sub-seatstay actuated shock. Full cartridge bearing pivots, 9 of travel with full chainguide and front derailleur compatibility. 150mm wide 12 or 15mm thru-axle rear, ISCG mount, rear derailleur protector. 26 and 24 wheel compatible with two geometry settings, 16.7 chainstay length, forged and CNCd OS HT, Super ORE TT/DT.",
+      "frame_colors": [
+        "Brown",
+        "Black"
+      ],
+      "frame_model": "Demo 9",
+      "id": 3208458,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975318/large_IMG_0585.png",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PK480547",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.68,
+        -120.29
+      ],
+      "stolen_location": "Kamloops, V2C 3Z6, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975318/small_IMG_0585.png",
+      "title": "2006 Specialized Demo 9",
+      "url": "https://bikeindex.org/bikes/3208458",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759543200,
+      "description": "Enve MOG Size 56cm Sand color.  Zipp 303 XPLR SW wheels.  SRAM Red 13 speed grouset, Force 1x crank, Easton seatpost, Zipp bars, Enve Stem.  ",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "MOG",
+      "id": 3207967,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/974975/large_IMG_0028.jpeg",
+      "location_found": null,
+      "manufacturer_name": "ENVE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S22L1P1EV19560002",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.97,
+        -95.37
+      ],
+      "stolen_location": "Lawrence, KS 66049, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/974975/small_IMG_0028.jpeg",
+      "title": "2023 ENVE MOG",
+      "url": "https://bikeindex.org/bikes/3207967",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759539600,
+      "description": "Folder, with internal Nexus 7 rear hub, dynamo front hub, and Schmidt Edelux front light. Wheels by Sugar Wheel Works. SRAM Courier crankset. Enduro bottom bracket. Cane Creek Thudbuster seatpost.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Link D7i",
+      "id": 53505,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975102/large_b357851c-677f-4a0e-bf24-decd209be8cd.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Tern",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BZ0125PFB0071",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.55,
+        -122.73
+      ],
+      "stolen_location": "Portland, OR 97210, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975102/small_b357851c-677f-4a0e-bf24-decd209be8cd.jpeg",
+      "title": "2014 Tern Link D7i",
+      "url": "https://bikeindex.org/bikes/53505",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759460400,
+      "description": "Cyclocross style leopard bike. with sram x-9",
+      "frame_colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "frame_model": "CX1",
+      "id": 3205371,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Leopard",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.74,
+        -122.34
+      ],
+      "stolen_location": "Shoreline, WA 98133, US",
+      "thumb": null,
+      "title": "2010 Leopard CX1",
+      "url": "https://bikeindex.org/bikes/3205371",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759420800,
+      "description": "\"glacier ice\" light blue color. SRAM Force AXS etap",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Caledonia 5",
+      "id": 3205091,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973142/large_IMG_1021.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1385622G195",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.68,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973142/small_IMG_1021.jpeg",
+      "title": "2023 Cervélo Caledonia 5",
+      "url": "https://bikeindex.org/bikes/3205091",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1777255200,
+      "description": "The bike is a Co-op Cycles DRT 2.1 mountain bike, size XL, with a 6061 aluminum hardtail frame in the stock REI color scheme. It has a Suntour SR AIR-Boost front suspension fork with 140 mm travel, a SRAM SX Eagle 1×12 drivetrain with an 11–50T cassette, and Tektro Auriga hydraulic disc brakes front and rear. The wheels are 27.5-inch with 2.8-inch wide tires, tubeless-ready rims, upgraded pedals to black Chester pedals . It is equipped with an X-Fusion Manic dropper seatpost with a handlebar-mounted remote. The bike also features a WTB Volt Sport saddle, riser handlebars, and weighs about 34 pounds in this XL frame size.",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "DRT 2.1 Mountain Bike",
+      "id": 3205029,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973075/large_IMG_2615.jpg",
+      "location_found": null,
+      "manufacturer_name": "REI Co-op",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C3FK0299",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.75,
+        -105.11
+      ],
+      "stolen_location": "Lakewood, CO 80215, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973075/small_IMG_2615.jpg",
+      "title": "2020 REI Co-op DRT 2.1 Mountain Bike",
+      "url": "https://bikeindex.org/bikes/3205029",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759276800,
+      "description": "Cervélo Áspero Apex 1 Disc Gravel Bike - 2021, 58cm\r\nRoval Terra C Wheelset - Very New\r\nSram Eagle Mullet Drivetrain - Brand New",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Áspero Apex 1 Disc",
+      "id": 1226029,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/529843/large_BGR11376_PH1_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNB0B5820C250",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94131, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/529843/small_BGR11376_PH1_02.jpg",
+      "title": "2021 Cervélo Áspero Apex 1 Disc",
+      "url": "https://bikeindex.org/bikes/1226029",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759132800,
+      "description": "High performance 29\" mountain bike, silver colour, Goodyear tubeless tires.  Distinguishing feature is the 28 tooth SRAM front chain ring.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Optic-C2",
+      "id": 3222800,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982278/large_IMG_7892.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2KM3J30034",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T3G 0H4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982278/small_IMG_7892.jpg",
+      "title": "2023 Norco Bikes Optic-C2",
+      "url": "https://bikeindex.org/bikes/3222800",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758538800,
+      "description": "PRODUCT SPECIFICATIONS\r\nBattery\r\n\r\nSpecialized M3-700, Integrated Battery, 700wh\r\n\r\nCassette\r\n\r\nSram Xg-1275, 12-Speed, 10-52t\r\n\r\nChain\r\n\r\nSram Nx Eagle, 12-Speed\r\n\r\nChainrings\r\n\r\nSram X-Sync Eagle, 104 Bcd, 32t, Steel\r\n\r\nCharger\r\n\r\nCustom Charger, 42v4a W/ Rosenberger Plug, 100-240v\r\n\r\nCrankset\r\n\r\nPraxis Forged M30, Custom Offset, 160mm\r\n\r\nFork\r\n\r\nFox Float 36 Rhythm 29, Grip Damper, 44mm Offset, 2-Position Sweep Adjust, 15x110mm, 1.5\" Tapered Steerer, 160mm Travel\r\n\r\nFrame\r\n\r\nFact 11m Full Carbon, 29\" Front Wheel, 27.5\" Rear Wheel, Full Internal Cable Routing, 148mm Spacing, Fully Sealed Cartridge Bearings, 150mm Of Travel, Geo Adjust Head Tube, Geo Adjust Horst Pivot\r\n\r\nFront Brake\r\n\r\nSram Code Rs, 4-Piston Caliper, Hydraulic Disc, S1-S3: 200mm, S4-S6: 220mm\r\n\r\nFront Hub\r\n\r\nAlloy, Sealed Cartridge Bearings, 15x110mm Thru-Axle, 28h\r\n\r\nFront Tire\r\n\r\nButcher, Grid Trail Casing, Gripton® T9 Compound, 2bliss Ready, 29x2.6\"\r\n\r\nHandlebars\r\n\r\nSpecialized, 6061 Alloy, 6-Degree Upsweep, 8-Degree Backsweep, 30mm Rise, 780mm Width\r\n\r\nInner Tubes\r\n\r\nStandard, Presta Valve\r\n\r\nMotor\r\n\r\nSpecialized Turbo Full Power System 2.2 Motor\r\n\r\nRear Brake\r\n\r\nSram Code Rsc, 4-Piston Caliper, Hydraulic Disc, 200mm\r\n\r\nRear Derailleur\r\n\r\nSram Gx Eagle, 12-Speed\r\n\r\nRear Hub\r\n\r\nAlloy, Sealed Cartridge Bearings, 148mmx12mm Thru-Axle, 28h\r\n\r\nRear Shock\r\n\r\nS1: Fox Dps Performance Series, 3-Position Lever, Rebound Adjust, 52.5 X 210mm, S2-S6: Fox Float X Performance, Lsr, 2-Position Lever, 55x210mm\r\n\r\nRear Tire\r\n\r\nEliminator, Grid Trail Casing, Gripton® T7 Compound, 2bliss Ready, 27.5x2.6\"\r\n\r\nRims\r\n\r\nSpecialized 29, Hookless Alloy, 30mm Inner Width, Tubeless Ready\r\n\r\nSaddle\r\n\r\nBridge Comp, Hollow Cr-Mo Rails, 155/143mm\r\n\r\nSeat Binder\r\n\r\nAlloy, 38.6\r\n\r\nSeatpost\r\n\r\nX-Fusion Manic, Infinite Adjustable, Two-Bolt Head, Bottom Mount Cable Routing, Remote Slr Le Lever, 34.9, S1: 100mm, S2: 125mm, S3: 150mm, S4/S5: 175mm, S6: 190mm\r\n\r\nShift Levers\r\n\r\nSram Gx Eagle, 12-Speed\r\n\r\nSpokes\r\n\r\nDt Swiss Industry\r\n\r\nStem\r\n\r\nAlloy Trail Stem, 35mm Bar Bore\r\n\r\nSwat\r\n\r\nSwat Cc Steerer Tube Integrated Tool With Chain Tool And Link\r\n\r\nTape\r\n\r\nSpecialized Trail Grips\r\n\r\nUi/Remote\r\n\r\nSpecialized Mastermind Tcu, Percentage Of Remaining Charge, 120 Possible Display Configurations, Microtune Assist Adjustment, Over-The-Air Updates, Ant+/Bluetooth®, W/Handlebar Remote\r\n\r\nWiring Harness\r\n\r\nCustom Specialized Wiring Harness",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Levo Carbon Comp",
+      "id": 1443127,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/660632/large_e0169824-6d03-11ed-83f2-95ebbc38d71b_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004000216T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.39,
+        -122.08
+      ],
+      "stolen_location": "Mountain View, CA 94041, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/660632/small_e0169824-6d03-11ed-83f2-95ebbc38d71b_.jpg",
+      "title": "2022 Specialized Levo Carbon Comp",
+      "url": "https://bikeindex.org/bikes/1443127",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

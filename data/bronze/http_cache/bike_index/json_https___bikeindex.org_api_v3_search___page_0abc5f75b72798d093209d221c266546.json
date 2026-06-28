@@ -1,0 +1,752 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1763104020,
+      "description": "Cargo eBike with unique sticker. Cargo rack, child bike seat, double handlebar rearview mirrors and bike lock attached when it was stolen. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Abound",
+      "id": 3228570,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985809/large_Screenshot_2025-11-17_at_12.11.15_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AG4H0585",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.96,
+        -83.0
+      ],
+      "stolen_location": "Columbus, OH 43214-3313, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985809/small_Screenshot_2025-11-17_at_12.11.15_PM.png",
+      "title": "2024 Aventón Abound cargo bike rear",
+      "url": "https://bikeindex.org/bikes/3228570",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "cargo-rear"
+    },
+    {
+      "date_stolen": 1762803063,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Ebike",
+      "id": 3225994,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/984376/large_1000032511.jpg",
+      "location_found": null,
+      "manufacturer_name": "MEC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "EKA4C0C101DK24800012",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.1
+      ],
+      "stolen_location": "Calgary, T2T 4M4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/984376/small_1000032511.jpg",
+      "title": "2022 MEC Ebike",
+      "url": "https://bikeindex.org/bikes/3225994",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762585200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FS-",
+      "id": 3227222,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985185/large_18564.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ride1Up",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FZCJ5250201138",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.19,
+        -81.05
+      ],
+      "stolen_location": "Daytona Beach, FL 1500 RICHARD PETTY BLVD, DAYTONA BEACH, FL 32114, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985185/small_18564.jpg",
+      "title": "2025 Ride1Up FS-",
+      "url": "https://bikeindex.org/bikes/3227222",
+      "year": 2025,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762154927,
+      "description": "Bike got stolen, I was moded with a 1000w ebike kit.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "VooDoo Cross 650D",
+      "id": 3223269,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Voodoo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AE0Y1 807820",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "GB",
+      "thumb": null,
+      "title": "Voodoo VooDoo Cross 650D",
+      "url": "https://bikeindex.org/bikes/3223269",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771898400,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "M20",
+      "id": 3223246,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Islabikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GLX240020044",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.05,
+        -113.97
+      ],
+      "stolen_location": "Calgary, T2A 3B8, CA",
+      "thumb": null,
+      "title": "2024 Islabikes M20",
+      "url": "https://bikeindex.org/bikes/3223246",
+      "year": 2024,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762023600,
+      "description": "Bike was stolen either late september or october -E-CELLS SUPER MONARCH 1000w AWD off-road E-Bike. \r\nSpecial parts/ features of my ebike - it has a passenger seat. If the seat is taken off, the back battery will have scratch marks on the top. It does not have a front mud flap - it broke when I hit a deer... right handle is frayed. The LED lights would be easy to take off. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "ECAWD20542",
+      "id": 3228627,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/985875/large_IMG_3724.jpg",
+      "location_found": null,
+      "manufacturer_name": "e-Cells",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ECAWD20542",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.14,
+        -89.35
+      ],
+      "stolen_location": "Madison, WI 53704, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/985875/small_IMG_3724.jpg",
+      "title": "2021 e-Cells ECAWD20542",
+      "url": "https://bikeindex.org/bikes/3228627",
+      "year": 2021,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761976800,
+      "description": "Red ebike that says Trek in white letters and a black backpack on the back!",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "verve+",
+      "id": 3222565,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982102/large_Screenshot_2025-11-01_at_1.56.28_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU264E0080N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.04
+      ],
+      "stolen_location": "Washington, DC 20009, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982102/small_Screenshot_2025-11-01_at_1.56.28_AM.png",
+      "title": "Trek verve+",
+      "url": "https://bikeindex.org/bikes/3222565",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761882752,
+      "description": "Custom ebike build with spray painted blue frame, red grips and water bottle cage, rear seat rack with bolted on speed controller, from hub motor, Brooks saddle",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Mountain Track 830",
+      "id": 3222130,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/981859/large_IMG_1932.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.88,
+        -117.23
+      ],
+      "stolen_location": "San Diego, CA 92093, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/981859/small_IMG_1932.jpeg",
+      "title": "1996 Trek Mountain Track 830",
+      "url": "https://bikeindex.org/bikes/3222130",
+      "year": 1996,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761742800,
+      "description": "Mopad style ebike. All wheel drive. Two lithium batteries. Front and rear suspension. ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Grizzly",
+      "id": 2557580,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/778717/large_1000002868.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ariel Rider",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "202205250000060723C",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.36,
+        -88.7
+      ],
+      "stolen_location": "Meridian, MS UNKNOWN, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/778717/small_1000002868.jpg",
+      "title": "2022 Ariel Rider Grizzly",
+      "url": "https://bikeindex.org/bikes/2557580",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762243200,
+      "description": "It's a black ebike that folds up with fat tires headlight and brake light. There is a throttle on right side handle bars also fold up and adjust with quick release. It has a back rack that also is used for a seat when you purchase the cushion for it. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Folding step through",
+      "id": 3219716,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982790/large_1000011634.jpg",
+      "location_found": null,
+      "manufacturer_name": "Colnago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BK6MWBT202304180377",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.58,
+        -113.89
+      ],
+      "stolen_location": "Spruce Grove, T7X 4M4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982790/small_1000011634.jpg",
+      "title": "2023 Colnago Folding step through",
+      "url": "https://bikeindex.org/bikes/3219716",
+      "year": 2023,
+      "propulsion_type_slug": "throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761184800,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Onyx ST Ebike",
+      "id": 3218889,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979378/large_IMG_2283.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Mokwheel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.94,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60657, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979378/small_IMG_2283.jpeg",
+      "title": "2025 Mokwheel Onyx ST Ebike",
+      "url": "https://bikeindex.org/bikes/3218889",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760997600,
+      "description": "Has an extended large seat, Tunis armor in back tire, the top gear shifter is a little damage from fall as well as seat has a back basket screwed in and fenders. ",
+      "frame_colors": [
+        "Black",
+        "Blue"
+      ],
+      "frame_model": "Lectric XP Step-Thru 3.0 Black Long-Range eBike",
+      "id": 3217954,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/978798/large_IMG_0031.png",
+      "location_found": null,
+      "manufacturer_name": "Lectric eBikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNFSD23C29974",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.2,
+        -81.61
+      ],
+      "stolen_location": "Jacksonville, FL 32257, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/978798/small_IMG_0031.png",
+      "title": "Lectric eBikes Lectric XP Step-Thru 3.0 Black Long-R...",
+      "url": "https://bikeindex.org/bikes/3217954",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760738400,
+      "description": null,
+      "frame_colors": [
+        "Brown",
+        "Black"
+      ],
+      "frame_model": "Pace 4 Step-Through Ebike",
+      "id": 3216711,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977842/large_IMG_2222.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Aventón",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "E45C0477",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.65,
+        -122.31
+      ],
+      "stolen_location": "Seattle, WA 98195, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977842/small_IMG_2222.jpeg",
+      "title": "2025 Aventón Pace 4 Step-Through Ebike",
+      "url": "https://bikeindex.org/bikes/3216711",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760684400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Denago City 1 Step-Thru eBike",
+      "id": 3216542,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977688/large_IMG_8990.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Denago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.88,
+        -117.24
+      ],
+      "stolen_location": "La Jolla, CA 92092, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977688/small_IMG_8990.jpeg",
+      "title": "2025 Denago Denago City 1 Step-Thru eBike",
+      "url": "https://bikeindex.org/bikes/3216542",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760684400,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Denago City 1 Step-Thru eBike",
+      "id": 3216609,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977742/large_IMG_8991.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Denago",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "102408WGY00031",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.88,
+        -117.24
+      ],
+      "stolen_location": "La Jolla, CA 92092, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977742/small_IMG_8991.jpeg",
+      "title": "2025 Denago Denago City 1 Step-Thru eBike",
+      "url": "https://bikeindex.org/bikes/3216609",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760929200,
+      "description": "All black brand-new ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Bmx flooding ebike",
+      "id": 3216170,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Heybike",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "2409010672",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.24,
+        -81.07
+      ],
+      "stolen_location": "Daytona Beach, FL 32117-2025, US",
+      "thumb": null,
+      "title": "2024 Heybike Bmx flooding ebike",
+      "url": "https://bikeindex.org/bikes/3216170",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760746806,
+      "description": "Electric ebike grey black orange on frame ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": ".",
+      "id": 3213191,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977828/large_1000000771.jpg",
+      "location_found": null,
+      "manufacturer_name": "Other",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977828/small_1000000771.jpg",
+      "title": "Other .",
+      "url": "https://bikeindex.org/bikes/3213191",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760084627,
+      "description": "ZDZA Electric Bike 26”, 1000W Peak Motor E-Mountain Bike, 22MPH 36V 10.4AH Removable Ebike for Adults, 7 Speed Electric black with orange signs",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "solid",
+      "id": 3212496,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Zigo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.15,
+        -81.36
+      ],
+      "stolen_location": "Kent, OH 44240, US",
+      "thumb": null,
+      "title": "2025 Zigo solid",
+      "url": "https://bikeindex.org/bikes/3212496",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759917600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Vado 4.0",
+      "id": 3212458,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975513/large_Image_-_2025-10-09T205318.178.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC002046621R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.28,
+        -122.79
+      ],
+      "stolen_location": "Coquitlam, V3B 2P8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975513/small_Image_-_2025-10-09T205318.178.jpeg",
+      "title": "2021 Specialized Vado 4.0",
+      "url": "https://bikeindex.org/bikes/3212458",
+      "year": 2021,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759647600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "V9-G60 Peak 1500W Ebike",
+      "id": 3206436,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/973942/large_IMG_4731.jpeg",
+      "location_found": null,
+      "manufacturer_name": "AMYET",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        42.36,
+        -71.13
+      ],
+      "stolen_location": "Boston, MA 02134, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/973942/small_IMG_4731.jpeg",
+      "title": "AMYET V9-G60 Peak 1500W Ebike",
+      "url": "https://bikeindex.org/bikes/3206436",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759327200,
+      "description": null,
+      "frame_colors": [
+        "Green",
+        "Orange"
+      ],
+      "frame_model": "LN-ALX131-13S4P",
+      "id": 3204831,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/972924/large_1000002227.jpg",
+      "location_found": null,
+      "manufacturer_name": "Burchda",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "LN-A32-G45-EY-QW-1206854",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.06,
+        -95.72
+      ],
+      "stolen_location": "Topeka, KS 66606, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/972924/small_1000002227.jpg",
+      "title": "2025 Burchda LN-ALX131-13S4P",
+      "url": "https://bikeindex.org/bikes/3204831",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759165200,
+      "description": "My ebike has two black Bushwhacker paniers on the rear rack. The back has a red Planet Bike Tail Light. It has a gold bell on the handlebars. In the middle of the frame, there's attached a black lock holder with a red ABUS Bordo Big 6000 folding lock.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "900194",
+      "id": 3203743,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/972243/large_IMG_0972.jpg",
+      "location_found": null,
+      "manufacturer_name": "Juiced Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "192822002",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.92,
+        -90.11
+      ],
+      "stolen_location": "New Orleans, LA 70115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/972243/small_IMG_0972.jpg",
+      "title": "2020 Juiced Bikes 900194",
+      "url": "https://bikeindex.org/bikes/3203743",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1759164300,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "900194",
+      "id": 3203761,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/972248/large_IMG_0972.jpg",
+      "location_found": null,
+      "manufacturer_name": "Juiced Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "192822002",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.92,
+        -90.11
+      ],
+      "stolen_location": "New Orleans, LA 70115, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/972248/small_IMG_0972.jpg",
+      "title": "2020 Juiced Bikes 900194",
+      "url": "https://bikeindex.org/bikes/3203761",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1773698400,
+      "description": "Frame: High-strength Carbon Steel Frame\r\nSuspensions: Full Suspensions\r\nFront Fork: Adjustable Aluminum Alloy",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Tank G70 Pro",
+      "id": 3202555,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009536/large_IMG-20260316-WA0072.jpg",
+      "location_found": null,
+      "manufacturer_name": "HappyRun",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "JS110Q48V20\"25071154",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.08,
+        -118.04
+      ],
+      "stolen_location": "El Monte, CA 91731, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009536/small_IMG-20260316-WA0072.jpg",
+      "title": "2025 HappyRun Tank G70 Pro",
+      "url": "https://bikeindex.org/bikes/3202555",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1758940953,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "EUY Model F7",
+      "id": 3202144,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "EUY EBIKE",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.54,
+        -121.74
+      ],
+      "stolen_location": "Davis, CA 95618, US",
+      "thumb": null,
+      "title": "2024 EUY EBIKE EUY Model F7",
+      "url": "https://bikeindex.org/bikes/3202144",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

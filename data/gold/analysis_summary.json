@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "manufacturers": 100,
+    "bikes": 367,
+    "components": 32,
+    "reviews": 43,
+    "priced_components": 20
+  },
+  "top_brands": [
+    {
+      "manufacturer": "Shimano",
+      "count": 8,
+      "avg_price": 100.47
+    },
+    {
+      "manufacturer": "SRAM",
+      "count": 4,
+      "avg_price": 179.49
+    },
+    {
+      "manufacturer": "Specialized",
+      "count": 2,
+      "avg_price": 1063.99
+    },
+    {
+      "manufacturer": "DT-Swiss",
+      "count": 2,
+      "avg_price": 91.49
+    },
+    {
+      "manufacturer": "Zipp",
+      "count": 1,
+      "avg_price": 1260.0
+    },
+    {
+      "manufacturer": "Trickstuff",
+      "count": 1,
+      "avg_price": 919.0
+    },
+    {
+      "manufacturer": "Favero",
+      "count": 1,
+      "avg_price": 579.0
+    },
+    {
+      "manufacturer": "Schwalbe",
+      "count": 1,
+      "avg_price": 12.99
+    }
+  ],
+  "category_stats": [
+    {
+      "category": "drivetrain",
+      "count": 7,
+      "avg_price": 112.85
+    },
+    {
+      "category": "brakes",
+      "count": 6,
+      "avg_price": 273.47
+    },
+    {
+      "category": "wheels",
+      "count": 5,
+      "avg_price": 408.99
+    },
+    {
+      "category": "components",
+      "count": 2,
+      "avg_price": 1063.99
+    }
+  ]
+}

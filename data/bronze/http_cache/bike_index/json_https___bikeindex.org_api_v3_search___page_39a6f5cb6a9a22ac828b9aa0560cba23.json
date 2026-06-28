@@ -1,0 +1,756 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1532412000,
+      "description": "It is mainly a black bike, with red tints throughout. It is the Boardman Road Comp Bike 2016 - 55.5 cm Frame. A beautiful bike, even with a newly purchased seat. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "55.5",
+      "id": 404372,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/127344/large_Image-1__2_.png",
+      "location_found": null,
+      "manufacturer_name": "Boardman Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.52,
+        -0.11
+      ],
+      "stolen_location": "London, EC1N2SW, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/127344/small_Image-1__2_.png",
+      "title": "2016 Boardman Bikes 55.5",
+      "url": "https://bikeindex.org/bikes/404372",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1530424800,
+      "description": "Had Quintana Roo on it in black letter and a Crawfishman Triathlon sticker",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "small",
+      "id": 399789,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/123794/large_IMG_5955_1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Quintana Roo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.95,
+        -90.13
+      ],
+      "stolen_location": "New Orleans, LA 70118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/123794/small_IMG_5955_1_.jpg",
+      "title": "2012 Quintana Roo small",
+      "url": "https://bikeindex.org/bikes/399789",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1526536800,
+      "description": "Triathlon bike, nearly new.  Had some mud on the frame and wheels from my last ride at Fiesta Island.  Everything was stock except for the bike computer on the handlebars.  Has a Moment Bicycles sticker on it (the shop where I purchased it).",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "IA 16",
+      "id": 393018,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/117935/large_Felt_IA_16.jpg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F705D1294",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.81,
+        -117.13
+      ],
+      "stolen_location": "San Diego, CA 92123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/117935/small_Felt_IA_16.jpg",
+      "title": "2017 Felt IA 16",
+      "url": "https://bikeindex.org/bikes/393018",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1518069600,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "B16 (?)",
+      "id": 383840,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/110791/large_FFE6633E-13A1-4FBE-8C88-2978CF9FE3B0.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Felt",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/110791/small_FFE6633E-13A1-4FBE-8C88-2978CF9FE3B0.jpeg",
+      "title": "Felt B16 (?)",
+      "url": "https://bikeindex.org/bikes/383840",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1510380000,
+      "description": "Has a Scott saddle instead of the Raleigh saddle it came with. 47cm. Has a rack for a bike bag over the rear wheel and a back spray guard but no front guard. Clip pedals.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Grand Sport",
+      "id": 377074,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/105205/large_IMG_2845.jpg",
+      "location_found": null,
+      "manufacturer_name": "Raleigh",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U98Y12641",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.72,
+        -95.37
+      ],
+      "stolen_location": "Houston, TX 77004, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/105205/small_IMG_2845.jpg",
+      "title": "2010 Raleigh Grand Sport",
+      "url": "https://bikeindex.org/bikes/377074",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1510380000,
+      "description": "Triathlon bike with gears in the aero bars and brakes on the drop down bars. Two boa-like water bottle holders on the inside of the frame, saddle has been switched out with a Raleigh saddle. Clip pedals. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 377077,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/105260/large_Screen_Shot_2017-11-12_at_12.44.20_PM.png",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "STR06D24912030043A",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.72,
+        -95.37
+      ],
+      "stolen_location": "Houston, TX 77004, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/105260/small_Screen_Shot_2017-11-12_at_12.44.20_PM.png",
+      "title": "2013 SCOTT",
+      "url": "https://bikeindex.org/bikes/377077",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1506232800,
+      "description": "Bright red bar tap, blue quad lock phone holder base on the stem, mirror built into the left drop bar (possibly taped over with electrical tape to render in unusable for a race)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Emonda S 6 (56\")",
+      "id": 363415,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/100965/large_image.png",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU146GK0209J",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.97,
+        -122.03
+      ],
+      "stolen_location": "Santa Cruz, CA 95060, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/100966/small_IMG_20170603_165011.jpg",
+      "title": "2015 Trek Emonda S 6 (56\")",
+      "url": "https://bikeindex.org/bikes/363415",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1504764000,
+      "description": "KTM STRADA 800 (2014 Model)\r\nRoad bike Black matt (white and orange)\r\nFrame type: Rigid, aluminum alloy\r\nGears 18 speed\r\nWheel size 700C Ambrosio Elan KTM Line Ambrosio, Sh 2400, Continental Tires \r\nBrake set, chain set, front derailleur rear derailleur shifters, Shimano Sora\r\nWeight 20 pounds\r\nSattler, Selle Italia x1 Flow, Black with Orange line\r\nHandlebar with White tape on the sides.\r\nSPD Pedals, Shimano \r\n\r\nSpecific signs: KTM White logo on the Frame down tube, Strada White Logo on the Top tube, Seat tube orange points and black Strada Logo.  On the head tube KTM logo. White tapes on handlebar.  Shimano SPD pedals.  On the Handlebar I have tracks from the Triathlon Aero bars, also the frame is scratched \r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Strada 800",
+      "id": 361360,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/99285/large_1939954_723707287671639_9026670753020173150_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "KTM",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -121.88
+      ],
+      "stolen_location": "San Jose, CA 95112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/99287/small_21534422_1615628228508656_979809294_o.jpg",
+      "title": "2014 KTM Strada 800",
+      "url": "https://bikeindex.org/bikes/361360",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1502690400,
+      "description": "Triathlon Bike",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Serios S",
+      "id": 357315,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/96803/large_IMG_20151019_175259-01.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U14XC27420",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.87,
+        -122.07
+      ],
+      "stolen_location": "Walnut Creek, CA 94595, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/96803/small_IMG_20151019_175259-01.jpeg",
+      "title": "2015 Diamondback Serios S",
+      "url": "https://bikeindex.org/bikes/357315",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1492408800,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "REACTO 5000",
+      "id": 114914,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81901/large_16-10-01-23-52-24-018_deco.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.41,
+        -122.99
+      ],
+      "stolen_location": "Hillsboro, OR 97123, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81901/small_16-10-01-23-52-24-018_deco.jpg",
+      "title": "2016 Merida Bikes REACTO 5000",
+      "url": "https://bikeindex.org/bikes/114914",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1473573600,
+      "description": "Black & green GT GTR Series 4, fitted with standard shimano SPD pedals (heavily scuffed); also fitted with tri-bars and a blue & white campagnolo saddle; front wheel is a black-rimmed shimano wheel; rear mech & gears had been recently replaced at a service; seat post had a bananaman triathlon race number attached at time of theft",
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "GTR Series 4",
+      "id": 95874,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/66456/large_gt-gtr-series-4-2010-road-bike-00128479-9999-1.jpg",
+      "location_found": null,
+      "manufacturer_name": "GT Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.93,
+        -1.38
+      ],
+      "stolen_location": "Southampton, SO18 1NX, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/66456/small_gt-gtr-series-4-2010-road-bike-00128479-9999-1.jpg",
+      "title": "2012 GT Bicycles GTR Series 4",
+      "url": "https://bikeindex.org/bikes/95874",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1470636000,
+      "description": "100 Series Alpha Aluminum -- triathlon sticker 2135",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Lexa C WSD",
+      "id": 90396,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/339/57838",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU120C551G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.27,
+        -97.74
+      ],
+      "stolen_location": "Austin, TX 78701, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/339/small_57838",
+      "title": "2013 Trek Lexa C WSD",
+      "url": "https://bikeindex.org/bikes/90396",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1468389600,
+      "description": "Silver frame.  Bright blue handle bar wrapping with yellow tape.  Red cable casings. Has residual white tape scuff on the top tube from a triathlon. Carbon fork.  Does NOT have blue tires as pictured; I recently changed them out for black gatorskins.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "SL 1",
+      "id": 86089,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/59853/large_Screen_Shot_2016-07-12_at_2.16.35_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Forte",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/59853/small_Screen_Shot_2016-07-12_at_2.16.35_PM.png",
+      "title": "2004 Forte SL 1",
+      "url": "https://bikeindex.org/bikes/86089",
+      "year": 2004,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1465970400,
+      "description": "Has a green tire and a green bottle cap covering one of the handles (a safety requirement for triathlon races). Emergency bike pump installed and Bell seat cover.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Flite 300",
+      "id": 81028,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/56985/large_P4190236.JPG",
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.97,
+        -118.42
+      ],
+      "stolen_location": "Playa Vista, CA 90094, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/56985/small_P4190236.JPG",
+      "title": "2001 KHS Bicycles Flite 300",
+      "url": "https://bikeindex.org/bikes/81028",
+      "year": 2001,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1465192800,
+      "description": "It's a black 2010 Tommaso (Imola) triathlon racing bike. The bike has a white seat, orange grip tape on the handle bars, a blue shimano claris derailleur and a quick release fender that has obvious wear marks from running against the rear tire. No kickstand and no braze ons.",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Imola",
+      "id": 80101,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/56259/large_12961415_10207466725439995_6032640823564118739_o.jpg",
+      "location_found": null,
+      "manufacturer_name": "Tommaso",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/56259/small_12961415_10207466725439995_6032640823564118739_o.jpg",
+      "title": "2010 Tommaso Imola",
+      "url": "https://bikeindex.org/bikes/80101",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1462082400,
+      "description": "Triathlon bike with Zipp Vuka Aero bars, Chorus & Record groupset, Adamo ISM saddle. There is a repair to the carbon frame on the top tube. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "VENOM TT",
+      "id": 76239,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/53650/large_IMG_9400.JPG",
+      "location_found": null,
+      "manufacturer_name": "CEEPO",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.48,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97202, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/53650/small_IMG_9400.JPG",
+      "title": "2010 CEEPO VENOM TT",
+      "url": "https://bikeindex.org/bikes/76239",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1460786400,
+      "description": "",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "TTiR Triathlon Bike",
+      "id": 74084,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/51592/large_2016-04-19_17_54_38-Clipboard.png",
+      "location_found": null,
+      "manufacturer_name": "Parlee",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "PCZ14AT3S01890004",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.94,
+        -76.56
+      ],
+      "stolen_location": "Edgewater, MD 21037, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/51592/small_2016-04-19_17_54_38-Clipboard.png",
+      "title": "2016 Parlee TTiR Triathlon Bike",
+      "url": "https://bikeindex.org/bikes/74084",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1450504800,
+      "description": "Has aero bars and was last seen with triathlon bib attached.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "P2 105",
+      "id": 65153,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/42670/large_15-P2-105-profile-beauty-960x480-74b59524-a19d-4f76-8d78-8b6f7dfab6ab-0-960x480.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2DISC00244",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.94,
+        -87.65
+      ],
+      "stolen_location": "Chicago, IL 60657, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/42670/small_15-P2-105-profile-beauty-960x480-74b59524-a19d-4f76-8d78-8b6f7dfab6ab-0-960x480.jpg",
+      "title": "2015 Cervélo P2 105",
+      "url": "https://bikeindex.org/bikes/65153",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1441046338,
+      "description": "CAAD10, Smartformed 6069 Alloy, SPEED SAVE, BB30",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Caad10 5 105",
+      "id": 56414,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/9756/c_13_3RAX5C_raw_29.png",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.81,
+        -122.31
+      ],
+      "stolen_location": "Oakland, CA 94607, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/9756/small_c_13_3RAX5C_raw_29.png",
+      "title": "2013 Cannondale Caad10 5 105",
+      "url": "https://bikeindex.org/bikes/56414",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1438408800,
+      "description": "Year/Make/Model: 2013 GC Aero 105 BH Triathlon Aerolight bike\r\nColor: Mostly black, with white lettering, a little red on tires\r\nCondition: nearly NEW\r\nNotes: I replaced black saddle (bike seat) with a white seat and I had a little black mesh case near the handle bars that held my snacks and phone.  \r\n\r\nBelow is a link to the BH website, which includes bike specs and photo:\r\nhttp://www.bhbikes.com/en/bicycles/road/gc-aero-105-lt104.html",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "GC Aero 105",
+      "id": 55773,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/33143/large_Case__15-9982_Eastman_s_Bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "BH Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "XDS540H5579KST",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.68,
+        -117.91
+      ],
+      "stolen_location": "Costa Mesa, CA 92626, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/33143/small_Case__15-9982_Eastman_s_Bike.jpg",
+      "title": "2013 BH Bikes GC Aero 105",
+      "url": "https://bikeindex.org/bikes/55773",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1431496800,
+      "description": "Triathlon bike has a red stripe on the top tube, and now has red bottle cages vs. the black ones in the picture. \r\nI am not sure how many rear gears, 8 or 9",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "116",
+      "id": 45422,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/24736/large_argon.jpg",
+      "location_found": null,
+      "manufacturer_name": "Argon 18",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "370280020",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.59,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/24736/small_argon.jpg",
+      "title": "2013 Argon 18 116",
+      "url": "https://bikeindex.org/bikes/45422",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1428732000,
+      "description": "Bike had Speedplay Zero Stainless pedals with white pedal covers at the time of theft.",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Defy Advanced 1",
+      "id": 43409,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/23139/large_IMG_0285.JPG",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "F/N GH1B460",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.2,
+        -113.6
+      ],
+      "stolen_location": "St. George, UT 84770, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/23139/small_IMG_0285.JPG",
+      "title": "2012 Giant Defy Advanced 1",
+      "url": "https://bikeindex.org/bikes/43409",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1426053600,
+      "description": "Bike has a Triathlon Handlebar / Aerobar ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Crosstown 2.0",
+      "id": 41343,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/21374/large_IMG_1485.JPG",
+      "location_found": null,
+      "manufacturer_name": "Fuji",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.77,
+        -117.2
+      ],
+      "stolen_location": "San Diego, CA 92110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/21374/small_IMG_1485.JPG",
+      "title": "Fuji Crosstown 2.0",
+      "url": "https://bikeindex.org/bikes/41343",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1418450400,
+      "description": "triathlon, Tt bike with Zipp carbón 404 And 808 Wheels no stickers",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Tm01",
+      "id": 35676,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/17355/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.4,
+        -121.96
+      ],
+      "stolen_location": "Santa Clara, CA 95054, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/17355/small_image.jpg",
+      "title": "2013 BMC Tm01",
+      "url": "https://bikeindex.org/bikes/35676",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1412575200,
+      "description": "Triathlon bike",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "Speed Concept 7.5",
+      "id": 32925,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SWTU152MC5462G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.33,
+        -121.92
+      ],
+      "stolen_location": "San Jose, CA 95126, US",
+      "thumb": null,
+      "title": "2013 Trek Speed Concept 7.5",
+      "url": "https://bikeindex.org/bikes/32925",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

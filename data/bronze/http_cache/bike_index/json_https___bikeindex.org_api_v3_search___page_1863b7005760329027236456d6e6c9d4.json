@@ -1,0 +1,764 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1745197200,
+      "description": "Bought from Bike market BM7467\r\nMaxxis tyre on the rear, vredenstein on front\r\nPannier holders on front fork\r\nMirror on right handle\r\nergonomic handles\r\nbottle holder bags on handlebars (could have been removed)\r\n\r\n",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "NINETY-SIX 800",
+      "id": 2791800,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/909763/large_IMG_2973_copy_2.JPG",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -29.01,
+        29.87
+      ],
+      "stolen_location": "Estcourt, 3310, ZA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/909763/small_IMG_2973_copy_2.JPG",
+      "title": "2019 Merida Bikes NINETY-SIX 800",
+      "url": "https://bikeindex.org/bikes/2791800",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744275600,
+      "description": "Switched the tires to rather unconventional slighly wider: Continental Ultrasport 28-622",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reacto",
+      "id": 2792410,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/910128/large_WhatsApp_Image_2025-04-28_at_12.28.02.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC090020865U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        10.02
+      ],
+      "stolen_location": "Hamburg, 20097, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/910128/small_WhatsApp_Image_2025-04-28_at_12.28.02.jpeg",
+      "title": "2023 Merida Bikes Reacto",
+      "url": "https://bikeindex.org/bikes/2792410",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741197600,
+      "description": "",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Silex 300",
+      "id": 2766654,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898062/large_IMG_9936.JPG",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC8540120S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        59.41,
+        24.72
+      ],
+      "stolen_location": "Tallinn, 11316, EE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898062/small_IMG_9936.JPG",
+      "title": "2023 Merida Bikes Silex 300",
+      "url": "https://bikeindex.org/bikes/2766654",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1740459193,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "BI-2549BR",
+      "id": 2759013,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WH897853H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "AU",
+      "thumb": null,
+      "title": "Merida Bikes BI-2549BR",
+      "url": "https://bikeindex.org/bikes/2759013",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1739671200,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Merida Silex 7000",
+      "id": 2757424,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/892251/large_1000027948.png",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC11003896CV",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.5,
+        7.47
+      ],
+      "stolen_location": "Dortmund, 44139, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/892251/small_1000027948.png",
+      "title": "2025 Merida Bikes Merida Silex 7000",
+      "url": "https://bikeindex.org/bikes/2757424",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738624800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "frame_model": null,
+      "id": 2754695,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890255/large_IMG_20250207_115329_056.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D13L4715",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.57,
+        -73.99
+      ],
+      "stolen_location": "нью йорк, NY 11224, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890255/small_IMG_20250207_115329_056.jpg",
+      "title": "2013 Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2754695",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1738624800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "frame_model": null,
+      "id": 2754697,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/890252/large_IMG_20250207_115329_056.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "D13L4715",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.57,
+        -73.99
+      ],
+      "stolen_location": "нью йорк, NY 11224, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/890252/small_IMG_20250207_115329_056.jpg",
+      "title": "2013 Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2754697",
+      "year": 2013,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735452750,
+      "description": null,
+      "frame_colors": [
+        "White",
+        "Black",
+        "Yellow or Gold"
+      ],
+      "frame_model": null,
+      "id": 2742640,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -33.91,
+        25.58
+      ],
+      "stolen_location": "Port Elizabeth, 6020, ZA",
+      "thumb": null,
+      "title": "Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2742640",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735124400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 2741767,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC378987J",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -21.77,
+        -48.19
+      ],
+      "stolen_location": "Araraquara, 14800-350, BR",
+      "thumb": null,
+      "title": "Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2741767",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1735081200,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "BIG NINE 20",
+      "id": 2744807,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/882808/large_merida_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        19.28,
+        -99.24
+      ],
+      "stolen_location": "Cdmx, 14100, MX",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/882808/small_merida_1.jpg",
+      "title": "2024 Merida Bikes BIG NINE 20",
+      "url": "https://bikeindex.org/bikes/2744807",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1733092200,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "WC8067291S",
+      "id": 2825172,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/931481/large_Screenshot_2025-06-22_161054.png",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC8067291S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.48,
+        -0.28
+      ],
+      "stolen_location": "Richmond, TW9 3JJ, GB",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/931481/small_Screenshot_2025-06-22_161054.png",
+      "title": "2020 Merida Bikes WC8067291S",
+      "url": "https://bikeindex.org/bikes/2825172",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1732725531,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Road 901",
+      "id": 2731244,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/876493/large_1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BI-1582 P5L08 6118BR",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        54.42,
+        18.59
+      ],
+      "stolen_location": "Gdańsk, 80-352, PL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/876493/small_1.jpeg",
+      "title": "Merida Bikes Road 901",
+      "url": "https://bikeindex.org/bikes/2731244",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1730483135,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 2722306,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.75,
+        21.21
+      ],
+      "stolen_location": "Timisoara, 300551, RO",
+      "thumb": null,
+      "title": "Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2722306",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729076400,
+      "description": "ebike, removable battery ",
+      "frame_colors": [
+        "Green",
+        "Black"
+      ],
+      "frame_model": "eSpresso 300 SE EQ 504Wh - Silk Fog Green (Black)",
+      "id": 2715663,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/866974/large_462557619_563117523043461_7856482467540870913_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "T823300 3300T82 73715",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -37.79,
+        144.95
+      ],
+      "stolen_location": "Parkville (Melbourne), 3052, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/866974/small_462557619_563117523043461_7856482467540870913_n.jpg",
+      "title": "2022 Merida Bikes eSpresso 300 SE EQ 504Wh - Silk Fog G...",
+      "url": "https://bikeindex.org/bikes/2715663",
+      "year": 2022,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1725552820,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2690586,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/851993/large_IMG_1210.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        14.56,
+        121.02
+      ],
+      "stolen_location": "Makati City, 1229, PH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/851993/small_IMG_1210.jpeg",
+      "title": "Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2690586",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1728460800,
+      "description": "",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Crossway 100",
+      "id": 2680502,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/846111/large_20240823_082838.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC8049385P",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.49
+      ],
+      "stolen_location": "Edmonton, T5J 4X1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/846111/small_20240823_082838.jpg",
+      "title": "Merida Bikes Crossway 100",
+      "url": "https://bikeindex.org/bikes/2680502",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721923200,
+      "description": "Racebike with ruined tape on the right part of the handlebar and a new front wheel",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Scultura 300",
+      "id": 2661044,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/834771/large_1000201732.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.82,
+        4.38
+      ],
+      "stolen_location": "Brussels, 1050, BE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/834771/small_1000201732.jpg",
+      "title": "2021 Merida Bikes Scultura 300",
+      "url": "https://bikeindex.org/bikes/2661044",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1720582610,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "XL",
+      "id": 2648983,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/829133/large_20210201_075727.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC8094599P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -36.86,
+        174.85
+      ],
+      "stolen_location": "Auckland, 1071, NZ",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/829133/small_20210201_075727.jpg",
+      "title": "2019 Merida Bikes XL",
+      "url": "https://bikeindex.org/bikes/2648983",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719799200,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "eBIG.NINE 400 EQ",
+      "id": 2645635,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/826663/large_eBIG_NINE_400_EQ_blublk_MOC22_1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC020000092T",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.99,
+        6.79
+      ],
+      "stolen_location": "Pulheim, 50259, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/826663/small_eBIG_NINE_400_EQ_blublk_MOC22_1.jpg",
+      "title": "2023 Merida Bikes eBIG.NINE 400 EQ",
+      "url": "https://bikeindex.org/bikes/2645635",
+      "year": 2023,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1714964400,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Big nine carbon",
+      "id": 2753325,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/889055/large_1000088645.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.91,
+        5.5
+      ],
+      "stolen_location": "Echteld, 4054 MN, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/889055/small_1000088645.jpg",
+      "title": "2020 Merida Bikes Big nine carbon",
+      "url": "https://bikeindex.org/bikes/2753325",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1712973600,
+      "description": "Merida racefiets afgemonteerd met Shimano Di2, gesloten in Maastricht Nederland. ",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Reacto 8000-E",
+      "id": 2592405,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/801494/large_IMG_7066.png",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC8125081S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.85,
+        5.7
+      ],
+      "stolen_location": "Maastricht, 6221 BC, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/801494/small_IMG_7066.png",
+      "title": "2021 Merida Bikes Reacto 8000-E",
+      "url": "https://bikeindex.org/bikes/2592405",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1707498000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": null,
+      "id": 2561855,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/782061/large_IMG_3851.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.53,
+        -122.03
+      ],
+      "stolen_location": "Issaquah, WA 98027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/782061/small_IMG_3851.jpeg",
+      "title": "2018 Merida Bikes",
+      "url": "https://bikeindex.org/bikes/2561855",
+      "year": 2018,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1707249600,
+      "description": "Bronze color, purple gravelking tires, reflective stickers on the frame",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Mission CX 100",
+      "id": 2560006,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/780697/large_PXL_20210710_205532599.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC8041902R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.51,
+        13.37
+      ],
+      "stolen_location": "Berlin, 10785, DE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/780697/small_PXL_20210710_205532599.jpg",
+      "title": "2020 Merida Bikes Mission CX 100",
+      "url": "https://bikeindex.org/bikes/2560006",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1706133600,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Big 9 300",
+      "id": 2640922,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/823856/large_1000054447.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC1692271S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        19.39,
+        -99.15
+      ],
+      "stolen_location": "Mexico City, 03020, MX",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/823856/small_1000054447.jpg",
+      "title": "2023 Merida Bikes Big 9 300",
+      "url": "https://bikeindex.org/bikes/2640922",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1703080800,
+      "description": "Colour described in product description as glossy/anthracite/black. Looks like a dark, metallic grey. No added accessories. Seat is very flat with not much padding. Maxxis Assegai tyres. Underneath the seat, there is a little folding allen key kit. The bits are very loose and spin around easily. They will unfold as soon as you pull them out of their pouch. One allen key has a little attachment bit that you can pull off. It will probably fall off when you pull the tools out. Tools are slightly rusty.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Black"
+      ],
+      "frame_model": "One-sixty 700",
+      "id": 2543614,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/772711/large_Screenshot_2023-12-22-08-50-16-76_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WC1178756R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        -27.5,
+        153.04
+      ],
+      "stolen_location": "Woolloongabba, 4102, AU",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/772711/small_Screenshot_2023-12-22-08-50-16-76_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "title": "2020 Merida Bikes One-sixty 700",
+      "url": "https://bikeindex.org/bikes/2543614",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

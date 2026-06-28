@@ -1,0 +1,1119 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1435298400,
+      "description": "Older model MTB style frame & handle bars, fold up pedals, with new seat on higher than avg post, left side wire panier, shimano trigger-style shifters.  Dark green frame with weird black & lavenderpink-flecked  bottle holder.  Basic city-commuter, much loved. \r\nStolen, daytime, UAlberta campus, while locked. Helmet too. June 2015. \r\n",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Mountain (Commuter)",
+      "id": 51772,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/29537/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "Concorde",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.53,
+        -113.52
+      ],
+      "stolen_location": "Edmonton, T6g 2h9, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/29537/small_image.jpg",
+      "title": "1995 Concorde Mountain (Commuter)",
+      "url": "https://bikeindex.org/bikes/51772",
+      "year": 1995,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1432620000,
+      "description": "I had a Petego Bikeleash adapter attached under the seat, which looks like a silver pyramid structure with 2 stems (one on each side) to attach a metal dog leash to. There were 2 Ortlieb City Coaster Bags attached in the back in black and inside one of the saddle bags an Ortlieb bag that attaches to the handlebars. There was also a click fix adapter attached to the handle bar for the small white Orlieb front pouch & it had a chain feathered seat as well as click-r half and half pedals by Shimano as well as a saddle by Selle Royal. It had small L-shaped grips on the side of the handle bars & a plastic see through chain protector. The LED lamp was broken & ripped off before it got stolen. Other than that the bike looks exactly like on the manufacturer picture. It also had a black Zefal bottle holder attached to the stem.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Primera Luxe 14 HS11",
+      "id": 46467,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/25556/large_primera_luxe_gent_056_0071.jpg",
+      "location_found": null,
+      "manufacturer_name": "Stevens",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "S14TABPE0101",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.5,
+        -73.58
+      ],
+      "stolen_location": "Montreal, H3G1M8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/25556/small_primera_luxe_gent_056_0071.jpg",
+      "title": "2014 Stevens Primera Luxe 14 HS11",
+      "url": "https://bikeindex.org/bikes/46467",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1429423200,
+      "description": "",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "M300 CAD2",
+      "id": 43692,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/23388/large_JPBikeSerialNumber.PNG",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GJ8030261452L5N16",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/23388/small_JPBikeSerialNumber.PNG",
+      "title": "1998 Cannondale M300 CAD2",
+      "url": "https://bikeindex.org/bikes/43692",
+      "year": 1998,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1429250400,
+      "description": "City riding hybrid bike",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Monona",
+      "id": 43743,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU284C32183",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA, US",
+      "thumb": null,
+      "title": "2006 Gary Fisher Monona",
+      "url": "https://bikeindex.org/bikes/43743",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1425880800,
+      "description": "Two black SKS full coverage fenders were on the bike when it was stolen.",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Blue"
+      ],
+      "frame_model": "Nature Boy Disc",
+      "id": 40801,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/20905/large_image.jpg",
+      "location_found": null,
+      "manufacturer_name": "All City",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M140621586",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.89,
+        -87.64
+      ],
+      "stolen_location": "Chicago, IL 60654, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/20905/small_image.jpg",
+      "title": "2014 All City Nature Boy Disc",
+      "url": "https://bikeindex.org/bikes/40801",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1419055200,
+      "description": "It is a black Leader 721TR. It is a fixed gear bike, no brakes. It has a Fizik Pave CX saddle, Miche Supertype seatpost, All City 612 Crankset, Silver Specialties Track 47T Chainring, MKS Sylvan Stream pedals, Blue Cadence straps (ripped on one side), FSZ ZS3 headset, Black Fuji steel fork, Silver stem, Black risers with OURY Grips, and white Velocity B43s with black spokes (has All City 16t cog and Dura Ace lockring). Has 2 gopro stickers on each side of the bike and there is a distinct scratch on the side of the bike. can show photo of scratch for proof.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "721TR",
+      "id": 37234,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/17630/large_leader_stolen.jpg",
+      "location_found": null,
+      "manufacturer_name": "Leader Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "55018285",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.28
+      ],
+      "stolen_location": "Alameda, CA 94501, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/17630/small_leader_stolen.jpg",
+      "title": "2011 Leader Bikes 721TR",
+      "url": "https://bikeindex.org/bikes/37234",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1416290400,
+      "description": "She was my baby, I'm determined to get her back! Please help me find my bike! It was my baby and I just want her back! :((( Having a ROUGH month and this just got piled on there! At 5:30 pm, November 18th, I came down the expo line steps at the culver city station's metro and my bike and lock were gone.... :((( They could have hopped on the metro from there and gone anywhere! Or could still be riding it around on the west side. I got there at 9 in the morning. It was a cable lock, not a \"U\" but still a very good one. It's an orange beach cruiser Schwinn with a black basket and seat. Of course they could re-paint it and take off the basket to make it look different, so please keep a look out for the frame specifically, and call the police officer that was there at this number:  (323) 563-5000.You can e-mail me too but all I can do is call her then. Please help me I know we can get it back home together as a community! Also, please don't buy it for yourself if you see it on here, it's stolen! I do believe this person or this group of peoples' lives have to be way worse than my own to steal my cute bike in broad day light but maybe karma will let them slide if they (or you, if it's you) give it back! Just call the number and say you found it even! Please!\r\nThank you!",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": null,
+      "id": 34870,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/16614/large_IMG_5896.JPG",
+      "location_found": null,
+      "manufacturer_name": "Schwinn",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.03,
+        -118.4
+      ],
+      "stolen_location": "Culver City, CA 90034, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/16614/small_IMG_5896.JPG",
+      "title": "Schwinn",
+      "url": "https://bikeindex.org/bikes/34870",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1413180000,
+      "description": "All components are black: fork, rims, seat post, crankset. Bar tape on the left side is torn from a fall, possibly some damage to the handlebars. Minor scratch on downtube. Rubino tires. All-City bike seat. ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "725",
+      "id": 33449,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/15142/large_Will_s_bike_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Leader Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "53040673",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.65,
+        -79.41
+      ],
+      "stolen_location": "Toronto, M6J2K1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/15142/small_Will_s_bike_.jpg",
+      "title": "2014 Leader Bikes 725",
+      "url": "https://bikeindex.org/bikes/33449",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1412488800,
+      "description": "When we introduced our first cyclocross bike to America in 1986, few riders were even into cyclocross racing. Despite that, it didn't take long for cycling enthusiasts to figure out what our new Volpe excelled at; everything! Long distance road rides. Gravel road excursions. City commuting. Loaded touring. Rail trail adventures. Neighborhood errands. The Volpe checks off all the boxes! Short of criterium racing and technical single track, the Volpe handles all types of riding efficiently and comfortably. The Volpe melds the responsive handling of a road bike with the durability of a mountain bike. A variety of surfaces and conditions can be conquered thanks to greater tire clearance and grime-shedding cantilever brakes. Our exclusive Chromolite frame and steel fork provide a smooth ride and the strength to carry whatever supplies your adventure calls for. With eyelets for front and rear racks and a set of fenders, the Volpe is one of the most versatile models we offer. Frame: Bianchi Cr-Mo, triple butted main tubes, tig welded..",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Volpe",
+      "id": 28780,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/13117/csm_VOLPE_6d9f70c2ef.jpg",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WBK749870H",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.87,
+        -122.27
+      ],
+      "stolen_location": "Berkeley, CA, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/13117/small_csm_VOLPE_6d9f70c2ef.jpg",
+      "title": "2014 Bianchi Volpe",
+      "url": "https://bikeindex.org/bikes/28780",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1402984800,
+      "description": "Stolen 6/17 on 18th St. and Mission. There are two older photos and the rest are recent. Frame is battleship grey with a rust fork. Nagasawa downtube sticker on nondrive side. Lots of Fresh Air Bicycle stickers on the chainstay.\r\n\r\nParts:\r\nCustom Front rack with low riders and a light mount\r\nSchmidt Edelux light\r\nSchmidt son20 front generator hub laced to velocity synergy rim\r\nChris king rear hub (red) laced to velocity synergy rim\r\nPanaracer Ruffy Tuffy tires\r\nRear generator powered light mounted on saddle\r\nGilles Berthoud brown leather saddle\r\nSugino 75 crankset, black (46/34)\r\nMKS royal neuvo pedals with 1 toshi double strap and 1 all city double strap\r\nXTR rear deraileur (9 speed)\r\nCampagnolo front derailleur\r\nDrop handlebars with silver fizik handlebar tape\r\nPaul touring cantilever rear brake\r\nPaul centerpull front brake\r\nPitlock locking skewers and topcap",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "custom",
+      "id": 27225,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/9690/large_Screen_shot_2014-06-18_at_10.39.31_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Rock Lobster",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.48
+      ],
+      "stolen_location": "San Francisco, CA 94122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/9690/small_Screen_shot_2014-06-18_at_10.39.31_PM.png",
+      "title": "Rock Lobster custom",
+      "url": "https://bikeindex.org/bikes/27225",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1387173600,
+      "description": "Black Bicycle mountain-style converted to a one-speed city bike with large rear basketsLugless steel frame and fork painted solid black with no brand or model name decals or head badge. Frame is about 16.25â€šÃ„Ã¹ measured from center of bottom bracket to top of top tube and has a sloping top-tube (as shown in illustration).Large Wald rear baskets (if they haven\\'t been removed by the thief)Wide 26\" knobby front tire (all black except may or may not have white Bontrager lettering)Wide 26\" knobby rear tire (all black except with white Bontrager lettering)Silver aluminum front and rear rims (back rim only has a small Weinmann brand label on it)Chrome-plated Shimano one-speed coaster-brake rear hub (Model CB-E110) with only one sprocket (with 18 Teeth)Black front hub with silver quick-release leverBlack plastic front fenderBlack (with white lettering) Dia-Compe 986 cantilever front brake with black cable housing and black and silver brake lever mounted on left side of handlebarFrame studs for cantilever rear brake but with no cantilever rear brakeBlack (with white lettering) Viscount brand seat with black vinyl repair tape on top surface and damaged â€šÃ„Ãºnoseâ€šÃ„Ã¹ Silver aluminum seatpostBlack steel handlebar stemAlmost straight (slightly swept back) silver aluminum handlebars with black rubber Oury hand gripsChrome-plated handlebar-mounted warning bellSilver aluminum crankset with non-replaceable silver steel chainring/front sprocket (with 44-teeth)Small \"Lifetime Warranty\" decal on front of seat tube near the chainring/front sprocket Black vinyl-coated Kryptonite Evolution 2000 U-lock, black helmet, heavy-duty Outdoor Research (OR) mittens (left mitten black, right mitten blue and black), dark blue nylon rain jacket, and other misc. riding gear also stolen with bike.Serial number stamped on bottom left-side of frame\\'s bottom bracket shell: N970212392. Another number stamped across bottom of bottom bracket shell (several characters not clearly legible): 4673(or 8)7- - 910(or C)7713(or 8)H45(or ?).  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "One-Speed Commuter Bike",
+      "id": 28737,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/10818/large_1387753978.JPG",
+      "location_found": null,
+      "manufacturer_name": "Unknown",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "N970212392",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.73,
+        -104.92
+      ],
+      "stolen_location": "Denver, CO 80220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/10818/small_1387753978.JPG",
+      "title": "1992 Unknown One-Speed Commuter Bike",
+      "url": "https://bikeindex.org/bikes/28737",
+      "year": 1992,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1382594400,
+      "description": "Red Salsa La Raza steel bicycle. Sella SMP saddle black carbon frame pump, one friction shifter on the right-hand side of the downtube, all-new Ultegra components. Red rear rim, black Ksyrium front wheel. Ritchey high riser on handlebar stem.  Salsa cross brakes.  Please help me get my bike back.  This bike came from my friend Clay Mankin, founder of City Cycle, who died at 50 yrs old.  It was all I had to remember him.  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "La Raza",
+      "id": 17709,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/6359/large_1382637962.jpg",
+      "location_found": null,
+      "manufacturer_name": "Salsa",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M5041512",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/6359/small_1382637962.jpg",
+      "title": "2005 Salsa La Raza",
+      "url": "https://bikeindex.org/bikes/17709",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1380002400,
+      "description": "Bike is Blue with pink and white lettering. Treck rear rack. Cycle Sport Bicycle Shop sticker on seat tube by bottom bracket. Handle bars have C shaped bar ends on each side. Watter bottle brackets. Tires are miss-matched city style tread not knobby tires. Cantilever front and rear brakes. Ergonomic gel seat.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Ascent",
+      "id": 20705,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Diamondback",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.75,
+        -74.26
+      ],
+      "stolen_location": "South Orange, NJ 07079, US",
+      "thumb": null,
+      "title": "1990 Diamondback Ascent",
+      "url": "https://bikeindex.org/bikes/20705",
+      "year": 1990,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1377410400,
+      "description": "Dark grey city bike without any visible brands on the frame. Black \"Ritchie\" handle bar. DT Swiss wheels with disc breaks. Straight front fork. Detacheable fenders. Pedals have clips on one side.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 17485,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Unknown",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "A8L67109",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.7,
+        -73.99
+      ],
+      "stolen_location": "Brooklyn, NY 11201, US",
+      "thumb": null,
+      "title": "Unknown",
+      "url": "https://bikeindex.org/bikes/17485",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1373436000,
+      "description": "Green bike with forest green forks, slight pinch in top tube near seat post, Sugino messenger cranks, all city chain ring, velocity deep v front wheel with continental super sport plus tire with silver spokes and silver hub, machined rear wheel with origin 8 hub  fixed hub with gator skin tire, paint is wearing wear rear fenders would go, seat has some tearing on the left side, drop bars with handle tape covering all of it (without tape they are silver nitto drop bars), bottle cage held on by hose clamps  ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Flite 100",
+      "id": 19630,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U9080 0239",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97211, US",
+      "thumb": null,
+      "title": "2010 KHS Bicycles Flite 100",
+      "url": "https://bikeindex.org/bikes/19630",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1361858400,
+      "description": "The bicycle is a Cramerotti 'TVT Classic.' The bike is not drilled for brakes on the fork or the frame. The seat stays are curved. The size of the bicycle, 55x55 cm, is stamped on the bottom bracket shell. It is black with white painted panels on the drop and seat tubes with black lettering that spells 'Cramerotti,' in upper case semi-italic letters. On the top tube there is the following text in white: \" TVT Classic\" and a cursive signature closer to the seat that says: \"Giuseppe Cramerotti.\" Text in white on the seat stays in serifed font: \"www.cramerotti.com.\" The frame is made of 'Dedacciai' brand '12.5 Com' steel. There is a sticker that says so on the seat tube. The seat and top tubes of the frame are of about 1 and 1/4 inches in diameter and round. The drop tube has a distinctive elliptical/coffin shape that is uncommon in steel frames and is large (about 2 inch diameter on the long axis) in comparison to the other tubes.At the time of the theft the bicycle had drop handlebars, a white 'Specialized' brand seat and white 'Specialized' brand tires, and no toe clips on the pedals. The cranks are 'Miche' brand but are mismatched; the right (drive) side is older and has a 'All-City' brand chainring. The left side crank arm was newer and has a more lustrous gray, smooth finish. The seatpost was black. The headset was 'Specialized' brand.  ",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "TVT Classic",
+      "id": 14014,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5112/large_1361927600.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cramerotti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.75,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA 94110, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5112/small_1361927600.jpg",
+      "title": "2002 Cramerotti TVT Classic",
+      "url": "https://bikeindex.org/bikes/14014",
+      "year": 2002,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1358229600,
+      "description": "FBM sword track style bike. 52 cm frame flip flop hub. 16t cog and 17t cog. 44t Beck chain ring with 165 sugino crank set. Brooks leather saddle worn in nice. Scuffs on from falls. Velocity B43 super deep rims with twist laced spokes. All city hubs.Â¬â€ There will be slight digs under blackÂ¬â€ Â¬â€ Â¬â€ Â¬â€ Â¬â€ Â¬â€  electrical tape on the right side of the fork. Due to putting in on the bus. Savage bird red sticker on the leftÂ¬â€  top tube. Straight brakeless for entire life. Rims will have some scratches.Last seen tires, freedom thick slick on the back and continential super sport up front. Metal cages with brown leather straps.Â¬â€   ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Sword",
+      "id": 13606,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4988/large_1358902833.jpg",
+      "location_found": null,
+      "manufacturer_name": "FBM",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4988/small_1358902833.jpg",
+      "title": "FBM Sword",
+      "url": "https://bikeindex.org/bikes/13606",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1358143200,
+      "description": "City side of Stockton street tunnel in San Francisco. Bike was taken while stopped at the bus stop right before the tunnel.  ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Cronus",
+      "id": 9773,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU123MC546D",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.41
+      ],
+      "stolen_location": "San Francisco, CA 94108, US",
+      "thumb": null,
+      "title": "2010 Gary Fisher Cronus",
+      "url": "https://bikeindex.org/bikes/9773",
+      "year": 2010,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1352786400,
+      "description": "IT WAS LAST SEEN LOCKED UP AT THE SAN JOSE DIRIDON TRAIN STATION, stolen between 11/12/12 at 10:00 pm and 11/13/12 at 5:30 pmLOOKS EXACTLY HOW IT DOES IN ABOVE PICTURE EXCEPT HAS A WHITE STICKER OVER THE BIANCHI DECAL ON THE DOWNTUBE ON THE DRIVE SIDE THAT SAYS âˆšÃ‰Â¬Â¢âˆšÃ˜Â¬Ã¸Â¬Î©âˆšÃ˜Â¬Ã¸Â¬Î©VEHICELSâˆšÃ‰Â¬Â¢âˆšÃ˜Â¬Ã¸Â¬Î©âˆšÃ˜Â¬Ã¸Â¬Î© IN GREEN LETTERSHAS MANY STICKERS ON FRAME INCLUDING A GREEN SUPREME STICKER, HAND-DRAWN STICKERS WITH THE LETTERS T-H-C (BOTH VISIBLE IN THE PICTURE)Also, an In N Out sticker on the bars, a graffiti sticker on the left side near the seat that says \"MKSM\" in bubble letters, and a small square sticker near the crankset that reads \"KERSV MKSM\". White sticker that reads \"Les Mysteres De Paris\" near back wheel on right side of frame. Small rectangular black sticker that reads \"KILL YOUR GIRLFRIEND\" in white letters on right side of fork. small yellow sticker with an eye on it near the Bianchi logo on the front of the bike.Stickers may be peeled off if bike is found but there will be residue on the frame.REAR TIRE IS COMPLETELY FLAT AND HAS BALD SPOTS WITH WIRE BEAD SHOWINGframe has a few scratches on the top tube near where it reads \"PISTA\" on both sides.COMPLETE BUILD LIST:BIANCHI PISTA 57CMSTOCK TRUVATIV TOURO CRANKSSTOCK BIANCHI WHEELSETMKS SYLVAN PEDALS + CLIPSALL-CITY BLACK DOUBLE STRAPSBROWN BROOKS B17 SADDLESTOCK SEATPOSTSTOCK STEMSWEPT BACK FLAT BARS WITH BROWN OURY GRIPS IT ALSO HAS A SILVER CHRIS KING TOP CAP ON THE HEADSET (ALTHOUGH THE BIKE HAS THE STOCK BIANCHI PISTA HEADSET)  ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Pista",
+      "id": 12757,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.35,
+        -121.92
+      ],
+      "stolen_location": "San Jose, CA 95110, US",
+      "thumb": null,
+      "title": "2007 Bianchi Pista",
+      "url": "https://bikeindex.org/bikes/12757",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1348812000,
+      "description": "some small scratches, lizard skin by chain, stolen in manitowoc wi, has a Baraboo,WI city license on top inner side of seat post green from early 2000's, Shimano derailer, straight 4\" bontreger bar ends. front brake disassembled...all descriptions are condition @ time of theft, picture not of my bike, but same bike same paint scheme.  ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "Gitchee Gumee",
+      "id": 14204,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/5171/large_1363520193.jpg",
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GN937402",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.09,
+        -87.66
+      ],
+      "stolen_location": "Manitowoc, WI 54220, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/5171/small_1363520193.jpg",
+      "title": "1999 Gary Fisher Gitchee Gumee",
+      "url": "https://bikeindex.org/bikes/14204",
+      "year": 1999,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1345442400,
+      "description": "My bike was purchased at Bike & Hike. It is an XS frame, has a built in bell and at the time of its theft  had a compact able black wire side basket on the back as well as a silver water bottle holder on the frame.   ALUXX-Grade Aluminum",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Escape City W",
+      "id": 25446,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/7617/Escape_City_W.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "C8IN0852",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/7617/small_Escape_City_W.jpg",
+      "title": "2012 Giant Escape City W",
+      "url": "https://bikeindex.org/bikes/25446",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1345183200,
+      "description": "This is a very unique looking dutch city bike. It has a large top tube (over 2\" diameter) that sticks out past the head tube and past the seat tube. It is silver with black fenders, chain guard and kickstand. The seat and grips are leather, and I have added roller-cam brakes to both the front and rear (but the front isn't hooked up because a bracket is missing from the fork since it wasn't meant for a brake initially).  The rear hub is also non-stock, and is an 8 speed internal shimano Nexus 8.  You can tell its mine for sure, since it has a yellow washer on the rear axle, and the front right axle end is mostly stripped.  There is a large scratch on the left side of the down tube (or possibly the top tube), near the middle of the tube.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "No. 3 (28\\\\\")",
+      "id": 25463,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8830/large_1345693772.jpg",
+      "location_found": null,
+      "manufacturer_name": "Van Moof",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.28,
+        -123.11
+      ],
+      "stolen_location": "Vancouver, V6B1R1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8830/small_1345693772.jpg",
+      "title": "2011 Van Moof No. 3 (28\\\\\")",
+      "url": "https://bikeindex.org/bikes/25463",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1342072800,
+      "description": "I left the bike on the side of the store while I went in for a couple of minutes. I came outside, and it was gone. I'm not confident they had a camera to catch it but they are checking them. It's not registered with the city. I work next door to the SA and live in Minneapolis.  ",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 25576,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.95,
+        -93.16
+      ],
+      "stolen_location": "St. Paul, MN 55104, US",
+      "thumb": null,
+      "title": "2009 Giant",
+      "url": "https://bikeindex.org/bikes/25576",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1340344800,
+      "description": "Dark Blue KHS urbanXpress M8.5\" with \"City Bikes\" sticker, with added black \"Planet Bike\" fenders with a piece of red reflective tape on the back one, a mounted front light, a silver back rack with right side silver collapsable basket, and a U-Lock attached to the back rack with a \"One Less Car\" red sticker on it.  The bottom of the frame is scuffed where a kickstand used to be attached.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Urban Xpress",
+      "id": 23963,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "U100F00883",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": null,
+      "title": "KHS Bicycles Urban Xpress",
+      "url": "https://bikeindex.org/bikes/23963",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1334815200,
+      "description": "The bike had a few small orange flower stickers on the front forks, a removable plastic fender attached to the seat post, the handle bar grip was coming unraveled on the right side.  It was purchased from River City Bikes.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Allez",
+      "id": 26303,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WUD70408122B",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": null,
+      "title": "2008 Specialized Allez",
+      "url": "https://bikeindex.org/bikes/26303",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1330063200,
+      "description": "Women's edition so the bright yellowish orange frame is recognizable. European edition, not sold in the US. Part of a bike trailer hook still screwed on the back wheel, right side. Disk-brakes, bottle holder, front and back lights, and torn seat. Tires had been changed for city use.   It was my only mean of transportation and had considerable mileage on it. I will find this bike back! Guaranteed!  ",
+      "frame_colors": [
+        "Yellow or Gold",
+        "Orange",
+        "Blue"
+      ],
+      "frame_model": "Rockhopper",
+      "id": 26058,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/9044/large_1330333024.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "P5KY31006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.64,
+        -82.33
+      ],
+      "stolen_location": "Gainesville, FL 32601, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/9044/small_1330333024.jpg",
+      "title": "2005 Specialized Rockhopper",
+      "url": "https://bikeindex.org/bikes/26058",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1320645600,
+      "description": "There are a few distinctive things about the bike that will indicate it's mine. It has two mounts for lights, but the lights were not on them: One on the right side of the handle bar, the other down near the rear derailleur. There was a bike rack on the back that was pretty weathered. It used to be on my old bike. There's also a mount on the frame for a Kryptonite Lock. Also there's a waterbottle holder in the upright position. The bike has a City Bikes sticker on it and the frame was a Specialized Large frame size.   Specialized A1 Premium aluminum, fully manipulated tubing, smooth weld compact design, internal cable routing , integrated headset,fender and rack eyelets",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Sirrus Sport",
+      "id": 23872,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/8334/large_1320767334.jpg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC602169450G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.91,
+        -77.02
+      ],
+      "stolen_location": "Washington, DC 20001, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/8334/small_1320767334.jpg",
+      "title": "2011 Specialized Sirrus Sport",
+      "url": "https://bikeindex.org/bikes/23872",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1319695200,
+      "description": "The bike is a bright orange KHS track frame with black v-wheels. The frame has dings and paint wear from locking up/general usage. The wheels have a distinctive double silver stripe on the side. Front wheel has silver spokes, rear spokes are black. Black seatpost, black seat, and black Intense locking grips on the handlebars. The handlebars are distinctive in that they are downhill bike-style riser bars that are cut very wide, as opposed to the popular narrow cut. The stem is a black traditional road riser stem. The headset is a silver polished aluminum Velo Orange headset. Cranks and front chainring are black Pake, fairly worn and used. The chain is black as well, but mostly from heavy usage. The drivetrain in general is greasy and worn out, and there are grease spots on the chainstay. The cranks have spots which show silver aluminum through the black paint due to wear from riding. Pedals are silver Shimano PD-M540 clipless pedals. The rear hub on the bike is one single 16 tooth fixed gear. The bike has no brakes. The bike also has black Planet Bike fenders, mounted with a special low clearance fender mounting kit (called the Reach Around kit from River City Bicycles). The fender mounting kit is silver, showing spots of rust. The fenders are very distinctive in that they are cut in half and mounted with the special kit. The tires on the front are Kenda Kontender 700C x 23 tires, the rear tire is a Continental 700C x 23.Email me, or give me a call at 541-399-4868. I will be personally high-fiving the person who returns me my bike, and we'll drink beers if that is your thing. I'm also totally willing to give someone 100 bucks for returning this thing. Unless you're the person who stole it, in which case I'd love to give you 100 karate chops in the throat.I have no proof of ownership or serial number, though my flatmates have seen the bike a million times and can vouch that it's mine.",
+      "frame_colors": [
+        "Orange"
+      ],
+      "frame_model": "track frame",
+      "id": 23679,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "KHS Bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.61
+      ],
+      "stolen_location": "Se 49th St, OR 97206, US",
+      "thumb": null,
+      "title": "KHS Bicycles track frame",
+      "url": "https://bikeindex.org/bikes/23679",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1279000800,
+      "description": "Specialized Hardrock mountain bike with front suspension and disk brakes, large frame (~19\").Looks like this one, but brown:http://www.specialized.com/us/en/bc/SBCBkModel.jsp?spid=45759&eid=4340&menuItemId=0The saddle was the style with a slot/hole along the center, it was a bit cracked. The tires are wide but smooth city tires, and the wheels have an allen key release - not quick-release. I had a lot of things attached to it, but they may have been taken off by the guy:-Pouch for under the saddle, I usually keep a plastic grocery bag in it.-Kryptonite U-lock (I didn't have it locked up because it was in my friekin lab and the guy walked in and took it while I was working at my desk on the other side of some cubicles!!)-Lights on the front wheel are by monkeylectrichttp://www.monkeylectric.com/m132s.htmThe AA's in it were green Ni-MH rechargables. -There should also be the parts for a wireless bike computer mounted to the front wheel (the battery was dead, so I might have taken it off, bit I'm 90% sure it's still on it). -The front handlebars should also have attachments on them to hold the computer and a light (neither were attached though).",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Hardrock",
+      "id": 13416,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.87,
+        -122.26
+      ],
+      "stolen_location": "Berkeley, CA 94720, US",
+      "thumb": null,
+      "title": "Specialized Hardrock",
+      "url": "https://bikeindex.org/bikes/13416",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1275199200,
+      "description": "the bike had red tires, locking skewers, cat eye computer, tubus rack in the back, the front chain ring was converted from a double to a triple. it was purchased at river city bikes so had that stick on it. it had a terry womens butterfly seat on it.  ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "vigorelli",
+      "id": 13843,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "DV0027426D",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": null,
+      "title": "2009 Bianchi vigorelli",
+      "url": "https://bikeindex.org/bikes/13843",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1263535200,
+      "description": "River City Bicycles sticker on down tube (where it was purchased), non-factory installed Fizik saddle, black handlebar tape that is beginning to come off on the right side, Sigma wireless cycling computer mounted to the right of the stem and on the front fork, low-profile Cateye headlight, Shimano clipless pedals, heavily-worn rear rack from pannier use, Planet Bike rear fender that does NOT hug the rear wheel, different brand of front fender, Specialized Armadillo tires with heavy wear.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "T800",
+      "id": 18765,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "N111724",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.6,
+        -122.76
+      ],
+      "stolen_location": "Portland, OR 97203, US",
+      "thumb": null,
+      "title": "2003 Cannondale T800",
+      "url": "https://bikeindex.org/bikes/18765",
+      "year": 2003,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1259042400,
+      "description": "Please call 503-442-3336  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "B67",
+      "id": 12342,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/4597/large_brooks_b67_500x.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brooks",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.53,
+        -122.69
+      ],
+      "stolen_location": "Portland, OR 97209, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/4597/small_brooks_b67_500x.jpg",
+      "title": "2009 Brooks B67",
+      "url": "https://bikeindex.org/bikes/12342",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1251957600,
+      "description": "It's a white bike with light green writing and rack on the front. Says Gary Fisher on side.  ",
+      "frame_colors": [
+        "White",
+        "Green"
+      ],
+      "frame_model": "City Series 8",
+      "id": 18275,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Gary Fisher",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU175CO478D",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "Portland, OR 97217, US",
+      "thumb": null,
+      "title": "2009 Gary Fisher City Series 8",
+      "url": "https://bikeindex.org/bikes/18275",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1231826400,
+      "description": "On Monday 13th July, I had my Cannondale BADBOY street/urban bike stolen from right out the front of the Le Pain Quotidien cafe on West 72nd and Columbus Avenue, Upper West Side, NYC.I was sitting in the cafe, tapping away on my laptop (I still have that!) and the bike was sitting on the other side of the window, literally 12 inches from my face.THEN - OUT OF THE BLUE, A MAN, OF AFRICAN-AMERICAN DESCENT, RAN UP TO THE BIKE, JUMPED ON IT AND RODE AWAY!I jumped off my chair, ran out of the cafe and ran down the street after the THIEF who was getting away with MY BIKE!  I persued the PERPETRATOR through the W 72nd and Columbus Avenue.VIEW THE MAP/IMAGE BELOW ON WHERE THE THEFT HAPPENED (out of the front of the Le Pain Quotidien cafe, at 50 WEST 72nd STREET AND COLUMBUS AVENUE.IF ANYONE WITNESSED THIS THEFT, OR HAPPENED TO SEE OR NOTICE A WHITE MAN RUNNING DOWN THROUGH 72nd STREET/COLUMBUS AVE INTERSECTION AFTER A BLACK MAN RIDING AWAY ON A BICYCLE - PLEASE LET ME KNOW IF YOU GOT A DESCRIPTION OF THE THIEF.The bike had some distinctive features that identify it as MY BICYCLE:>  A white \"APPLE COMPUTER\" sticker on the down tube near the seat>  A \"MAVIC\" bicycle computer on the middle of the headstem/handlebars>  A Renaissance Bicycles sticker on the downtube near the seat (it was purchased from Renaissance Bicycles on Columbus Avenue and 81st - www.bicyclerenaissance.com)WARNING!!!! IF I FIND THE THIEF THAT STOLE MY BIKE OR ANYONE ELSE WITH MY BICYCLE, EITHER A MEXICAN FOOD DELIVERY GUY OR OTHERWISE, YOU ARE GOING TO BE CHARGED WITH THEFT OR POSSESSION OF STOLEN GOODS!  I WILL PRESS FOR MAXIMUM CHARGES.  YOU ARE FILTHY SCUM.THIS IS THE THIRD BIKE THAT I HAVE HAD STOLEN IN NEW YORK CITY!  I AM SICK OF IT!To anyone that can help me recover my bike - I will give a reward of up to $150.PLEASE HELP ME FIND MY BICYCLE AND HELP ME PROSECUTE THIS FILTHY SCUM!  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Badboy",
+      "id": 10261,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3956/large_1247611881.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.79,
+        -73.97
+      ],
+      "stolen_location": "New York City, NY 10024, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3956/small_1247611881.jpg",
+      "title": "2007 Cannondale Badboy",
+      "url": "https://bikeindex.org/bikes/10261",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1224741600,
+      "description": "The whole bike was Painted over in Black, to seem less appealing. Original color was chrome/neon green/black, like in the photo.Had Sticker on left side of bike on top tube in white and blue print.Reads \"please don't hit me I'm not too sure about my insurance\"Bought in Walmart in May 12,2007.Had Front wire basket \"black\". Dual suspension. \"Lime Green Coil Spring Rear\"26\" alloy wheels.Had Rear \"Chrome\" wire laundry basket modified with 3 I-bolts secured to seat post bought at kmart.1/4\" piece of Plywood,used as a bottom, which is taped over with black tape for both baskets,Rear and front black plastic fender by Topeak.Stolen from across the street from 186 jay street. between hours 6pm-8pm \"new york city college of technology\"thanks for looking.I used 2 chains 3/16\" thick and 2 masterlocks to secure.  ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Shocker",
+      "id": 10441,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/3999/large_1225124088.jpg",
+      "location_found": null,
+      "manufacturer_name": "Next",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.7,
+        -73.99
+      ],
+      "stolen_location": "Brooklyn, NY 11201, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/3999/small_1225124088.jpg",
+      "title": "2007 Next Shocker",
+      "url": "https://bikeindex.org/bikes/10441",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1213855200,
+      "description": "Cyclocross style Giant TCX.  There is a \"City of Milwaukee Bicycle License\" that is adhered to the bottom side of the down tube.  The license is grey in color and blends in with the silver part of the bike so the thief may not even know its there unless the bike is flipped upside down.  Carbon-Fiber fork.  Photo attached looks identical to my stolen bike.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "TCX",
+      "id": 6693,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/2877/large_1213967398.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GG677848",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.08,
+        -87.88
+      ],
+      "stolen_location": "Milwaukee, WI 53211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/2877/small_1213967398.jpg",
+      "title": "2006 Giant TCX",
+      "url": "https://bikeindex.org/bikes/6693",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1095919200,
+      "description": "I had added bar ends to it, changed the tires to slick city tires instead of knobby. It had a rear fender. A front fender clip under the front suspension. Also a light clip on the handle bar. There is a scratch mark on the top tube where it says \"Alpine\" on the left side of the bike.  ",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Alpine",
+      "id": 4078,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Huffy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AL20107558",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.75,
+        -73.82
+      ],
+      "stolen_location": "Flushing, NY 11355, US",
+      "thumb": null,
+      "title": "2001 Huffy Alpine",
+      "url": "https://bikeindex.org/bikes/4078",
+      "year": 2001,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

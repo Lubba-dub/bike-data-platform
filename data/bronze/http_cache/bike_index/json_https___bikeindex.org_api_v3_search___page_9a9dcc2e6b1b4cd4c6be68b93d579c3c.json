@@ -1,0 +1,753 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1747771200,
+      "description": "Specialized FACT 10r carbon, crosswind-optimized airfoils, FACT IS construction, OSBB, Control Tower fit system and Fuelselage integrated hydration system",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Shiv Pro SRAM RED",
+      "id": 2805337,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/918600/large_IMG_1080.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        44.98,
+        -93.27
+      ],
+      "stolen_location": "Minneapolis, MN 55401, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/918600/small_IMG_1080.jpeg",
+      "title": "2012 Specialized Shiv Pro SRAM RED",
+      "url": "https://bikeindex.org/bikes/2805337",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1768449000,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Windsor",
+      "id": 2800040,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009891/large_1000000276.jpg",
+      "location_found": null,
+      "manufacturer_name": "Windsor",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "CDIDC08400467",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.73,
+        -117.16
+      ],
+      "stolen_location": "San Diego, CA 92101, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009891/small_1000000276.jpg",
+      "title": "2019 Windsor Windsor",
+      "url": "https://bikeindex.org/bikes/2800040",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746900898,
+      "description": "This was stolen in Broomfield at the 36 Broomfield bus station where a man got off the bus and took my bike right off of the front rack. The bus driver said the man who stole it was ~70 years old, had an oversized walker, and got on the bus initially at the Downtown Boulder station (this is also where I got on the bus and remember him). He is likely homeless.\r\n\r\nBright blue, with a white stripe that says \"3T\". The wheels also have white stripes. Has a plastic component on the bottom that is sort of peeling a little bit. ",
+      "frame_colors": [
+        "Blue",
+        "White"
+      ],
+      "frame_model": "Strada Pro",
+      "id": 2799600,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/915008/large_IMG_0799.jpg",
+      "location_found": null,
+      "manufacturer_name": "3T",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.94,
+        -105.07
+      ],
+      "stolen_location": "Broomfield, CO 80020, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/915008/small_IMG_0799.jpg",
+      "title": "2020 3T Strada Pro",
+      "url": "https://bikeindex.org/bikes/2799600",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746590400,
+      "description": "Green/Grey Bike with blue decals and stainless steel highlights on headtube and seatstays. Nitto bullmoose bars, Tomii Cycles handmade bell, Chris king headset, BB and wheels, PDW fenders, SRAM red cranks, shimano deore 10-speed drivetrain, wald basket, tan Oury grips, paul brakes and levers, brooks cambium, straight blade fork (made by Breadwinner), black flat pedals. ",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Cross Classic",
+      "id": 2797975,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913911/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cielo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Made without serial",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.51,
+        -122.65
+      ],
+      "stolen_location": "Portland, OR 97214, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913911/small_bike.jpg",
+      "title": "2011 Cielo Cross Classic",
+      "url": "https://bikeindex.org/bikes/2797975",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746522000,
+      "description": "",
+      "frame_colors": [
+        "Brown"
+      ],
+      "frame_model": "Rascal",
+      "id": 2797700,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913731/large_IMG_6719.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Revel",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WH02XXJ02",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.34,
+        -110.99
+      ],
+      "stolen_location": "Tucson, AZ 85704, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913731/small_IMG_6719.jpeg",
+      "title": "2021 Revel Rascal",
+      "url": "https://bikeindex.org/bikes/2797700",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746363600,
+      "description": "Dark Aquatic, SRAM Force Power Meter, 2x12 SRAM Force eTap AXS wireless electronic drivetrain, Bontrager Aeolus Pro 3V OCLV Carbon wheels",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Checkpoint SL7 ETAP",
+      "id": 2797058,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/913333/large_Trek_Checkpoint_SL7_ETAP.JPG",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU099XT0097S",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.63,
+        -90.22
+      ],
+      "stolen_location": "St Louis, MO 63103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/913333/small_Trek_Checkpoint_SL7_ETAP.JPG",
+      "title": "2023 Trek Checkpoint SL7 ETAP",
+      "url": "https://bikeindex.org/bikes/2797058",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1746248400,
+      "description": "ZItten Zipp-wielen onder (303), heeft op voor en achtervork schuursporen van spatborden, zit beschadiging onderzijde onderbuis thv bidonhouder, afdruk op stuur van Garminhouder. Groep SRAM Red 12 speed.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Race",
+      "id": 2795963,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/912608/large_IMG_9248.JPEG",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "STR29D15423020007P",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        52.08,
+        4.88
+      ],
+      "stolen_location": "Woerden, 3448 HV, NL",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/912608/small_IMG_9248.JPEG",
+      "title": "2025 SCOTT Race",
+      "url": "https://bikeindex.org/bikes/2795963",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750989778,
+      "description": "Surly Pacer, Surly 4130 CroMoly steel. Main triangle double-butted. TIG-welded, after market upgrades. Hollow crank, Sram drive train, Chris King headset, trigger shift",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Pacer",
+      "id": 2784662,
+      "is_stock_img": false,
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/9855/pacer-14_sv_930x390.jpg",
+      "location_found": null,
+      "manufacturer_name": "Surly",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "M13032648",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/9855/small_pacer-14_sv_930x390.jpg",
+      "title": "2012 Surly Pacer",
+      "url": "https://bikeindex.org/bikes/2784662",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745193600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Ripley V4",
+      "id": 2789146,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/908185/large_tempImage1XJVFN.jpg",
+      "location_found": null,
+      "manufacturer_name": "Ibis",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.03,
+        -114.14
+      ],
+      "stolen_location": "Calgary, T3E 2T2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/908185/small_tempImage1XJVFN.jpg",
+      "title": "2023 Ibis Ripley V4",
+      "url": "https://bikeindex.org/bikes/2789146",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745182800,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Optic C2 SRAM",
+      "id": 2792064,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/910000/large_Optic_C2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1FM3J50277",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        49.28,
+        -122.83
+      ],
+      "stolen_location": "Port Moody, V3H 0M4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/910000/small_Optic_C2.jpg",
+      "title": "2023 Norco Bikes Optic C2 SRAM",
+      "url": "https://bikeindex.org/bikes/2792064",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744758000,
+      "description": "Derailer was ripped off in 2016 *see attached photo* and a SRAM Chainring system was implemented which uses only 8 gears total - unique identifier.  ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "CAAD10@4 RIVAL CPT 54 ALUMI",
+      "id": 2784984,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/908062/large_Screen_Shot_2025-04-22_at_2.53.41_PM.png",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "QM96627",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.97,
+        -87.75
+      ],
+      "stolen_location": "Chicago, IL 60630, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/908062/small_Screen_Shot_2025-04-22_at_2.53.41_PM.png",
+      "title": "2012 Cannondale CAAD10@4 RIVAL CPT 54 ALUMI",
+      "url": "https://bikeindex.org/bikes/2784984",
+      "year": 2012,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1744621200,
+      "description": "SRAM chainset\r\nRockshox Lyric forks\r\nDT SWISS EX471 rims\r\nSpecialized Butcher rear tire\r\nSpecialized cannibal front tire\r\nRed race face pedals",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Bronson C",
+      "id": 2780608,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/905760/large_1000005394.jpg",
+      "location_found": null,
+      "manufacturer_name": "Santa Cruz",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.79,
+        -122.25
+      ],
+      "stolen_location": "Oakland, CA 94606, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/905760/small_1000005394.jpg",
+      "title": "2020 Santa Cruz Bronson C",
+      "url": "https://bikeindex.org/bikes/2780608",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743548400,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Sight C2 SRAM",
+      "id": 2774943,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Norco Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "1LD2J60659",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.58,
+        -122.37
+      ],
+      "stolen_location": "Seattle, WA 98126, US",
+      "thumb": null,
+      "title": "2025 Norco Bikes Sight C2 SRAM",
+      "url": "https://bikeindex.org/bikes/2774943",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743300000,
+      "description": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Mach 429SL",
+      "id": 2772498,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/902703/large_20180405_153249.jpg",
+      "location_found": null,
+      "manufacturer_name": "Pivot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "GF27SLM1412702116694",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.49,
+        -122.59
+      ],
+      "stolen_location": "Portland, OR 97206, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/902703/small_20180405_153249.jpg",
+      "title": "2015 Pivot Mach 429SL",
+      "url": "https://bikeindex.org/bikes/2772498",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743177600,
+      "description": "VELO GRAVEL CARBONE RIVERSIDE GCR SRAM FORCE ETAP AXS / ROUES REYNOLDS ATR 700C",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Carbon",
+      "id": 2770762,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/900758/large_IMG_4439.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Decathlon",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "(01)03583787542675(21)1080102",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        56.2,
+        10.17
+      ],
+      "stolen_location": "Aarhus, 8200, DK",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/900758/small_IMG_4439.jpeg",
+      "title": "2023 Decathlon Carbon",
+      "url": "https://bikeindex.org/bikes/2770762",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743094800,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Teal"
+      ],
+      "frame_model": "Yeti SB 120 T2",
+      "id": 2770384,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/900522/large_diane_w_new_yeti_new_bike_day.jpg",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "3IJFD310007",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.77,
+        -122.14
+      ],
+      "stolen_location": "Woodinville, WA 98072, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/900522/small_diane_w_new_yeti_new_bike_day.jpg",
+      "title": "2024 Yeti Yeti SB 120 T2",
+      "url": "https://bikeindex.org/bikes/2770384",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1743091200,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Giant Revolt Adv Pro 1",
+      "id": 2770392,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/900527/large_diane_w_revolt.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "KAGZ04859",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.77,
+        -122.14
+      ],
+      "stolen_location": "Woodinville, WA 98072, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/900527/small_diane_w_revolt.jpg",
+      "title": "2022 Giant Giant Revolt Adv Pro 1",
+      "url": "https://bikeindex.org/bikes/2770392",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742792400,
+      "description": null,
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Riot",
+      "id": 2769710,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/899979/large_Canfield_Riot.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canfield Brothers",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.25,
+        -122.48
+      ],
+      "stolen_location": "Tacoma, WA 98405, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/899979/small_Canfield_Riot.jpg",
+      "title": "2017 Canfield Brothers Riot",
+      "url": "https://bikeindex.org/bikes/2769710",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1750845600,
+      "description": "Guide front and back brakes, revolution cycle steerer tube cap, blue Chester race face pedals, sram eagle gx 12 speed cassette, Bontrager Team Issue tires, black with blue highlighted ‘pivot’ up middle of saddle with remote,  rockshox Lyrik fork with 160mm travel, fox rear shock with kashima gold, blue shifter cable, blue carbon fibre water bottle holder, race face handle bar",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Mach 4",
+      "id": 2767970,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934939/large_IMG_3337.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Pivot",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TCE32M150807410286",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.55,
+        -113.56
+      ],
+      "stolen_location": "Edmonton, Alberta, T5N 2E7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934939/small_IMG_3337.jpeg",
+      "title": "2017 Pivot Mach 4",
+      "url": "https://bikeindex.org/bikes/2767970",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742493600,
+      "description": null,
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "SB140",
+      "id": 2772977,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/902067/large_IMG_2852.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "4ILFD510022",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.09,
+        -115.35
+      ],
+      "stolen_location": "Canmore, T1W 1P4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/902067/small_IMG_2852.jpeg",
+      "title": "2025 Yeti SB140",
+      "url": "https://bikeindex.org/bikes/2772977",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1742314262,
+      "description": null,
+      "frame_colors": [
+        "Black",
+        "Yellow or Gold",
+        "Blue"
+      ],
+      "frame_model": "Prime Team",
+      "id": 2766697,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898119/large_IMG_4383.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Bergamont",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "BGM5E16100119",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.4,
+        8.55
+      ],
+      "stolen_location": "Zürich, 8057, CH",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898119/small_IMG_4383.jpeg",
+      "title": "2017 Bergamont Prime Team",
+      "url": "https://bikeindex.org/bikes/2766697",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741889817,
+      "description": "Brand new bike. Gravel build with 1x mechanical shifting and hydro brakes from Sram. Carbon Drive wheels. Rear derailleur cage in red. Big cog of cassette in red. Wahoo Roam attached with front and rear lights. Challange Getaway tires with gum sidewalls. ",
+      "frame_colors": [
+        "Silver, gray or bare metal",
+        "Orange"
+      ],
+      "frame_model": "UP",
+      "id": 2764815,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896953/large_PXL_20250201_193309355.MP__1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "OPEN",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.92,
+        -77.09
+      ],
+      "stolen_location": "Washington, DC 20007, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896953/small_PXL_20250201_193309355.MP__1_.jpg",
+      "title": "2024 OPEN UP",
+      "url": "https://bikeindex.org/bikes/2764815",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741817770,
+      "description": "Dark grey frame with red n black decals,rockshox forks , front suspension only,front and rear disc brakes (Shimano) 12 train , SRAM derailleur and pedal mounts.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Scale 970",
+      "id": 2662195,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896670/large_Screenshot_20250312-151133.png",
+      "location_found": null,
+      "manufacturer_name": "SCOTT",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "G6GU0740",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896670/small_Screenshot_20250312-151133.png",
+      "title": "2022 SCOTT Scale 970",
+      "url": "https://bikeindex.org/bikes/2662195",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741744800,
+      "description": "Habit upgraded with sram Eagle GX electronic shift, cassette, and crank. Carbon fiber handle bar, quadlock phone mount, WTB wheel set",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Habit 2",
+      "id": 2764534,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896881/large_Habit2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ME50287",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        29.81,
+        -85.3
+      ],
+      "stolen_location": "Port St Joe, FL 32456, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896881/small_Habit2.jpg",
+      "title": "2024 Cannondale Habit 2",
+      "url": "https://bikeindex.org/bikes/2764534",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741712400,
+      "description": "2017 SB5. Not many stock parts left on it. The rear triangle was snapped and the new one has orange instead of blue decals.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SB5T",
+      "id": 2763719,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/898618/large_IMG_3653.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Yeti",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "6KSFD510006",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.53,
+        -113.57
+      ],
+      "stolen_location": "Edmonton, T5N 0C2, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/898618/small_IMG_3653.JPEG",
+      "title": "2017 Yeti SB5T",
+      "url": "https://bikeindex.org/bikes/2763719",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

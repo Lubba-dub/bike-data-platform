@@ -1,0 +1,763 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1766372400,
+      "description": "Limited edition Cervelo S5 Team Visma race colourway",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "S5",
+      "id": 3345003,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1005379/large_590107477_718158160879129_6764159914911011033_n.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1475422A048",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.28,
+        -117.34
+      ],
+      "stolen_location": "Oceanside, CA 92058, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1005379/small_590107477_718158160879129_6764159914911011033_n.jpg",
+      "title": "2024 Cervélo S5",
+      "url": "https://bikeindex.org/bikes/3345003",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1763413200,
+      "description": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Cervelo",
+      "id": 3216105,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNB0B5621K268",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.59,
+        -113.44
+      ],
+      "stolen_location": "Edmonton, T5C 0B9, CA",
+      "thumb": null,
+      "title": "2023 Cervélo Cervelo",
+      "url": "https://bikeindex.org/bikes/3216105",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760508000,
+      "description": "2023 purple Cervelo Aspero GRX RX600. Wheels are 'We Are One' carbon fiber with Industry Nine (i9) hubs. Handlebar is an Easton EC90 carbon fiber handlebar. Seatpost is an Easton EC70 carbon fiber post. Bike has Garmin rear taillight and front computer mounts. Tires are Pirelli P-Zero 35C",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Aspero",
+      "id": 3215728,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/977055/large_Cervelo1.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B0B5621K268",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.42,
+        -113.62
+      ],
+      "stolen_location": "Edmonton, T6W 4J3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/977055/small_Cervelo1.jpeg",
+      "title": "2023 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/3215728",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1757077200,
+      "description": "This is a Cervelo \"P1\" bike with a new chain, older scratched Shimano Ultegra rear derailleur, Cobb seat, Shimano wheelset, Shimano Crankset. The bars have black grip tape , Shimano Shifters, Cane Creek brakes. The headset/stem has 5 black spacers installed. ",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "P1",
+      "id": 3183577,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/962645/large_IMG_6188.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2S08A01804",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        43.55,
+        -79.59
+      ],
+      "stolen_location": "Mississauga, L5G 1C8, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/962645/small_IMG_6188.jpg",
+      "title": "Cervélo P1",
+      "url": "https://bikeindex.org/bikes/3183577",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755604800,
+      "description": "Cervelo Cervelo SOLOIST FORCE ETAP AXS 12 Speed\r\nZipp SL-70 Aero Carbon Handlebars, Tape on left side is loose\r\nReserve 40|44 carbon wheels\r\nQuarq power meter\r\nLast seen 1911 Pine street, SF, CA 94109",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Soloist",
+      "id": 3060522,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/954038/large_IMG_1332.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1515422K197",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.42
+      ],
+      "stolen_location": "San Francisco, CA CA, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/954038/small_IMG_1332.jpeg",
+      "title": "2023 Cervélo Soloist",
+      "url": "https://bikeindex.org/bikes/3060522",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753564200,
+      "description": "Cervelo R3 ultegra Di2, top tube faded, matt black frame all around, N3 carbon 40mm rim brakes wheelset",
+      "frame_colors": [
+        "Black",
+        "White",
+        "White"
+      ],
+      "frame_model": "R3 ultegra di2",
+      "id": 2850851,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943613/large_20250726_113834_1_.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.75,
+        -122.24
+      ],
+      "stolen_location": "Kenmore, WA 98028, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943613/small_20250726_113834_1_.jpg",
+      "title": "2019 Cervélo R3 ultegra di2",
+      "url": "https://bikeindex.org/bikes/2850851",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751760000,
+      "description": "Black Cervelo with red highlights. Vision triathlon aero bars.  Red handlebar tape. Double bottle cage in the rear. I never took a picture of the serial number at the bottom unfortunately. ",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": "P2",
+      "id": 2833550,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/936460/large_IMG_8738.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.62,
+        -122.35
+      ],
+      "stolen_location": "Seattle, WA 98121, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/936460/small_IMG_8738.jpeg",
+      "title": "2011 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/2833550",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1751053800,
+      "description": "White Cervelo with Black and Red highlights (Vroomen design). This bike was highly upgraded with an Sworks seat post, a 3D printed Fizik saddle, and dual sided pedals (clip in and regular).",
+      "frame_colors": [
+        "White",
+        "Red"
+      ],
+      "frame_model": "RS",
+      "id": 2829835,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/934444/large_IMG_2287.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNRSC12D00062",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.92,
+        -87.64
+      ],
+      "stolen_location": "Chicago, IL 60614, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/934444/small_IMG_2287.jpeg",
+      "title": "2017 Cervélo RS",
+      "url": "https://bikeindex.org/bikes/2829835",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1749942000,
+      "description": "Cervelo Aspero with SRAM Apex",
+      "frame_colors": [
+        "Pink"
+      ],
+      "frame_model": "Aspero",
+      "id": 1655313,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "B0B5123B028",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.02,
+        -114.04
+      ],
+      "stolen_location": "Calgary, T2G 2E9, CA",
+      "thumb": null,
+      "title": "2023 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/1655313",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1745352000,
+      "description": "Cervelo Dual 54cm Ultegra Gears, Shimano SL Pedals",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Road Bike Ultegra Gears",
+      "id": 2785830,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/908091/large_IMG_4764.png",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.54,
+        -122.27
+      ],
+      "stolen_location": "Seattle, WA 98118, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/908091/small_IMG_4764.png",
+      "title": "2005 Cervélo Road Bike Ultegra Gears",
+      "url": "https://bikeindex.org/bikes/2785830",
+      "year": 2005,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1741734000,
+      "description": "Black and Red Cervelo P2 with unidentical wheels - rear one is COSMIC",
+      "frame_colors": [
+        "Black",
+        "Red"
+      ],
+      "frame_model": null,
+      "id": 2763923,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/896434/large_image0__11_.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP2C12D50726",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.8,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94111, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/896434/small_image0__11_.jpeg",
+      "title": "Cervélo",
+      "url": "https://bikeindex.org/bikes/2763923",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1729843200,
+      "description": "Cervelo R2 Road Bike - 2019, 54cm",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "R2",
+      "id": 1228647,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/535126/large_BRD27127_PH1_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNR2E18E00352",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.76,
+        -122.4
+      ],
+      "stolen_location": "San Francisco, CA 94107, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/535126/small_BRD27127_PH1_02.jpg",
+      "title": "2019 Cervélo R2",
+      "url": "https://bikeindex.org/bikes/1228647",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1725656400,
+      "description": "It had Stans Grail CB7 wheels on it when it was stolen from a race preride Sept 6, 2024 in Erie, CO",
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "R5-CX",
+      "id": 2696206,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1535122C030",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.04,
+        -105.01
+      ],
+      "stolen_location": "Eric, CO 80516, US",
+      "thumb": null,
+      "title": "2023 Cervélo R5-CX",
+      "url": "https://bikeindex.org/bikes/2696206",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1722819600,
+      "description": "red and black triathlon bike with HED wheels",
+      "frame_colors": [
+        "Red",
+        "Black"
+      ],
+      "frame_model": "P3C",
+      "id": 2667519,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/838878/large_71296019981__3EDD2CF2-B522-4A54-ABC2-BFEAEE64460E_Original.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.02,
+        -122.8
+      ],
+      "stolen_location": "Lacey, WA 98503, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/838878/small_71296019981__3EDD2CF2-B522-4A54-ABC2-BFEAEE64460E_Original.jpeg",
+      "title": "2008 Cervélo P3C",
+      "url": "https://bikeindex.org/bikes/2667519",
+      "year": 2008,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1721919600,
+      "description": "Black Cervelo Aspero with gold accents. I have made a few unique changes to this bike. The front chain ring is now a 44T chain ring instead of the the stock 40T chain ring. The bar tape is brown and the current tires on the bike are Vittoria Corsa 700x32 tires making it look more like a road bike than a gravel bike currently. Stolen from NOPA neighborhood in San Francisco ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aspero",
+      "id": 2664443,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/837104/large_IMG_1275.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "ASP265872728",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.77,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/837104/small_IMG_1275.jpeg",
+      "title": "2021 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/2664443",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1719280800,
+      "description": "Black with lime green Cervelo detailing. Polka dot gear tape on handlebars on the left and black and green tape on the right. ",
+      "frame_colors": [
+        "Black",
+        "Green"
+      ],
+      "frame_model": "P2",
+      "id": 2640030,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/823276/large_60531187794__0D175C36-7FBF-4B04-8164-AD9F879D2FC8.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.29,
+        -122.51
+      ],
+      "stolen_location": "Tacoma, WA 98407, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/823276/small_60531187794__0D175C36-7FBF-4B04-8164-AD9F879D2FC8.jpeg",
+      "title": "2020 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/2640030",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1711350000,
+      "description": "Cervelo Caledonia 2023 in Glacier, 61cm frame \r\n- Custom (unbranded) 45mm deep carbon rims \r\n- Conti GP5k cream wall tires\r\n- purchased from Mike's Bikes",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Caledonia",
+      "id": 2575942,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/790998/large_IMG_4309.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1396123A018",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.74,
+        -122.44
+      ],
+      "stolen_location": "San Francisco, CA 94131, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/790998/small_IMG_4309.jpeg",
+      "title": "2023 Cervélo Caledonia",
+      "url": "https://bikeindex.org/bikes/2575942",
+      "year": 2023,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1693292400,
+      "description": "It's a teal 1x cervelo aspero.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Aspero",
+      "id": 1654635,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/743822/large_IMG_2761.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/743822/small_IMG_2761.jpg",
+      "title": "2020 Cervélo Aspero",
+      "url": "https://bikeindex.org/bikes/1654635",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688920800,
+      "description": "This grey Cervelo P2 Triathlon Bike - 51 inch.  Bike seat is fraying apart",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "P2",
+      "id": 1552574,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/720444/large_Bike_photo.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.63,
+        -122.29
+      ],
+      "stolen_location": "Seattle, WA 98112, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/720444/small_Bike_photo.jpg",
+      "title": "2006 Cervélo P2",
+      "url": "https://bikeindex.org/bikes/1552574",
+      "year": 2006,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1688565600,
+      "description": "Cervelo S3 Road Bike - 2014, 56cm",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "S3",
+      "id": 1462781,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/674603/large_BRD29515_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNS3D14F10588",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.94,
+        -105.18
+      ],
+      "stolen_location": "Louisville, CO 80027, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/674603/small_BRD29515_PH_2.jpg",
+      "title": "2014 Cervélo S3",
+      "url": "https://bikeindex.org/bikes/1462781",
+      "year": 2014,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1685757600,
+      "description": "Cervelo P3 Triathlon Bike with ENV SES 7.8 aero rims and Shimano DurAce electronic shifting",
+      "frame_colors": [
+        "White",
+        "Black"
+      ],
+      "frame_model": "P3",
+      "id": 1535389,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/708955/large_P3-1.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP3L 13C00099",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.71,
+        -117.77
+      ],
+      "stolen_location": "Irvine, CA 92620, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/708955/small_P3-1.jpg",
+      "title": "2015 Cervélo P3",
+      "url": "https://bikeindex.org/bikes/1535389",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1679695200,
+      "description": "This was a recently built up bike, fitted out with Shimano GRX Di2, Enve AR handlebars, Enve AR 4.5 wheels, Specialized Power with Mirror saddle, Cervelo stem and seatpost, Ceramicspeed BB, Speedplay Pave pedals, Silca Chisela computer mount, Silca seat bag.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Aspero-5",
+      "id": 1473884,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/681068/large_Cervelo-Aspero-profile-gray.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        40.73,
+        -73.95
+      ],
+      "stolen_location": "Brooklyn, NY 11222, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/681068/small_Cervelo-Aspero-profile-gray.jpg",
+      "title": "2021 Cervélo Aspero-5",
+      "url": "https://bikeindex.org/bikes/1473884",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1676487600,
+      "description": "Black Cervelo S5 DuraAce Disc Di2, Mfg 2019, White Cervelo Lettering, SES ENVE Disc Wheels, Barfly Spoon Mount, Garmin RS200 Pedals, 0mm offset seatpost (not stock 25mm)",
+      "frame_colors": [
+        "Black",
+        "White"
+      ],
+      "frame_model": "S5",
+      "id": 1462933,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/674708/large_bike.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNS5E18G00970",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        37.41,
+        -122.08
+      ],
+      "stolen_location": "Mountain View, CA 94043, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/674708/small_bike.jpg",
+      "title": "2019 Cervélo S5",
+      "url": "https://bikeindex.org/bikes/1462933",
+      "year": 2019,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1676048400,
+      "description": "Cervelo P3 Ultegra Time Trial Bike - 2017, 48cm",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "P3",
+      "id": 1328382,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/595127/large_BTT13119_PH_2.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SNP3D17J00064",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.85,
+        -84.29
+      ],
+      "stolen_location": "Atlanta, GA 30345, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/595127/small_BTT13119_PH_2.jpg",
+      "title": "2017 Cervélo P3",
+      "url": "https://bikeindex.org/bikes/1328382",
+      "year": 2017,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1675825200,
+      "description": "Cervelo Caledonia (Black) stolen in First Hill Seattle on Feb 7th, 2023.  it had Dura Ace Shimano 11 speed standard (not Di2) with an Ultragra crank set with Zipp 404 wheels. Bike was built new 9 months ago.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Caledonia",
+      "id": 1461179,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/673750/large_Cervelo_bike_stolen_Feb_7_2023.JPG",
+      "location_found": null,
+      "manufacturer_name": "Cervélo",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "SN1395421A248",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.61,
+        -122.3
+      ],
+      "stolen_location": "Seattle, WA 98122, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/673750/small_Cervelo_bike_stolen_Feb_7_2023.JPG",
+      "title": "2022 Cervélo Caledonia",
+      "url": "https://bikeindex.org/bikes/1461179",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}

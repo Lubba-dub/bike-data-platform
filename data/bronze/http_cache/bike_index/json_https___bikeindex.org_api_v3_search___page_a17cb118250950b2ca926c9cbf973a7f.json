@@ -1,0 +1,754 @@
+{
+  "bikes": [
+    {
+      "date_stolen": 1773126000,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Reacto DA",
+      "id": 3351873,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1009745/large_20260317_v%C3%A9lo_vol%C3%A9_Merida_Reacto_DA_pour_petite_annonce.jpg",
+      "location_found": null,
+      "manufacturer_name": "Merida Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MF6F9ZK8Z3",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        48.86,
+        2.45
+      ],
+      "stolen_location": "Montreuil, 93100, FR",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1009745/small_20260317_v%C3%A9lo_vol%C3%A9_Merida_Reacto_DA_pour_petite_annonce.jpg",
+      "title": "2016 Merida Bikes Reacto DA",
+      "url": "https://bikeindex.org/bikes/3351873",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1771490700,
+      "description": "Well maintained road bike, black with some purple accents and grey forks.  Medium/Large frame (exact size not known)",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Composite 2120",
+      "id": 3342812,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/1004035/large_20200119_140416.jpg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.96,
+        -87.66
+      ],
+      "stolen_location": "Chicago, IL 60613, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/1004035/small_20200119_140416.jpg",
+      "title": "2026 Trek Composite 2120",
+      "url": "https://bikeindex.org/bikes/3342812",
+      "year": 2026,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1767049200,
+      "description": "Black and white Tommaso Superleggera, lightweight road bike, black and white with some stickers on it. Super lightweight frame. It was my partners bike before he died.  Origional handle bars, shifters, and cool black and white bar tape. 27 gears https://www.youtube.com/watch?v=5SIIqH7KcKg it's very similar to this bike ",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "Superleggera",
+      "id": 3254201,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/993488/large_IMG_20220911_202843_751.jpg",
+      "location_found": null,
+      "manufacturer_name": "Tommaso",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        45.58,
+        -122.64
+      ],
+      "stolen_location": "Portland, OR 97211, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/993488/small_IMG_20220911_202843_751.jpg",
+      "title": "2009 Tommaso Superleggera",
+      "url": "https://bikeindex.org/bikes/3254201",
+      "year": 2009,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1766001600,
+      "description": "There’s a Black Lives Matter fist sticker on seat post. Black handlebar tape. Indy Villacorta sticker on the bike below saddle. DT Swiss wheel set. SRAM Red groupset. ",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Timemachine 01 ROAD THREE (Force AXS) 54",
+      "id": 3251116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/991698/large_IMG_2812.png",
+      "location_found": null,
+      "manufacturer_name": "BMC",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        34.2,
+        -118.6
+      ],
+      "stolen_location": "Canoga Park, CA 91303, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/991698/small_IMG_2812.png",
+      "title": "2020 BMC Timemachine 01 ROAD THREE (Force AXS) 54",
+      "url": "https://bikeindex.org/bikes/3251116",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1765317600,
+      "description": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "SL4 FACT 8r carbon",
+      "id": 3248776,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/990191/large_View_recent_photos.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        30.27,
+        -97.74
+      ],
+      "stolen_location": "Austin, TX 78701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/990191/small_View_recent_photos.jpeg",
+      "title": "2016 Specialized SL4 FACT 8r carbon",
+      "url": "https://bikeindex.org/bikes/3248776",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1764118800,
+      "description": "",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "177 AT",
+      "id": 3231104,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/987555/large_IMG_8184.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Cube",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W0W09197MCHW",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.09,
+        -115.36
+      ],
+      "stolen_location": "Canmore, T1W 2G4, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/987555/small_IMG_8184.jpeg",
+      "title": "2025 Cube 177 AT",
+      "url": "https://bikeindex.org/bikes/3231104",
+      "year": 2025,
+      "propulsion_type_slug": "pedal-assist",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762560000,
+      "description": "Yellow Brodie Romulis road bike with blue logos. Blue handlebar wrap. Carbon fibre front forks. Two blue water bottle holders. Unique Shimano rims, spokes in star-like pattern, black. Shimano clip pedals. Black seat bag with teal trim and moose hide pin, contains roadside tools. RBC Whistler Gran Fondo elevation sticker on crossbar.",
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "frame_model": null,
+      "id": 3225023,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983861/large_11bef58a-1d74-40dd-8521-4f3ce6303afe-1_all_4586.jpg",
+      "location_found": null,
+      "manufacturer_name": "Brodie",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        53.54,
+        -113.48
+      ],
+      "stolen_location": "Edmonton, T5H 1Z3, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983861/small_11bef58a-1d74-40dd-8521-4f3ce6303afe-1_all_4586.jpg",
+      "title": "Brodie",
+      "url": "https://bikeindex.org/bikes/3225023",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762149600,
+      "description": "* Classic Bianchi Giro Road bike - minimal wear.\r\n* Celeste color frame w/bright navy handlebar wrap.\r\n* XS frame (143-152cm) - I cannot remember exactly the height, but I'm 5'2\" and it fit perfect. \r\n* Campy gear system. \r\n* Specialized wheels - blacked. \r\n* Carbon fiber XS women's saddle - blacked.\r\n* Slim bicycle black/chain lock swiveled around rear-end of bicycle frame when broken-in/stolen from my garage. \r\n* Year to me is of model is Unknown, late 80's-90's.",
+      "frame_colors": [
+        "Teal"
+      ],
+      "frame_model": "Giro",
+      "id": 3223845,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.83,
+        -86.15
+      ],
+      "stolen_location": "Indianapolis, IN 46205, US",
+      "thumb": null,
+      "title": "2025 Bianchi Giro",
+      "url": "https://bikeindex.org/bikes/3223845",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1762120800,
+      "description": "",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Topstone 2 GRX",
+      "id": 3223410,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/982576/large_IMG_4946.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "FD18265",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.97,
+        -118.42
+      ],
+      "stolen_location": "Playa Vista, CA 90094, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/982576/small_IMG_4946.jpg",
+      "title": "2025 Cannondale Topstone 2 GRX",
+      "url": "https://bikeindex.org/bikes/3223410",
+      "year": 2025,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761447600,
+      "description": "",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "FX Sport 5",
+      "id": 3224116,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/983070/large_IMG_3712.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.69,
+        -122.38
+      ],
+      "stolen_location": "Seattle, WA 98117, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/983070/small_IMG_3712.jpeg",
+      "title": "2021 Trek FX Sport 5",
+      "url": "https://bikeindex.org/bikes/3224116",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761429600,
+      "description": "Grey and Black Scattante road bike with Shimano 105 components. Has very worn plastic on the paddle shifter and brand new Shimano PD M520 SPD pedals.",
+      "frame_colors": [
+        "Black",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "R570 Carbon Fiber Road Bike",
+      "id": 3220215,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/980437/large_1000014084.jpg",
+      "location_found": null,
+      "manufacturer_name": "Scattante",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        39.74,
+        -105.03
+      ],
+      "stolen_location": "Denver, CO 80204, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/980437/small_1000014084.jpg",
+      "title": "2011 Scattante R570 Carbon Fiber Road Bike",
+      "url": "https://bikeindex.org/bikes/3220215",
+      "year": 2011,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1761253200,
+      "description": "Extremely large frame as I am 6'4\" and it is big for me.  I have Key and charger so Battery will no last long.  Bike has black fenders, back carry rack, disc brakes, and stickers for Apple  on back fender and happy 'everyone needs a banner stickers on front of frame. One of 2 bike stolen from Mayfair is SW  Calgary. Recovered one road bike to date.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": "EX large Black Fat tire bike from Costco. Very large bike",
+      "id": 3219217,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/979751/large_IMG_4628.jpeg",
+      "location_found": null,
+      "manufacturer_name": "iGo Electric Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.0,
+        -114.09
+      ],
+      "stolen_location": "Calgary, T2V 2G1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/979751/small_IMG_4628.jpeg",
+      "title": "2020 iGo Electric Bikes EX large Black Fat tire bike from Cos...",
+      "url": "https://bikeindex.org/bikes/3219217",
+      "year": 2020,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760403600,
+      "description": "Beautiful red road bike with black, white and silver decals",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "OCR C1",
+      "id": 3214026,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/976582/large_1000002820.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        38.84,
+        -104.82
+      ],
+      "stolen_location": "Colorado Springs, CO 80903, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/976582/small_1000002820.jpg",
+      "title": "2007 Giant OCR C1",
+      "url": "https://bikeindex.org/bikes/3214026",
+      "year": 2007,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1760112000,
+      "description": "Brand: Tamobyke Theme: Electric Bike Age Range (Description): Adult Recommended Use: Off-road Bicycle Type: Mountain Bike Style: V20 4.0-1500w-15.6ah-Disc Brakes Color: Black Size/Weight: Length 66'', Handlebar Height: 45'', Seat Height: 33.8''./98 lbs (with battery); 84.5 lbs (without battery) Seat Material Type: Leather Gear Shift: 5 Speed Level (Default PAS) Pedal Assist: 7 Speed (Work with PAS) Speed: Up to 30mph/45kmh Range: Up to 25-37 Miles per Charge (Pure Electric), 35-70 Miles per Charge (PAS Mode) Motor: 1500W Battery：48V 15.6AH Removable Battery Tires: 20\"x4\" All-Terrain Fat Tire Frame Material: Carbon Steel Suspension Type: Dual Special Feature: Digital Display, Taillight, Dual Suspension, Dual disc brake Included Components: Kickstand, Riding Bag, Battery Key, Pump Brake: Double Disc Brake there are blue lights that can connect to the battery. Also, the kickstand is missing, and the mirrors are taken off as seen in the picture (there is one)also there is a saddle bag on the frame.",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 3212797,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/975747/large_IMG_5279.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Tamobyke",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        41.85,
+        -87.67
+      ],
+      "stolen_location": "Chicago, IL 60608, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/975747/small_IMG_5279.jpeg",
+      "title": "Tamobyke",
+      "url": "https://bikeindex.org/bikes/3212797",
+      "year": null,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756803600,
+      "description": "Carbon road bike with a very dark blue paint. It can almost look purple. It’s effectively stock but with a 90mm handlebar stem instead of the stock 100mm.\r\n\r\nAlso had ride wrap on it.",
+      "frame_colors": [
+        "Blue",
+        "Black"
+      ],
+      "frame_model": "Tarmac SL8 Pro",
+      "id": 3180463,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/960964/large_Screenshot_2025-09-02_at_11.41.34_AM.png",
+      "location_found": null,
+      "manufacturer_name": "Specialized",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WSBC004038073U",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        36.0,
+        -78.89
+      ],
+      "stolen_location": "Durham, NC 27701, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/960964/small_Screenshot_2025-09-02_at_11.41.34_AM.png",
+      "title": "2024 Specialized Tarmac SL8 Pro",
+      "url": "https://bikeindex.org/bikes/3180463",
+      "year": 2024,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756188000,
+      "description": "Black and sparkles in the sun. 51cm. Tape on handlebars is a little worn unless whoever stole it retapes it. \r\nFrame: 100 Series Alpha Aluminum, fender & rack compatible, 51 cm\r\n\t•\tFork: Trek carbon road\r\n\t•\tWheels: Bontrager alloy hubs, Bontrager Tubeless Ready rims\r\n\t•\tTires: Bontrager T1, 700x25c\r\n\t•\tShifters: Shimano Sora, 9-speed\r\n\t•\tDerailleurs: Shimano Sora, front and rear\r\n\t•\tCrank: FSA Vero 50/34 (compact)\r\n\t•\tCassette: Shimano HG400, 11-28, 9-speed\r\n\t•\tPedals: Wellgo nylon body w/alloy cage, toe-clip/strap\r\n\t•\tSaddle: Bontrager Ajna 1 WSD\r\n\t•\tSeatpost: Bontrager SSR, 2-bolt head, 27.2mm, 12mm offset\r\n\t•\tHandlebar: Bontrager Race, VR-S shallow drop, WSD sized, 31.8mm\r\n\t•\tStem: Bontrager Elite, 31.8mm, 7°, w/Blendr mounts\r\n\t•\tHeadset: 1-1/8” semi-cartridge bearings\r\n\t•\tBrakes: Alloy dual-pivot\r\n\r\n",
+      "frame_colors": [
+        "Black",
+        "Black"
+      ],
+      "frame_model": "Alpha 1.1",
+      "id": 7106,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/958045/large_IMG_2288.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "141016337327G",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.75,
+        -117.17
+      ],
+      "stolen_location": "San Diego, CA 92103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/958045/small_IMG_2288.jpeg",
+      "title": "2016 Trek Alpha 1.1",
+      "url": "https://bikeindex.org/bikes/7106",
+      "year": 2016,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1755705600,
+      "description": "Askmy E600 off road electric MTB upgraded battery and motor with off road tires.",
+      "frame_colors": [
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": null,
+      "id": 3063223,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/955076/large_1000002990.png",
+      "location_found": null,
+      "manufacturer_name": "Askmy",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "AME6001483",
+      "status": "stolen",
+      "for_sale": false,
+      "stolen": true,
+      "stolen_coordinates": [
+        29.97,
+        -90.06
+      ],
+      "stolen_location": "New Orleans, LA 70116, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/955076/small_1000002990.png",
+      "title": "2024 Askmy",
+      "url": "https://bikeindex.org/bikes/3063223",
+      "year": 2024,
+      "propulsion_type_slug": "pedal-assist-and-throttle",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1756274400,
+      "description": "Road bike, racing handles, mirrors on ends of handles",
+      "frame_colors": [
+        "Black"
+      ],
+      "frame_model": null,
+      "id": 2928419,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/950139/large_IMG_9562.JPG",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        51.04,
+        -114.07
+      ],
+      "stolen_location": "Calgary, T2S 0E1, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/950139/small_IMG_9562.JPG",
+      "title": "Giant",
+      "url": "https://bikeindex.org/bikes/2928419",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754509016,
+      "description": "The Trek Domane SL 5 is a high—performance road bike with a carbon frame and IsoSpeed shock absorption system. The bike is equipped with a Shimano 105 transmission, disc brakes and reliable Bontrager Aeolus Pro 3 wheels. The frame color is deep blue (Gloss Aegean Blue), which makes it recognizable on the road.",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Domane SL 5",
+      "id": 2878032,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Trek Bicycle Corporation",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "W0123456789",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": null,
+      "title": "2022 Trek Bicycle Corporation Domane SL 5",
+      "url": "https://bikeindex.org/bikes/2878032",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754485200,
+      "description": "Deep metallic purple with black handle bars, road bike, trek logo reddish orange and large on the down tube, red saddle bag under seat with tools, front black bag attached to handle bars for snacks",
+      "frame_colors": [
+        "Purple"
+      ],
+      "frame_model": "Domane Sl 6 52 PR-BK",
+      "id": 2878260,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/948141/large_IMG_8406.jpeg",
+      "location_found": null,
+      "manufacturer_name": "Trek",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WTU015QU0055R",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        50.96,
+        -114.04
+      ],
+      "stolen_location": "Calgary, T2J 1Y7, CA",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/948141/small_IMG_8406.jpeg",
+      "title": "2021 Trek Domane Sl 6 52 PR-BK",
+      "url": "https://bikeindex.org/bikes/2878260",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1754337600,
+      "description": "It's a road bike for long-distance ride, and I only use it for commuting most of the times being attended, or locked when I am gone.\r\nThe bike has two water bottle holders and a front and rear light, as well as clipped in padals.",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Izalco",
+      "id": 2866584,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/947089/large_IMG_0644.JPG",
+      "location_found": null,
+      "manufacturer_name": "Focus",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.66,
+        -122.34
+      ],
+      "stolen_location": "Seattle, WA 98103, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/947089/small_IMG_0644.JPG",
+      "title": "2015 Focus Izalco",
+      "url": "https://bikeindex.org/bikes/2866584",
+      "year": 2015,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753981619,
+      "description": "Cannondale Synapse Carbon Disc Ultegra Di2 Road Bike - 2021, 56cm",
+      "frame_colors": [
+        "Green"
+      ],
+      "frame_model": "Synapse Carbon Disc Ultegra Di2",
+      "id": 1227595,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/533012/large_BRD26743_PH1_02.jpg",
+      "location_found": null,
+      "manufacturer_name": "Cannondale",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "TB98144",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": null,
+      "stolen_location": "US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/533012/small_BRD26743_PH1_02.jpg",
+      "title": "2021 Cannondale Synapse Carbon Disc Ultegra Di2",
+      "url": "https://bikeindex.org/bikes/1227595",
+      "year": 2021,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1753398000,
+      "description": "All red road bike",
+      "frame_colors": [
+        "Red"
+      ],
+      "frame_model": "Endurace cf 7 Disc",
+      "id": 2849737,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/943183/large_1000027204.jpg",
+      "location_found": null,
+      "manufacturer_name": "Canyon bicycles",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "R07601AC23D5299",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        47.86,
+        -122.27
+      ],
+      "stolen_location": "Lynnwood, WA 98087, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/943183/small_1000027204.jpg",
+      "title": "2022 Canyon bicycles Endurace cf 7 Disc",
+      "url": "https://bikeindex.org/bikes/2849737",
+      "year": 2022,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752868800,
+      "description": "Mostly stock frame and parts, added a seat dropper, saddle bag, speed and pedal monitor",
+      "frame_colors": [
+        "Blue"
+      ],
+      "frame_model": "Anthem Pro 29 0",
+      "id": 2863077,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/944814/large_DML_Giant_Anthem_Pro_29_0.jpg",
+      "location_found": null,
+      "manufacturer_name": "Giant",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "WGI GE18G458 N",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        32.12,
+        -111.11
+      ],
+      "stolen_location": "Tucson, AZ 85757, US",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/944814/small_DML_Giant_Anthem_Pro_29_0.jpg",
+      "title": "2020 Giant Anthem Pro 29 0",
+      "url": "https://bikeindex.org/bikes/2863077",
+      "year": 2020,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    },
+    {
+      "date_stolen": 1752658985,
+      "description": "Binachi road bike Via Nirone 7 with carbon fork front and rear. Tires have red accents. White bottle cage",
+      "frame_colors": [
+        "White",
+        "Blue",
+        "Silver, gray or bare metal"
+      ],
+      "frame_model": "Via Nirone 7 105",
+      "id": 2844171,
+      "is_stock_img": false,
+      "large_img": "https://files.bikeindex.org/uploads/Pu/939993/large_IMG_1049.JPEG",
+      "location_found": null,
+      "manufacturer_name": "Bianchi",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "Unknown",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        57.78,
+        14.16
+      ],
+      "stolen_location": "Jönköping, 550 01, SE",
+      "thumb": "https://files.bikeindex.org/uploads/Pu/939993/small_IMG_1049.JPEG",
+      "title": "Bianchi Via Nirone 7 105",
+      "url": "https://bikeindex.org/bikes/2844171",
+      "year": null,
+      "propulsion_type_slug": "foot-pedal",
+      "cycle_type_slug": "bike"
+    }
+  ]
+}
